@@ -18,6 +18,12 @@ window.ANOCHE_REFS = {
   "sec": "La radio negra y el rhythm and blues",
   "para": "Así fue como el DJ hizo gala por primera vez de su inestimable talento para crear géneros musicales nuevos. Al ayudar a las diversas ramificaciones de la música racial para que llegaran a un público mucho mayor, el DJ tuvo un efecto profundo en el desarrollo de la música. Al lograr que su música se escuchase por todo lo alto y todo lo ancho, forjó el orgullo y las ambiciones de los músicos folk locales que preservaban estas tradiciones ajenas al dictado del mercado. Al permitir a los músicos escuchar música de otros lugares, entraron en contacto distintas variantes estilísticas que procedían del mismo sustrato cultural, lo cual permitió que se fusionaran y evolucionaran en pos de un nuevo lenguaje. Y al escoger y promover la música que pensaba que era la que su audiencia quería escuchar, el DJ otorgó dirección e ímpetu a la música. Mientras le etiqueta de race music [música de raza] daba paso a rhythm and blues [ritmo y blues], el DJ se aseguró de que la música también cambiara."
  },
+ "Así, Later for Gator de Willis Jackson se convirtió en Coxsone Hop, el buque insignia de su sistema de sonido.": {
+  "ch": 5,
+  "page": 175,
+  "sec": "Los primeros sonidos",
+  "para": "La competencia era feroz y se empleaba casi cualquier táctica —justa o marrullera— para «tumbar» al rival y seducir al público a favor de uno en la pista de baile. El fortalecimiento de la potencia del sistema de sonido propio era un método; tener las mejores canciones era igualmente válido, y viajar a Estados Unidos para comprar discos se convirtió en una práctica esencial. King Edwards recuerda que «comenzó a montarse en los aviones como si viajara en autobús» en busca de «especiales»: canciones exclusivas para seducir al público. Además, Coxsone Dodd comenzó a tachar los títulos de los discos y a renombrarlos para desviar la atención de la competencia. Así, Later for Gator de Willis Jackson se convirtió en Coxsone Hop, el buque insignia de su sistema de sonido. Es el primer caso documentado de esta práctica de los DJ, consagrada por el tiempo, y cuyo origen engarza directamente desde Jamaica hasta la escena del northern soul en el Reino Unido y el mundo del hip-hop en Nueva York."
+ },
  "Barclay reclama haber abierto la primera discoteca del mundo, Eddie’s, después de la liberación en 1944.": {
   "ch": 3,
   "page": 79,
@@ -60,6 +66,12 @@ window.ANOCHE_REFS = {
   "sec": "París durante la guerra",
   "para": "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa [del francés discothèque]. Formada sobre la palabra francesa para biblioteca [bibliothèque], significa literalmente «un depósito de discos». Supuestamente, sus orígenes se remontan al puerto mediterráneo de Marsella, donde los marineros solían dejar sus discos en los almacenes de los cafés durante el tiempo que estaban en altamar. Cuando se les concedían permisos para ir a tierra, solían regresar a su bar favorito a escuchar los discos en el fonógrafo ubicado en una esquina del establecimiento. El director de cine Roger Vadim reclama haber acuñado el término, pero no hay una etimología definitiva (la división que prestaba discos de la Biblioteca Nacional de Francia se llamaba La Phonothèque [La fonoteca]). Un punto interesante es que no se trataba necesariamente de un lugar: mon discothèque puede significar «mi colección de discos». La connotación apuntaba más a un lugar íntimo y privado que a una sala de baile para orquestas, a las que en Francia se las llamaba le dancing."
  },
+ "Con el nombre U-Roy, Ewart Beckford condujo el rol del diyey a nuevos horizontes.": {
+  "ch": 5,
+  "page": 179,
+  "sec": "El DJ agarra el micrófono",
+  "para": "Con el nombre U-Roy, Ewart Beckford condujo el rol del diyey a nuevos horizontes. U-Roy era un artista tan magnético que podía mantener la atención del público aun sin acompañamiento musical, hecho probado una vez que la lluvia lo forzó a apagar los amplificadores durante un baile en el que trabajaba, así que mantuvo a los bailarines entretenidos valiéndose solo de su voz. Grabó una serie de temas, producidos por Duke Reid, que demostraron cuán popular puede ser un diyey. Con las pistas instrumentales de grabaciones de rocksteady y sus letras rimadas grabadas por encima, Wake The Town, Rule The Nation y Wear You To The Ball fueron tan exitosas que en la misma semana de 1970 coronaron el podio de las mejores tres canciones de la lista de éxitos de pop de la isla."
+ },
  "Con el tiempo, la cosa se fue tornando insípida hasta que se quedó en un solo sonido.": {
   "ch": 4,
   "page": 129,
@@ -77,6 +89,18 @@ window.ANOCHE_REFS = {
   "page": 75,
   "sec": "El sock hop",
   "para": "Cuando Bob pinchaba discos en sus bailes, añadía una innovación importante: el doble plato giratorio, fabricado de forma personalizada en 1955 por su padre, que era ingeniero de sonido. «Tenía dos reguladores de volumen y un interruptor, porque quería lograr mucho más que tocar música. Quería ser capaz de pasar de un disco directamente al otro, bajar el volumen y hablar por encima del disco para subir el volumen otra vez»."
+ },
+ "Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey.": {
+  "ch": 5,
+  "page": 165,
+  "sec": "WRECK UP A VERSION (SÁCATE UNA VERSIÓN DE LA NADA)",
+  "para": "Antes de ser diezmada por Europa, los arahuacos llamaban a esta fértil isla Xaymaca, que significa «Tierra de Manantiales». Cuando era la capital pirata de los siete mares, su ciudad principal, Port Royal, era el lugar más malvado del planeta. Cuando era una plantación azucarera colonial sustentada por los músculos africanos cautivos, los dueños de esclavos podían recibir una multa si un ser humano de su propiedad era sorprendido tocando un tambor. Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey."
+ },
+ "Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom.": {
+  "ch": 5,
+  "page": 174,
+  "sec": "Los primeros sonidos",
+  "para": "Los inmigrantes en Gran Bretaña se mantenían en contacto con su tierra natal, y pronto aparecieron los primeros sistemas de sonido jamaicano por las islas. Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom."
  },
  "El DJ es un editor musical, un metamúsico, crea música de otra música.": {
   "ch": 1,
@@ -132,11 +156,29 @@ window.ANOCHE_REFS = {
   "sec": "Londres",
   "para": "La creciente comunidad inmigrante de Londres comenzaba a tener su impacto también en la noche londinense. Los antillanos, que ignoraban que tuvieran que estar en cama a las diez con una taza de leche Horlicks, escuchando el programa de radio «Light Programme», celebraban toda la noche en lugares como el Roaring Twenties. El disc jockey aquí era un sujeto jamaicano de nombre Count Suckle, quien introdujo en la metrópoli el llamado bluebeat (cuyo nombre proviene del sello de ska de Ziggy Jackson, Blue Beat). Suckle ya tenía una reputación considerable entre la comunidad afrodescendiente gracias a sus fiestas con sistema de sonido (que solía celebrar en días de fiesta nacional) en el Porchester Hall, el Kilburn Gaumont State y otros lugares en el oeste y noroeste de Londres. También trajo consigo otra innovación jamaicana, el «encubrimiento», que consiste en rasgar el sello del disco para disimular la identidad de la grabación. Mick Eve, un músico activo en la escena londinense de fiestas nocturnas, recuerda una vez que Suckle despegó con vapor el sello de una copia prístina del disco My Baby Just Cares for Me, de Nina Simone."
  },
+ "El diyey vocalista dio sus primeros pasos en 1956.": {
+  "ch": 5,
+  "page": 177,
+  "sec": "El DJ agarra el micrófono",
+  "para": "El diyey vocalista dio sus primeros pasos en 1956. Winston Count Machuki, quien pinchaba discos desde 1950, primero para Tom the Great Sebastian y luego para el Downbeat de Coxsone, decidió dedicarse a algo más que a presentar canciones."
+ },
+ "El dub trajo consigo un nuevo universo de sonidos. Es la primera cristalización completa del remix de baile.": {
+  "ch": 5,
+  "page": 185,
+  "sec": "El dub",
+  "para": "El dub trajo consigo un nuevo universo de sonidos. Es la primera cristalización completa del remix de baile. El dub abrió tantas posibilidades que se considera un género aparte. Las técnicas que brinda son tan poderosas y aplicables a otras músicas que ahora se usan a lo largo y ancho de todo el espectro de la música popular. Y como una música creada expresamente para el uso del sistema de sonido, el doblaje debe su existencia mayormente al DJ."
+ },
  "El gentilicio northern [norteño] en northern soul no hace referencia a Detroit sino a Wigan; no a Chicago sino a Manchester, a Blackpool y a Cleethorpes.": {
   "ch": 4,
   "page": 122,
   "sec": "Un género forjado a base de fracasos",
   "para": "Su nombre debe su origen al lugar donde se disfrutó, no donde se produjo (aunque esto también tendría sentido). El gentilicio northern [norteño] en northern soul no hace referencia a Detroit sino a Wigan; no a Chicago sino a Manchester, a Blackpool y a Cleethorpes."
+ },
+ "El hip-hop tiene con el reggae una deuda enorme.": {
+  "ch": 5,
+  "page": 189,
+  "sec": "Ecos y reverberaciones",
+  "para": "El hip-hop tiene con el reggae una deuda enorme. Kool Herc, fundador del hip-hop, era jamaicano, y lo que llevó a cabo en el Bronx tenía como fin desarrollar una versión neoyorquina de los equipos de sonido kingstonianos de la infancia, incluidos los diyeis que hablaban por encima de las canciones. Los primeros remezcladores del disco aprendieron estas técnicas —que en un principio tenían más que ver con la prolongación y la reestructuración que con la deconstrucción del sonido— sin ser conscientes de lo que ocurría en Jamaica. Sin embargo, las aportaciones del dub pronto se extendieron por todo Nueva York. François Kevorkian reconoce esa gran influencia, y en los métodos de productores de la era posdisco como Arthur Russel y Larry Levan, es evidente la deuda con el dub. Los remezcladores de hoy se rigen todavía por los principios que acuñaron aquellos visionarios de Jamaica, y casi cada pista de baile tiene algún tipo de mezcla de dub para nutrir esas pistas. Las formas del doblaje hoy están presentes en las bandas más populares de la actualidad; las más famosas son Massive Attack, Underworld y Leftfield."
  },
  "El indiscutible campeón de campeones de la Primera División de discos raros del northern soul era Do I Love You? de Frank Wilson.": {
   "ch": 4,
@@ -168,11 +210,35 @@ window.ANOCHE_REFS = {
   "sec": "Música de playa",
   "para": "El northern soul tenía su eco en Estados Unidos con la llamada música de playa, subcultura emergente que brotó en torno a una serie de pueblos que crecieron alrededor de complejos turísticos en Carolina del Norte y Carolina del Sur. Sus primeros adeptos eran mayormente blancos de clase trabajadora cuyos viajes clandestinos a complejos como Myrtle y Virginia Beaches les daban una oportunidad para bailar al ritmo de los discos de música afroamericana, prohibidos en una sociedad profundamente racista. (La película Shag de 1990 inmortalizó la música de playa)."
  },
+ "El primer impacto del reggae fuera del Caribe sin duda se registró en el Reino Unido, que se convirtió en la segunda residencia de la música jamaicana.": {
+  "ch": 5,
+  "page": 189,
+  "sec": "Ecos y reverberaciones",
+  "para": "El primer impacto del reggae fuera del Caribe sin duda se registró en el Reino Unido, que se convirtió en la segunda residencia de la música jamaicana. Como veremos en los capítulos siguientes, la influencia de Jamaica fue lo que distinguió a la música británica, y fueron los sistemas de sonido tradicionales los que llevaron a que los británicos desarrollaran estilos de música bailable que hoy pueden reclamar como suyos. Sin ese sustrato de reggae y dub atravesando la banda sonora británica, sería inconcebible que existieran formas de baile como el jungle, el drum and bass y el garage británico en suelo insular."
+ },
  "El primer lugar de Nueva York que contaba de forma indiscutible con todos los elementos de un club nocturno moderno fue Le Club.": {
   "ch": 3,
   "page": 86,
   "sec": "Nueva York",
   "para": "Pero los eventos de Freed eran más un programa de radio que un club nocturno, y los locales de bebop ofrecían música en vivo. El primer lugar de Nueva York que contaba de forma indiscutible con todos los elementos de un club nocturno moderno fue Le Club. Como se puede sospechar, considerando los orígenes parisinos de la discoteca, su dueño era francés."
+ },
+ "El primer «choque de sonidos» (sound clash), como se les denominaría luego, fue entre Count Nick the Champ y Tom the Great Sebastian en 1952.": {
+  "ch": 5,
+  "page": 175,
+  "sec": "Los primeros sonidos",
+  "para": "Las rivalidades de sonido pronto derivaron en competiciones, con careo incluido, en las que los sonidos se montaban uno justo al lado del otro adrede, y a veces hasta tocaban en el mismo baile. El primer «choque de sonidos» (sound clash), como se les denominaría luego, fue entre Count Nick the Champ y Tom the Great Sebastian en 1952. Estos eventos enconaron aún más la batalla por la supremacía gremial, y otras formas de música luego adoptarían rituales similares, como en el caso más notorio del hip-hop."
+ },
+ "El público se volvió loco cantando el compás, y tocó la canción tantas veces esa noche que a la mañana siguiente se había desgastado el acetato.": {
+  "ch": 5,
+  "page": 184,
+  "sec": "Versión",
+  "para": "Las versiones se convirtieron en un fenómeno en 1967 cuando Ruddy Redwood, el rico operador de un sonido llamado Supreme Ruler of Sound, se llevó una copia de acetato de un tema exitoso, On The Beach de los Paragons, al que se le había quitado la voz: en el estudio Treasure Isle de Duke Reid, el técnico de sonido Byron Smith había grabado accidentalmente el acetato con el volumen de voz apagado. Después de poner al público a bailar con la voz original de la canción, Redwood tocó la versión sin voz. El público se volvió loco cantando el compás, y tocó la canción tantas veces esa noche que a la mañana siguiente se había desgastado el acetato."
+ },
+ "El reggae fue el primer estilo que prefirió la música grabada a las presentaciones en directo.": {
+  "ch": 5,
+  "page": 166,
+  "sec": "WRECK UP A VERSION (SÁCATE UNA VERSIÓN DE LA NADA)",
+  "para": "Esta roca volcánica tropical de apenas 320 kilómetros de largo fue donde muchas de las innovaciones claves para la música dance cobraron vida por vez primera. Para muchos, el reggae era apenas una música de sabor local, vivaz, típica de fiestas en la playa. Lo cierto es que es uno de los géneros más progresistas de la historia. El reggae fue el primer estilo que prefirió la música grabada a las presentaciones en directo. Fue impulsada mucho más por los productores y los DJ que por los propios músicos: la mayoría de sus artistas eran músicos de sesión que el productor contrataba y despedía a su antojo. Y las cosas que nos trajo —la mezcla doblada, el toasting, la versión, el sistema de sonido y el choque de sonidos— han demostrado ser trascendentales. Más allá de los avances tecnológicos del momento, el reggae ostenta la paternidad de las formas dominantes de hoy. Jeff Chang lo dejó claro en su historia Can’t Stop, Won’t Stop: «El blues tiene a Mississippi, el jazz tiene a Nueva Orleans y el hip-hop tiene a Jamaica»."
  },
  "El rock’n’roll lo creó un DJ.": {
   "ch": 2,
@@ -191,6 +257,12 @@ window.ANOCHE_REFS = {
   "page": 93,
   "sec": "El Peppermint Lounge",
   "para": "La popularidad del twist desató una serie de bailes con la misma forma libre: el frug, el mashed potato, el poni, el hully gully, el monkey. Al cabo de pocos años, las pistas de baile habían otorgado popularidad a los eslóganes «freak-out» [pierde el control] y «flower power» [poder de las flores] de la era hippie, así como a las volteretas acrobáticas y las piruetas del northern soul. El twist había lanzado una bomba nuclear sobre el sector conservador del mundo del baile y erradicado los muy rígidos rituales de la pista de baile. Con esta hazaña se sentó la base para un nuevo tipo de club nocturno. Era hora de que la discoteca llegara a la edad adulta."
+ },
+ "En 1968, Tubby ya había sido proclamado «el sonido número uno» de la isla.": {
+  "ch": 5,
+  "page": 187,
+  "sec": "El dub",
+  "para": "Tubby, que era muy flaco, comenzó a manejar un sistema de sonido, Tobby’s Home Town Hi-Fi, en 1964, parte de una nueva hornada que comenzó a superar a sonidos más viejos gracias a sus innovaciones. Logró elaborar un equipo muy especial, con eco integrado, la primera unidad de reverberación de cualquier equipo de sonido de la isla, con una potencia excepcional. Tampoco le venía mal que su diyey principal fuera el ya casi legendario U-Roy. En 1968, Tubby ya había sido proclamado «el sonido número uno» de la isla."
  },
  "En 1976 entró un tercero en liza cuando un pueblo costero de Lincolnshire llamado Cleethorpes organizó un revival del soul de la época dorada.": {
   "ch": 4,
@@ -246,6 +318,12 @@ window.ANOCHE_REFS = {
   "sec": "Hablar el jive",
   "para": "La idea del «negro blanco», sin embargo, aún rezumaba racismo. George recuerda la increíble historia de Vernon Winslow, un exprofesor universitario de diseño con un conocimiento exhaustivo del jazz, a quien le denegaron un trabajo como locutor en la WJMR de Nueva Orleans solo porque era negro. Después de lo que parecía ser una entrevista exitosa, a Winslow, cuyo tono de piel era bastante claro, se le preguntó: «¿De paso, eres un puto negro?». Después de que le negaran una posición en antena solo por su raza, contrataron a Winslow para un trabajo extraordinario. Entrenaría a un DJ blanco para que sonara como un negro. Winslow tenía que enseñar a un colega blanco —ahora bautizado como Poppa Stoppa— la jerga local más reciente, y le enseñó frases como: «Mira el diente de oro, tesoro» y «Aquí te pillo, aquí te mato». El show fue en un éxito rotundo. Una noche, frustrado por su posición entre bambalinas, Winslow se las arregló para tomar el micrófono a escondidas en una ocasión. Lo despidieron inmediatamente. La WJMR se quedó con el nombre Poppa Stoppa y continuó usando a un hombre blanco, Clarence Hamman, como la voz de Poppa. (Sin embargo, Winslow se pudo vengar al convertirse en Doctor Daddy-O para la WEZZ de Nueva Orleans, donde se convirtió en uno de los mejores diez DJ de la nación)."
  },
+ "Era muy común sabotear los bailes rivales comenzando peleas o lanzando piedras al público.": {
+  "ch": 5,
+  "page": 176,
+  "sec": "Los primeros sonidos",
+  "para": "Otros usaban la simple intimidación para tomar ventaja. La pandilla de Duke Reid era famosa por usar métodos drásticos; una historia cuenta cómo reventaron a tiros el sistema de sonido de un rival solo porque tenía una mejor selección musical. Era muy común sabotear los bailes rivales comenzando peleas o lanzando piedras al público."
+ },
  "Era un claro ejemplo del poder que podía amasar un DJ, y también de los límites a los que el sistema llegaría para subyugar a esos individuos.": {
   "ch": 2,
   "page": 61,
@@ -263,6 +341,12 @@ window.ANOCHE_REFS = {
   "page": 101,
   "sec": "Los mods y el Swingin’ London",
   "para": "La cultura de fiestas para bailar toda la noche en Londres pronto despegó en todas partes, y resultaron sumamente populares en las Midlands y el norte de Inglaterra. Mientras que los clubs de baile del sur sucumbían a los aires floridos de los hippies, la clase trabajadora del norte prosiguió su luna de miel con la música afroamericana. Esta cultura alternativa se convertiría en pocos años en el northern soul."
+ },
+ "Esta persona que pinchaba los discos ya no se sentaba de forma pasiva mientras una canción sonaba hasta acabarse": {
+  "ch": 5,
+  "page": 167,
+  "sec": "Jamaica sin igual",
+  "para": "La otra gran innovación jamaicana consistió en usar la música grabada como una herramienta más en la paleta instrumental, como parte o un motivo, si se quiere, de una actuación en lugar de emplear todo el tema; es decir, usando un fragmento de la grabación —no la pieza entera— como si fuera un instrumento adicional de la banda. Cuando retumbaba una grabación en un sistema de sonido, el DJ podía cantar o hablar por encima, manipulada con el selector del plato podía hacerla girar hacia atrás (de forma audible) y pinchar la misma parte dos veces (un rewind). Podía pasar el sonido por una cámara de eco para distorsionarlo como un trueno retumbante, jugar con los cambios de volumen para añadir dinámica y dramatismo o tocar con solo los máximos o solo los mínimos durante unos cuantos compases para que la gente que bailaba enloqueciera. Esta persona que pinchaba los discos ya no se sentaba de forma pasiva mientras una canción sonaba hasta acabarse, sino que la distorsionaba de forma creativa, en respuesta a la reacción del público y haciendo todo lo posible para que la música cobrara más vida y matices insospechables improvisados ad hoc. Uno escucha la canción tocada de esa manera y ya no escucha al artista o la canción, escucha también la interpretación del DJ mientras le da vida a una pieza de música grabada. Era un enfoque nuevo y excitante y, una vez más, una práctica que no se explotó fuera de Jamaica hasta la llegada del disco y el hip-hop."
  },
  "Esta suerte de ocultación vendría a ser el precursor de las exclusivas de sello blanco de los DJ modernos": {
   "ch": 4,
@@ -348,6 +432,12 @@ window.ANOCHE_REFS = {
   "sec": "Los 40 principales y la radio libre",
   "para": "La radio comercial en Estados Unidos siempre daba más prioridad a la publicidad que al entretenimiento. Los índices de audiencia lo eran todo, y todo lo que aumentara las estadísticas de audiencia era bienvenido con entusiasmo. Como resultado, desde los sesenta, estas nociones «científicas» de los 40 principales se habían exagerado hasta el extremo. Las listas discográficas se redujeron a apenas veinticinco éxitos, y los más populares de estos «rotaban rápidamente» y se reproducían con tanta frecuencia como uno cada hora. Las estaciones de radio estaban «formateadas», por lo cual se limitaban a un género muy específico (por ejemplo, monográficos sobre álbumes de rock, 40 principales, música contemporánea para adultos, pop urbano), y solo después de una investigación exhaustiva se añadían discos nuevos a las listas de reproducción. La función de seleccionar grabaciones ahora quedaba usurpada por un nuevo funcionario: el director de programación, quien solía ser poco más que un investigador del mercado al servicio del departamento de ventas publicitarias."
  },
+ "La historia del dub gira en torno a King Tubby.": {
+  "ch": 5,
+  "page": 186,
+  "sec": "El dub",
+  "para": "La historia del dub gira en torno a King Tubby. Su nombre de pila era Osbourne Ruddock y nació en 1941. Tubby tenía un instinto casi sobrenatural para la electrónica, cultivado por años de experiencia construyendo equipos de sonido y reparando radios y televisores. Se dice que años más tarde, cuando no estaba satisfecho con el sonido de algo, se refugiaba en su mesa de trabajo armado de su soldador y reconstruía un circuito o dos al momento hasta que lo ajustaba a su gusto. Perfeccionista tímido y obseso, Tubby exigía niveles exagerados de pulcritud en su estudio (que tuvo mucho tiempo en su dormitorio). Solía ir al banco a cambiar billetes arrugados por dinero nuevo. Sin embargo, era muy generoso; compartía su conocimiento con los productores que llegaron después de él. De hecho, también se dice que incluso cuando ya era un productor superestrella todavía aceptaba tostadoras y secadores para repararlos."
+ },
  "La idea de que los londinenses gais pudieran preferir sus propias discotecas no iba a desaparecer.": {
   "ch": 3,
   "page": 103,
@@ -359,6 +449,12 @@ window.ANOCHE_REFS = {
   "page": 46,
   "sec": "El salón de baile imaginario",
   "para": "La influencia de Block como disc jockey engendró una nueva figura en la industria musical: el promotor de discos. En The Death of Rhythm And Blues, Nelson George cuenta la historia de Dave Clark, un joven «hombre de avanzadilla», cuyo trabajo era advertir a una ciudad en particular de la llegada de varias orquestas que estaban de gira. En 1938, Clark se hizo pasar por un chófer para lograr acceder a las oficinas de WNEW (como era negro, le hubieran denegado el acceso si decía la verdad) y entregó un disco: la orquesta de Jimmy Lunceford tocando «St. Paul’s Walking Through Heaven With You». [San Pablo camina por el cielo contigo]. Clark dijo furtivamente a Block que el disco provenía directamente del dueño de la estación, quien esperaba escucharlo por la radio. Se cercioró de que Block lo pusiera en el tocadiscos acto seguido."
+ },
+ "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual.": {
+  "ch": 5,
+  "page": 167,
+  "sec": "Jamaica sin igual",
+  "para": "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual. Más aún, fue el primer lugar en donde una grabación ya no se veía como un producto acabado. Por el contrario, en el estudio se convirtió en la progenitora de una serie de versiones similares pero distintas de material para un sinfín de remezclas o, como decían ellos, dubs. De esta manera nació el concepto de la remezcla, varios años antes de que la misma idea se les ocurriera a los DJ de disco y de hip-hop."
  },
  "La nueva obsesión con las rarezas abonó un terreno fértil para las copias falsas y piratas.": {
   "ch": 4,
@@ -450,17 +546,41 @@ window.ANOCHE_REFS = {
   "sec": "El DJ versus el músico",
   "para": "Los músicos se referían a la transmisión de música grabada como «el pecado mortal de DeForest». Las emisoras no pagaban honorarios a los artistas cuyos discos reproducían a su antojo, y cada vez que sonaba uno en la radio, era música que de otra manera hubiera sido interpretada por músicos a cambio de una contraprestación económica. En 1927, su panorama laboral empeoró cuando The Jazz Singer trajo consigo el cine hablado. Miles de músicos que habían actuado como acompañamiento de películas mudas ahora se quedaron sin trabajo. En los años subsiguientes, la rocola se convertiría en otro rival. Atacados por la tecnología en todos los frentes, era inevitable que el músico que subsistía de trabajo en trabajo peleara por su supervivencia. La Federación Estadounidense de Músicos (AFM, por sus siglas en inglés), una unión gremial muy cerrada y unida, declaró al DJ enemigo del músico y entabló una larga y ardua batalla para prevenir que la radio transmitiera grabaciones. La AFM contaba con el respaldo de la Comisión Federal para la Radio, quien, como declaró Arnold Passman, «intentó todo lo posible salvo linchamientos públicos para erradicar esta práctica»."
  },
+ "Los políticos medían su popularidad según el ánimo de la gente en los bailes.": {
+  "ch": 5,
+  "page": 171,
+  "sec": "Las raíces del sistema de sonido",
+  "para": "Los sistemas de sonido, además, eran parte integral de la vida política de Jamaica. Con la ruta a la independencia, otorgada en agosto de 1962, y entre los tumultos políticos que se desencadenaron a continuación, se respiraba un espíritu revolucionario muy cargado en el ambiente. El reggae y sus ramificaciones emergieron como una música rebelde, la voz de la oposición, y los sonidos llegaron a ser una parte integral de este proceso. Los diyeis solían parodiar los temas de actualidad y los eventos locales, pues asumían el viejo papel de pregonero de noticias vinculado a los trovadores del mento. Libre de las restricciones de las transmisiones, y con frecuencia adscritos a determinados grupos políticos (o por lo menos con pandillas locales al servicio de dichos partidos), ejercían una poderosa influencia en la medida en que arengaban por encima de la música a cientos de personas. Los políticos medían su popularidad según el ánimo de la gente en los bailes."
+ },
+ "Los primeros trabajos en el estudio de los DJ convertidos en productores nunca fueron concebidos para ponerse a la venta.": {
+  "ch": 5,
+  "page": 181,
+  "sec": "En el estudio",
+  "para": "Los primeros trabajos en el estudio de los DJ convertidos en productores nunca fueron concebidos para ponerse a la venta. Como el propio Dodd confesó: «No me di cuenta de que esto podía ser un negocio. Lo hice solo por entretenimiento». En efecto, estas grabaciones solo existían en la forma de impresiones de cera suave de una sola tirada, producidas a un gasto considerable, como exclusivas para atraer multitudes para el sistema de sonido del productor. Estos discos solo podían tocarse unas diez o quince veces antes de que las ranuras se desgastaran. Hasta hace relativamente poco, los DJ y productores de todos los géneros llevaban a cabo el mismo proceso; en estos días uno «quema» un CD o simplemente arrastra y suelta un archivo. Los discos de cera suave se conocen ahora como «acetatos», dub-plates o, más recientemente, slates, y los DJ todavía se emocionan mucho con ellos."
+ },
  "Los sets de Stevens en el Scene se convirtieron en materia prima para tanto The Who como los Small Faces, quienes basaron su música en los discos que pinchaba.": {
   "ch": 3,
   "page": 98,
   "sec": "Los mods y el Swingin’ London",
   "para": "«Todos solían venir a escuchar a Guy —rememora Ronan O’Rahilly—, [ponía a] los Stones, los Beatles, Eric Clapton, todas las estrellas principales. La gente llegaba de todas partes del país los lunes por la noche, también de Francia y Holanda; así de bueno era». Los sets de Stevens en el Scene se convirtieron en materia prima para tanto The Who como los Small Faces, quienes basaron su música en los discos que pinchaba. El mánager de The Who trajo a la joven banda al lugar para impregnarlos de la energía y la autenticidad de la noche según Stevens."
  },
+ "Machuki también comenzó la práctica de añadir pequeños clics y otros efectos": {
+  "ch": 5,
+  "page": 178,
+  "sec": "El DJ agarra el micrófono",
+  "para": "Machuki también comenzó la práctica de añadir pequeños clics y otros efectos —anticipando las «consolas humanas» [human beatbox] en unos veinte años— que se conocieron como peps porque animaba una canción. «Había veces en que cuando sonaba el disco, a mi juicio, sonaba flojo, así que añadía los peps: “chicatúc, chicatúc, chicatúc” —dice Machuki—. Causó sensación». Recuerda con orgullo que la gente solía comprar discos en particular después de escuchar una canción en un baile, dando por sentado que sus contribuciones en directo formarían parte de la grabación, solo para devolver la compra una vez caían en la cuenta de que en realidad no figuraban en el disco. «No se daban cuenta de que lo añadido era una aportación de Machuki en el salón de baile», dice entre risas."
+ },
  "Martin Block fue la primera estrella entre los disc jockeys": {
   "ch": 2,
   "page": 43,
   "sec": "El salón de baile imaginario",
   "para": "Martin Block fue la primera estrella entre los disc jockeys; uno entre un puñado de personajes exitosos que sentaron las bases para el rápido auge del DJ en la posguerra. Comenzó como vendedor, anunciando varios tipos de productos y pinchando discos en el ínterin desde un camión con un altavoz que recorría arriba y abajo todo Broadway, hasta que la policía y los dueños de las tiendas lo silenciaron."
+ },
+ "Más aún, fue el primer lugar en donde una grabación ya no se veía como un producto acabado.": {
+  "ch": 5,
+  "page": 167,
+  "sec": "Jamaica sin igual",
+  "para": "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual. Más aún, fue el primer lugar en donde una grabación ya no se veía como un producto acabado. Por el contrario, en el estudio se convirtió en la progenitora de una serie de versiones similares pero distintas de material para un sinfín de remezclas o, como decían ellos, dubs. De esta manera nació el concepto de la remezcla, varios años antes de que la misma idea se les ocurriera a los DJ de disco y de hip-hop."
  },
  "Más tarde, el 1 de agosto de 1942, los músicos estadounidenses sorprendentemente se fueron a la huelga por el asunto de la música grabada.": {
   "ch": 2,
@@ -546,6 +666,12 @@ window.ANOCHE_REFS = {
   "sec": "Alan Freed y el rock’n’roll",
   "para": "Se dice que el rock’n’roll nació la noche del 21 de marzo de 1952, cuando Alan Freed, un DJ de la WJW de Cleveland, organizó su baile Moondong Coronation Ball, un gran concierto de R&B. El poder de Freed como DJ era tal que, con poca publicidad salvo los anuncios que lanzaba él mismo en antena, el evento atrajo un público enorme, compuesto casi en su totalidad por personas de raza negra. El Cleveland Arena tenía capacidad para 10 000 personas, y Freed al principio tenía la preocupación de no poder recuperar el dinero. Sin embargo, para las 23.30 horas, como informó el Cleveland Press, «una multitud de 25 000 fans del jazz se presentaron en el lugar, atascados en cada centímetro del suelo». Miles de personas vestidas con traje estilo zoot, entrada en mano, gritaban a la entrada y al derribar las puertas y con los primeros roces tumultuarios, el cuerpo de bomberos y la policía encendieron las luces y detuvieron el espectáculo. Un estudiante universitario de la época comentó después: «Las autoridades estaban preocupadas. Nunca habían visto tanta gente negra en la calle». Después del evento, la prensa local lanzó una intensa campaña para que Freed se fuera de la ciudad."
  },
+ "Se puede describir el doblaje como «una placa de rayos X musicales».": {
+  "ch": 5,
+  "page": 185,
+  "sec": "El dub",
+  "para": "Se puede describir el doblaje como «una placa de rayos X musicales». Una mezcla de dub es, en resumidas cuentas, la mezcla de un tema con el bajo más alto. El «dob dub laje» segrega la canción en sus componentes principales, y añade y sustrae cada ingrediente de sonido hasta que se crea una nueva composición. Al añadir espacio a una pista, lo que queda tiene mucho más impacto. Al reforzar la línea de bajo hasta que se convierte en una presencia retumbante y colosal, eliminando todo de la canción salvo la percusión, enviando un fragmento de voz a un eco reverberante, estirando un ritmo con una dilatación interminable, el dub puede convertir una composición musical de anodina aridez en un paisaje montañoso con relieve."
+ },
  "Si Ian Samwell del Lyceum fue el revolucionario accidental de la cultura de clubs británica, Stevens fue su Lenin, un creyente confirmado en el poder revolucionario del disc jockey.": {
   "ch": 3,
   "page": 97,
@@ -576,6 +702,12 @@ window.ANOCHE_REFS = {
   "sec": "Farmer Carl en el Catacombs",
   "para": "Un club vinculado estrechamente al Twisted Wheel era el Catacombs en Temple Street, Wolverhampton. Aunque el que cerrara temprano (a medianoche) limitó la influencia directa de este club en las Midlands, fue aquí donde se conformó el primer menú musical del northern soul. Su DJ, Farmer Carl Dene, hizo quizá más que cualquier otro para sentar las bases de este género. Fue probablemente el primer DJ de la escena en realmente dedicar un esfuerzo a desenterrar discos raros y uno de los primeros en darse cuenta de que tener más rarezas que tus competidores sí podía convertirse en un aspecto creativo del trabajo del DJ. Y al introducir y prestar discos a los DJ del nuevo Twisted Wheel, fue el responsable de consagrar los primeros himnos de la primera fase del northern soul."
  },
+ "Su lúgubre sobriedad crearía una brecha profunda que los sonidos aprovecharon y rellenaron.": {
+  "ch": 5,
+  "page": 171,
+  "sec": "Las raíces del sistema de sonido",
+  "para": "La radio también contribuiría a la causa del sistema de sonido. Por aquel entonces, la radio jamaicana era sumamente conservadora; tanto RJR (un sistema de radio por cable) como la JBC, con la BBC como fuente de inspiración, tenían unas políticas de transmisión de corte elitista. Durante mucho tiempo rehusaron poner reggae en sus emisoras, la música del pueblo. Su lúgubre sobriedad crearía una brecha profunda que los sonidos aprovecharon y rellenaron."
+ },
  "Su nombre era Christopher Stone y tuvo que trabajar duro para convencer a la BBC de que lo dejara crear un programa basado únicamente en escuchar grabaciones.": {
   "ch": 2,
   "page": 34,
@@ -600,17 +732,41 @@ window.ANOCHE_REFS = {
   "sec": "Terry Noel en el Arthur",
   "para": "En cuanto a Terry Noel, con el tiempo dejó su carrera musical por el arte, y hoy se le puede visitar en su estudio en el centro de la ciudad. Sin embargo, su paso como DJ fue largo, desde el Arthur hasta L’Ordine, y luego el Salvation, el nuevo lugar de moda en Greenwich Village, donde continuó con sus experimentos, hasta el punto de mezclar con tres platos distintos. «Lo del Salvation tenía mucho que ver con los discos —dice—. Ahí fue cuando cambié a tres platos. Estaba muy metido en eso. El soul. Absolutamente. Time de los Chambers Brothers era como el himno del Salvation. Yo preparaba el camino hasta esa canción y todos sabían que llegaría de camino. Solía apagar las luces y escuchar el bum, bum, bum»."
  },
+ "Tom The Great Sebastian reinó hasta la llegada en los cincuenta de los llamados «Tres Grandes»": {
+  "ch": 5,
+  "page": 174,
+  "sec": "Los primeros sonidos",
+  "para": "Tom The Great Sebastian reinó hasta la llegada en los cincuenta de los llamados «Tres Grandes»: el Downbeat de Sir Coxcone Dodd, el Trojan de Duke Reid y el Giant de King Edward. A medida que los sistemas de sonido inyectaban las canciones estadounidenses más recientes en la sangre de la isla, el R&B jamaicano nació en respuesta y, a continuación, el ska, el rocksteady y el reggae."
+ },
  "Tras su muerte en 2011, se descubrió que Savile, famoso en Gran Bretaña desde los sesenta como disc jockey de radio y figura de la televisión, era un monstruoso pederasta en serie": {
   "ch": 3,
   "page": 65,
   "sec": "NIGHT TRAIN (TREN NOCTURNO)",
   "para": "«Admitirlo hoy es sorprendente —dice Jimmy Savile—, pero es que en aquellos tiempos nadie se lo había imaginado. A la gente simplemente no se le ocurría bailar al son de los discos». Tras su muerte en 2011, se descubrió que Savile, famoso en Gran Bretaña desde los sesenta como disc jockey de radio y figura de la televisión, era un monstruoso pederasta en serie que había construido su fama —y ganado la aceptación en la alta sociedad británica— al servicio de su retorcida sexualidad criminal. Caído en desgracia póstumamente, su figura se está expurgando con rapidez de la historia. A pesar de sus abominables crímenes, fue un DJ revolucionario y una figura importante de nuestra historia."
  },
+ "Trágicamente, lo mataron a tiros en 1989, apenas cuatro años después de abrir su estudio con tecnología de vanguardia.": {
+  "ch": 5,
+  "page": 188,
+  "sec": "El dub",
+  "para": "Para 1975, a King Tubby se le daba todo el crédito de la discográfica por las pistas que reconfiguraba, no solo como ingeniero o remezclador. Los que realmente conocen la música jamaicana lo reconocen como uno de sus verdaderos fundadores. Trágicamente, lo mataron a tiros en 1989, apenas cuatro años después de abrir su estudio con tecnología de vanguardia. Y, sorprendentemente, a pesar de su enorme contribución a la música, la prensa ni siquiera se hizo eco de la muerte de King Tubby."
+ },
+ "Una versión es una canción a la que se le han quitado las voces, una secuencia de una canción creada para que el diyey pueda hablar por encima del sonido.": {
+  "ch": 5,
+  "page": 182,
+  "sec": "Versión",
+  "para": "Una versión es una canción a la que se le han quitado las voces, una secuencia de una canción creada para que el diyey pueda hablar por encima del sonido. Al grabar tales canciones instrumentales e imprimirlas en discos de cera blanda, los productores contaban con un arsenal de novedosas exclusivas con las que seducir a su público. Cuando el sistema de sonido tocaba estos temas únicos, con un diyey en directo «montando el ritmo», el público escuchaba algo absolutamente excepcional, con la misma inmediatez de una presentación en directo tradicional. En términos de espectáculo, el diyey (ahora representado por la trinidad del productor, el seleccionador y el diyey), esta vez sí se batía el cobre."
+ },
  "Uno puede encontrar el nombre «A. Freed» en los créditos de «Maybellene» de Chuck Berry.": {
   "ch": 2,
   "page": 59,
   "sec": "Payola",
   "para": "Freed, arrogante y engreído hasta el final, admitió haber recibido pagos de las discográficas United Artists, Roulette y Atlantic Records, y de las distribuidoras Cosnat y Superior. Entre 1957 y 1959, ganó unos cincuenta mil dólares con la payola. Misteriosamente, algunas compañías incluso le habían cedido la autoría (y las consiguientes regalías) de algunas grabaciones que este promocionaba. Uno puede encontrar el nombre «A. Freed» en los créditos de «Maybellene» de Chuck Berry. Este último dijo que, hasta que no vio la liquidación de regalías, no tenía idea de que Freed «la hubiera escrito conmigo». Es importante destacar, sin embargo, que Freed nunca comprometió la calidad de sus shows, y sin duda no era el único que había aceptado payolas."
+ },
+ "Y, desde luego, tras el éxito de U-Roy, aparecieron Big Youth, I-Roy, Dillinger y cientos de diyeis más que robaban el protagonismo a los cantantes.": {
+  "ch": 5,
+  "page": 180,
+  "sec": "El DJ agarra el micrófono",
+  "para": "Carl Gayle, editor de la revista de Kingston Jahugliman, intentó explicar el fenómeno: «Lo que distancia a U-Roy del resto es el hecho de que aportó esta dimensión del jive en directo que es tan electrizante. Con todo esto de la voluntad del más pequeño encarnada en un jive kingstoniano, cambió la dinámica de una escena de grabación jamaicana repleta de talento para el canto, lo que sentó las bases para que en las salas de baile irrumpieran incontables imitadores». Y, desde luego, tras el éxito de U-Roy, aparecieron Big Youth, I-Roy, Dillinger y cientos de diyeis más que robaban el protagonismo a los cantantes."
  },
  "fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio.": {
   "ch": 4,
@@ -696,6 +852,12 @@ window.ANOCHE_REFS = {
   "sec": "NIGHT TRAIN (TREN NOCTURNO)",
   "para": "La importancia de esta noche no se perdió con el fracaso de Savile. De un plan de dudosa honorabilidad para añadir algo a su paga por enfermedad había nacido una nueva y prometedora forma de entretenimiento. «No creo que fuera un artista —aclara—. Lo que sí hacía era crear un ambiente. Un artista canta, baila, cuenta chistes, hace malabares. Yo no hacía nada de eso. Solo creaba ambiente». Aun en ese salón pequeño, con no más de veinte personas presentes, sintió el entusiasmo de ser el DJ de un público en vivo, la misma sensación que disfrutan los DJ de clubs desde entonces. «Mientras ponía los discos, me quedaba ahí, y sentí este asombroso… poder no es la palabra correcta; control tampoco lo es. Percibía este efecto asombroso. Lo que estaba haciendo entonces provocaba que doce personas reaccionaran a ese estímulo. Podía hacer que bailaran rápido. O lento. O que pararan, o que comenzaran a bailar. Todo esto se antojaba irresistiblemente embriagador»."
  },
+ "«No había radio en aquellos días, y el sistema de sonido lo era todo. Para escuchar un disco nuevo, miles acudían a los bailes».": {
+  "ch": 5,
+  "page": 176,
+  "sec": "Los primeros sonidos",
+  "para": "Otro gánster era Prince Buster, un exboxeador cuyo nombre de pila era Cecil Bustamante Campbell. Buster luego se convertiría en uno de los vocalistas y productores más famosos de la isla, pero comenzó como jefe de seguridad en los bailes de Coxsone. Su pelotón de matones y su reputación como tipo duro le vino bien a la hora de rechazar los esfuerzos destructivos de Duke Reid, sobre todo cuando el propio Buster estaba sobradamente preparado para recurrir al sabotaje; durante la primera noche al servicio de Coxsone, Buster destrozó la aguja de Duke. Posteriormente, Buster fue fundamental para el auge del ska, y cuando fundó su propio sistema de sonido, Voice Of The People, pronto emergió con ese estilo para convertirse en el más poderoso de los comienzos de los sesenta; para entonces los sonidos dominaban el mundo del entretenimiento jamaicano. Como recuerda en el libro de Stephen Davis, Reggae Bloodlines: «No había radio en aquellos días, y el sistema de sonido lo era todo. Para escuchar un disco nuevo, miles acudían a los bailes»."
+ },
  "«Quiero emoción», ladraba Noel, recordando sus días como DJ.": {
   "ch": 3,
   "page": 105,
@@ -707,5 +869,11 @@ window.ANOCHE_REFS = {
   "page": 83,
   "sec": "La liberación",
   "para": "Anticipando el glamur de Studio 54 tres años antes, y superándolo sin duda en términos de esnobismo en la puerta, en 1975 Régine se llevó sus 800 pares de zapatos a Nueva York y abrió un club en el primer piso del hotel Delmonico. Era tan exclusivo que la Autoridad Estatal del Licor consideró demandarla por discriminación social. Cuando las tuberías del lugar se averiaron durante la primera semana, ella simplemente cargó toda la cristalería sucia en limusinas y se las envió al restaurante Le Cirque para que la lavaran. En el apogeo de su imperio había diecinueve clubs Régine por todo el mundo. «Soy la persona que diseñó la forma moderna de pasar la noche —declaró—. Soy la primera y única Reina de la Noche»."
+ },
+ "«uno puede tener los derechos de autor de una canción, pero no puedes tener los derechos de un ritmo adaptado»": {
+  "ch": 5,
+  "page": 183,
+  "sec": "Versión",
+  "para": "Todas las formas del reggae se basan en la idea de reciclar o citar los ritmos favoritos, que ellos llaman riddims [una variante regional de la palabra inglesa para ritmo: rhythm], como se conoce a estos patrones familiares de bajo y percusión en estas pistas recicladas. Estos patrones se pueden copiar (o convertirse en versiones) en cientos de discos diferentes. Muchos son tan conocidos que tienen nombres propios (que suelen responder a su onomatopeya en inglés): «Death In The Arena», «Waterpumping» y «Shank-I-Sheck» son tres de los más conocidos. Muchos ritmos tienen sus orígenes, como cabía esperar, en Estados Unidos. Un ejemplo asombroso, «Death In The Arena», puede oírse literalmente en cientos de grabaciones (entre ellas, por ejemplo, The Champion Version de King Tubby) y se remontan a la línea de bajo que usó el baterista Bernard Purdey en su tema de 1968 Funky Donkey. Cuando aparece un nuevo ritmo adaptado, las salas de baile lo ponen durante un mes o dos, hasta que aparece la siguiente línea de bajo seductora. Su existencia multiplicadora y próspera es la prueba, como señala el productor jamaicano Dermott Hussey, de que «uno puede tener los derechos de autor de una canción, pero no puedes tener los derechos de un ritmo adaptado». (Sea como fuere, en Jamaica no se prestaba excesiva atención al respeto escrupuloso por los derechos de autor)."
  }
 };
