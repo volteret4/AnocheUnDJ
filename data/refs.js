@@ -6,6 +6,12 @@ window.ANOCHE_REFS = {
   "sec": "Studio 54",
   "para": "El control de la puerta no solo era estricto; era caprichoso. A Nile Rogers y a Bernard Edwards del grupo Chic se les negó la entrada, aun cuando sus canciones se pinchaban con éxito dentro del club. En protesta, se fueron a casa y escribieron una canción llamada Fuck Off [Jodeos]. Luego, cuando sustituyeron estas palabras por Freak Out [Pierde el control], nació Le Freak, uno de los discos de baile más vendidos de la historia."
  },
+ "A falta de una frase mejor, es un hi-NRG para los noventa».": {
+  "ch": 8,
+  "page": 313,
+  "sec": "El nu-energy y el hard dance",
+  "para": "«Puede describirse mejor como un tecno melódico y estimulante», explicó Thomas Foley, de React Records, a Mixmag. «Es tecno con una canción, lo más cerca que el tecno puede acercarse a una tonadilla. A falta de una frase mejor, es un hi-NRG para los noventa»."
+ },
  "A las cuatro de la madrugada quitaron la lona: «Cayeron al unísono mil quinientas mandíbulas, y solo comenzaron a aplaudir».": {
   "ch": 6,
   "page": 249,
@@ -66,6 +72,12 @@ window.ANOCHE_REFS = {
   "sec": "Disco de alta sociedad en Le Jardin",
   "para": "Bob Casey señala la apertura de Le Jardin como el momento en que el disco dejó de ser un movimiento underground. «Diana Ross estuvo en la inauguración. Ese dato llegó a los periódicos y, de repente, discoteca se tornó aceptable y popular, y salió del mundo de las catacumbas»."
  },
+ "Cada noche contaba una nueva historia, narrada por el DJ.": {
+  "ch": 8,
+  "page": 325,
+  "sec": "Música mañanera",
+  "para": "Esta trayectoria de música rápida de temática sexual, seguida por un sonido litúrgico más lento que remitía a amores conquistados y perdidos, era la vida resumida de un hombre gay: ligón coqueto, guerrero lujurioso, amante tierno y, finalmente, vampiresa desgarrada. Cada noche contaba una nueva historia, narrada por el DJ. Vitiretti explicaba su método a David Diebold: «De repente entrábamos en un set descontrolado y salvaje y golpeábamos al público con luz estroboscópica y música salvaje. Los azotábamos con una canción dura tras otra». Pero luego, cuando llegaba la mañana, «los lanzábamos en un remolino que los apaciguaba… y los devolvía a todos al mismo espacio físico»."
+ },
  "Casi toda forma musical radicalmente nueva en las últimas cinco décadas debe su existencia al DJ.": {
   "ch": 1,
   "page": 27,
@@ -102,6 +114,12 @@ window.ANOCHE_REFS = {
   "sec": "Batiendo marcas",
   "para": "Además, la música evolucionaba. La esencia del baile funk se encontraba con la belleza fusionada del soul, y había surgido un nuevo sonido. Los momentos más psicodélicos de Sly & The Family Stone y los Temptations fueron de capital importancia en esta evolución, pero el empuje de la nueva música provino de los cantautores y productores Kenny Gamble y Leon Huff en su estudio de grabación Sigma, en Filadelfia. Durante la primera parte de los setenta —con grupos como los O’Jays, Harold Melvin & The Bluetones, MFSB y muchos más— produjeron canciones que mantenían el ritmo potente del funk, pero que mejoraban su dureza con melodías y patrones de ritmo más complejos al añadirles los sonidos elevados de una orquesta completa. Como lo describió el trombonista de JB, Fred Wesley: «Le pusieron la pajarita al funk». Esta música exuberante era exactamente lo que los nuevos clubs querían escuchar, además de conseguir la bendición comercial. Ahora todos los elementos estaban en su lugar."
  },
+ "Como los hombres de fantasía en las ilustraciones eróticas de Tom of Finland, el hi-NRG era brillante, perfecto y fortachón: sin polvo ni manchas.": {
+  "ch": 8,
+  "page": 311,
+  "sec": "Ian Levine en el Heaven",
+  "para": "En su historia del disco titulada Turn The Beat Around, Peter Shapiro vincula el sonido del hi-NRG con cambios más abarcadores. Ahora liberada de las tinieblas, la cultura gay, en particular los círculos sociales ferozmente competitivos de Manhattan, imponía unos estándares de belleza inflexibles, que forzaba a los hombres a pasar horas en el gimnasio por miedo a eso de «si no hay pectorales, no hay sexo». Y si los hombres en la pista de baile eran sumamente esculturales y tonificados, la música que bailaban también lo era. Shapiro plantea que el hi-NRG «blanqueó al disco, no porque blanqueara sus raíces afrodescendientes, sino por esmerarse por la perfección sobrehumana, al llevar la estética del clon a extremos desconocidos». Como los hombres de fantasía en las ilustraciones eróticas de Tom of Finland, el hi-NRG era brillante, perfecto y fortachón: sin polvo ni manchas."
+ },
  "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa": {
   "ch": 3,
   "page": 75,
@@ -132,6 +150,12 @@ window.ANOCHE_REFS = {
   "sec": "El DJ versus los editores musicales",
   "para": "A fin de contrarrestar el poder de la ASCAP, en 1923 las cadenas de radio se agruparon y formaron la Asociación Nacional de Radiodifusores (NAB, por sus siglas en inglés). En 1939, con la esperanza de debilitar el monopolio de la ASCAP en la industria de los derechos de autor, la NAB creó su propia firma, la Música de Transmisión Incorporada (BMI, por sus siglas en inglés). Mientras la ASCAP aspiraba a mantener la preeminencia del cantautor, la BMI apostaba por fomentar una industria centrada en los discos y en las transmisiones. La mayoría de los artistas de renombre eran miembros de la ASCAP, así que los reclutas de la BMI eran casi todos músicos y cantautores más jóvenes, incluidos todos los músicos folk y «de raza» a quienes la ASCAP les negaba hacerse miembros. Con los contactos cercanos entre la BMI y la radio y una membresía más étnicamente variopinta, eran buenas noticias para el auge de la música negra."
  },
+ "Convirtieron a los discos de culto de los setenta en seres divinos».": {
+  "ch": 8,
+  "page": 308,
+  "sec": "El Saint",
+  "para": "No todos los temas eran grabaciones nuevas. El disco ya tenía los días contados, y los DJ regresaron a sus colecciones privadas y buscaron exhaustivamente canciones que hubieran pasado inadvertidas tras seis años de abundancia. «Así como el northern soul había descubierto grabaciones de los sesenta y las pinchaba en los setenta, el Saint también descubrió grabaciones de los setenta y las pinchaba en los ochenta —explica Levine—. Convirtieron a los discos de culto de los setenta en seres divinos»."
+ },
  "Cuando Bob pinchaba discos en sus bailes, añadía una innovación importante: el doble plato giratorio": {
   "ch": 3,
   "page": 75,
@@ -143,6 +167,12 @@ window.ANOCHE_REFS = {
   "page": 165,
   "sec": "WRECK UP A VERSION (SÁCATE UNA VERSIÓN DE LA NADA)",
   "para": "Antes de ser diezmada por Europa, los arahuacos llamaban a esta fértil isla Xaymaca, que significa «Tierra de Manantiales». Cuando era la capital pirata de los siete mares, su ciudad principal, Port Royal, era el lugar más malvado del planeta. Cuando era una plantación azucarera colonial sustentada por los músculos africanos cautivos, los dueños de esclavos podían recibir una multa si un ser humano de su propiedad era sorprendido tocando un tambor. Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey."
+ },
+ "Curiosamente, esta es una de las pocas áreas del house que tuvo contribuciones importantes de mujeres": {
+  "ch": 8,
+  "page": 313,
+  "sec": "El nu-energy y el hard dance",
+  "para": "Curiosamente, esta es una de las pocas áreas del house que tuvo contribuciones importantes de mujeres, con participaciones clave de Anne Savage, Lisa Pin-Up y Lisa Lashes, Mrs. Wood, Rachel Auburn y Madam Friction."
  },
  "DJ Francis pinchaba música; los disc jockeys antes que él solo ponían discos en los platos.": {
   "ch": 6,
@@ -185,6 +215,12 @@ window.ANOCHE_REFS = {
   "page": 95,
   "sec": "Ian Samwell en el Lyceum",
   "para": "Aunque nunca se dio cuenta de la importancia de lo que hacía, sus conocimientos musicales eran la última pieza del rompecabezas. El Lyceum se convirtió en el primer lugar donde todos los elementos identificables de un club moderno (luces, discos de baile de última moda, un disc jockey y una pista de baile) se combinaron en un solo conjunto. Dave Godin, quien luego acuñaría el término «soul norteño» (northern soul), cree que merece un lugar en la historia: «El Lyceum era muy importante, no dejo de recalcarlo, porque, por muchas razones, fue el primer lugar que merecía el nombre de discoteca»."
+ },
+ "El Sandpiper guarda un lugar particular en la historia de la música bailable porque fue aquí en 1972 donde se escucharon las cintas de mezclas legendarias de Tom Moulton por primera vez.": {
+  "ch": 8,
+  "page": 301,
+  "sec": "Bobby DJ en el Ice Palace",
+  "para": "El Sandpiper guarda un lugar particular en la historia de la música bailable porque fue aquí en 1972 donde se escucharon las cintas de mezclas legendarias de Tom Moulton por primera vez. Moulton, el padrino de la remezcla, comenzó su carrera editando tortuosamente cintas de bobina abierta, cortando y alargando sus canciones favoritas de soul y de funk para satisfacer el nuevo deseo por un ritmo sin fin. Pasaba horas mezclando las cintas que, en principio, tenía la intención de poner en el Boatel, solo para que el dueño se las devolviera, diciéndole: «No cambies de profesión». Dos semanas más tarde, después de que la cinta llegara a manos del Sandpiper, y Moulton se olvidara de ella, una serie de llamadas de extáticos conversos lo despertó a las tres de la madrugada para felicitarlo; podía escuchar al público gritando al fondo."
  },
  "El Top 40 debe su nombre a que ese era el número de discos que cabía en una jukebox.": {
   "ch": 3,
@@ -251,6 +287,18 @@ window.ANOCHE_REFS = {
   "page": 122,
   "sec": "Un género forjado a base de fracasos",
   "para": "Su nombre debe su origen al lugar donde se disfrutó, no donde se produjo (aunque esto también tendría sentido). El gentilicio northern [norteño] en northern soul no hace referencia a Detroit sino a Wigan; no a Chicago sino a Manchester, a Blackpool y a Cleethorpes."
+ },
+ "El hi-NRG fue la manera en que Levine mantuvo vivo su adorado northern soul.": {
+  "ch": 8,
+  "page": 310,
+  "sec": "Ian Levine en el Heaven",
+  "para": "El hi-NRG fue la manera en que Levine mantuvo vivo su adorado northern soul. «A los gais les gusta la música bailable directa y melódica, que no tenga mucho funk —le explicó a Dave Hill para The Face—. Como la Motown, es picante y bonita, pero poderosa»."
+ },
+ "El hi-NRG se convirtió en la lengua franca de las pistas de baile gais y blancas de todo el planeta, y luego absorbido por el mainstream sin titubeos.": {
+  "ch": 8,
+  "page": 296,
+  "sec": "SO MANY MEN, SO LITTLE TIME (TANTOS HOMBRES, TAN POCO TIEMPO)",
+  "para": "Y su influencia fue gigantesca. El hi-NRG se convirtió en la lengua franca de las pistas de baile gais y blancas de todo el planeta, y luego absorbido por el mainstream sin titubeos. Esta es la música de la que se apropiaron los productores británicos Stock, Aitken y Waterman, quienes vendieron su sonido descaradamente gay como pop adolescente con actos pueriles como Bananarama, Kylie Minogue, Dead Or Alive y Mel & Kim, entre muchos otros. Aunque el R&B le ha robado el poder en muchos países, todavía es el estilo dominante de baile pop en el resto."
  },
  "El hip-hop tiene con el reggae una deuda enorme.": {
   "ch": 5,
@@ -342,6 +390,12 @@ window.ANOCHE_REFS = {
   "sec": "Alan Freed y el rock’n’roll",
   "para": "El rock’n’roll lo creó un DJ. El nombre en sí proviene directamente del título de un show de radio. La música era sencillamente R&B con un nombre distinto. En un país dividido drásticamente por el tema racial, el término rock’n’roll era una forma sutil para lograr que la música afrodescendiente fuera más accesible a la juventud blanca. A la larga, hubo una diferencia entre los dos estilos de música, pero incluso esta distinción fue impulsada por el DJ. El hombre que cambió el nombre, y que logró más que una forma de popularizar la música, levantó una controversia tan grande en dicho proceso que sería investigado por el Gobierno de Estados Unidos durante la mayor parte de su vida profesional; investigación que, finalmente, lo llevó a la tumba."
  },
+ "El sida primero se conoció como «la Enfermedad del Saint», pues muchos de los socios del club fueron los primeros en morir.": {
+  "ch": 8,
+  "page": 326,
+  "sec": "Tragedia",
+  "para": "El desapego con el que muchos DJ se enfrentaban a la vida se aseguró de que el sida arrasara sin contemplaciones con la comunidad gay. Muchos DJ —pioneros hedonistas todos— sucumbieron a la enfermedad. Otros perdieron la vida por sobredosis. Como comentó el escritor Brian Chin: «No me juntaba con los DJ porque el consumo de drogas me hacía cagarme encima del miedo». En muchos de los clubs de Nueva York, como el Anvil, el Mineshaft, el Crisco Disco, el baile cedía el primer lugar al sexo. El sida primero se conoció como «la Enfermedad del Saint», pues muchos de los socios del club fueron los primeros en morir."
+ },
  "El sociólogo Marshall McLuhan la llamó «el tambor de la tribu».": {
   "ch": 2,
   "page": 31,
@@ -353,6 +407,12 @@ window.ANOCHE_REFS = {
   "page": 93,
   "sec": "El Peppermint Lounge",
   "para": "La popularidad del twist desató una serie de bailes con la misma forma libre: el frug, el mashed potato, el poni, el hully gully, el monkey. Al cabo de pocos años, las pistas de baile habían otorgado popularidad a los eslóganes «freak-out» [pierde el control] y «flower power» [poder de las flores] de la era hippie, así como a las volteretas acrobáticas y las piruetas del northern soul. El twist había lanzado una bomba nuclear sobre el sector conservador del mundo del baile y erradicado los muy rígidos rituales de la pista de baile. Con esta hazaña se sentó la base para un nuevo tipo de club nocturno. Era hora de que la discoteca llegara a la edad adulta."
+ },
+ "En 1964, la revista Time declaró a San Francisco como la capital gay de Estados Unidos.": {
+  "ch": 8,
+  "page": 315,
+  "sec": "San Francisco",
+  "para": "Durante más de un siglo, San Francisco se había convertido en un imán para los desafectos y los inadaptados. Cuando el terremoto de 1906 arrasó la ciudad, los predicadores más fundamentalistas lo atribuyeron a un castigo divino contra la «Sodoma costera». Un puerto y una gran base naval que permitían que los bares gais, aunque a escondidas, prosperaran. Y en la Segunda Guerra Mundial, aquellos hombres y mujeres a los que se otorgaba licencia deshonrosa por su homosexualidad eran transportados de regreso vía San Francisco. En vez de enfrentarse a la vergüenza de regresar a casa —el color azul de los documentos del licenciamiento denotaban su «desviación»— muchos de ellos se establecieron en el ambiente más liberado que ofrecía la ciudad. Para los años cuarenta, ya había bares muy bien establecidos como Finocchio’s (un club de imitadores femeninos fundado en los rugientes años veinte), Mona’s y el Black Cat. A pesar el macartismo y la persecución, la cultura gay crecía y prosperaba. En 1964, la revista Time declaró a San Francisco como la capital gay de Estados Unidos."
  },
  "En 1968, Tubby ya había sido proclamado «el sonido número uno» de la isla.": {
   "ch": 5,
@@ -456,6 +516,12 @@ window.ANOCHE_REFS = {
   "sec": "Hablar el jive",
   "para": "La idea del «negro blanco», sin embargo, aún rezumaba racismo. George recuerda la increíble historia de Vernon Winslow, un exprofesor universitario de diseño con un conocimiento exhaustivo del jazz, a quien le denegaron un trabajo como locutor en la WJMR de Nueva Orleans solo porque era negro. Después de lo que parecía ser una entrevista exitosa, a Winslow, cuyo tono de piel era bastante claro, se le preguntó: «¿De paso, eres un puto negro?». Después de que le negaran una posición en antena solo por su raza, contrataron a Winslow para un trabajo extraordinario. Entrenaría a un DJ blanco para que sonara como un negro. Winslow tenía que enseñar a un colega blanco —ahora bautizado como Poppa Stoppa— la jerga local más reciente, y le enseñó frases como: «Mira el diente de oro, tesoro» y «Aquí te pillo, aquí te mato». El show fue en un éxito rotundo. Una noche, frustrado por su posición entre bambalinas, Winslow se las arregló para tomar el micrófono a escondidas en una ocasión. Lo despidieron inmediatamente. La WJMR se quedó con el nombre Poppa Stoppa y continuó usando a un hombre blanco, Clarence Hamman, como la voz de Poppa. (Sin embargo, Winslow se pudo vengar al convertirse en Doctor Daddy-O para la WEZZ de Nueva Orleans, donde se convirtió en uno de los mejores diez DJ de la nación)."
  },
+ "Era la belleza que seguía el ritmo.": {
+  "ch": 8,
+  "page": 322,
+  "sec": "Música mañanera",
+  "para": "El hi-NRG suele caracterizarse como música para hacer ejercicio para juerguistas con bigote y consumidores de esteroides. Sin embargo, aquel género también fue de instrumental importancia a la hora de promocionar música con oficio y elaboradas texturas, llamada la «música mañanera» o «sensual» [sleaze] que empezaba a sonar cuando salía el sol. Nacida en los clubs que abrían hasta altas horas en Nueva York, era el alivio después del ajetreo sin pausa de toda la noche. Cuando llegaba la luz, el ritmo disminuía, y mientras el programa temprano de la madrugada se caracterizaba por su explícita carga sexual, el matinal daba paso al romance, el amor y el desamor. Era la belleza que seguía el ritmo."
+ },
  "Era muy común sabotear los bailes rivales comenzando peleas o lanzando piedras al público.": {
   "ch": 5,
   "page": 176,
@@ -468,6 +534,12 @@ window.ANOCHE_REFS = {
   "sec": "Payola",
   "para": "En 1973, su archirrival Dick Clark finalmente admitió que Freed «fue el hombre que hizo posible el rock’n’roll» y que «le debemos mucho». Antes de Alan Freed, el R&B era desconocido para la mayoría de las personas de raza blanca. El rock’n’roll no solo revolucionó la música —en tanto que los artistas afrodescendientes ya no tenían que dulcificar su estilo para lograr el éxito generalizado—, sino que también tuvo un impacto social profundo al confrontar a muchos con su primera experiencia de la cultura afroamericana. Freed pagó muy caro el precio de semejante reconocimiento. Era un claro ejemplo del poder que podía amasar un DJ, y también de los límites a los que el sistema llegaría para subyugar a esos individuos."
  },
+ "Eran dioses griegos con inveteradas adicciones.": {
+  "ch": 8,
+  "page": 308,
+  "sec": "El Saint",
+  "para": "La pista de baile del Saint era una masa de cuerpos, cada uno esculpido a la perfección, que se movían al unísono como en un ritual. Lamentablemente, a pesar de la música vistosa del club, estos hombres hermosos se colocaban hasta reventar: con PCP, Quaalude, éxtasis, cocaína y anfetaminas. Eran dioses griegos con inveteradas adicciones. Las luces se apagaban, el proyector se encendía, y mientras Nueva York pasaba a las tareas rutinarias del domingo, millares de hombres inhalaban su droga y seguían bailando semidesnudos bajo las estrellas eléctricas."
+ },
  "Es el legado de un período corto (apenas entre 1976 y 1979) cuando parte de la música trascendió hacia una comercialidad sumamente rentable.": {
   "ch": 7,
   "page": 253,
@@ -479,6 +551,12 @@ window.ANOCHE_REFS = {
   "page": 57,
   "sec": "Alan Freed y el rock’n’roll",
   "para": "La reacción al diabólico engendro del R&B, el rock’n’roll, fue apocalíptica. Algunas ciudades lo prohibieron en sus salas de conciertos; otras exigieron que los menores de dieciocho años que asistieran a bailes de rock’n’roll trajeran a sus padres. Las clases medias afroamericanas pensaban que solo fortalecería los estereotipos peyorativos, por sus letras discretas y hasta obscenas que presentaban a las personas de la raza negra como jugadores compulsivos y bebedores con la libido desatada. Los intolerantes blancos lo vieron como un intento de mestizaje; el Consejo de Ciudadanos Blancos de Alabama declaró que el rock’n’roll «apela a lo más básico del hombre, suscita el animalismo y la vulgaridad… Es una conspiración para “mestizar” a Estados Unidos». Además, la mayoría de los críticos de música lo detestaban. El insigne crítico de jazz Leonard Feather escribió: «El rock’n’roll apela a los tontos de todas las edades, pero en particular a tontos jóvenes»."
+ },
+ "Ese mismo año, el antiguo DJ del club Midlands, DJ Pete Waterman, junto con los músicos de estudio Mike Stock y Matt Aitken, formaron una sociedad de compositores que llevaría al sonido del hi-NRG a una comercialidad estratosférica.": {
+  "ch": 8,
+  "page": 314,
+  "sec": "Stock, Aitken y Waterman",
+  "para": "En 1984, High Energy de Evelyn Thomas, producido por Ian Levine, llegó a las listas comerciales y alcanzó la quinta posición (Reino Unido). Ese mismo año, el antiguo DJ del club Midlands, DJ Pete Waterman, junto con los músicos de estudio Mike Stock y Matt Aitken, formaron una sociedad de compositores que llevaría al sonido del hi-NRG a una comercialidad estratosférica. Waterman pegaría con más de cien canciones en el Top 40 del Reino Unido, entre ellas quince números uno británicos, y vendió treinta y cinco millones de discos a nivel mundial."
  },
  "Esta cultura alternativa se convertiría en pocos años en el northern soul.": {
   "ch": 3,
@@ -521,6 +599,12 @@ window.ANOCHE_REFS = {
   "page": 100,
   "sec": "Los mods y el Swingin’ London",
   "para": "Fue en el Flamingo donde Count Suckle trajo primero el sonido jamaicano de Ladbroke Grove al West End. Después de contratarlo para que tocara los domingos por la noche, el dueño del club, Rik Gunnell, observaba cómo el carismático DJ atraía un vasto público de todas partes de Londres. La alegría de Gunnell no le duró mucho, pues el Roaring Twenties en Carnaby Street le robó a Suckle para que pinchara todas las noches."
+ },
+ "Fue la experiencia más embriagadora que he tenido en mi vida —dijo un aficionado a los clubs—.": {
+  "ch": 8,
+  "page": 306,
+  "sec": "El Saint",
+  "para": "El 20 de septiembre de 1980, abrió un nuevo lugar que atraería a la competencia a la zona del río Hudson. El Saint, entre la Segunda Avenida y la calle Sexta, fue para muchos en la ciudad la representación más elocuente de la emancipación gay. «Fue la experiencia más embriagadora que he tenido en mi vida —dijo un aficionado a los clubs—. Y todavía no tiene rival. Era liberador, espiritualmente edificante. Ahí fue donde aprendí a amar a mis hermanos». Se invirtieron unos 4,2 millones de dólares para transformar lo que una vez fue el auditorio roquero llamado Fillmore East en un enorme club, construido a propósito para la concurrencia gay recién liberada. A tres semanas de la apertura, tres mil hombres habían pagado 250 dólares por ser miembros. En unos meses, tanto el Flamingo como el 12 West habían cerrado."
  },
  "Fue un contralto cantando el «Largo» de Händel, de la ópera Jerjes.": {
   "ch": 2,
@@ -708,6 +792,12 @@ window.ANOCHE_REFS = {
   "sec": "El Casino de Wigan frente al Mecca de Blackpool",
   "para": "El Mecca se convirtió en la parada obligatoria de la semana. «Si uno era un coleccionista serio, el único lugar que valía la pena visitar era el Mecca de Blackpool —dice Ian Dewhirst—. Levine estaba allí, y Levine era el barómetro del gusto. Siempre tenía la variedad de discos más impresionante. Quizá uno no los conocía todos, pero sabía que serían buenos. Y podía tomarse riesgos. Uno jamás escucharía Seven Day Lover de James Fountain en el Casino de Wigan. Tengo que rendirle tributo, aunque es una persona muy difícil de tratar la mayor parte del tiempo»."
  },
+ "Levine estaba decidido a traer un poco del paraíso homosexual del Saint a Gran Bretaña.": {
+  "ch": 8,
+  "page": 309,
+  "sec": "Ian Levine en el Heaven",
+  "para": "Después de dar a Londres el primer bocado de una discoteca moderna diseñada para esos propósitos con el Embassy, el publicista del Peerage de Burke, Jeremy Norman, había decidido que era el momento oportuno para algo más grande y más gris. Una cuantiosa reforma más tarde, el Global Village, el club de jazz y funk debajo de la estación de Charing Cross, se convirtió en el Heaven, su discoteca explícitamente gay. Greg James, a la sazón residente del Embassy, había recomendado a Ian Levine como el DJ que podía llevar las riendas de este nuevo carruaje con el impulso necesario. En el Mecca de Blackpool, Levine había colaborado en la conformación de la escena del northern soul y luego había forzado a sus aficionados en los clubs a escuchar disco, toda vez que sus viajes para comprar discos de soul al mercado estadounidense se habían convertido en escapadas al mundo de los clubs gais de Nueva York. También fue uno de los únicos DJ del Reino Unido que podía mezclar discos. Levine estaba decidido a traer un poco del paraíso homosexual del Saint a Gran Bretaña. En el proceso, destilaba los gustos musicales del club para lograr un género duradero."
+ },
  "Lo cierto es que era tan solo el principio.": {
   "ch": 3,
   "page": 117,
@@ -822,11 +912,23 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Mientras que Tom Moulton fue el pionero de la remezcla, Gibbons, un DJ, fue quien realmente demostró su potencial máximo. Las primeras remezclas de Moulton no cambiaron radicalmente la naturaleza sonora de las canciones, sino que tenían que ver con extender las mejores partes y eliminar las más débiles. Gibbons fue mucho más drástico en su enfoque, pues desmantelaba las canciones casi hasta sus elementos más primitivos y los reconstruía en capas complejas e imbricadas de sonido. Como su estilo de DJ, salvaje y tribal, sus remezclas destacaban en la esencia rítmica de la pista. A Walter Gibbons le encantaba la percusión."
  },
+ "Muchos de estos clubs habían encontrado en el concepto la inspiración del Loft, en particular su política de aceptar solo a miembros (pero no su onda igualitaria de inspiración hippie).": {
+  "ch": 8,
+  "page": 303,
+  "sec": "Bobby DJ en el Ice Palace",
+  "para": "Muchos de estos clubs habían encontrado en el concepto la inspiración del Loft, en particular su política de aceptar solo a miembros (pero no su onda igualitaria de inspiración hippie). El primero en abrir fue el Tenth Floor, en diciembre de 1972, en el local de una antigua fábrica de máquinas de coser en el número 151 de la Veinticinco Oeste. Sus dueños originales eran un trío de diseñadores famosos por sus fiestas opulentas en sus casas de Fire Island, y su decoración monocromática permitía que los clientes y los arreglos florales aportaran el esplendor visual. El DJ Ray Yeates, una cara negra muy rara en el lugar, tocaba para un público gay de alta alcurnia."
+ },
  "Musicalmente, el disco era verdaderamente revolucionario.": {
   "ch": 6,
   "page": 195,
   "sec": "Orígenes clandestinos",
   "para": "Musicalmente, el disco era verdaderamente revolucionario. Estaba en el corazón de algunas de las innovaciones más radicales hasta esa fecha en la manera en que se concebía, creaba y consumía la música. Cambió la apariencia de los clubs hasta rayar lo irreconocible, cambió la radio de forma drástica y tuvo un efecto importante en el equilibrio de poder en la industria musical entre los sellos independientes y las majors [los grandes grupos de la industria discográfica]. Hacia el final de su reinado, habían nacido el disco sencillo de 12 pulgadas, la remezcla y una serie de nuevas técnicas de grabación en estudio. Y con la reconstrucción de las canciones exclusivamente para las pistas de baile (más largas, más centradas en el ritmo, más funcionales) y con los discos vistos como las herramientas de los DJ en vez de simples representaciones de la música en directo, llegó una nueva noción de lo que debe ser la música popular."
+ },
+ "Más aún, al evitar meticulosamente la palabra girl [chica] en sus letras": {
+  "ch": 8,
+  "page": 311,
+  "sec": "Ian Levine en el Heaven",
+  "para": "Más aún, al evitar meticulosamente la palabra girl [chica] en sus letras, Levine astutamente logró que su música apelara a su público base de hombres gais, y logró incluso que algunas trascendieran al consumidor adolescente pop, que por fortuna no se daba cuenta de sus orígenes entre cuero y pastillas."
  },
  "Más aún, fue el primer lugar en donde una grabación ya no se veía como un producto acabado.": {
   "ch": 5,
@@ -839,6 +941,12 @@ window.ANOCHE_REFS = {
   "page": 37,
   "sec": "El DJ versus el músico",
   "para": "La AFM insistió en que la música tenía que ser controlada por músicos afiliados, así que durante muchos años a los DJ de las estaciones más grandes se les daba tocadiscos para que tocaran sus grabaciones según lo indicado. Más tarde, el 1 de agosto de 1942, los músicos estadounidenses sorprendentemente se fueron a la huelga por el asunto de la música grabada. La AFM ordenó una prohibición de grabar discos a sus miembros, que solo se levantaría cuando las discográficas acordaran el pago de mayores regalías a sus artistas para compensar por el lucro cesante que traía causa de la audición de discos en la radio. También añadieron algunas demandas con el objetivo de erradicar el uso de rocolas en los clubs nocturnos. Luego de más de un año en el que prácticamente no se grabaron discos nuevos, las discográficas cedieron. En el Reino Unido, el Sindicato de Músicos y las discográficas libraron una batalla parecida contra el disc jockey, pero esta tenía que ver más con el desempeño público de los discos que con sus transmisiones de radio."
+ },
+ "No se construyó el monumento. Hoy, el edificio es un banco.": {
+  "ch": 8,
+  "page": 329,
+  "sec": "Tragedia",
+  "para": "No se construyó el monumento. Hoy, el edificio es un banco."
  },
  "Nuestra empresa tenía por objeto escribir una biografía de la figura más importante de la música dance: el disc jockey": {
   "ch": 1,
@@ -882,11 +990,29 @@ window.ANOCHE_REFS = {
   "sec": "Terry Noel en el Arthur",
   "para": "Para los DJ que vinieron después, Terry Noel era el hombre que escribió el manual de instrucciones. Los que siguieron su paso añadirían niveles considerables de arte e intensidad, pero Noel es el prototipo del DJ moderno. A diferencia de aquellos que después buscaban a fondo las canciones de baile más originales, sus gustos eran categóricamente pop; y su amor por la fama y los famosos evitó que sacrificara todo por la pista de baile, pero en el aspecto técnico, y en términos de montar un espectáculo, Terry Noel fue la fuerza fundamental."
  },
+ "Para muchos, el disco nació en Fire Island.": {
+  "ch": 8,
+  "page": 299,
+  "sec": "Fire Island",
+  "para": "Para muchos, el disco nació en Fire Island. «Sigo sin saber de algún lugar donde el disco haya alcanzado su caracterización formal —afirma Bob Casey—, donde uno tenía dos platos, por lo que el disc jockey podía cambiar de un disco al otro y lograr la mezcla perfecta». Casey, al poco de licenciarse tras prestar el servicio militar en Vietnam, se enamoró de Fire Island inmediatamente, y luego construyó un sistema de sonido para su club más famoso, el Ice Palace."
+ },
  "Parecía como si el northern soul se parodiara a sí mismo.": {
   "ch": 4,
   "page": 152,
   "sec": "La pugna por el alma del soul",
   "para": "A medida que el Mecca evolucionaba inevitablemente, mezclando cualquier cosa de Philly International con las propuestas de Funkadelic, Wigan reaccionó violentamente con una verdadera pesadilla de stompers que provenían del pop. Ponían Theme From Joe 90, así como Hawaii 5-0 de los Ventures. Un DJ, Richard Searling, hizo todo lo que pudo para conservar la dignidad de las selecciones musicales, pero no era suficiente. Parecía como si el northern soul se parodiara a sí mismo."
+ },
+ "Patrick Cowley era un hombre blanco intratable y completamente liberado que vivía, como sugieren sus canciones, para el sexo y la música.": {
+  "ch": 8,
+  "page": 321,
+  "sec": "Bobby Viteritti en el Trocadero Transfer",
+  "para": "Mientras caía el disco en las garras del mainstream, los sellos independientes locales como Megatone y Moby Dick emergieron para cerrar la brecha que dejó la retirada del mercado de los sellos principales. Los presupuestos recortados impedían las épicas producciones orquestales a las que el disco estaba acostumbrado; en cambio, los DJ y los productores comenzaron a crear grabaciones de disco sintetizadas específicamente para los clubs. El más famoso de todos era el técnico de luces del City Disco. Patrick Cowley era un hombre blanco intratable y completamente liberado que vivía, como sugieren sus canciones, para el sexo y la música. Cowley se hizo famoso por su vínculo con Sylvester, un cantante de jazz negro famoso que se convirtió en una diva drag queen del disco con su falsete penetrante, a quien conoció en el City Disco. Cowley se convirtió en el motor detrás del soul secuenciado de Sylvester, a quien produjo clásicos como You Make Me Feel (Mighty Real) y Do You Wanna Funk?"
+ },
+ "Pero Bobby se veía a sí mismo como un artista, y actuaba como tal.": {
+  "ch": 8,
+  "page": 318,
+  "sec": "Bobby Viteritti en el Trocadero Transfer",
+  "para": "Pero la verdadera estrella de la ciudad era el muy talentoso, y arrogante, Bobby Viteritti. Este exigía respeto en un trabajo que apenas lo recibía. Originariamente, forjó su reputación en Florida, en el hotel Marlin Beach, uno de los primeros hoteles gais de la Costa Este. «Definitivamente era un excéntrico insoportable, pero era un genio —dice Robbie Leslie, quien había trabajo con él en la iluminación—. En ese momento, los DJ no se consideraban estrellas, solo personas que pinchaban discos. Pero Bobby se veía a sí mismo como un artista, y actuaba como tal. Era la era en la industria en la que uno podía contratar un DJ por treinta y cinco a cuarenta dólares la noche, pero era un pionero y había elevado el nivel de la práctica de poner música a un arte»."
  },
  "Pero antes de que el disco llegara, la noche tenía que regresar a las manos de las clases populares, un prerrequisito ineludible en toda innovación en el mundo de los clubs.": {
   "ch": 6,
@@ -899,6 +1025,12 @@ window.ANOCHE_REFS = {
   "page": 108,
   "sec": "San Francisco y La Prueba del Ácido",
   "para": "Como sabemos, en algún momento los clubs nocturnos se convirtieron en lugares de gran espectáculo: enormes sistemas de luz palpitante, lugares fuera de este mundo que podían sacudirte la realidad de los huesos; y los aficionados a los clubs pasaron de ser miembros de un público a unos participantes activos y recíprocos, los componentes vitales de la música ritual trascendental. Este cambio se fue dando gradualmente por un tiempo, mientras la experiencia del club se movía al lento compás de la tecnología, los experimentos musicales y las costumbres sociales. Pero de repente… ¡todo era ácido!"
+ },
+ "Pero el hi-NRG todavía es disco; sus DJ originales fueron DJ de disco.": {
+  "ch": 8,
+  "page": 297,
+  "sec": "SO MANY MEN, SO LITTLE TIME (TANTOS HOMBRES, TAN POCO TIEMPO)",
+  "para": "Pero el hi-NRG todavía es disco; sus DJ originales fueron DJ de disco. El hi-NRG fue lo que tomó el relevo cuando el disco comercial se hundió y los Village People abandonaron la YMCA. Es la música que evolucionó en los clubs gais blancos de clase alta de Nueva York y alcanzó la madurez en Londres, Nueva York y San Francisco. Aunque esta historia está repleta de tragedias, sus raíces yacen en un profundo deseo de liberación, junto al surgimiento de la cultura y del orgullo gay."
  },
  "Pero las personas listas ya habían dado con algo mejor: el DJ de club.": {
   "ch": 2,
@@ -953,6 +1085,12 @@ window.ANOCHE_REFS = {
   "page": 56,
   "sec": "Alan Freed y el rock’n’roll",
   "para": "El 7 de septiembre de 1954, Freed transmitió su primer show para la WINS de Nueva York. En pocas semanas se convirtió en la fuerza dominante de la radio de la región; atrajo un público gigantesco de diversidad racial para su música contundentemente negra (en Cleveland, su público era abrumadoramente afrodescendiente). Ray Reneri, quien trabajaba para Freed, aseguraba que si este pinchaba un disco, «al día siguiente vendía diez mil copias»."
+ },
+ "Robbie Leslie lo describía nítidamente como «la curva de campana de una noche de baile».": {
+  "ch": 8,
+  "page": 323,
+  "sec": "Música mañanera",
+  "para": "Los verdaderos devotos de la música, hastiados por la rígida programación de la noche, solían aguantar hasta las seis de la mañana solo para escuchar los sets matinales de los DJ. Muchos de los primeros DJ de hiNRG provenían de la misma época de Francis Grasso y David Mancuso, y la denominada sensualidad puede concebirse como su intento de arrebatar el control de la pista de baile a la dictadura de las drogas. En todo caso, mientras la noche avanzaba y se cansaban las extremidades poco a poco —quizá con la ayuda de barbitúricos o Quaalude—, así se tranquilizaba la pista de baile. Robbie Leslie lo describía nítidamente como «la curva de campana de una noche de baile»."
  },
  "Rosner construyó su primer sistema de sonido para las casetas de Canada-A-Go-Go y Carnival-A-Go-Go en la Exposición Universal de 1964 y 1965.": {
   "ch": 6,
@@ -1013,6 +1151,12 @@ window.ANOCHE_REFS = {
   "page": 217,
   "sec": "David Mancuso en el Loft",
   "para": "Si el disco tiene un ángel, este es la figura desaliñada de David Mancuso; y si tuvo un lugar de nacimiento, fue su club, el Loft. Más influyente que cualquier club nocturno anterior o posterior, fue el lugar donde se concibió la música que bailas hoy, así como el lugar adonde ir a bailarla."
+ },
+ "Si el movimiento disco fue apaleado por la comercialidad rampante, el sida se lo llevó a la tumba.": {
+  "ch": 8,
+  "page": 325,
+  "sec": "Tragedia",
+  "para": "Las historias del disco y la liberación gay son paralelas. Para el corazón de sus devotos, el auge de la discoteca y del hi-NRG que lo siguió fue mucho más que puro hedonismo. Era un movimiento mediante el cual los gais habían logrado triunfos sociales sustanciales. No solo era la banda sonora para su emancipación tras incontables años de invisibilidad, una llamada a la unión y a la tolerancia, sino que también era un caballo de Troya mediante el cual muchos aspectos de la cultura gay habían alcanzado la aceptación por parte del establishment. Debido a esto, cuando el disco se hundió, se vivió como un ataque a las libertades que habían conquistado: sobre todo porque la resaca del disco solía describirse con una homofobia indiscutible. A esta insolencia se le sumaría una tragedia total en la medida en que otra fuerza emergente tendría un impacto sin precedentes en la comunidad gay. Si el movimiento disco fue apaleado por la comercialidad rampante, el sida se lo llevó a la tumba. La historia que comenzó con la liberación representada por Stonewall terminó con una enfermedad que al principio parecía discriminar por las mismas razones que la sociedad en general. Durante los primeros años, el «cáncer gay» que todavía no tenía diagnóstico, el sida, fue conocido como SIDRG: Síndrome de Inmunodeficiencia Relacionado con los Gais [GRIDS, por sus siglas en inglés]. El novelista David Leavitt describió el período como «un momento en que las calles estaban inundadas por un sentimiento casi palpable de luto y pánico»."
  },
  "Si el sonido de Filadelfia se convirtió en el prototipo inicial de la llegada del disco a las corrientes dominantes, el eurodisco conformó una segunda ola y una ruptura con los matices afroamericanos del género original.": {
   "ch": 7,
@@ -1164,6 +1308,12 @@ window.ANOCHE_REFS = {
   "sec": "Farmer Carl en el Catacombs",
   "para": "Aunque la escena todavía estaba en sus años de formación, ya lograba ejercer una influencia en la industria musical en general: fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio. Cuando Just A Little Misunderstanding de los Contours 45 (grabada originalmente en 1965 y coescrita por Stevie Wonder) se coló en las listas en enero de 1970, anunció una nueva era para la música bailable en el Reino Unido. Le siguió pronto I’m Gonna Run From You de Tami Lynn, del sello Mojo Records, distribuida por la Polydor de John Abbey, que alcanzó el número cuatro en mayo de 1971. Como este último era dueño y fundador de Blue & Soul, estaba en una posición privilegiada para ver las posibilidades de la música. La confirmación de este nuevo fenómeno se produjo cuando Hey Girl Don’t Bother Me de las Tams, una grabación cuya fama se debe a la influencia de Farmer Carl, llegó al número uno (en Reino Unido) en 1971."
  },
+ "nuestro planeta se mueve al ritmo de la pulposa bomba del hi-NRG.": {
+  "ch": 8,
+  "page": 296,
+  "sec": "SO MANY MEN, SO LITTLE TIME (TANTOS HOMBRES, TAN POCO TIEMPO)",
+  "para": "Es el sonido brioso del pop mundial. El dulce sabor a acordes propulsados por un sintetizador con pomposos arreglos para cuerda acoplados a una base rítmica de tempo rápido y pulsante. Es la banda sonora musical de las escapadas a las playas griegas, la canción de fondo de las tiendas en Bluewater, la dieta básica de MTV Alemania. Es de donde la música trance sacó sus melodías; es donde Kylie conoció a Jason. De divas polacas embadurnadas de maquillaje a israelíes sexualmente ambiguos en Eurovisión, de Take That, Steps y los Pet Shop Boys a DJ Sammy, Tiësto y Paul Van Dyk, nuestro planeta se mueve al ritmo de la pulposa bomba del hi-NRG."
+ },
  "produjo Girl You Need A Change Of Mind, lanzada en 1973, del que se podría decir que fue la primera grabación de disco.": {
   "ch": 7,
   "page": 263,
@@ -1290,6 +1440,18 @@ window.ANOCHE_REFS = {
   "sec": "El auge de las discotecas",
   "para": "Con o sin recesión, David Mancuso y Francis Grasso habían creado entre ambos una cultura de los DJ que florecía. «La típica discoteca de Nueva York era joven, italiana y gay», escribió Vince Aletti al referirse a los chicos guapos cuyos nombres acababan en «o», quienes se apoderaban de la vida nocturna de la ciudad."
  },
+ "«Lo que sí les gustaba realmente eran las voces femeninas».": {
+  "ch": 8,
+  "page": 305,
+  "sec": "Bobby DJ en el Ice Palace",
+  "para": "Aunque el hi-NRG fue un género que no se codificó formalmente hasta 1984, la escena gay blanca de Nueva York ya comenzaba a distinguirse musicalmente. Otro club predominantemente blanco era Barefoot Boy, donde Tony Smith (un afrodescendiente) era el residente. Recuerda cómo a mitad de los setenta, a pesar de una lista de reproducción bastante amplia, no se ponían los temas con mucho funk. «Lo único que no podía pinchar realmente era la música urbana negra. Pude salirme con la mía al poner Doin’ It To Death de los JB, pero no lo pude lograr con Give It Up Turnit Loose o Sex Machine». Smith también destaca otra característica del gusto del público que sería fundamental para el sonido hi-NRG: «Lo que sí les gustaba realmente eran las voces femeninas». A medida que se aproximaba la curva hacia los ochenta, esta variedad particular del disco se impondría con mucha fuerza."
+ },
+ "«Mató a nuestros clientes, mató a nuestros artistas, mató a nuestros fundadores —recuerda John Hedges—.": {
+  "ch": 8,
+  "page": 327,
+  "sec": "Tragedia",
+  "para": "Patrick Cowley murió el 12 de noviembre de 1982. Sylvester estaba actuando en el Heaven de Londres. En una escena emotiva, anunció la muerte de su amigo y colaborador antes de interpretar Do You Wanna Funk? Por desgracia, Sylvester también murió de sida seis años después, el 18 de septiembre de 1988. Casi todos los de Megatone y Moby Dick también murieron. «Mató a nuestros clientes, mató a nuestros artistas, mató a nuestros fundadores —recuerda John Hedges—. Fue como un banco de niebla que nos envolvió durante tres o cuatro años, y de repente no quedaba nadie»."
+ },
  "«Muchos de los DJ ponían las canciones en un orden particular debido a la forma en que la gente bailaba», recuerda Bellars": {
   "ch": 4,
   "page": 131,
@@ -1314,6 +1476,24 @@ window.ANOCHE_REFS = {
   "sec": "Los primeros sonidos",
   "para": "Otro gánster era Prince Buster, un exboxeador cuyo nombre de pila era Cecil Bustamante Campbell. Buster luego se convertiría en uno de los vocalistas y productores más famosos de la isla, pero comenzó como jefe de seguridad en los bailes de Coxsone. Su pelotón de matones y su reputación como tipo duro le vino bien a la hora de rechazar los esfuerzos destructivos de Duke Reid, sobre todo cuando el propio Buster estaba sobradamente preparado para recurrir al sabotaje; durante la primera noche al servicio de Coxsone, Buster destrozó la aguja de Duke. Posteriormente, Buster fue fundamental para el auge del ska, y cuando fundó su propio sistema de sonido, Voice Of The People, pronto emergió con ese estilo para convertirse en el más poderoso de los comienzos de los sesenta; para entonces los sonidos dominaban el mundo del entretenimiento jamaicano. Como recuerda en el libro de Stephen Davis, Reggae Bloodlines: «No había radio en aquellos días, y el sistema de sonido lo era todo. Para escuchar un disco nuevo, miles acudían a los bailes»."
  },
+ "«No hubo Stonewall en esta ciudad porque estábamos muy adelantados»": {
+  "ch": 8,
+  "page": 316,
+  "sec": "San Francisco",
+  "para": "Los negocios que atendían a una clientela específicamente gay aparecieron en Polk Street (precursora de Castro Street) en 1965, con un centro comunitario gay que abrió al año siguiente. La explosión hippie alimentó los sentimientos de liberación. «En el Capri, uno se paraba en la calle, en nuestro propio territorio, hablábamos, formábamos vínculos, forjábamos amistades, en público, al aire libre —decía el poeta Aaron Shurin del primer bar gay hippie de San Francisco—. Para mí era importante porque la dinámica no la regía el dolor, no la regía la soledad. No se vivía bajo el estigma de la soledad. Se vivía bajo las señales de algo nuevo, una nueva luz y un nuevo orden que apenas se nombraba». En efecto, para finales de los sesenta, la comunidad gay de San Francisco ya era una fuerza política lo suficientemente potente como para erradicar el acoso policial que tanto enfurecía a Nueva York. «No hubo Stonewall en esta ciudad porque estábamos muy adelantados», dice Nan Alamilla Boyd, profesor de estudios de género de la Sonoma State University."
+ },
+ "«No sabíamos que nuestros pasos de baile estaban esculpiendo las inscripciones de nuestros epitafios».": {
+  "ch": 8,
+  "page": 328,
+  "sec": "Tragedia",
+  "para": "Con la clientela diezmada, el Saint cerró en abril de 1988, con la música de Hold On To My Love de Jimmy Ruffin y el movimiento final de la Novena Sinfonía de Beethoven (el club reabrió poco después sin el domo a finales de 1989). El Saint celebra todavía fiestas masivas cada trimestre, con espectáculos sexuales y un caudal de mal comportamiento. Cuando vendieron el edificio, los activistas gais sintieron que debería haber un monumento a la memoria del club y a sus protagonistas, pues ese había sido el lugar desde donde se proclamó la liberación gay al mundo entero y un lugar donde la libertad fue sofocada por una tragedia terrible. Rodger McFarlane, director ejecutivo de Gay Men’s Health Crisis, una organización benéfica para el sida de Nueva York, reflexionó sobre los recuerdos agridulces que evoca el Saint. «No sabíamos que nuestros pasos de baile estaban esculpiendo las inscripciones de nuestros epitafios»."
+ },
+ "«Nunca había existido un club como el Saint», dice Ian Levine": {
+  "ch": 8,
+  "page": 307,
+  "sec": "El Saint",
+  "para": "«Nunca había existido un club como el Saint», dice Ian Levine, otrora DJ dominante el northern soul y entonces el residente fundador del Heaven (Londres). «El Saint ostenta un lugar único en la historia de la música disco. —Suspira—. El mejor de la historia. En el Heaven, a lo mejor podíamos aspirar vagamente a lograr una décima parte de lo que era el Saint. Era lo máximo»."
+ },
  "«Para mí, esta comunión en la pista es una congregación espiritual», declaró Rodriguez": {
   "ch": 6,
   "page": 251,
@@ -1331,6 +1511,12 @@ window.ANOCHE_REFS = {
   "page": 105,
   "sec": "Terry Noel en el Arthur",
   "para": "«Quiero emoción», ladraba Noel, recordando sus días como DJ. «Quiero que se sientan como nunca se han sentido en la vida. Veía las bocas de la gente en la pista diciendo “¡Uau! ¿Qué es esto?”. Es como esas películas dramáticas de hoy en las que uno escucha el disparo detrás de uno. Era lo mismo conmigo. Lo único que yo lo hacía en los sesenta»."
+ },
+ "«Sabía que iba a ser un éxito porque era tan amanerada": {
+  "ch": 8,
+  "page": 314,
+  "sec": "Stock, Aitken y Waterman",
+  "para": "Durante sus años como compositor, Waterman visitaba los clubs gais con un dictáfono, grababa los sonidos más recientes y se los proporcionaba a Mike Stock. Las primeras agrupaciones que produjeron eran supergais. Eran Divine, estrella de las películas indignantes de John Waters, una drag queen de 136 kilos cuyas cejas parecían los arcos de McDonalds. Un reto de gruñidos, su canción So You Think You’re a Man alcanzó la posición 16 (Reino Unido) en 1984. «Sabía que iba a ser un éxito porque era tan amanerada —admite Waterman en su autobiografía, I Wish I Was Me—. Si comenzó como un noventa por ciento afeminada, la cosa se disparó al ciento veinte por ciento para cuando terminamos». El trío Stock Aitken Waterman (SAW) siguió con un número uno a nivel mundial con la canción You Spin Me Round (Like A Record) de Dead Or Alive, un grupo gótico ligero de Liverpool, cuyo cantante de voz chillona era el andrógino de voz mordaz Pete Burns."
  },
  "«Soy la persona que diseñó la forma moderna de pasar la noche —declaró—. Soy la primera y única Reina de la Noche».": {
   "ch": 3,
@@ -1367,5 +1553,11 @@ window.ANOCHE_REFS = {
   "page": 294,
   "sec": "El disco se estrella",
   "para": "El disco no tenía banda de músicos. Ni giras. Ni camisetas ni souvenirs. Sus abanderados no eran otra cosa que un atajo de disc jockeys irresponsables. La crítica no le prestó mucha atención y el disco tuvo poca cobertura mediática, excepción hecha de Vince Aletti y Tom Moulton en Billboard, y casi toda era negativa. En el Reino Unido, los independientes del rock, en su gran mayoría blancos de clase trabajadora, eran particularmente incapaces de aguantar una música diseñada para el cuerpo y no para la mente. Como Danny Baker —uno de los pocos periodistas del rock que entendió lo que era el disco— escribió en NME por aquel entonces: «¿Cómo se puede criticar esta música estando sentado?»."
+ },
+ "»Y luego el Hombre creó al Heaven [Cielo]».": {
+  "ch": 8,
+  "page": 309,
+  "sec": "Ian Levine en el Heaven",
+  "para": "»Y luego el Hombre creó al Heaven [Cielo]»."
  }
 };
