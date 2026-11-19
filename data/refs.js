@@ -48,11 +48,23 @@ window.ANOCHE_REFS = {
   "sec": "El twist",
   "para": "Clark despojó al twist de todas sus connotaciones sexuales, de su esencia afrodescendiente y lo convirtió en un producto seguro para los adolescentes blancos suburbanos. Se grabó una nueva versión a cargo de un afrodescendiente de piel más clara llamado Chubby Checker (cuyo nombre era una pulla graciosa hacia Fats Domino) para un sello, Cameo Parkway, en el que resulta que Dick Clark tenía acciones. Clark promovió esta nueva versión de «The Twist» en «American Bandstand», donde Checker le explicó al público exactamente cómo se bailaba: «Solo imagínate que te estás secando el trasero con una toalla mientras sales de la ducha e intentas apagar un cigarrillo con los dos pies». Los bailarines blancos, reclamando que habían inventado el baile, demostraron cómo se daban los pasos. Checker pronto se encaramó al número 1 en la lista Hot 100."
  },
+ "Como la escena del northern soul se alimentaba de rarezas, convirtió la profesión del DJ en una suerte de arqueología de la reproducción de discos.": {
+  "ch": 4,
+  "page": 154,
+  "sec": "El nacimiento del trainspotter",
+  "para": "La contribución más importante del northern soul al oficio del DJ fue la introducción del concepto del entendido. Antes, este era el dominio exclusivo del coleccionista de música clásica, con la excepción de algunos adictos al jazz y al blues y poco más. Pero hasta la llegada del soul, la música bailable consistía mayormente en pinchar los éxitos de la época. Como la escena del northern soul se alimentaba de rarezas, convirtió la profesión del DJ en una suerte de arqueología de la reproducción de discos. El DJ tenía una nueva línea de investigación que explorar: era un investigador musical, un vendedor de rarezas, un vigilante de lo que nadie tiene, o como se acuñó en inglés británico, un trainspotter."
+ },
  "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa": {
   "ch": 3,
   "page": 75,
   "sec": "París durante la guerra",
   "para": "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa [del francés discothèque]. Formada sobre la palabra francesa para biblioteca [bibliothèque], significa literalmente «un depósito de discos». Supuestamente, sus orígenes se remontan al puerto mediterráneo de Marsella, donde los marineros solían dejar sus discos en los almacenes de los cafés durante el tiempo que estaban en altamar. Cuando se les concedían permisos para ir a tierra, solían regresar a su bar favorito a escuchar los discos en el fonógrafo ubicado en una esquina del establecimiento. El director de cine Roger Vadim reclama haber acuñado el término, pero no hay una etimología definitiva (la división que prestaba discos de la Biblioteca Nacional de Francia se llamaba La Phonothèque [La fonoteca]). Un punto interesante es que no se trataba necesariamente de un lugar: mon discothèque puede significar «mi colección de discos». La connotación apuntaba más a un lugar íntimo y privado que a una sala de baile para orquestas, a las que en Francia se las llamaba le dancing."
+ },
+ "Con el tiempo, la cosa se fue tornando insípida hasta que se quedó en un solo sonido.": {
+  "ch": 4,
+  "page": 129,
+  "sec": "El Twisted Wheel",
+  "para": "«Podría decirse que fui quien lanzó el movimiento del northern soul, pero en realidad considero que la música es muy limitada —recuerda—, porque en los primeros días ponía un disco de Charlie Mingus, luego ponía algo de bluebeat, seguido de una canción de Booker T, luego un poco de Muddy Waters o de Bo Diddley. Con el tiempo, la cosa se fue tornando insípida hasta que se quedó en un solo sonido. Cuando comencé a trabajar de DJ, podía pinchar lo que quisiera. Pero al cabo de tres años, tenía que mantener el mismo patrón constantemente, que es lo que es el northern soul»."
  },
  "Con los contactos cercanos entre la BMI y la radio y una membresía más étnicamente variopinta, eran buenas noticias para el auge de la música negra.": {
   "ch": 2,
@@ -90,6 +102,12 @@ window.ANOCHE_REFS = {
   "sec": "La jukebox o máquina de discos",
   "para": "Fue la derogación de la Prohibición en 1933 lo que en realidad provocó el auge repentino de la máquina de discos. Por cada speakeasy ilegal, abrían cinco bares, tabernas o cantinas en su lugar, y casi todos contaban con una máquina de discos. En 1936, solo Decca manejaba unas 150 000. Para el comienzo de la Segunda Guerra Mundial, había casi medio millón por todo Estados Unidos. La rocola se convirtió en una herramienta muy valiosa para las métricas de la mercadotecnia porque registraba el número de veces que se escuchaba cada disco y su popularidad podía medirse. De esa constatación nacieron las listas de éxitos. El Top 40 debe su nombre a que ese era el número de discos que cabía en una jukebox. Uno de los primeros programas de radio llevaba por nombre «Jukebox Saturday Night»."
  },
+ "El Twisted Wheel abrió sus puertas en noviembre de 1963 en el número 26 de Brazennose Street como un club abierto toda la noche": {
+  "ch": 4,
+  "page": 125,
+  "sec": "El Twisted Wheel",
+  "para": "El Twisted Wheel abrió sus puertas en noviembre de 1963 en el número 26 de Brazennose Street como un club abierto toda la noche, que servía una combinación de blues, el primer soul, bluebeat y jazz (el 18 de septiembre de 1965 se mudó a un segundo local en el número 6 de Whitworth Street). La moda de las fiestas que duraban toda la noche ya existía desde hacía un tiempo, y no fue ni mucho menos el primer lugar que las celebró. Pero en un par de años, los contornos del mundo de los clubs cambiaron significativamente gracias a este: el Twisted Wheel se convertiría en un oasis insólito para este tipo de música."
+ },
  "El artesanal oficio del DJ cumplió su primer centenario en 2006; tiene la misma edad que los copos de maíz.": {
   "ch": 1,
   "page": 3,
@@ -114,6 +132,18 @@ window.ANOCHE_REFS = {
   "sec": "Londres",
   "para": "La creciente comunidad inmigrante de Londres comenzaba a tener su impacto también en la noche londinense. Los antillanos, que ignoraban que tuvieran que estar en cama a las diez con una taza de leche Horlicks, escuchando el programa de radio «Light Programme», celebraban toda la noche en lugares como el Roaring Twenties. El disc jockey aquí era un sujeto jamaicano de nombre Count Suckle, quien introdujo en la metrópoli el llamado bluebeat (cuyo nombre proviene del sello de ska de Ziggy Jackson, Blue Beat). Suckle ya tenía una reputación considerable entre la comunidad afrodescendiente gracias a sus fiestas con sistema de sonido (que solía celebrar en días de fiesta nacional) en el Porchester Hall, el Kilburn Gaumont State y otros lugares en el oeste y noroeste de Londres. También trajo consigo otra innovación jamaicana, el «encubrimiento», que consiste en rasgar el sello del disco para disimular la identidad de la grabación. Mick Eve, un músico activo en la escena londinense de fiestas nocturnas, recuerda una vez que Suckle despegó con vapor el sello de una copia prístina del disco My Baby Just Cares for Me, de Nina Simone."
  },
+ "El gentilicio northern [norteño] en northern soul no hace referencia a Detroit sino a Wigan; no a Chicago sino a Manchester, a Blackpool y a Cleethorpes.": {
+  "ch": 4,
+  "page": 122,
+  "sec": "Un género forjado a base de fracasos",
+  "para": "Su nombre debe su origen al lugar donde se disfrutó, no donde se produjo (aunque esto también tendría sentido). El gentilicio northern [norteño] en northern soul no hace referencia a Detroit sino a Wigan; no a Chicago sino a Manchester, a Blackpool y a Cleethorpes."
+ },
+ "El indiscutible campeón de campeones de la Primera División de discos raros del northern soul era Do I Love You? de Frank Wilson.": {
+  "ch": 4,
+  "page": 157,
+  "sec": "El disco más raro del mundo",
+  "para": "El indiscutible campeón de campeones de la Primera División de discos raros del northern soul era Do I Love You? de Frank Wilson. Durante mucho tiempo se sabía de la existencia de una sola copia en todo el planeta. Wilson trabajaba para la Motown y ya había alcanzado la fama como productor de «Double Cookin’» de los Checkerboard Squares, que había sido un gran éxito en la escena del northern soul."
+ },
  "El jazz, que ya era la música de una juventud rebelde, se convirtió en nada menos que la banda sonora de la resistencia.": {
   "ch": 3,
   "page": 76,
@@ -125,6 +155,18 @@ window.ANOCHE_REFS = {
   "page": 52,
   "sec": "Hablar el jive",
   "para": "El más grande de todos era Douglas Jocko Henderson, mejor conocido como «The Ace from Outer Space». [El as desde el espacio sideral], con su famoso programa de R&B «1280 Rocket» en directo por WOV desde el Palm Café de Harlem. Usando el sonido de un cohete despegando para abrir el programa, y el sonido de más cohetes para introducir las grabaciones, seguido de un «Más alto, más alto, más alto…», Jocko conducía su programa entero como si fuera un ritmonauta del espacio. «Gran guga muga chuga, buga», exclamaba junto a muchos otros «Daddios»."
+ },
+ "El northern soul fue la venganza de los pueblos pequeños.": {
+  "ch": 4,
+  "page": 163,
+  "sec": "Del northern soul al nu-energy",
+  "para": "El northern soul fue la venganza de los pueblos pequeños. Aunque su cuna fue el área metropolitana de Manchester, sus clubs míticos formaban un mapa geográfico profundamente improbable: Tunstall, Wigan, Blackpool, Cleethorpes. A pesar de su casi total aislamiento de Londres y de la industria musical establecida, su influencia fue impresionante."
+ },
+ "El northern soul tenía su eco en Estados Unidos con la llamada música de playa": {
+  "ch": 4,
+  "page": 162,
+  "sec": "Música de playa",
+  "para": "El northern soul tenía su eco en Estados Unidos con la llamada música de playa, subcultura emergente que brotó en torno a una serie de pueblos que crecieron alrededor de complejos turísticos en Carolina del Norte y Carolina del Sur. Sus primeros adeptos eran mayormente blancos de clase trabajadora cuyos viajes clandestinos a complejos como Myrtle y Virginia Beaches les daban una oportunidad para bailar al ritmo de los discos de música afroamericana, prohibidos en una sociedad profundamente racista. (La película Shag de 1990 inmortalizó la música de playa)."
  },
  "El primer lugar de Nueva York que contaba de forma indiscutible con todos los elementos de un club nocturno moderno fue Le Club.": {
   "ch": 3,
@@ -150,6 +192,18 @@ window.ANOCHE_REFS = {
   "sec": "El Peppermint Lounge",
   "para": "La popularidad del twist desató una serie de bailes con la misma forma libre: el frug, el mashed potato, el poni, el hully gully, el monkey. Al cabo de pocos años, las pistas de baile habían otorgado popularidad a los eslóganes «freak-out» [pierde el control] y «flower power» [poder de las flores] de la era hippie, así como a las volteretas acrobáticas y las piruetas del northern soul. El twist había lanzado una bomba nuclear sobre el sector conservador del mundo del baile y erradicado los muy rígidos rituales de la pista de baile. Con esta hazaña se sentó la base para un nuevo tipo de club nocturno. Era hora de que la discoteca llegara a la edad adulta."
  },
+ "En 1976 entró un tercero en liza cuando un pueblo costero de Lincolnshire llamado Cleethorpes organizó un revival del soul de la época dorada.": {
+  "ch": 4,
+  "page": 153,
+  "sec": "Cleethorpes",
+  "para": "En 1976 entró un tercero en liza cuando un pueblo costero de Lincolnshire llamado Cleethorpes organizó un revival del soul de la época dorada. Un matrimonio, Colin y Mary Chapman de Scunthorpe, encontraron un local en un complejo turístico desvencijado en la Costa Este, que había sido sede de todo, desde conciertos de Leo Sayer hasta espectáculos veraniegos de las Nolan Sisters. Cuando el viento soplaba, se podía oír el crujir del cercano muelle. Repleto de cientos de bailarines de northern soul crujía aún más. El elenco de disc jockeys estaba compuesto por desconocidos locales como Poke y Chris Scott, y tras añadir a algunos residentes veteranos como Ian Dewhirst, forjaron un sonido que era en esencia una amalgama del Casino y el Mecca."
+ },
+ "En 1978, Billboard declaró que el Casino de Wigan era la mejor discoteca del mundo": {
+  "ch": 4,
+  "page": 141,
+  "sec": "El Casino de Wigan frente al Mecca de Blackpool",
+  "para": "En 1978, Billboard declaró que el Casino de Wigan era la mejor discoteca del mundo, apenas un año después de otorgarse esta distinción al Paradise Garage de Nueva York. Para muchos, el Casino de Wigan es sinónimo del northern soul. Abierto al público entre 1973 y 1981, en su apogeo era la expresión más importante y más representativa en el ámbito nacional de una escena regional sólida. El número de sus miembros era enorme (100 000 en su mejor momento) y atraía una ingente cantidad de clientes semana tras semana. Sin duda era muy popular. Sin embargo, los reclamos de que en realidad era el mejor de los clubs de northern soul hay que tomarlos con pinzas. No era el más influyente, y lo cierto es que no era el más atrevido y, en sus últimos años, mientras proveía una procesión de grabaciones que eran incluso harto ridículas, cuyo único mérito era el enérgico ritmo norteño, se quedaba algo corto en sus reclamos por la corona del norte. El escritor John McCready lo ha comparado con el actual Ministry of Sound e insta a los historiadores a que no exageren su importancia solo porque atrapaba la mayor cantidad de gente. Aun así, el Casino de Wigan guarda un lugar especial en la memoria de miles, e incluso hoy para muchos representa el verdadero club de northern soul: era el Corazón del Soul."
+ },
  "En Jamaica, los DJ de sistemas de sonido emularon esta forma de hablar, llamada jive, casi de inmediato y se convirtieron en disc jockeys superestrellas como toasters o MC. En Nueva York, veinte años más tarde, surgió el rapero, descendiente de ambas tradiciones.": {
   "ch": 2,
   "page": 53,
@@ -161,6 +215,12 @@ window.ANOCHE_REFS = {
   "page": 74,
   "sec": "El sock hop",
   "para": "En Estados Unidos, los primeros eventos con DJ en vivo tuvieron lugar durante los años cincuenta en bailes conocidos como platter parties [fiestas de platos] o sock hops [saltos en calcetines]. En ellos, un DJ famoso de la radio salía del estudio y asumía la función de una rocola humana. Estas fiestas sock hop se celebraban en los gimnasios de las escuelas secundarias (en los que había que quitarse los zapatos para proteger el suelo, de ahí el nombre) y eran en su mayoría espectáculos para promover los programas del DJ de radio. Este tipo de fiestas fueron la referencia fundacional para programas como «American Bandstand», el programa televisivo que convirtió a Dick Clark en una institución estadounidense. Emitido en todo el país desde 1957 hasta 1963, Bandstand era un medio promocional sin igual hasta el surgimiento de MTV a mitad de los ochenta."
+ },
+ "En ese sentido, el Casino de Wigan fue probablemente el primer club nacional, pues atrajo bailarines de todos los rincones de las islas Británicas.": {
+  "ch": 4,
+  "page": 147,
+  "sec": "Relanzamientos y comercialización",
+  "para": "Para ser justos con el Casino, también rompía otros récords: The Night, de Frankie Valli & The Four Seasons, y Sexy Sugar Plum, de Roger Collins fueron dos de las adiciones más destacables al canon que salió de Wigan. Y lo que sí era incuestionable era que el lugar capturó la imaginación de miles de aficionados a los clubs. En ese sentido, el Casino de Wigan fue probablemente el primer club nacional, pues atrajo bailarines de todos los rincones de las islas Británicas."
  },
  "En la estela de la payola, la idea de seleccionar las grabaciones científicamente y no según los caprichos de algún disc jockey corrupto resultó muy atractiva para los dueños de estaciones y sus patrocinadores.": {
   "ch": 2,
@@ -204,6 +264,12 @@ window.ANOCHE_REFS = {
   "sec": "Los mods y el Swingin’ London",
   "para": "La cultura de fiestas para bailar toda la noche en Londres pronto despegó en todas partes, y resultaron sumamente populares en las Midlands y el norte de Inglaterra. Mientras que los clubs de baile del sur sucumbían a los aires floridos de los hippies, la clase trabajadora del norte prosiguió su luna de miel con la música afroamericana. Esta cultura alternativa se convertiría en pocos años en el northern soul."
  },
+ "Esta suerte de ocultación vendría a ser el precursor de las exclusivas de sello blanco de los DJ modernos": {
+  "ch": 4,
+  "page": 159,
+  "sec": "Despistar a la competencia tapando las galletas",
+  "para": "Inevitablemente, la competencia entre los DJ aumentó, y para proteger sus descubrimientos, cubrían el sello y les ponían nombres falsos. Esta suerte de ocultación vendría a ser el precursor de las exclusivas de sello blanco de los DJ modernos, e incluso del hábito de los DJ de hip-hop de mojar y despegar los sellos de sus discos más codiciados. La práctica, en realidad, comenzó en los sesenta. Mick Eve, un músico activo de la escena de esas fiestas nocturnas, recuerda que Count Suckle cubría discos como «My Baby Cares For Me» de Nina Simone, una práctica que este DJ importó desde Jamaica. Sin embargo, fueron los DJ de soul quienes generalizaron su práctica, tanto para proteger sus discos exclusivos como para borrarles la pista a los contrabandistas."
+ },
  "Fue el primer DJ en mezclar discos.": {
   "ch": 3,
   "page": 104,
@@ -228,11 +294,29 @@ window.ANOCHE_REFS = {
   "sec": "París durante la guerra",
   "para": "Fueron los nazis quienes propulsaron el primer boom de los discos. Para el Tercer Reich, el jazz estadounidense, con su herencia negra y judía, tenía todos los indicios de una amenaza cultural. «Son estilos de baile que la sana opinión pública llama “música de malditos negros”, en los que predominan ritmos provocativos y se abusa violentamente de la melodía», declaraban los locutores del Estado mientras lo censuraban de las ondas radiofónicas alemanas. Cuando Estados Unidos entró en la guerra, Goebbels emitió más decretos que censuraban los «ritmos de negros que bailan con el vientre». El jazz, que ya era la música de una juventud rebelde, se convirtió en nada menos que la banda sonora de la resistencia."
  },
+ "Había una buena razón para la preferencia de canciones rápidas que se tocaban en el Wheel. La clientela estaba enganchada a las anfetas.": {
+  "ch": 4,
+  "page": 126,
+  "sec": "El Twisted Wheel",
+  "para": "Había una buena razón para la preferencia de canciones rápidas que se tocaban en el Wheel. La clientela estaba enganchada a las anfetas. Consumían toda la gama: desde los «bombarderos negros» hasta «los corazones púrpura», desde las prelis hasta las dexis (drinamil, preludin y dextroanfetamina), ya fuera compradas a los narcos en el club o robadas de las farmacias. No era inusual que los bailarines que se trasladaban hasta un club de soul se detuvieran por el camino a asaltar una farmacia para conseguir el sustento de esa noche."
+ },
+ "Hacía tanto calor y estaba tan abarrotado que el sudor de las personas subía en forma de condensación y caía de nuevo sobre ellas desde el techo": {
+  "ch": 4,
+  "page": 139,
+  "sec": "El Torch",
+  "para": "«¡Cantó con la peor banda que jamás haya escuchado! Era esta una banda británica que no tenía idea de lo que era el northern soul —recuerda Ian Levine—. Pero esa noche era la primera en que trabajé como DJ para ese lugar, y fue la noche más electrizante de toda mi carrera». Subiendo del tono de voz, añadió: «No cabía un alma más en ese club. Había gente colgando de las vigas. El calor debía de rondar los 48 grados. Hacía tanto calor y estaba tan abarrotado que el sudor de las personas subía en forma de condensación y caía de nuevo sobre ellas desde el techo»."
+ },
  "Hoy (sin ánimo de ofender a sacerdotes y ministros, que dan lo mejor de sí) es el disc jockey o DJ quien cumple esta función.": {
   "ch": 1,
   "page": 6,
   "sec": "YOU SHOULD BE DANCING (DEBERÍAS ESTAR BAILANDO)",
   "para": "Hoy (sin ánimo de ofender a sacerdotes y ministros, que dan lo mejor de sí) es el disc jockey o DJ quien cumple esta función. Es el DJ quien preside nuestros ritos extáticos. Como el médico brujo, sabemos que, en el fondo, es un sujeto normal —vamos, míralo—, pero destierra la cotidianidad de nuestras vidas conjurando el latido de los tambores sagrados y las santificadas líneas de bajo; obrándose el milagro para recibirlo como a un dios, o por lo menos un intermediario con lo sagrado, el demiurgo que puede invocar al Creador y mediar para que nos devuelva las llamadas."
+ },
+ "Inspirado por su primer peregrinaje al Twisted Wheel, acuñó el término northern soul en una columna para Blue & Soul de 1970.": {
+  "ch": 4,
+  "page": 132,
+  "sec": "Cazatesoros",
+  "para": "Percatándose de la fuerza de las escenas soul del norte, Godin, que era londinense, le puso ese nombre. Inspirado por su primer peregrinaje al Twisted Wheel, acuñó el término northern soul en una columna para Blue & Soul de 1970. Godin era copropietario de una tienda de discos en Monmouth Street, en Soho, llamada Soul City. Primero comentó la diferencia de gustos entre el norte y el sur cuando los norteños, que viajaban desde el norte y el oeste para ver el fútbol, preguntaban por un sonido específico. «Me percaté de que la gente que venía del norte no compraba lo que más tarde se conoció como el funk —dice Godin—. Así que comencé a usar el término northern soul, con la idea de que cuando tuviéramos una tienda repleta de personas del norte deberíamos ponerles el northern soul. Así fue como nació el término»."
  },
  "Irónicamente, la función del DJ existía, en formato autómata, antes de que este cobrara existencia.": {
   "ch": 3,
@@ -276,6 +360,12 @@ window.ANOCHE_REFS = {
   "sec": "El salón de baile imaginario",
   "para": "La influencia de Block como disc jockey engendró una nueva figura en la industria musical: el promotor de discos. En The Death of Rhythm And Blues, Nelson George cuenta la historia de Dave Clark, un joven «hombre de avanzadilla», cuyo trabajo era advertir a una ciudad en particular de la llegada de varias orquestas que estaban de gira. En 1938, Clark se hizo pasar por un chófer para lograr acceder a las oficinas de WNEW (como era negro, le hubieran denegado el acceso si decía la verdad) y entregó un disco: la orquesta de Jimmy Lunceford tocando «St. Paul’s Walking Through Heaven With You». [San Pablo camina por el cielo contigo]. Clark dijo furtivamente a Block que el disco provenía directamente del dueño de la estación, quien esperaba escucharlo por la radio. Se cercioró de que Block lo pusiera en el tocadiscos acto seguido."
  },
+ "La nueva obsesión con las rarezas abonó un terreno fértil para las copias falsas y piratas.": {
+  "ch": 4,
+  "page": 160,
+  "sec": "Copias falsas y piratas",
+  "para": "La nueva obsesión con las rarezas abonó un terreno fértil para las copias falsas y piratas. Simon Soussan, quien había descubierto el disco de Frank Wilson, reforzaba sus listas de ventas con títulos ficticios, exigiendo a sus clientes que incluyeran más opciones con sus pedidos. Uno de esos pedidos imaginarios era «Reaching For The Best» de Bob Relf (este era un artista que había tenido un éxito modesto con una canción titulada Blowing My Mind To Pieces). Al fortalecer el estatus de su lista con un disco tan «raro», Soussan obtuvo varias ofertas. Ninguna, por supuesto, recibió la nueva grabación de Relf, aunque Soussan liquidó todo su inventario vendiendo a todo el mundo discos de segunda opción. En un giro gracioso de esta historia, Ian Levine robó el título de Soussan y escribió una canción real con él. Fue su primera producción, Reaching For The Best de The Exciters, y llegó al número 31 en las listas pop del Reino Unido en 1975."
+ },
  "La pionera de este estilo fue la KMPX de San Francisco": {
   "ch": 2,
   "page": 63,
@@ -287,6 +377,12 @@ window.ANOCHE_REFS = {
   "page": 13,
   "sec": "¿Presentar o interpretar?",
   "para": "Además del conocimiento musical, la búsqueda incesante y la colección que lo sustenta, la destreza del DJ estriba en compartir su música de forma efectiva. En su aspecto más básico, la labor del DJ es el acto de presentar una serie de grabaciones para el disfrute del público. Así que, en el nivel más elemental, el DJ es un presentador. Es lo que hacen los DJ de la radio: presentan la música y la intercalan con conversación, comedia y cualquier otro tipo de actuación. Sin embargo, el DJ del club ha abandonado en gran medida su función por algo más creativo en términos musicales. La presentación de grabaciones ha dado paso a la interpretación. El DJ de hoy usa los discos como bloques de construcción, los hilvana en una narrativa improvisada para crear un «set» (una sesión) que es de su autoría. Al enfatizar dramáticamente en las conexiones entre las canciones, al yuxtaponerlas o superponerlas a la perfección, el DJ del club moderno no necesariamente presenta grabaciones a discreción, sino que las combina para crear algo nuevo. Y esta concatenación de fragmentos, bien armada, puede ser mucho mejor que la suma de sus partes. En consecuencia, el DJ, que ahora ya no es un invitado más para desempolvar grabaciones de terceros, podría considerarse un verdadero artista."
+ },
+ "La respuesta de Levine, mucho más polémica, fue mirar al presente en busca de sonidos frescos": {
+  "ch": 4,
+  "page": 148,
+  "sec": "La pugna por el alma del soul",
+  "para": "La respuesta de Levine, mucho más polémica, fue mirar al presente en busca de sonidos frescos, añadiendo temas del soul moderno, discos de 12 pulgadas y canciones de jazz-funk al repertorio. A los ojos de muchos suponía una burla. Esta era una cultura que idolatraba lo viejo, lo polvoriento y lo anónimo. Un DJ de northern soul rompía las reglas del oficio si se atrevía a adulterar el sonido fuerte y pinchar discos genuinamente nuevos (y fáciles de conseguir). Mientras Levine exhibía su amplitud de miras, se encontró abriendo una profunda brecha entre los feligreses."
  },
  "La revolución que causó el twist se debe a su sencillez.": {
   "ch": 3,
@@ -300,11 +396,23 @@ window.ANOCHE_REFS = {
   "sec": "Nueva York",
   "para": "Coquelin pidió al director de orquesta de la alta sociedad Slim Hyatt que le consiguiera un DJ, y este lo hizo con diligencia. Así, el primer DJ de discoteca de Nueva York fue el mayordomo de Hyatt, un sujeto afrodescendiente de cara larga llamado Peter Duchin. Coquelin lo formó en las artes francesas de girar platos. Le Club abrió en la Nochevieja de 1960. Los sesenta habían comenzado."
  },
+ "Levine estaba allí, y Levine era el barómetro del gusto.": {
+  "ch": 4,
+  "page": 142,
+  "sec": "El Casino de Wigan frente al Mecca de Blackpool",
+  "para": "El Mecca se convirtió en la parada obligatoria de la semana. «Si uno era un coleccionista serio, el único lugar que valía la pena visitar era el Mecca de Blackpool —dice Ian Dewhirst—. Levine estaba allí, y Levine era el barómetro del gusto. Siempre tenía la variedad de discos más impresionante. Quizá uno no los conocía todos, pero sabía que serían buenos. Y podía tomarse riesgos. Uno jamás escucharía Seven Day Lover de James Fountain en el Casino de Wigan. Tengo que rendirle tributo, aunque es una persona muy difícil de tratar la mayor parte del tiempo»."
+ },
  "Lo cierto es que era tan solo el principio.": {
   "ch": 3,
   "page": 117,
   "sec": "El fin del principio",
   "para": "Lo cierto es que era tan solo el principio."
+ },
+ "Lo que el northern soul trajo al DJ fue la obsesión.": {
+  "ch": 4,
+  "page": 121,
+  "sec": "La primera cultura rave",
+  "para": "Lo que el northern soul trajo al DJ fue la obsesión. Debido a que este movimiento asignaba un valor increíble a la rareza musical, transformó al DJ en un coleccionista de vinilos obsesivo y compulsivo. Le enseñó el valor de pinchar discos que nadie tenía, de pasar meses, años e invertir cientos de libras esterlinas en la búsqueda de una canción que nadie había escuchado y que pondría al público a sus pies. Provocó que los DJ cruzaran los océanos a la caza de almacenes mugrientos y diminutas dependencias rurales en busca clásicos sin descubrir que sus competidores no tenían y no podrían tocar. El northern soul les enseñó a los DJ a convertir el vinilo en oro."
  },
  "Lo que hace un DJ es esto: sabe de música.": {
   "ch": 1,
@@ -323,6 +431,18 @@ window.ANOCHE_REFS = {
   "page": 111,
   "sec": "San Francisco y La Prueba del Ácido",
   "para": "Los Dead lograron con el rock’n’roll lo que el DJ de discoteca lograría más tarde con la música dance: la retorcían al filo de lo imposible. Como relata Tom Wolfe en The Electric Kool-Aid Acid Test: «No se trataba de novatos psicodélicos que pintaban dibujos bonitos, sino que eran unos verdaderos exploradores». Sus «canciones» se convirtieron en elaboradas sesiones de experimentación que se desarrollaban allí, al momento, a la medida de las necesidades de los bailarines, cuyos cuerpos (y, a menudo, cuya ropa) dejaba su morada y se abandonaban a la deriva a merced de la memoria extática. «En el Avalon o en el Fillmore —escribió Joel Selvin en Summer of Love—, los Grateful Dead tocaban siempre y cuando se sintieran bien, siempre y cuando pusieran a la gente a bailar, y cuando la mayoría del público entraba en comunión con ellos, eso podía durar mucho tiempo»."
+ },
+ "Los dos militantes del Stafford eran Guy Hennigan y Keb Darge, quienes trajeron rigor estético a sus sets": {
+  "ch": 4,
+  "page": 154,
+  "sec": "Stafford",
+  "para": "Los dos militantes del Stafford eran Guy Hennigan y Keb Darge, quienes trajeron rigor estético a sus sets y preparaban una serie apabullante de discos nuevos de 45 rpm. Contaban con el apoyo considerable de las unidades de relanzamiento Charly y Kent (donde trabajaba el fanático del northern soul Ady Croasdell), que les daban acceso a material sin lanzar de los sellos Scepter, Wand, Brinswick y Sound Stage 7, con canciones como You Are The Dream de Roscoe Shelton y I’m A Lover de Chuck Carter."
+ },
+ "Los fanáticos del Casino llevaban chapas con el lema: «LEVINE MUST GO»": {
+  "ch": 4,
+  "page": 149,
+  "sec": "La pugna por el alma del soul",
+  "para": "«Eran como dos hinchadas de equipos de fútbol: los del Manchester City y los del Manchester United —recuerda—. En ese momento poníamos toda esta música disco moderna: los Doctor Buzzard’s Original Savannah Band, Tavares, “Car Wash”, “Jaws” de Lalo Schifrin. Y ellos ponían todo lo que tuviera un rito pesado y fuerte. Todos esos fanáticos de Wigan con sus camisetas y pantalones bombachos gritaban: “¡Vete a la mierda! ¡Bájate! ¡Pon stompers!”». Se había creado una campaña para acabar con Levine. Los fanáticos del Casino llevaban chapas con el lema: «LEVINE MUST GO» [Levine se tiene que ir]. Un sábado, dos fanáticos hasta caminaron por el Mecca con una pancarta enorme con el mismo lema."
  },
  "Los músicos se referían a la transmisión de música grabada como «el pecado mortal de DeForest».": {
   "ch": 2,
@@ -360,11 +480,23 @@ window.ANOCHE_REFS = {
   "sec": "NIGHT TRAIN (TREN NOCTURNO)",
   "para": "Como asistente del jefe del Mecca, Eric Morley, a Savile lo enviaban a salas de baile que no funcionaban bien para introducir el concepto del disc jockey. Para el primer show en Ilford, encargó un sistema de discos adecuado a la Westrex. Para acortar las pausas entre grabaciones, se le ocurrió la idea de emplear dos platos."
  },
+ "Para aquellos que creen que el movimiento rave es el origen de la cultura de los clubs, pensadlo dos veces.": {
+  "ch": 4,
+  "page": 164,
+  "sec": "Del northern soul al nu-energy",
+  "para": "El northern soul creó una red nacional que conectó clubs, coleccionistas de discos y DJ. Aunque engrosó las listas con los primeros éxitos procedentes de los clubs, por cada canción que triunfó extramuros y llegó al mainstream, cincuenta nunca traspasaban las paredes de los clubs nocturnos. El northern soul fue un movimiento puro, como tiene que ser. Fomentaba una lealtad feroz y tribal y surtía las noches de un bendito escapismo sudoroso impulsado por las drogas para el disfrute de devotos amantes del baile. Para aquellos que creen que el movimiento rave es el origen de la cultura de los clubs, pensadlo dos veces."
+ },
  "Para los DJ que vinieron después, Terry Noel era el hombre que escribió el manual de instrucciones.": {
   "ch": 3,
   "page": 108,
   "sec": "Terry Noel en el Arthur",
   "para": "Para los DJ que vinieron después, Terry Noel era el hombre que escribió el manual de instrucciones. Los que siguieron su paso añadirían niveles considerables de arte e intensidad, pero Noel es el prototipo del DJ moderno. A diferencia de aquellos que después buscaban a fondo las canciones de baile más originales, sus gustos eran categóricamente pop; y su amor por la fama y los famosos evitó que sacrificara todo por la pista de baile, pero en el aspecto técnico, y en términos de montar un espectáculo, Terry Noel fue la fuerza fundamental."
+ },
+ "Parecía como si el northern soul se parodiara a sí mismo.": {
+  "ch": 4,
+  "page": 152,
+  "sec": "La pugna por el alma del soul",
+  "para": "A medida que el Mecca evolucionaba inevitablemente, mezclando cualquier cosa de Philly International con las propuestas de Funkadelic, Wigan reaccionó violentamente con una verdadera pesadilla de stompers que provenían del pop. Ponían Theme From Joe 90, así como Hawaii 5-0 de los Ventures. Un DJ, Richard Searling, hizo todo lo que pudo para conservar la dignidad de las selecciones musicales, pero no era suficiente. Parecía como si el northern soul se parodiara a sí mismo."
  },
  "Pero de repente… ¡todo era ácido!": {
   "ch": 3,
@@ -384,11 +516,23 @@ window.ANOCHE_REFS = {
   "sec": "MAKE BELIEVE BALLROOM (EL SALÓN DE BAILE IMAGINARIO)",
   "para": "A las 21.00 horas de la Nochebuena de 1906, un ingeniero canadiense llamado Reginald A. Fessenden, quien habían trabajado con Edison, y que había intentado transmitir ondas de radio entre Estados Unidos y Escocia, envió señales de radio sin encriptar —música y voz— desde Brant Rock, cerca de Boston, Massachusetts, a un grupo de asombrados operadores de telégrafo que navegaban por el Atlántico. Lo único que debían de haber escuchado hasta entonces era estática y bips, pero Fessenden había equipado algunas naves de la United Fruit Company con los receptores necesarios para que estuvieran preparados para escuchar algo «inusual». Pronunció un discurso breve en el que explicaba lo que hacía, leyó el texto bíblico «Gloria a Dios en las alturas y paz a los hombres de buena voluntad» y tocó «Oh, Holy Night» con su violín y cantó un poco, advirtiendo que «no era muy bueno que digamos». Por todo lo cual, se convirtió en el primer disc jockey porque, usando un fonógrafo de cilindros Ediphone, también puso un disco en las ondas."
  },
+ "Porque lo que hicimos fue partir la escena en dos con un hacha».": {
+  "ch": 4,
+  "page": 150,
+  "sec": "La pugna por el alma del soul",
+  "para": "Hoy, hasta Levine siente algo de remordimiento. «Lo digo públicamente aquí: nos excedimos —dice firmemente—. La escena del northern soul era muy especial. Comenzamos con los Carstairs y Marvin Holmes, que eran igualmente exóticos pero más modernos. Luego pinchábamos Tavares y Crown Heights Affair, hasta Kool & The Gang. Y, de repente, ya no estabas escuchando algo que no podías escuchar en ningún otro lado. No había nada único en todo aquello. Debimos de haber parado antes de pasarnos de la raya. Porque lo que hicimos fue partir la escena en dos con un hacha»."
+ },
  "Porque su arte proviene de la combinación del arte de otros, porque su actuación se compone de las actuaciones de otros músicos, el DJ es el epítome del artista posmoderno.": {
   "ch": 1,
   "page": 23,
   "sec": "El ángulo posmoderno",
   "para": "Porque su arte proviene de la combinación del arte de otros, porque su actuación se compone de las actuaciones de otros músicos, el DJ es el epítome del artista posmoderno. Sencillamente, pinchar es un ejercicio de combinatoria. El DJ usa grabaciones para crear un collage musical, de la misma forma en que Quentin Tarantino podría crear una película nueva con tan solo un montón de escenas copiadas de películas viejas o Phillip Johnson podría construir un rascacielos con la forma de un reloj de pie. Esto es en esencia el modus operandi del posmodernismo: recortar ideas y formas y combinarlas de manera creativa."
+ },
+ "Quince años antes de que la cultura rave cobrara existencia, el northern soul le brindó un prototipo casi perfecto.": {
+  "ch": 4,
+  "page": 120,
+  "sec": "La primera cultura rave",
+  "para": "Quince años antes de que la cultura rave cobrara existencia, el northern soul le brindó un prototipo casi perfecto. He aquí una dimensión en la que los muchachos de la clase trabajadora venían juntos en grandes cantidades y recorrían largas distancias hasta lugares oscuros para consumir drogas y bailar una música que a nadie más importaba. Una comunión en la que la solidaridad y la pertenencia al clan eran muy importantes. Durante mucho tiempo, la actitud de los sofisticados pimpollos del mundo de los clubs londinenses fue de ignorancia cuando no de desprecio, lo que le permitió desarrollarse prácticamente sin problemas y sin llamar la atención. Y, tal como sucediera con el movimiento rave (en el que el hardcore se distanció de la vertiente más comercial de la escena en un esfuerzo por preservar el espíritu de la música original), el northern soul terminó escindiéndose en un esquizoide cisma, en la medida en que los DJ más progresistas y abiertos de miras consideraban que sus gustos musicales chocaban con la férrea oposición de los tradicionalistas ultraortodoxos."
  },
  "Ray Reneri, quien trabajaba para Freed, aseguraba que si este pinchaba un disco, «al día siguiente vendía diez mil copias».": {
   "ch": 2,
@@ -408,11 +552,29 @@ window.ANOCHE_REFS = {
   "sec": "Los mods y el Swingin’ London",
   "para": "El Scene era un sótano pequeño y frío, tan pequeño que no había otra opción que no fuera bailar. Un joven judío llamado Marc Feld era una de las «caras» del club. (Bajo el pseudónimo de Marc Bolan, luego se convirtió en una estrella del pop). Aunque técnicamente era un espacio libre de alcohol, no era muy difícil conseguir un toque de whisky que acompañara tu botella de Coca-Cola, y seguro que se podía conseguir anfetaminas. La razón principal por la cual la mayoría de las personas iban al Scene, sin embargo, era para escuchar al DJ Guy Stevens. Si Ian Samwell del Lyceum fue el revolucionario accidental de la cultura de clubs británica, Stevens fue su Lenin, un creyente confirmado en el poder revolucionario del disc jockey. Era un sujeto obseso de pelo encrespado, con un entusiasmo desbordante todo el tiempo, y sus sets del mejor R&B eran legendarios. Aunque Guy no usó drogas hasta mucho más tarde, la mayoría de la juventud en la Noche de Discos R&B con Guy Stevens consumían speed de camino a un fin de semana de tres días. «Era los lunes por la noche —explica su esposa, Di—. Uno iba al Flamingo y, si todavía andabas por ahí el lunes, pues ibas al Scene»."
  },
+ "Si el Casino era el preferido de la concurrencia, el Mecca de Blackpool era el de los entendidos.": {
+  "ch": 4,
+  "page": 141,
+  "sec": "El Casino de Wigan frente al Mecca de Blackpool",
+  "para": "Si el Casino era el preferido de la concurrencia, el Mecca de Blackpool era el de los entendidos. Fue aquí donde los amantes del baile, los coleccionistas y los disc jockeys más devotos se juntaban cada semana a saborear las canciones desconocidas más recientes. El DJ residente del Mecca, Ian Levine, tenía una ventaja enorme sobre los demás coleccionistas y disc jockeys de la época. Era un niño bien (sus padres eran dueños del parque de ocio Lemon Tree en la milla de oro del pueblo, que tenía un casino, una discoteca y un club nocturno), y desde 1970 en adelante viajaba con frecuencia a Estados Unidos (sus padres también eran dueños de un apartamento en Miami) a desenterrar discos raros. Los primeros descubrimientos destacables de Levie fueron Our Love Is In The Pocket de JJ Barnes y un pilar de rarezas del sello Ric-Tic. «Las encontré en una tienda de artículos de broma de Nueva Orleans, bajo un calor de 38 grados», dice riéndose. Levine era un personaje alto, ruidoso y poderoso que llegó a producir y escribir para agrupaciones pop como las bandas de chicos Take That y Bad Boys Inc."
+ },
+ "Si el Twisted Wheel fue la cantera en la que se fundió el sonido del norte y el Catacombs el lugar donde se le dio forma a martillazos, el Torch": {
+  "ch": 4,
+  "page": 136,
+  "sec": "El Torch",
+  "para": "Si el Twisted Wheel fue la cantera en la que se fundió el sonido del norte y el Catacombs el lugar donde se le dio forma a martillazos, el Torch, en el tranquilo pueblo de Tunstall, en las afueras de Stoke-on-Trent, fue el lugar donde se consolidó. La moda que crearon el Twisted Wheel y el Catacombs fue llevada al fetichismo en el Torch. Aunque el club solo duró un año (casi todo 1972 hasta su cierre en marzo de 1973), sigue estando muy vivo en la memoria de quienes lo recuerdan."
+ },
  "Socavó la dependencia de la música en directo y sentó las bases para que el DJ tomara el mando.": {
   "ch": 3,
   "page": 74,
   "sec": "La jukebox o máquina de discos",
   "para": "La mayor influencia de la rocola llegó después de la guerra, cuando se extendió su dominio más allá de bares y clubs a cafeterías y farmacias, lugares que los más jóvenes solían frecuentar. La música para bailar, una vez separada del alcohol, era un asunto del que los adolescentes podían participar. Junto con la expansión de la radio, la máquina de discos fue una fuerza fundamental en el auge explosivo del R&B y del rock’n’roll. Socavó la dependencia de la música en directo y sentó las bases para que el DJ tomara el mando."
+ },
+ "Su DJ, Farmer Carl Dene, hizo quizá más que cualquier otro para sentar las bases de este género.": {
+  "ch": 4,
+  "page": 134,
+  "sec": "Farmer Carl en el Catacombs",
+  "para": "Un club vinculado estrechamente al Twisted Wheel era el Catacombs en Temple Street, Wolverhampton. Aunque el que cerrara temprano (a medianoche) limitó la influencia directa de este club en las Midlands, fue aquí donde se conformó el primer menú musical del northern soul. Su DJ, Farmer Carl Dene, hizo quizá más que cualquier otro para sentar las bases de este género. Fue probablemente el primer DJ de la escena en realmente dedicar un esfuerzo a desenterrar discos raros y uno de los primeros en darse cuenta de que tener más rarezas que tus competidores sí podía convertirse en un aspecto creativo del trabajo del DJ. Y al introducir y prestar discos a los DJ del nuevo Twisted Wheel, fue el responsable de consagrar los primeros himnos de la primera fase del northern soul."
  },
  "Su nombre era Christopher Stone y tuvo que trabajar duro para convencer a la BBC de que lo dejara crear un programa basado únicamente en escuchar grabaciones.": {
   "ch": 2,
@@ -450,11 +612,23 @@ window.ANOCHE_REFS = {
   "sec": "Payola",
   "para": "Freed, arrogante y engreído hasta el final, admitió haber recibido pagos de las discográficas United Artists, Roulette y Atlantic Records, y de las distribuidoras Cosnat y Superior. Entre 1957 y 1959, ganó unos cincuenta mil dólares con la payola. Misteriosamente, algunas compañías incluso le habían cedido la autoría (y las consiguientes regalías) de algunas grabaciones que este promocionaba. Uno puede encontrar el nombre «A. Freed» en los créditos de «Maybellene» de Chuck Berry. Este último dijo que, hasta que no vio la liquidación de regalías, no tenía idea de que Freed «la hubiera escrito conmigo». Es importante destacar, sin embargo, que Freed nunca comprometió la calidad de sus shows, y sin duda no era el único que había aceptado payolas."
  },
+ "fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio.": {
+  "ch": 4,
+  "page": 135,
+  "sec": "Farmer Carl en el Catacombs",
+  "para": "Aunque la escena todavía estaba en sus años de formación, ya lograba ejercer una influencia en la industria musical en general: fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio. Cuando Just A Little Misunderstanding de los Contours 45 (grabada originalmente en 1965 y coescrita por Stevie Wonder) se coló en las listas en enero de 1970, anunció una nueva era para la música bailable en el Reino Unido. Le siguió pronto I’m Gonna Run From You de Tami Lynn, del sello Mojo Records, distribuida por la Polydor de John Abbey, que alcanzó el número cuatro en mayo de 1971. Como este último era dueño y fundador de Blue & Soul, estaba en una posición privilegiada para ver las posibilidades de la música. La confirmación de este nuevo fenómeno se produjo cuando Hey Girl Don’t Bother Me de las Tams, una grabación cuya fama se debe a la influencia de Farmer Carl, llegó al número uno (en Reino Unido) en 1971."
+ },
  "«Alan Freed era amable con demasiadas personas afrodescendientes, así que acabaron con él.": {
   "ch": 2,
   "page": 61,
   "sec": "Payola",
   "para": "«Reproducía música negra para jóvenes blancos. Acto seguido, uno sabía que se unirían en su contra», dice Hal Jackson, un amigo íntimo de Freed, convencido de que el trato al DJ era el resultado del racismo contra las personas con las que se rodeaba. «Alan Freed era amable con demasiadas personas afrodescendientes, así que acabaron con él. Luego decían: “Alan, estás con esa gente”, pero Dick era el paladín blanco. Todo estaba arreglado. Solo le dijeron: “No lo vuelvas a hacer, regresa y mantén a tu público feliz”»."
+ },
+ "«Algo cambió cuando cerraron el Wheel. Sabes, nunca más fue la misma escena en que todo se hacía por el bien de la música».": {
+  "ch": 4,
+  "page": 133,
+  "sec": "Cazatesoros",
+  "para": "Hubo escenas muy emotivas durante esa última noche. «Sabíamos que iba a cerrar —dice Rob Bellars—, pero la gente seguía llorando». En una reflexión sobre el legado del club, en junio de 1974 un chico soul le confesó a Black Music: «Algo cambió cuando cerraron el Wheel. Sabes, nunca más fue la misma escena en que todo se hacía por el bien de la música»."
  },
  "«Benson mató el inglés del rey», recuerda otro veterano DJ negro, Eddie O’Jay.": {
   "ch": 2,
@@ -474,6 +648,12 @@ window.ANOCHE_REFS = {
   "sec": "El fin del principio",
   "para": "Cuando el sueño hippie se tambaleó hasta detenerse, parecía que las discotecas sufrirían el mismo destino. El Electric Circus se fue a la quiebra y el Arthur giró el último disco el 21 de junio de 1969. Con el titular «LAS DISCOTECAS BAILAN EL GO-GO HASTA EL OLVIDO MIENTRAS LA JUVENTUD BUSCA RITMOS Y SONIDOS NUEVOS», la revista Variety predijo la era del auge de los clubs nocturnos. «El cierre del Arthur indicaba que los días de la discoteca estaban contados», profetizó."
  },
+ "«El tema I Love Music de los O’Jays realmente abrió las puertas a nuevos sencillos», dice Kev Roberts.": {
+  "ch": 4,
+  "page": 152,
+  "sec": "La pugna por el alma del soul",
+  "para": "«El tema I Love Music de los O’Jays realmente abrió las puertas a nuevos sencillos», dice Kev Roberts. «Sentó el camino para cosas como Heaven Must Be Missing An Angel, que fue un coloso del northern soul, y como Young Hearts Run Free, otra canción perfecta para al público norteño». Levine había recibido el disco de los O’Jays de parte de Roberts para que lo pusiera, porque había dejado el Wigan por una disputa con Russ Winstanley y le estaba dando un uso acertado a las 59 libras esterlinas que costaba cada trayecto de Freddie Laker a Nueva York para buscar discos. De alguna manera, logró conseguir un disco de prueba de manos del disc jockey neoyorquino Tony Gioe, quien, a su vez, lo había conseguido directamente de Kenny Gamble, el productor."
+ },
  "«En esencia, uno tiene un pie en la pista de baile y otro en la cabina».": {
   "ch": 1,
   "page": 18,
@@ -486,11 +666,29 @@ window.ANOCHE_REFS = {
   "sec": "El salón de baile imaginario",
   "para": "«Ese servicio causó sensación —dijo Wallichs—. Convertimos al disc jockey en un prescriptor, en un tipo importante, en el VIP de la industria. Y publicamos un pequeño periódico en el cual aparecían fotos y semblanzas de estos personajes»."
  },
+ "«Farmer Carl era el DJ al que todos consideraban un dios», declara Levine.": {
+  "ch": 4,
+  "page": 135,
+  "sec": "Farmer Carl en el Catacombs",
+  "para": "«Él era el que descubría los discos que luego se ponían en el Twisted Wheel», dice Ian Levine, solo uno de los muchos DJ que ven a Farmer Carl como un mentor. «Encontró este disco de Richard Temple titulado That Beating Rhythm en Mirwood Records. Nadie creía que existiera. Uno tenía que ir al Catacombs para escucharlo». Dean también introdujo Tired Of Being Lonely de los Sharpees, From The Teacher to The Preacher de Gene Chandler y Barbara Acklin y el clásico norteño de Doris Troy I’ll Do Anything (A Troy luego la invitaron a que cantara los coros para el disco «Dark Side of the Moon» de Pink Floyd). «Farmer Carl era el DJ al que todos consideraban un dios», declara Levine."
+ },
+ "«Fue una oportunidad que nunca tuve en Estados Unidos», dijo Brenda Holloway": {
+  "ch": 4,
+  "page": 138,
+  "sec": "El Torch",
+  "para": "«Fue una oportunidad que nunca tuve en Estados Unidos», dijo Brenda Holloway en «25 Years Of The Wigan Casino» para Granada TV. «Fue como una segunda oportunidad. Cuando llegué aquí, era una estrella»."
+ },
  "«Jack Cooper fue el pionero, pero Al Benson fue el padrino», dijo Stamz": {
   "ch": 2,
   "page": 49,
   "sec": "La radio negra y el rhythm and blues",
   "para": "«Jack Cooper fue el pionero, pero Al Benson fue el padrino», dijo Stamz para explicar que Benson fue el primer DJ negro que no adoptó una forma de hablar de los blancos. «La gente solía decir que Al tenía la peor voz, y la tenía. Pero también decía la gente que “el tipo suena como yo”. Sonaba como el hombre común»."
+ },
+ "«Muchos de los DJ ponían las canciones en un orden particular debido a la forma en que la gente bailaba», recuerda Bellars": {
+  "ch": 4,
+  "page": 131,
+  "sec": "Cazatesoros",
+  "para": "Y así como hacían todo lo posible para encontrar los discos perfectos para su pista de baile, estos DJ también aprendían cómo trabajarse al público. Aunque casi todos hablaban entre canciones, también aprendían a poner temas en secuencias para mantener felices a los bailarines de ojos saltones. «Muchos de los DJ ponían las canciones en un orden particular debido a la forma en que la gente bailaba», recuerda Bellars, al describir cómo pinchaba tres canciones de Bobby Freeman seguidas —The Duck, C’mon And Swim y The Swim, en ese orden— porque el compás iba más rápido poco a poco. «Uno lo aumentaba gradualmente, y luego ponía cinco grabaciones rápidas una detrás de la otra. Luego lo bajabas porque la cosa se ponía muy loca»."
  },
  "«No creo que fuera un artista —aclara—. Lo que sí hacía era crear un ambiente.": {
   "ch": 3,
