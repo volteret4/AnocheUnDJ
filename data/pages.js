@@ -1,0 +1,2 @@
+// Generado por tools/sinpdf.py — no editar a mano.
+window.ANOCHE_PAGES = {"Indeep|Last Night a DJ Saved My Life":[[1,null,1],[1,null,850]],"Bob Wills and His Texas Playboys|Keep Knockin’ (But You Can’t Come In)":[[1,null,41]],"Jimmie Lunceford|St. Paul’s Walking Through Heaven With You":[[1,null,46]],"The Silhouettes|Get a Job":[[1,null,56]],"Chuck Berry|Maybellene":[[1,null,59]],"Arthur Sullivan|Thou Art Passing Hence":[[1,null,58]]};
