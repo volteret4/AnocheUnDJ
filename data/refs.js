@@ -1,5 +1,11 @@
 // Generado por tools/refs.py — no editar a mano.
 window.ANOCHE_REFS = {
+ "A las cuatro de la madrugada quitaron la lona: «Cayeron al unísono mil quinientas mandíbulas, y solo comenzaron a aplaudir».": {
+  "ch": 6,
+  "page": 249,
+  "sec": "Tee Scott en el Better Days",
+  "para": "A las cuatro de la madrugada quitaron la lona: «Cayeron al unísono mil quinientas mandíbulas, y solo comenzaron a aplaudir»."
+ },
  "Ahora que la relación entre la música y el público era interactiva, el público pasó a ser parte del evento": {
   "ch": 3,
   "page": 118,
@@ -11,6 +17,12 @@ window.ANOCHE_REFS = {
   "page": 57,
   "sec": "Alan Freed y el rock’n’roll",
   "para": "Sin prestar atención a este tipo de críticas, Freed siguió su camino, aprovechando el color de su piel para promocionar esta forma de música negra emergente a una escala que a la mayoría de los afrodescendientes se les negaba. Para 1957, su show era retransmitido por todo Estados Unidos, y hasta se escuchaba en Gran Bretaña a través de Radio Luxembourg. Alan Freed no fue la primera persona, negra o blanca, en pinchar R&B por la radio, pero sin duda fue la más prominente."
+ },
+ "Antes que él, se ponían los discos como si fueran pequeñas actuaciones discretas, pero Francis los trataba como si fueran movimientos de una sinfonía: elementos continuos de un gran todo.": {
+  "ch": 6,
+  "page": 202,
+  "sec": "Francis Grasso: el primer DJ moderno",
+  "para": "Antes que él, se ponían los discos como si fueran pequeñas actuaciones discretas, pero Francis los trataba como si fueran movimientos de una sinfonía: elementos continuos de un gran todo. Al concebir la música de esta manera, ya no solo proveía una banda sonora al revuelo social de los sesenta, sino que imaginaba los clubs del futuro, más centrados en el baile. Y con este concepto de un flujo ininterrumpido de música, la noción de mezclar discos cobró un nuevo significado."
  },
  "Así fue como el DJ hizo gala por primera vez de su inestimable talento para crear géneros musicales nuevos.": {
   "ch": 2,
@@ -54,17 +66,35 @@ window.ANOCHE_REFS = {
   "sec": "El twist",
   "para": "Clark despojó al twist de todas sus connotaciones sexuales, de su esencia afrodescendiente y lo convirtió en un producto seguro para los adolescentes blancos suburbanos. Se grabó una nueva versión a cargo de un afrodescendiente de piel más clara llamado Chubby Checker (cuyo nombre era una pulla graciosa hacia Fats Domino) para un sello, Cameo Parkway, en el que resulta que Dick Clark tenía acciones. Clark promovió esta nueva versión de «The Twist» en «American Bandstand», donde Checker le explicó al público exactamente cómo se bailaba: «Solo imagínate que te estás secando el trasero con una toalla mientras sales de la ducha e intentas apagar un cigarrillo con los dos pies». Los bailarines blancos, reclamando que habían inventado el baile, demostraron cómo se daban los pasos. Checker pronto se encaramó al número 1 en la lista Hot 100."
  },
+ "Como dijo Albert Goldman: «Sanctuary fue la primera discoteca gay sin inhibiciones de todo Estados Unidos».": {
+  "ch": 6,
+  "page": 205,
+  "sec": "El Sanctuary",
+  "para": "Tras cimentar la prosperidad del negocio como club para parejas heterosexuales, el gerente diurno se escapó con el gerente nocturno, y con 175 000 dólares del club. Un plan de rescate puso el local en manos de dueños gais; despidieron a todas las mujeres, y con la memoria reciente de Stonewall, el lugar se enorgulleció de ser el primero en florecer de toda la escena sórdida del auge de las barras de zumos; sería el precursor de lugares como Thrush, Fabulous, Forbidden Fruit, Together y Superstar. Como dijo Albert Goldman: «Sanctuary fue la primera discoteca gay sin inhibiciones de todo Estados Unidos»."
+ },
  "Como la escena del northern soul se alimentaba de rarezas, convirtió la profesión del DJ en una suerte de arqueología de la reproducción de discos.": {
   "ch": 4,
   "page": 154,
   "sec": "El nacimiento del trainspotter",
   "para": "La contribución más importante del northern soul al oficio del DJ fue la introducción del concepto del entendido. Antes, este era el dominio exclusivo del coleccionista de música clásica, con la excepción de algunos adictos al jazz y al blues y poco más. Pero hasta la llegada del soul, la música bailable consistía mayormente en pinchar los éxitos de la época. Como la escena del northern soul se alimentaba de rarezas, convirtió la profesión del DJ en una suerte de arqueología de la reproducción de discos. El DJ tenía una nueva línea de investigación que explorar: era un investigador musical, un vendedor de rarezas, un vigilante de lo que nadie tiene, o como se acuñó en inglés británico, un trainspotter."
  },
+ "Como lo describió el trombonista de JB, Fred Wesley: «Le pusieron la pajarita al funk».": {
+  "ch": 6,
+  "page": 232,
+  "sec": "Batiendo marcas",
+  "para": "Además, la música evolucionaba. La esencia del baile funk se encontraba con la belleza fusionada del soul, y había surgido un nuevo sonido. Los momentos más psicodélicos de Sly & The Family Stone y los Temptations fueron de capital importancia en esta evolución, pero el empuje de la nueva música provino de los cantautores y productores Kenny Gamble y Leon Huff en su estudio de grabación Sigma, en Filadelfia. Durante la primera parte de los setenta —con grupos como los O’Jays, Harold Melvin & The Bluetones, MFSB y muchos más— produjeron canciones que mantenían el ritmo potente del funk, pero que mejoraban su dureza con melodías y patrones de ritmo más complejos al añadirles los sonidos elevados de una orquesta completa. Como lo describió el trombonista de JB, Fred Wesley: «Le pusieron la pajarita al funk». Esta música exuberante era exactamente lo que los nuevos clubs querían escuchar, además de conseguir la bendición comercial. Ahora todos los elementos estaban en su lugar."
+ },
  "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa": {
   "ch": 3,
   "page": 75,
   "sec": "París durante la guerra",
   "para": "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa [del francés discothèque]. Formada sobre la palabra francesa para biblioteca [bibliothèque], significa literalmente «un depósito de discos». Supuestamente, sus orígenes se remontan al puerto mediterráneo de Marsella, donde los marineros solían dejar sus discos en los almacenes de los cafés durante el tiempo que estaban en altamar. Cuando se les concedían permisos para ir a tierra, solían regresar a su bar favorito a escuchar los discos en el fonógrafo ubicado en una esquina del establecimiento. El director de cine Roger Vadim reclama haber acuñado el término, pero no hay una etimología definitiva (la división que prestaba discos de la Biblioteca Nacional de Francia se llamaba La Phonothèque [La fonoteca]). Un punto interesante es que no se trataba necesariamente de un lugar: mon discothèque puede significar «mi colección de discos». La connotación apuntaba más a un lugar íntimo y privado que a una sala de baile para orquestas, a las que en Francia se las llamaba le dancing."
+ },
+ "Con David era una historia de estados de ánimo.": {
+  "ch": 6,
+  "page": 228,
+  "sec": "El mensaje es el amor",
+  "para": "«Escogía una canción que no solo era un éxito, sino una canción que era propicia para estas personas en particular; y también emitía un mensaje», cuenta Danny Krivit, otro cliente habitual del Loft y también DJ desde niño. «Aquí se entretejía una historia. Con, digamos, Nicky Siano en el Gallery, sería una historia de voces. Con David era una historia de estados de ánimo. Por lo general, David siempre era todo amor, y siempre intentaba quedarse con eso»."
  },
  "Con el nombre U-Roy, Ewart Beckford condujo el rol del diyey a nuevos horizontes.": {
   "ch": 5,
@@ -95,6 +125,12 @@ window.ANOCHE_REFS = {
   "page": 165,
   "sec": "WRECK UP A VERSION (SÁCATE UNA VERSIÓN DE LA NADA)",
   "para": "Antes de ser diezmada por Europa, los arahuacos llamaban a esta fértil isla Xaymaca, que significa «Tierra de Manantiales». Cuando era la capital pirata de los siete mares, su ciudad principal, Port Royal, era el lugar más malvado del planeta. Cuando era una plantación azucarera colonial sustentada por los músculos africanos cautivos, los dueños de esclavos podían recibir una multa si un ser humano de su propiedad era sorprendido tocando un tambor. Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey."
+ },
+ "DJ Francis pinchaba música; los disc jockeys antes que él solo ponían discos en los platos.": {
+  "ch": 6,
+  "page": 200,
+  "sec": "Francis Grasso: el primer DJ moderno",
+  "para": "DJ Francis pinchaba música; los disc jockeys antes que él solo ponían discos en los platos."
  },
  "Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom.": {
   "ch": 5,
@@ -155,6 +191,12 @@ window.ANOCHE_REFS = {
   "page": 85,
   "sec": "Londres",
   "para": "La creciente comunidad inmigrante de Londres comenzaba a tener su impacto también en la noche londinense. Los antillanos, que ignoraban que tuvieran que estar en cama a las diez con una taza de leche Horlicks, escuchando el programa de radio «Light Programme», celebraban toda la noche en lugares como el Roaring Twenties. El disc jockey aquí era un sujeto jamaicano de nombre Count Suckle, quien introdujo en la metrópoli el llamado bluebeat (cuyo nombre proviene del sello de ska de Ziggy Jackson, Blue Beat). Suckle ya tenía una reputación considerable entre la comunidad afrodescendiente gracias a sus fiestas con sistema de sonido (que solía celebrar en días de fiesta nacional) en el Porchester Hall, el Kilburn Gaumont State y otros lugares en el oeste y noroeste de Londres. También trajo consigo otra innovación jamaicana, el «encubrimiento», que consiste en rasgar el sello del disco para disimular la identidad de la grabación. Mick Eve, un músico activo en la escena londinense de fiestas nocturnas, recuerda una vez que Suckle despegó con vapor el sello de una copia prístina del disco My Baby Just Cares for Me, de Nina Simone."
+ },
+ "El disco era la revolución. El disco era la libertad, la solidaridad, el amor.": {
+  "ch": 6,
+  "page": 193,
+  "sec": "Orígenes clandestinos",
+  "para": "El disco era la revolución. El disco era la libertad, la solidaridad, el amor. El disco era sucio, espiritual, emocionante, poderoso. El disco era secreto, underground, peligroso. Era moreno, gay, hambriento. Era la emancipación."
  },
  "El diyey vocalista dio sus primeros pasos en 1956.": {
   "ch": 5,
@@ -228,6 +270,12 @@ window.ANOCHE_REFS = {
   "sec": "Los primeros sonidos",
   "para": "Las rivalidades de sonido pronto derivaron en competiciones, con careo incluido, en las que los sonidos se montaban uno justo al lado del otro adrede, y a veces hasta tocaban en el mismo baile. El primer «choque de sonidos» (sound clash), como se les denominaría luego, fue entre Count Nick the Champ y Tom the Great Sebastian en 1952. Estos eventos enconaron aún más la batalla por la supremacía gremial, y otras formas de música luego adoptarían rituales similares, como en el caso más notorio del hip-hop."
  },
+ "El prototipo de mezcladora de Bozak se convirtió en la norma de la industria durante los siguientes quince años, y hoy es un artículo de coleccionista.": {
+  "ch": 6,
+  "page": 217,
+  "sec": "El evangelista del sistema de sonido",
+  "para": "Rosner también fue una figura importante en la fabricación del primer mezclador disponible comercialmente en 1971, el Bozak, por su inventor, Louis Bozak, que pasó a ser uno de los requisitos más prácticos de un club nocturno. «Tuve que inventar la rueda hasta que llegó el mezclador Bozak —recuerda—. Pero ayudé a Bozak a diseñar su mezclador; le ofrecí sugerencias para que el diseño mejorara. Ya él contaba con un mezclador con una entrada de diez canales. Le sugerí que lo único que necesitaba eran unas modificaciones mínimas a su unidad para convertirlo en un mezclador de discoteca estereofónico. Y de inmediato lo hizo de la forma apropiada». El prototipo de mezcladora de Bozak se convirtió en la norma de la industria durante los siguientes quince años, y hoy es un artículo de coleccionista."
+ },
  "El público se volvió loco cantando el compás, y tocó la canción tantas veces esa noche que a la mañana siguiente se había desgastado el acetato.": {
   "ch": 5,
   "page": 184,
@@ -300,6 +348,12 @@ window.ANOCHE_REFS = {
   "sec": "Los 40 principales y la radio libre",
   "para": "Con el tiempo se hizo evidente que los escándalos de la payola apenas hicieron mella para detener la fuerza de los DJ de radio. Lo que sí lograron, sin embargo, fue aumentar la popularidad del formato conocido como los 40 principales o Top 40. En la estela de la payola, la idea de seleccionar las grabaciones científicamente y no según los caprichos de algún disc jockey corrupto resultó muy atractiva para los dueños de estaciones y sus patrocinadores. En 1961, Murray Kaufman, más conocido como Murray the K, se jactaba de que el ordenador Univac seleccionaría toda la música de su show."
  },
+ "En lo que respecta al DJ de clubs, el disco fue la época de su madurez.": {
+  "ch": 6,
+  "page": 196,
+  "sec": "Orígenes clandestinos",
+  "para": "En lo que respecta al DJ de clubs, el disco fue la época de su madurez. Fue en ese momento cuando se convirtió en una estrella, en una divinidad para su pista de baile. También fue entonces cuando se estandarizó la nomenclatura de las técnicas para mezclar y cuando la industria lo reconoció como la persona mejor preparada para crear música bailable en vez de solo tocarla."
+ },
  "En realidad, Block había tomado la idea para su show —incluso el nombre— de Al Jarvis": {
   "ch": 2,
   "page": 45,
@@ -311,6 +365,12 @@ window.ANOCHE_REFS = {
   "page": 59,
   "sec": "Payola",
   "para": "Las investigaciones de la payola coincidieron con la preocupación de las autoridades por los efectos sociales del rock’n’roll. El director del FBI J. Edgar Hoover lo declaró «una influencia que corrompe a la juventud estadounidense», y las vistas en los plenos se desviaron con frecuencia al asunto de la estética, en vez de concentrarse en los aspectos legales. La transmisión de sonidos prohibidos de la raza negra a adolescentes blancos excitables se consideraba revolucionaria y sumamente peligrosa. En retrospectiva, la investigación fue menos un interrogatorio sobre fechorías financieras que una cruzada contra la influencia ilimitada del disc jockey, personificado en Freed."
+ },
+ "En su propia época, sin embargo, para su familia original, era sinónimo de salvación.": {
+  "ch": 6,
+  "page": 194,
+  "sec": "Orígenes clandestinos",
+  "para": "Antes de que el éxito comercial tergiversara la música hasta convertirla en una perversión de poliéster de sí misma y extirpara la escena del mundo underground gay de Nueva York para convertirla en pasto del mainstream estadounidense, el disco fue la música bailable más novedosa, más sexy, más redentora y más amorosa jamás conocida. Se apoyaba en el talento fenomenal de los músicos, solía ser poética y muy lírica, podría ser tan experimental y profunda como lo exigiera el guion, e hizo del funk un atributo irrenunciable. Hoy en día, el nombre disco se asocia con Fiebre del sábado noche, con los Bee Gees, Abba y los Village People, con compilaciones horterillas en CD y noches en clubs retro. En su propia época, sin embargo, para su familia original, era sinónimo de salvación."
  },
  "Entrenaría a un DJ blanco para que sonara como un negro.": {
   "ch": 2,
@@ -354,6 +414,18 @@ window.ANOCHE_REFS = {
   "sec": "Despistar a la competencia tapando las galletas",
   "para": "Inevitablemente, la competencia entre los DJ aumentó, y para proteger sus descubrimientos, cubrían el sello y les ponían nombres falsos. Esta suerte de ocultación vendría a ser el precursor de las exclusivas de sello blanco de los DJ modernos, e incluso del hábito de los DJ de hip-hop de mojar y despegar los sellos de sus discos más codiciados. La práctica, en realidad, comenzó en los sesenta. Mick Eve, un músico activo de la escena de esas fiestas nocturnas, recuerda que Count Suckle cubría discos como «My Baby Cares For Me» de Nina Simone, una práctica que este DJ importó desde Jamaica. Sin embargo, fueron los DJ de soul quienes generalizaron su práctica, tanto para proteger sus discos exclusivos como para borrarles la pista a los contrabandistas."
  },
+ "Este artículo, publicado en Rolling Stone el 13 de septiembre de 1973, fue la primera historia de lo que más adelante se conoció como el disco.": {
+  "ch": 6,
+  "page": 231,
+  "sec": "Batiendo marcas",
+  "para": "«Los mejores DJ de discoteca eran estrellas desconocidas que descubrían álbumes ignorados previamente, importaciones foráneas, cortes de discos y sencillos raros con el poder de lograr que el público grite y tocarlos de forma solapada, sin parar, para que bailaran hasta el desmayo —escribió Vince Aletti—. Como los DJ están más cercanos a los cambios de último minuto en los gustos musicales de las personas, son los primeros en reflejar estos cambios en la música que tocan meses antes de las listas comerciales de las revistas y casi todas las estaciones de radio». Este artículo, publicado en Rolling Stone el 13 de septiembre de 1973, fue la primera historia de lo que más adelante se conoció como el disco."
+ },
+ "Francis Grasso fue el primer DJ en presentar una verdadera interpretación creativa.": {
+  "ch": 6,
+  "page": 199,
+  "sec": "Francis Grasso: el primer DJ moderno",
+  "para": "Francis Grasso fue el primer DJ en presentar una verdadera interpretación creativa. Fue el primero en demostrar que una noche repleta de grabaciones podía ser una sola cosa: un viaje, una narrativa, un conjunto. Antes de Grasso, el DJ podía intuir que algunos discos tenían el poder de afectar el ánimo y la energía del público, pero solo después de Grasso el DJ sí reconoció que su poder le pertenecía a él mismo, y no a los discos. Asentó la manipulación diestra de los bailarines en la manera en que secuenciaba y programaba los discos y, en mucho menor grado, las canciones individuales."
+ },
  "Fue el primer DJ en mezclar discos.": {
   "ch": 3,
   "page": 104,
@@ -377,6 +449,12 @@ window.ANOCHE_REFS = {
   "page": 76,
   "sec": "París durante la guerra",
   "para": "Fueron los nazis quienes propulsaron el primer boom de los discos. Para el Tercer Reich, el jazz estadounidense, con su herencia negra y judía, tenía todos los indicios de una amenaza cultural. «Son estilos de baile que la sana opinión pública llama “música de malditos negros”, en los que predominan ritmos provocativos y se abusa violentamente de la melodía», declaraban los locutores del Estado mientras lo censuraban de las ondas radiofónicas alemanas. Cuando Estados Unidos entró en la guerra, Goebbels emitió más decretos que censuraban los «ritmos de negros que bailan con el vientre». El jazz, que ya era la música de una juventud rebelde, se convirtió en nada menos que la banda sonora de la resistencia."
+ },
+ "Grasso rescató al DJ del mundo de la servidumbre y lo convirtió en el jefe de cocina musical.": {
+  "ch": 6,
+  "page": 199,
+  "sec": "Francis Grasso: el primer DJ moderno",
+  "para": "Grasso rescató al DJ del mundo de la servidumbre y lo convirtió en el jefe de cocina musical. DJ Francis no seguía las listas del pop y no se limitaba a complacer los gustos de los clientes. Por el contrario, cocinaba un banquete nocturno de platos musicales exóticos que los comensales, aunque los devoraban ávidamente y pedían más, jamás hubieran pedido porque no sabían de su existencia."
  },
  "Había una buena razón para la preferencia de canciones rápidas que se tocaban en el Wheel. La clientela estaba enganchada a las anfetas.": {
   "ch": 4,
@@ -456,6 +534,12 @@ window.ANOCHE_REFS = {
   "sec": "Jamaica sin igual",
   "para": "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual. Más aún, fue el primer lugar en donde una grabación ya no se veía como un producto acabado. Por el contrario, en el estudio se convirtió en la progenitora de una serie de versiones similares pero distintas de material para un sinfín de remezclas o, como decían ellos, dubs. De esta manera nació el concepto de la remezcla, varios años antes de que la misma idea se les ocurriera a los DJ de disco y de hip-hop."
  },
+ "La noticia de esta joya oculta incluso llegó al mundillo cerrado del Bronx, donde los DJ que formulaban el hip-hop la convirtieron en un himno.": {
+  "ch": 6,
+  "page": 229,
+  "sec": "Batiendo marcas",
+  "para": "Otra grabación que llegó a la fama gracias al Loft fue The Mexican de Babe Ruth, ahora catalogada por los expertos en hip-hop como uno de los temas definitorios de los b-boy. Esta banda se formó en Hatfield, en los suburbios de Inglaterra, y lograron un éxito instantáneo con su primer álbum en Canadá, irónicamente. Este elepé, «First Base», mayormente una rutina de rock extensa, no cae en el olvido gracias a la inclusión de The Mexican. Casualmente, después de varios desencuentros con dueños de clubs de Nueva York, Steve D’Acquisto estaba en Montreal cuando la canción comenzó a tocarse por allá. Rápidamente, atrajo la atención de Mancuso. «Trabajaba con Rob Ouimet en un lugar llamado Love. Yo era su suplente. Y Rob me dio The Mexican de Babe Ruth, y luego yo lo traje aquí». Una vez el disco se popularizó en el Loft, los DJ de toda la ciudad comenzaron a buscarla. La noticia de esta joya oculta incluso llegó al mundillo cerrado del Bronx, donde los DJ que formulaban el hip-hop la convirtieron en un himno."
+ },
  "La nueva obsesión con las rarezas abonó un terreno fértil para las copias falsas y piratas.": {
   "ch": 4,
   "page": 160,
@@ -467,6 +551,12 @@ window.ANOCHE_REFS = {
   "page": 63,
   "sec": "Los 40 principales y la radio libre",
   "para": "La pionera de este estilo fue la KMPX de San Francisco, uno de los muchos intereses musicales del dueño del sello local y promotor Tom Donahue. Desde 1967, Donahue comenzó a hacer sonar pistas de álbumes, evitando éxitos de las listas y promocionando bandas desconocidas del emergente movimiento hippie, entre ellas los grupos sin contrato discográfico Jefferson Airplane y Grateful Dead. Como posdata, el DJ británico John Peel había estado poniendo a hurtadillas canciones de discos en una lista supuestamente británica que compilaba en una estación de San Bernardino. Y, en efecto, Peel había propuesto un formato muy similar al de Donahue por lo menos seis meses antes que el formato libre naciera en San Francisco, aunque la gerencia de la estación niega este dato. En la primavera de 1967 regresó a Inglaterra e introdujo las mismas ideas en su programa «Perfumed Garden» para la estación pirata Radio London."
+ },
+ "La precisión del sistema de sonido que crearon juntos Rosner y Mancuso se ha convertido en el estándar aceptable para cualquier club nocturno del mundo.": {
+  "ch": 6,
+  "page": 221,
+  "sec": "David Mancuso en el Loft",
+  "para": "La precisión del sistema de sonido que crearon juntos Rosner y Mancuso se ha convertido en el estándar aceptable para cualquier club nocturno del mundo. «Es solo un tema de calidad —dice Rosner—. Soy un audiófilo, ¿sabes? Apliqué mis técnicas audiófilas (la alta fidelidad o hi-fi) al sonido comercial, cosa que no se había logrado hasta entonces. Los sistemas de sonido comerciales eran horrorosos. No había secretos: era cuestión de persuadir al dueño para que invirtiera el dinero, se arriesgara y comprara los componentes adecuados. Yo sabía dónde situar los altavoces. Sabía cuántos requería y cómo lograr que sonaran bien»."
  },
  "La presentación de grabaciones ha dado paso a la interpretación.": {
   "ch": 1,
@@ -485,6 +575,18 @@ window.ANOCHE_REFS = {
   "page": 88,
   "sec": "El twist",
   "para": "La revolución que causó el twist se debe a su sencillez. No requería pareja, ni rutina, ni ritual ni capacitación. Lo único que se necesitaba era el disco correcto y un par de piernas sueltas. Era una invitación a acudir a la pista y a moverse como uno quisiera. Como no era un baile de parejas, fue un pequeño golpe en favor de la igualdad de sexos, pues acabó con el concepto de la wallflower o la «chica alhelí»: una chica que esperaba la invitación para bailar (por pura coincidencia, la pastilla anticonceptiva se lanzó pocos meses después del baile). Quizá más importante aún, unió a grupos de bailarines. Al bailar el twist, uno ya no se centraba en la pareja, sino que lo celebraba en un salón repleto de gente."
+ },
+ "Larry Levan llamaba al Gallery «su misa de los sábados».": {
+  "ch": 6,
+  "page": 235,
+  "sec": "Nicky Siano en el Gallery",
+  "para": "Larry Levan llamaba al Gallery «su misa de los sábados». Casey compartía este entusiasmo."
+ },
+ "Las reglas eran sencillas: debía tener ritmo y soul, e impartir palabras de esperanza, redención y orgullo. El amor era el mensaje.": {
+  "ch": 6,
+  "page": 227,
+  "sec": "El mensaje es el amor",
+  "para": "Con influencias de la era hippie, pinchaba el soul de ojos azules de Rare Earth, a la cantante de soul blanca Bonnie Bramlett (cuya canción Crazy Bout My Baby era un himno único del Loft), Glad de Traffic y el sonido de la Costa Oeste de los Doobie Brothers. Se añadía a la combinación Papa Was A Rolling Stone de los Temptations, Country City de War’s City o el afrofunk pesado de Manu Dibango. Hold On To Your Mind de Andwela, una pieza rara de rock psicodélico irlandés, era una exclusiva del Loft, como también lo era Wind de Circus Maximus, entre cientos de hermosas rarezas más. Una suerte de canción temática era House Party de Fred Wesley, que resumía el espíritu del lugar. Mancuso tiraba mucho de canciones instrumentales y temas de corte latino con mucha percusión. Y a todos nos atraía con una canción cuyas letras cargaban el ambiente con un significado positivo. Las reglas eran sencillas: debía tener ritmo y soul, e impartir palabras de esperanza, redención y orgullo. El amor era el mensaje."
  },
  "Le Club abrió en la Nochevieja de 1960. Los sesenta habían comenzado.": {
   "ch": 3,
@@ -515,6 +617,12 @@ window.ANOCHE_REFS = {
   "page": 11,
   "sec": "Lo que realmente hace un DJ",
   "para": "Lo que hace un DJ es esto: sabe de música. El DJ conoce la música mejor que tú, mejor que tus amigos, mejor que cualquiera en la pista de baile o en la tienda de discos. Algunos DJ conocen su género preferido mejor que nadie más en el planeta. Claro, cualquiera puede poner un disco, pero la mayoría de la gente solo tiene canciones que todos han escuchado, canciones que ya aburren al personal. Un buen DJ lanza a la sala momentos musicales tan nuevos y tan frescos que se antoja irrelevante el que la música sea grabada, y tan poderosos que fácilmente desbancará a tus favoritos de todos los tiempos (y aquí algo «fresco» puede significar una canción vieja rescatada de la más absoluta oscuridad tan fácilmente como una pista producida ayer). El verdadero trabajo del DJ no es agazaparse detrás de los platos por un par de horas, con un aire furtivo a la espera de cupones para bebida; el verdadero tiempo y esfuerzo se empeña en una vida entera examinando la música para decidir si es buena, mala o «¡Ay, Dios mío, escucha esto!». La labor de un DJ es canalizar el vasto océano de música grabada en una sola noche inolvidable."
+ },
+ "Los DJ de la época llamaban a su estilo «música de jungla» o jungle music.": {
+  "ch": 6,
+  "page": 243,
+  "sec": "Walter Gibbons en el Galaxy 21",
+  "para": "Lo destacable del estilo de Gibbons era su uso portentoso de los patrones de percusión: las sinfonías de percusión tribales se tocaban con fervor religioso. Adelantándose al estilo asombroso de copiar y pegar por parte de los DJ de hip-hop, Gibbons tomaba dos copias de una canción, por ejemplo, Erucu, una producción de Jermaine Jackson del disco «Mahogany», o Two Pigs And A Hog del disco «Cooley High», y mezclaba y empalmaba la percusión tan hábilmente que no había forma de distinguir si la música que se escuchaba se había grabado así originalmente. Los DJ de la época llamaban a su estilo «música de jungla» o jungle music."
  },
  "Los DJ eran empresarios autónomos.": {
   "ch": 2,
@@ -570,11 +678,29 @@ window.ANOCHE_REFS = {
   "sec": "El DJ agarra el micrófono",
   "para": "Machuki también comenzó la práctica de añadir pequeños clics y otros efectos —anticipando las «consolas humanas» [human beatbox] en unos veinte años— que se conocieron como peps porque animaba una canción. «Había veces en que cuando sonaba el disco, a mi juicio, sonaba flojo, así que añadía los peps: “chicatúc, chicatúc, chicatúc” —dice Machuki—. Causó sensación». Recuerda con orgullo que la gente solía comprar discos en particular después de escuchar una canción en un baile, dando por sentado que sus contribuciones en directo formarían parte de la grabación, solo para devolver la compra una vez caían en la cuenta de que en realidad no figuraban en el disco. «No se daban cuenta de que lo añadido era una aportación de Machuki en el salón de baile», dice entre risas."
  },
+ "Mancuso preparaba el camino para una nueva clase de DJ, que no sería necesariamente un adepto de la tecnología como Francis Grasso, sino un bibliotecario, un anticuario, un arqueólogo de la música.": {
+  "ch": 6,
+  "page": 229,
+  "sec": "Batiendo marcas",
+  "para": "Mancuso preparaba el camino para una nueva clase de DJ, que no sería necesariamente un adepto de la tecnología como Francis Grasso, sino un bibliotecario, un anticuario, un arqueólogo de la música. Con su fervor como misionero musical, Mancuso distaba mucho de la rocola de antaño. Lo impulsaba el deseo por descubrir música grandiosa, por seguir la pista a discos y luego compartir sus secretos con otros DJ. En realidad no dedicaba mucho tiempo a buscarlos a tientas por sí mismo; los clientes habituales del Loft se los traían. Pero si Mancuso se topaba con un disco que le fascinaba, quería que todos lo escucharan y conocieran su nombre."
+ },
  "Martin Block fue la primera estrella entre los disc jockeys": {
   "ch": 2,
   "page": 43,
   "sec": "El salón de baile imaginario",
   "para": "Martin Block fue la primera estrella entre los disc jockeys; uno entre un puñado de personajes exitosos que sentaron las bases para el rápido auge del DJ en la posguerra. Comenzó como vendedor, anunciando varios tipos de productos y pinchando discos en el ínterin desde un camión con un altavoz que recorría arriba y abajo todo Broadway, hasta que la policía y los dueños de las tiendas lo silenciaron."
+ },
+ "Mientras Christopher Street bulle con la lucha por la emancipación de la comunidad gay, el DJ está ocupado reescribiendo la manera en que escuchamos las grabaciones en los clubs nocturnos.": {
+  "ch": 6,
+  "page": 193,
+  "sec": "LOVE IS THE MESSAGE (EL AMOR ES EL MENSAJE)",
+  "para": "Mientras Christopher Street bulle con la lucha por la emancipación de la comunidad gay, el DJ está ocupado reescribiendo la manera en que escuchamos las grabaciones en los clubs nocturnos."
+ },
+ "Musicalmente, el disco era verdaderamente revolucionario.": {
+  "ch": 6,
+  "page": 195,
+  "sec": "Orígenes clandestinos",
+  "para": "Musicalmente, el disco era verdaderamente revolucionario. Estaba en el corazón de algunas de las innovaciones más radicales hasta esa fecha en la manera en que se concebía, creaba y consumía la música. Cambió la apariencia de los clubs hasta rayar lo irreconocible, cambió la radio de forma drástica y tuvo un efecto importante en el equilibrio de poder en la industria musical entre los sellos independientes y las majors [los grandes grupos de la industria discográfica]. Hacia el final de su reinado, habían nacido el disco sencillo de 12 pulgadas, la remezcla y una serie de nuevas técnicas de grabación en estudio. Y con la reconstrucción de las canciones exclusivamente para las pistas de baile (más largas, más centradas en el ritmo, más funcionales) y con los discos vistos como las herramientas de los DJ en vez de simples representaciones de la música en directo, llegó una nueva noción de lo que debe ser la música popular."
  },
  "Más aún, fue el primer lugar en donde una grabación ya no se veía como un producto acabado.": {
   "ch": 5,
@@ -618,6 +744,12 @@ window.ANOCHE_REFS = {
   "sec": "La pugna por el alma del soul",
   "para": "A medida que el Mecca evolucionaba inevitablemente, mezclando cualquier cosa de Philly International con las propuestas de Funkadelic, Wigan reaccionó violentamente con una verdadera pesadilla de stompers que provenían del pop. Ponían Theme From Joe 90, así como Hawaii 5-0 de los Ventures. Un DJ, Richard Searling, hizo todo lo que pudo para conservar la dignidad de las selecciones musicales, pero no era suficiente. Parecía como si el northern soul se parodiara a sí mismo."
  },
+ "Pero antes de que el disco llegara, la noche tenía que regresar a las manos de las clases populares, un prerrequisito ineludible en toda innovación en el mundo de los clubs.": {
+  "ch": 6,
+  "page": 196,
+  "sec": "La muerte del rock",
+  "para": "Sin embargo, antes de que todo esto pudiera ocurrir, tenía que producirse un cambio. Al terminar los sesenta, la cultura de clubs bebía de la fama, los viajes internacionales y el culto al playboy, encarnados en lugares como Arthur en Nueva York y Scotch of St. James en Londres, o en los trips en lugares psicodélicos como el Electric Circus o el UFO. Mientras estaba en boga, habiendo consolidado un nuevo estándar de entretenimiento para la jet set, este mundo nocturno de la gente guapa difícilmente podía inspirar cualquier movimiento musical innovador. Pero antes de que el disco llegara, la noche tenía que regresar a las manos de las clases populares, un prerrequisito ineludible en toda innovación en el mundo de los clubs."
+ },
  "Pero de repente… ¡todo era ácido!": {
   "ch": 3,
   "page": 108,
@@ -629,6 +761,12 @@ window.ANOCHE_REFS = {
   "page": 64,
   "sec": "El zar del entretenimiento mundial",
   "para": "Pero las personas listas ya habían dado con algo mejor: el DJ de club."
+ },
+ "Podría decirse que el primer club comercial que logró una combinación perfecta fue el Gallery.": {
+  "ch": 6,
+  "page": 233,
+  "sec": "Nicky Siano en el Gallery",
+  "para": "Podría decirse que el primer club comercial que logró una combinación perfecta fue el Gallery. Nicky Siano, un alborotador enérgico y bisexual de Brooklyn, se había mudado a Manhattan a la tierna edad de dieciséis años con su novia Robin. Era 1971 y ya había estado explorando la noche neoyorquina post-Stonewall durante casi un año. Cuando cumplió los diecisiete, ya era dueño de su propio club."
  },
  "Por todo lo cual, se convirtió en el primer disc jockey porque, usando un fonógrafo de cilindros Ediphone, también puso un disco en las ondas.": {
   "ch": 2,
@@ -660,6 +798,12 @@ window.ANOCHE_REFS = {
   "sec": "Alan Freed y el rock’n’roll",
   "para": "El 7 de septiembre de 1954, Freed transmitió su primer show para la WINS de Nueva York. En pocas semanas se convirtió en la fuerza dominante de la radio de la región; atrajo un público gigantesco de diversidad racial para su música contundentemente negra (en Cleveland, su público era abrumadoramente afrodescendiente). Ray Reneri, quien trabajaba para Freed, aseguraba que si este pinchaba un disco, «al día siguiente vendía diez mil copias»."
  },
+ "Rosner construyó su primer sistema de sonido para las casetas de Canada-A-Go-Go y Carnival-A-Go-Go en la Exposición Universal de 1964 y 1965.": {
+  "ch": 6,
+  "page": 216,
+  "sec": "El evangelista del sistema de sonido",
+  "para": "Rosner construyó su primer sistema de sonido para las casetas de Canada-A-Go-Go y Carnival-A-Go-Go en la Exposición Universal de 1964 y 1965. Fue allí donde fabricó el primer sistema de discos estereofónico. «Hasta aquel entonces reinaba el mono. No había tecnología disponible en ese momento. No había mezcladores, ni mezcladores estéreo ni aparatos de señalización [cueing]. Nada». Poco a poco entró en el mundo de los clubs, primero en un lugar pequeño llamado Ginza y luego en el Haven, donde fabricó el primer mezclador estéreo de la historia, usado con un efecto devastador por Francis Grasso. «El primer sistema de señalización fue una de mis aventuras anticuadas —dice Rosner—. Lo llamaban el Rosie, porque lo pintaron de rojo. Era muy rudimentario y no era muy bueno. Pero cumplía su cometido. Y nadie se podía quejar, porque no había nada más por ahí»."
+ },
  "Se dice que el rock’n’roll nació la noche del 21 de marzo de 1952": {
   "ch": 2,
   "page": 55,
@@ -671,6 +815,12 @@ window.ANOCHE_REFS = {
   "page": 185,
   "sec": "El dub",
   "para": "Se puede describir el doblaje como «una placa de rayos X musicales». Una mezcla de dub es, en resumidas cuentas, la mezcla de un tema con el bajo más alto. El «dob dub laje» segrega la canción en sus componentes principales, y añade y sustrae cada ingrediente de sonido hasta que se crea una nueva composición. Al añadir espacio a una pista, lo que queda tiene mucho más impacto. Al reforzar la línea de bajo hasta que se convierte en una presencia retumbante y colosal, eliminando todo de la canción salvo la percusión, enviando un fragmento de voz a un eco reverberante, estirando un ritmo con una dilatación interminable, el dub puede convertir una composición musical de anodina aridez en un paisaje montañoso con relieve."
+ },
+ "Se trata de la revuelta de Stonewall, noche en la que el Nueva York gay tomó las calles y se rebeló contra el orden establecido.": {
+  "ch": 6,
+  "page": 191,
+  "sec": "LOVE IS THE MESSAGE (EL AMOR ES EL MENSAJE)",
+  "para": "Se trata de la revuelta de Stonewall, noche en la que el Nueva York gay tomó las calles y se rebeló contra el orden establecido. Pero se trató de un acto de rebelión distinto: diríase que fue más un alegre acto teatral que una revuelta armada. Era la culminación de décadas de opresión y de humillación. Instados por la lucha de los conciudadanos afroamericanos por los derechos civiles, e inspirada en el movimiento por la liberación de la mujer, Stonewall fue la revuelta fundacional con la que se certificó el nacimiento del orgullo gay."
  },
  "Si Ian Samwell del Lyceum fue el revolucionario accidental de la cultura de clubs británica, Stevens fue su Lenin, un creyente confirmado en el poder revolucionario del disc jockey.": {
   "ch": 3,
@@ -689,6 +839,30 @@ window.ANOCHE_REFS = {
   "page": 136,
   "sec": "El Torch",
   "para": "Si el Twisted Wheel fue la cantera en la que se fundió el sonido del norte y el Catacombs el lugar donde se le dio forma a martillazos, el Torch, en el tranquilo pueblo de Tunstall, en las afueras de Stoke-on-Trent, fue el lugar donde se consolidó. La moda que crearon el Twisted Wheel y el Catacombs fue llevada al fetichismo en el Torch. Aunque el club solo duró un año (casi todo 1972 hasta su cierre en marzo de 1973), sigue estando muy vivo en la memoria de quienes lo recuerdan."
+ },
+ "Si el disco tiene un ángel, este es la figura desaliñada de David Mancuso; y si tuvo un lugar de nacimiento, fue su club, el Loft.": {
+  "ch": 6,
+  "page": 217,
+  "sec": "David Mancuso en el Loft",
+  "para": "Si el disco tiene un ángel, este es la figura desaliñada de David Mancuso; y si tuvo un lugar de nacimiento, fue su club, el Loft. Más influyente que cualquier club nocturno anterior o posterior, fue el lugar donde se concibió la música que bailas hoy, así como el lugar adonde ir a bailarla."
+ },
+ "Si eres DJ hoy en día, Francis Grasso es tu antepasado; el que revolucionó el concepto del oficio.": {
+  "ch": 6,
+  "page": 215,
+  "sec": "Los discípulos de DJ Francis",
+  "para": "Si eres DJ hoy en día, Francis Grasso es tu antepasado; el que revolucionó el concepto del oficio. Los disc jockeys antes que él habían sido esclavos de los discos. Después de él, solo se arrodillarían ante el ritmo."
+ },
+ "Si para preparar el tejido social de Nueva York para la llegada del disco necesitó de muchos factores, para preparar la pista de baile bastó con un disc jockey.": {
+  "ch": 6,
+  "page": 198,
+  "sec": "Francis Grasso: el primer DJ moderno",
+  "para": "Si para preparar el tejido social de Nueva York para la llegada del disco necesitó de muchos factores, para preparar la pista de baile bastó con un disc jockey. Es el ancestro de todos los DJ modernos, el patriarca de estas artes, el primer DJ al que le reconocemos haber hecho lo mismo que hacen los DJ de hoy. La misma noche en que la rebelión de Stonewall comenzó, la revolución social que nutriría el disco estaba a un tiro de piedra, tocando en Haven, conspirando para urdir la revolución musical que le daría alas. Se llamaba Francis Grasso."
+ },
+ "Sin duda alguna, el disco anunciaba la llegada de una nueva figura: el DJ como sumo sacerdote.": {
+  "ch": 6,
+  "page": 252,
+  "sec": "El nacimiento del arte del DJ moderno",
+  "para": "A medida que exploraba las posibilidades creativas de mezclar, programar y ajustar el sonido (y su público exploraba las posibilidades creativas de todo tipo de sustancias), el DJ aprendía cada vez más sobre la manipulación. Esencial para este arte era el conocimiento de su público y de las dinámicas de una pista de baile, así como de los discos que pinchaba. Muchos DJ, por supuesto, eran amantes del baile; algunos, como François Kevorkian y Francis Grasso, también eran músicos. Todos tenían un conocimiento profundo, bien aprendido, instintivo, de lo que provocaba que las personas bailaran, y de lo que provocaba que los que ya bailaban bailaran aún más, por más tiempo, con más desenfreno. Sin duda alguna, el disco anunciaba la llegada de una nueva figura: el DJ como sumo sacerdote."
  },
  "Socavó la dependencia de la música en directo y sentó las bases para que el DJ tomara el mando.": {
   "ch": 3,
@@ -713,6 +887,12 @@ window.ANOCHE_REFS = {
   "page": 34,
   "sec": "La era de la radio",
   "para": "Fue también en 1922 cuando la BBC salió en antena en Gran Bretaña, con un informativo el 15 de noviembre leído por Arthur Burrows. Sin embargo, dado que su director general y fundador, lord Reith, tenía ideales de servicio público que obviaban el entretenimiento, no fue hasta julio de 1927 que la BBC posó la aguja en el surco para darle al Reino Unido su primer DJ. Su nombre era Christopher Stone y tuvo que trabajar duro para convencer a la BBC de que lo dejara crear un programa basado únicamente en escuchar grabaciones. Sin embargo, una vez en el aire cosechó un éxito rotundo, y su actitud mordaz y encantadora lo convirtieron instantáneamente en una de las primeras estrellas de la radio."
+ },
+ "Su tiempo en el Tubs fue el prototipo para el legendario Paradise Garage.": {
+  "ch": 6,
+  "page": 242,
+  "sec": "Larry Levan y Frankie Knuckles en el Continental Baths",
+  "para": "El 1973, Levan se convirtió en el DJ principal del club, con Frankie de antesala en las noches más tranquilas. Levan se fue en 1974 para abrir su propio club con su socio, el técnico de sonido Richard Long. Su tiempo en el Tubs fue el prototipo para el legendario Paradise Garage. Aunque en el Garage fue donde se convirtió en una estrella, Levan nunca olvidó que sus raíces están en los primeros años temerarios del disco."
  },
  "También fueron los culpables de brindar a París una especial predilección por bailar en sótanos al ritmo de discos.": {
   "ch": 3,
@@ -750,6 +930,12 @@ window.ANOCHE_REFS = {
   "sec": "El dub",
   "para": "Para 1975, a King Tubby se le daba todo el crédito de la discográfica por las pistas que reconfiguraba, no solo como ingeniero o remezclador. Los que realmente conocen la música jamaicana lo reconocen como uno de sus verdaderos fundadores. Trágicamente, lo mataron a tiros en 1989, apenas cuatro años después de abrir su estudio con tecnología de vanguardia. Y, sorprendentemente, a pesar de su enorme contribución a la música, la prensa ni siquiera se hizo eco de la muerte de King Tubby."
  },
+ "Una cosa comenzó a quedar muy clara: estos clubs nuevos no solo tenían el poder de poner canciones nuevas a los aficionados en sus pistas de baile, también eran capaces de crear éxitos comerciales.": {
+  "ch": 6,
+  "page": 231,
+  "sec": "Batiendo marcas",
+  "para": "Otra canción clave para el Loft fue Soul Makossa de Manu Dibango. El éxito de esta joya rara demostró lo lejos que había llegado el poder divulgador del Loft (reforzado por el creciente número de clubs nocturnos subterráneos de la época). Mancuso había conseguido el disco, que entonces pertenecía a un sello independiente diminuto, Fiesta, en una tienda jamaicana de Brooklyn a finales de 1972. Con sus distintivos ritmos de afrojazz, fue un éxito inmediato entre los DJ de toda la ciudad, y saltó a la radio gracias al DJ Frankie Crocker de la WBLS. A la larga, después de que Atlantic adquiriera los derechos del tema, perforó las listas de pop de Billboard. Una cosa comenzó a quedar muy clara: estos clubs nuevos no solo tenían el poder de poner canciones nuevas a los aficionados en sus pistas de baile, también eran capaces de crear éxitos comerciales."
+ },
  "Una versión es una canción a la que se le han quitado las voces, una secuencia de una canción creada para que el diyey pueda hablar por encima del sonido.": {
   "ch": 5,
   "page": 182,
@@ -761,6 +947,12 @@ window.ANOCHE_REFS = {
   "page": 59,
   "sec": "Payola",
   "para": "Freed, arrogante y engreído hasta el final, admitió haber recibido pagos de las discográficas United Artists, Roulette y Atlantic Records, y de las distribuidoras Cosnat y Superior. Entre 1957 y 1959, ganó unos cincuenta mil dólares con la payola. Misteriosamente, algunas compañías incluso le habían cedido la autoría (y las consiguientes regalías) de algunas grabaciones que este promocionaba. Uno puede encontrar el nombre «A. Freed» en los créditos de «Maybellene» de Chuck Berry. Este último dijo que, hasta que no vio la liquidación de regalías, no tenía idea de que Freed «la hubiera escrito conmigo». Es importante destacar, sin embargo, que Freed nunca comprometió la calidad de sus shows, y sin duda no era el único que había aceptado payolas."
+ },
+ "Uno quiere escuchar la música, no el sistema».": {
+  "ch": 6,
+  "page": 220,
+  "sec": "David Mancuso en el Loft",
+  "para": "Además de controlar con sigilo quién venía a las fiestas, Mancuso prestaba atención a la música. Entendía que las dinámicas de sonido que él proyectaba eran tan importantes como los discos que pinchaba. «Quiero escuchar la música. Una vez uno escucha el sistema de sonido significa que hay fatiga auditiva. Uno quiere escuchar la música, no el sistema»."
  },
  "Y, desde luego, tras el éxito de U-Roy, aparecieron Big Youth, I-Roy, Dillinger y cientos de diyeis más que robaban el protagonismo a los cantantes.": {
   "ch": 5,
@@ -798,6 +990,24 @@ window.ANOCHE_REFS = {
   "sec": "El DJ versus las discográficas",
   "para": "«Cada sello en cada disco llevaba una leyenda en la que se advertía que estaba terminantemente prohibida la transmisión por radio», recuerda el DJ pionero Al Jarvis en la edición del setenta y cinco aniversario de Billboard. «Así que tenía que comprarme mis propios discos y apostar a que la Corte Suprema archivara el caso Waring»."
  },
+ "«Creo que yo era el mejor DJ del mundo hasta que escuché pinchar a Walter Gibbons»": {
+  "ch": 6,
+  "page": 244,
+  "sec": "Walter Gibbons en el Galaxy 21",
+  "para": "«Creo que yo era el mejor DJ del mundo hasta que escuché pinchar a Walter Gibbons», le dijo Jellybean Benitez, un joven DJ nacido en el Bronx y destinado a la fama, a Steven Harvey. «Todo lo que hacen los demás ahora ya lo hacía él en aquel entonces. Sincronizaba discos (tocar dos discos al mismo tiempo para lograr un efecto de ensanchamiento) y los redoblaba para que hubiera una pequeña repetición. Ejecutaba cortes rápidos y tremendos en los discos, muy parecido a lo que hacen los b-boy. Los ponía tan rápido que uno no podía escuchar el plato disminuir o acelerar la velocidad. Efectuaba pequeñas ediciones grabadas en casetes y la gente se volvía loca»."
+ },
+ "«Cuando pinchaba un disco, este se pinchaba en todos lados», alardea.": {
+  "ch": 6,
+  "page": 236,
+  "sec": "Nicky Siano en el Gallery",
+  "para": "Mientras que la influencia de Mancuso funcionó por vía del boca a boca underground, la de Nicky Siano funcionó de forma más directa. «Cuando pinchaba un disco, este se pinchaba en todos lados», alardea. El DJ Kenny Carpenter, un cliente habitual del Gallery, está de acuerdo: «Nicky era al que todos iban a estudiar en el Gallery —afirma—. Nicky sabía hablar mediante la música. Usaba las letras para enviar un mensaje. Te amo, te odio, te extraño. ¿Te acuerdas de Freddie Prinze, un actor de comedias de situación famoso aquí? Pues murió, y esa noche Nickie pinchó Freddie’s Dead del disco “Superfly”. Ese tipo de cosas». Y mientras que Mancuso usaba la música para disimular su timidez, Siano era un exhibicionista desvergonzado."
+ },
+ "«Desde mi punto de vista, Michael Cappello era el mejor DJ que jamás haya hecho este trabajo —afirma D’Acquisto—.": {
+  "ch": 6,
+  "page": 213,
+  "sec": "Los discípulos de DJ Francis",
+  "para": "A pesar de tener solo dieciséis años cuando comenzó a trabajar como DJ, Cappello pronto se forjó una reputación como un pinchadiscos consumado: primero en el Haven, luego con D’Acquisto y Grasso cuando regresaron al Sanctuary. «Desde mi punto de vista, Michael Cappello era el mejor DJ que jamás haya hecho este trabajo —afirma D’Acquisto—. Podía escuchar a Michael hora tras hora, noche tras noche, y nunca me aburría. Siempre fue ingenioso, un genio; era absolutamente astuto»."
+ },
  "«El cierre del Arthur indicaba que los días de la discoteca estaban contados», profetizó.": {
   "ch": 3,
   "page": 117,
@@ -815,6 +1025,12 @@ window.ANOCHE_REFS = {
   "page": 18,
   "sec": "El arte de ser DJ",
   "para": "David Mancuso, padre putativo del disco, siempre ha sostenido, a capa y espada, que ningún DJ es mejor que su público. Su idea del DJ es que este es intérprete y oyente a un tiempo. En su visión, el DJ debe ser «una persona modesta, que desconecta el ego y respeta la música, y está ahí para que siga su curso: para participar». En las mejores noches, dice, el DJ se siente como un conducto de las emociones que lo rodean: completa el ciclo entre los bailarines y la música. «Es una situación única en la que la gente forma parte de la escenografía de la música que suene en ese momento». En esta relación, el DJ es tan parte del público como los bailarines. «En esencia, uno tiene un pie en la pista de baile y otro en la cabina»."
+ },
+ "«Es la persona que más influyó en mí —dice Nicky Siano—.": {
+  "ch": 6,
+  "page": 249,
+  "sec": "David Rodriguez en el Ginza",
+  "para": "«Es la persona que más influyó en mí —dice Nicky Siano—. Fue un amigo fabuloso y de gran ayuda al lanzar mi carrera»."
  },
  "«Ese servicio causó sensación —dijo Wallichs—. Convertimos al disc jockey en un prescriptor, en un tipo importante, en el VIP de la industria.": {
   "ch": 2,
@@ -840,11 +1056,29 @@ window.ANOCHE_REFS = {
   "sec": "La radio negra y el rhythm and blues",
   "para": "«Jack Cooper fue el pionero, pero Al Benson fue el padrino», dijo Stamz para explicar que Benson fue el primer DJ negro que no adoptó una forma de hablar de los blancos. «La gente solía decir que Al tenía la peor voz, y la tenía. Pero también decía la gente que “el tipo suena como yo”. Sonaba como el hombre común»."
  },
+ "«La música disco era un mantra, una oración.": {
+  "ch": 6,
+  "page": 253,
+  "sec": "El nacimiento del arte del DJ moderno",
+  "para": "En una entrevista para el New York Post en 1975, Steve D’Acquisto afirmó: «La música disco era un mantra, una oración. Ya nadie va a la iglesia, y si escuchas canciones como Fight The Power, Ease Down On The Road y Bad Luck, estás recibiendo instrucción política y religiosa»."
+ },
+ "«La típica discoteca de Nueva York era joven, italiana y gay», escribió Vince Aletti": {
+  "ch": 6,
+  "page": 240,
+  "sec": "El auge de las discotecas",
+  "para": "Con o sin recesión, David Mancuso y Francis Grasso habían creado entre ambos una cultura de los DJ que florecía. «La típica discoteca de Nueva York era joven, italiana y gay», escribió Vince Aletti al referirse a los chicos guapos cuyos nombres acababan en «o», quienes se apoderaban de la vida nocturna de la ciudad."
+ },
  "«Muchos de los DJ ponían las canciones en un orden particular debido a la forma en que la gente bailaba», recuerda Bellars": {
   "ch": 4,
   "page": 131,
   "sec": "Cazatesoros",
   "para": "Y así como hacían todo lo posible para encontrar los discos perfectos para su pista de baile, estos DJ también aprendían cómo trabajarse al público. Aunque casi todos hablaban entre canciones, también aprendían a poner temas en secuencias para mantener felices a los bailarines de ojos saltones. «Muchos de los DJ ponían las canciones en un orden particular debido a la forma en que la gente bailaba», recuerda Bellars, al describir cómo pinchaba tres canciones de Bobby Freeman seguidas —The Duck, C’mon And Swim y The Swim, en ese orden— porque el compás iba más rápido poco a poco. «Uno lo aumentaba gradualmente, y luego ponía cinco grabaciones rápidas una detrás de la otra. Luego lo bajabas porque la cosa se ponía muy loca»."
+ },
+ "«Nadie mezclaba como yo —alardea—.": {
+  "ch": 6,
+  "page": 209,
+  "sec": "Técnicas revolucionarias",
+  "para": "«Nadie mezclaba como yo —alardea—. Nadie estaba dispuesto a quedarse por mucho tiempo. Porque si uno quería quedarse por mucho tiempo, las probabilidades de cometer errores son mucho mayores. Pero, para mí, era absolutamente natural. Era como pasear al perro»."
  },
  "«No creo que fuera un artista —aclara—. Lo que sí hacía era crear un ambiente.": {
   "ch": 3,
@@ -858,6 +1092,18 @@ window.ANOCHE_REFS = {
   "sec": "Los primeros sonidos",
   "para": "Otro gánster era Prince Buster, un exboxeador cuyo nombre de pila era Cecil Bustamante Campbell. Buster luego se convertiría en uno de los vocalistas y productores más famosos de la isla, pero comenzó como jefe de seguridad en los bailes de Coxsone. Su pelotón de matones y su reputación como tipo duro le vino bien a la hora de rechazar los esfuerzos destructivos de Duke Reid, sobre todo cuando el propio Buster estaba sobradamente preparado para recurrir al sabotaje; durante la primera noche al servicio de Coxsone, Buster destrozó la aguja de Duke. Posteriormente, Buster fue fundamental para el auge del ska, y cuando fundó su propio sistema de sonido, Voice Of The People, pronto emergió con ese estilo para convertirse en el más poderoso de los comienzos de los sesenta; para entonces los sonidos dominaban el mundo del entretenimiento jamaicano. Como recuerda en el libro de Stephen Davis, Reggae Bloodlines: «No había radio en aquellos días, y el sistema de sonido lo era todo. Para escuchar un disco nuevo, miles acudían a los bailes»."
  },
+ "«Para mí, esta comunión en la pista es una congregación espiritual», declaró Rodriguez": {
+  "ch": 6,
+  "page": 251,
+  "sec": "David Rodriguez en el Ginza",
+  "para": "«Para mí, esta comunión en la pista es una congregación espiritual», declaró Rodriguez en una entrevista a mitad de los setenta, explorando un tema que se ha vuelto recurrente para muchos DJ. «Hay cientos de personas en un salón cuyo vínculo es la música. No hay tensión alguna entre gais y heteros: el denominador común es la música. Me puedo colocar (en el sentido literal) solo con la música. A veces elijo estos discos de manera que me permiten contar una historia completa en una noche. ¿Sabes lo que se siente al escuchar que todo un salón suspira cuando comienza una canción? ¡Es como un aplauso para mí!»."
+ },
+ "«Pinchar allí cada noche, escuchar la música una y otra vez. Así fue como prácticamente me formé».": {
+  "ch": 6,
+  "page": 243,
+  "sec": "Larry Levan y Frankie Knuckles en el Continental Baths",
+  "para": "Tras la salida de Levan, Knuckles se convirtió en el DJ residente del Continental Baths, y pinchaba allí hasta su cierre, cuando se fue a Chicago con mucho éxito y, como veremos, forjó la música house. Nunca olvidó el Continental Baths, sin embargo, como le dijo a Sheryl Garratt: «Pinchar allí cada noche, escuchar la música una y otra vez. Así fue como prácticamente me formé»."
+ },
  "«Quiero emoción», ladraba Noel, recordando sus días como DJ.": {
   "ch": 3,
   "page": 105,
@@ -869,6 +1115,24 @@ window.ANOCHE_REFS = {
   "page": 83,
   "sec": "La liberación",
   "para": "Anticipando el glamur de Studio 54 tres años antes, y superándolo sin duda en términos de esnobismo en la puerta, en 1975 Régine se llevó sus 800 pares de zapatos a Nueva York y abrió un club en el primer piso del hotel Delmonico. Era tan exclusivo que la Autoridad Estatal del Licor consideró demandarla por discriminación social. Cuando las tuberías del lugar se averiaron durante la primera semana, ella simplemente cargó toda la cristalería sucia en limusinas y se las envió al restaurante Le Cirque para que la lavaran. En el apogeo de su imperio había diecinueve clubs Régine por todo el mundo. «Soy la persona que diseñó la forma moderna de pasar la noche —declaró—. Soy la primera y única Reina de la Noche»."
+ },
+ "«Tee Scott era sin duda distinto de los otros DJ —dice Tenaglia—.": {
+  "ch": 6,
+  "page": 247,
+  "sec": "Tee Scott en el Better Days",
+  "para": "Danny Tenaglia, que luego se convertiría en uno de los DJ estrella de los noventa, por aquel entonces era un joven frecuentador de clubs a tientas. Recuerda el Better Days como el primer lugar donde encontró personas bailando el estilo vogue, y recuerda que quedó impresionado con las avanzadas técnicas de mezclar de Scott, que incluía estos solapamientos largos, o «combinaciones» [blends]: tocar dos discos simultáneamente por un período extenso. «Tee Scott era sin duda distinto de los otros DJ —dice Tenaglia—. Intentaba cosas como estos solapamientos largos. Para esa época era mucho más difícil; la gente no tiene idea de lo complicado que resulta mezclar aquellos discos con baterías en directo. Y los mantenía por mucho más tiempo que otros DJ. Escuchar durante la visita siguiente la misma mezcla implicaba que era algo que había diseñado a propósito, pero además merecía la pena repetirla»."
+ },
+ "«Todo el mundo tocaba los mismos discos en esa época —recuerda Siano—. El truco era cómo los combinabas.": {
+  "ch": 6,
+  "page": 236,
+  "sec": "Nicky Siano en el Gallery",
+  "para": "«Todo el mundo tocaba los mismos discos en esa época —recuerda Siano—. El truco era cómo los combinabas. Mi estilo era vincular las canciones de relleno y dejar que fueran intensificándose y luego soltaba las buenas y la cosa despegaba, una hora de canciones buenas, hasta que la gente gritara tanto que no pudiera soportarlo más»."
+ },
+ "«todo el público se fue con él.": {
+  "ch": 6,
+  "page": 245,
+  "sec": "Walter Gibbons en el Galaxy 21",
+  "para": "«Intenté convencer al dueño de que no instalara ese control de volumen. Le dije que consultara con Walter y llegara a un acuerdo en cuanto a los niveles de sonido. George me contestó: “No, soy el jefe, soy dueño de este club y te pago por reparar este sistema de sonido, así que haz lo que te digo”. Pues lo instalé. Había un control de volumen escondido en su oficina». Las consecuencias fueron drásticas. «Cuando Walter se enteró, renunció». Sin embargo, dice Rosner, riéndose, «todo el público se fue con él. George se quedó sin negocio, así que tuvo que recuperar a Walter y deshacerse del control de volumen»."
  },
  "«uno puede tener los derechos de autor de una canción, pero no puedes tener los derechos de un ritmo adaptado»": {
   "ch": 5,
