@@ -87,7 +87,7 @@ ANOCHE.add([
       { a: 'Model 500', t: 'Technicolor', y: 1986 },
       { a: 'Model 500', t: 'Play It Cool', y: 1986 },
       { a: 'Eddie Fowlkes', t: 'Goodbye Kiss', y: 1986 },
-      { a: 'Rhythim Is Rhythim', t: 'Nude Photo', y: 1987, ess: 1 },
+      { a: 'Rhythim Is Rhythim', t: 'Nude Photo', y: 1987, yq: 'Derrick May Rhythim Is Rhythim Nude Photo 1987', ess: 1 },
       { a: 'Rhythim Is Rhythim', t: 'Strings of Life', y: 1987, ess: 1 },
       { a: 'Kreem', t: 'Triangle of Love', y: 1986 },
       { a: 'Reese & Santonio', t: 'The Sound', y: 1987 },

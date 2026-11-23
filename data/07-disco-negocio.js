@@ -158,11 +158,15 @@ ANOCHE.add([
     tracks: [
       { a: 'MFSB', t: 'TSOP (The Sound of Philadelphia)', y: 1974 },
       { a: 'Harold Melvin & The Blue Notes', t: 'Wake Up Everybody', y: 1975 },
-      { a: 'Various Artists', t: 'Philadelphia Classics', y: 1977 },
+      { a: 'Various Artists', t: 'Philadelphia Classics', y: 1977, yq: '-' },
     ],
     refs: [
       { q: 'Para la mayoría de los historiadores, el disco comenzó en Filadelfia.' },
       { q: '«Es probablemente lo mejor que haya hecho en la vida —dice—. Hubiera dado lo que fuera por mezclar Love Is The Message.' },
     ] },
   { id: 'disco', influences: ['remezcla'] },
+  { id: 'disco-comercial', tracks: [
+    { a: 'Bee Gees', t: 'Main Course', y: 1975, yq: 'Bee Gees Main Course 1975 full album' },
+    { a: 'Bee Gees', t: 'Children of the World', y: 1976 },
+  ] },
 ], 7);

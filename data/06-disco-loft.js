@@ -9,7 +9,7 @@ ANOCHE.add([
     tracks: [
       { a: 'Harold Melvin & The Blue Notes', t: 'Bad Luck', y: 1975 },
       { a: 'The Isley Brothers', t: 'Fight the Power', y: 1975 },
-      { a: 'Little Beaver', t: 'Ease Down on the Road', y: 1974 },
+      { a: 'Little Beaver', t: 'Ease Down on the Road', y: 1974, yq: '-' },
     ],
     refs: [
       { q: 'El disco era la revolución. El disco era la libertad, la solidaridad, el amor.' },

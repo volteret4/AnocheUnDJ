@@ -153,7 +153,7 @@ ANOCHE.add([
     tracks: [
       { a: 'Frank Wilson', t: 'Do I Love You (Indeed I Do)', y: 1965, ess: 1 },
       { a: 'The Checkerboard Squares', t: 'Double Cookin’', y: 1969 },
-      { a: 'Bobby Paterson', t: 'What a Wonderful Night for Love' },
+      { a: 'Bobby Paterson', t: 'What a Wonderful Night for Love', yq: 'Bobby Patterson What A Wonderful Night For Love northern soul' },
       { a: 'Jackie Lee', t: 'Darkest Days', y: 1966 },
       { a: 'Donald Height', t: 'She Blew a Good Thing', y: 1966 },
       { a: 'Patti Austin', t: 'Pain Stain' },

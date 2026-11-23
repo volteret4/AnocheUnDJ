@@ -35,6 +35,62 @@ const MAP = {
   'Popcorn 50': 'popcorn',
 };
 
+// Líneas del ePub con dos discos pegados (o con uno partido): cómo leerlas. `prefix` pasa a la línea siguiente.
+const FIX = {
+  'Eddie Kendricks – Date With The Rain Labelle – What Can I Do For You': ['Eddie Kendricks – Date With The Rain', 'Labelle – What Can I Do For You'],
+  'The O’Jays – For The Love Of Money Teddy Pendergrass – You Can’t Hide': ['The O’Jays – For The Love Of Money', 'Teddy Pendergrass – You Can’t Hide'],
+  'Southshore Commission – Free Man The Supremes – Up The Ladder To The Roof': ['Southshore Commission – Free Man', 'The Supremes – Up The Ladder To The Roof'],
+  'Jorge Ben – Ponta de Lanca Africano Brian Briggs – Aeo': ['Jorge Ben – Ponta de Lanca Africano', 'Brian Briggs – Aeo'],
+  'Fuhrs & Frohling – Happiness (@45). Gilberto Gil – Toda Menina Baiana': ['Fuhrs & Frohling – Happiness (@45)', 'Gilberto Gil – Toda Menina Baiana'],
+  'Osibisa – Raghupati Raghava Rajaram Ozo – Anambra': ['Osibisa – Raghupati Raghava Rajaram', 'Ozo – Anambra'],
+  '‘Fusion Mix’: Mohawks – Champ, James Brown – Get Up, Get Into It, Get Involved, Dyke & The Blazers – Let A Woman Be A Woman, Let A Man Be A Man':
+    ['The Mohawks – The Champ', 'James Brown – Get Up, Get Into It, Get Involved', 'Dyke & The Blazers – Let A Woman Be A Woman, Let A Man Be A Man'],
+  'Grand Funk Railroad – Inside Looking Out Grandmaster Flash & the Furious': ['Grand Funk Railroad – Inside Looking Out', { prefix: 'Grandmaster Flash & the Furious ' }],
+  'Whitney Houston – I’m Every Woman Kiwi Dreams – Y?': ['Whitney Houston – I’m Every Woman', 'Kiwi Dreams – Y?'],
+  'Jasper Street Company – A Feeling – Basement Boys': ['Jasper Street Company – A Feeling (Basement Boys)'],
+  'Melissa Morgan – Still In Love – Maw': ['Melissa Morgan – Still In Love (Maw)'],
+  'Nu Colours – My Desire – Maw Dub 3': ['Nu Colours – My Desire (Maw Dub 3)'],
+  'Boom Boom Satellites – Dub Me Crazy Coldcut – Atomic Moog': ['Boom Boom Satellites – Dub Me Crazy', 'Coldcut – Atomic Moog'],
+  'Ocean Colour Scene – The Riverboat Photek – Seven Samurai/Hidden Camera': ['Ocean Colour Scene – The Riverboat Song', 'Photek – The Hidden Camera'],
+  'Primal Scream – Don’t Fight It, Feel It Primal Scream – Trainspotting': ['Primal Scream – Don’t Fight It, Feel It', 'Primal Scream – Trainspotting'],
+  'Squarepusher – Male Pills mixed with… Dream Warriors – My Definition Of A Boombastic Jazz Style – (acappella).':
+    ['Squarepusher – Male Pill', 'Dream Warriors – My Definition Of A Boombastic Jazz Style (acappella)'],
+  'Barbara Lewis – Think A Little Sugar Marvin Jenkins – I’ve Got The Blues (Parts 1 & 2).': ['Barbara Lewis – Think A Little Sugar', 'Marvin Jenkins – I’ve Got The Blues (Parts 1 & 2)'],
+  'The Blues Busters – I Won’t Let You Go South Central Avenue Municipal': ['The Blues Busters – I Won’t Let You Go', { prefix: 'South Central Avenue Municipal ' }],
+  'Red Tyler & The Gyros – Junk Village Spooners Crowd – Two In The Morning': ['Red Tyler & The Gyros – Junk Village', 'Spooners Crowd – Two In The Morning'],
+};
+// «Todo lo de…», «(en directo)»: sin vídeo concreto.
+// Consultas de YouTube corregidas tras revisar los DUDOSO de tools/yt.py ('-' = sin vídeo).
+const YQ = {
+  'Jeannie Brown|Can’t Stop Talking': '-',
+  'Steve Silk Hurley|Jungle DJ': '-',
+  'Stereo MC’s|Non-Stop': '-',
+  'Guy Simone|You’re Mine': '-',
+  'Depeche Mode|Shout': '-',
+  'Edwin Starr|S. O. S. (Stop Her On Sight) aka Scott On Swingers': 'Edwin Starr Stop Her On Sight SOS',
+  'Dean Cortney|I’ll Always Need You': 'Dean Courtney I’ll Always Need You',
+  'Yellowman|Zuzuzangzang': 'Yellowman Zungguzungguguzungguzeng',
+  'Johnny Dangerous|Reasons To Be Dismal': '-',
+  'Marc Kinchen|MK EP': '-',
+  'Ron Trent|Aftermath': '-',
+  'African Dreams|It All Begins Here': '-',
+  'Factory Kids|I’m Simian Dammit!': '-',
+  'Headrush|Underground': '-',
+  'The Soundman|The Factory': '-',
+  'Yo Yo Honey|Higher (DJ Pierre Mix)': '-',
+  'Atavistic Rhythms|Snackwitch': '-',
+  '4E|Temple Trax': '-',
+  'Glowball|Frequency': '-',
+  'Jedi Knights|Ruak Et & Kok-Bah': '-',
+  'Solaris|Slow Burn Dub': '-',
+  'Witchman|Leviathan?': '-',
+  'Double G|Twisted Future': '-',
+  'Dreem Teem|Dreem Teem Theme': '-',
+  '500 Rekords|Find The Path EP': '-',
+  'Reservoir Dogs|What To Do About Us': '-',
+};
+const NOVIDEO = /^(all tracks|any track|\(live performance\))$/i;
+
 const norm = (s) => s.toLowerCase().replace(/[’‘´`]/g, "'").replace(/&/g, ' and ').replace(/\bfeat(uring)?\.?\b.*$/, '')
   .normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/^the\s+/, '').replace(/[^a-z0-9]+/g, '');
 const normT = (s) => norm(s.replace(/\(.*?\)/g, ''));
@@ -58,6 +114,7 @@ for (let raw of lines) {
   const by = s.match(/\s*\(compilada por (.+?)\)\.?$/);
   if (by) { cur.by = by[1]; s = s.slice(0, by.index).trim(); if (!s) continue; }
   s = prefix + s; prefix = '';
+  if (FIX[s]) { for (const e of FIX[s]) { if (typeof e === 'string') cur.entries.push(e); else prefix = e.prefix; } continue; }
   if (/\s(–|-)\s/.test(s)) { cur.entries.push(s); continue; }
   if (/\s(and|y|&|feat\.?)$/i.test(s)) { prefix = s + ' '; continue; }   // continúa en la línea siguiente
   if (cur.entries.length) cur.entries[cur.entries.length - 1] += ' ' + s;  // resto del título anterior
@@ -88,13 +145,13 @@ for (const l of lists) {
   const tracks = [];
   for (const e of l.entries) {
     const m = e.match(/^(.+?)\s(?:–|-)\s(.+)$/);
-    let a = m[1].trim(), t = m[2].trim();
+    let a = m[1].trim(), t = m[2].trim().replace(/\s*\(@(33|45)\)/, '').replace(/[.,]+$/, '').trim();
     const k = match(a, t);
     if (k) { a = k.a; t = k.t; reused++; }
     const key = (a + '|' + t).toLowerCase();
     if (seen.has(key)) continue;
     seen.add(key);
-    tracks.push(`      { a: ${q(a)}, t: ${q(t)}${k && k.y ? `, y: ${k.y}` : ''}, ess: 1 },`);
+    tracks.push(`      { a: ${q(a)}, t: ${q(t)}${k && k.y ? `, y: ${k.y}` : ''}${YQ[a + '|' + t] ? `, yq: ${q(YQ[a + '|' + t])}` : NOVIDEO.test(t) ? ", yq: '-'" : ''}, ess: 1 },`);
     total++;
   }
   out += `  { id: '${id}', note: ${q(`Lista «${name}» del libro${l.by ? `, compilada por ${l.by}` : ''}: ${tracks.length} discos.`)},\n    tracks: [\n${tracks.join('\n')}\n    ] },\n`;

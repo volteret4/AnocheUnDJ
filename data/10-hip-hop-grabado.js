@@ -225,4 +225,11 @@ ANOCHE.add([
   { id: 'scratch', note: 'Del scratch de Theodore salió el turntablism: transforming, beat-juggling y competiciones de DMC, NMS e ITF; «Buffalo Gals» y «Rockit» lo llevaron al pop.' },
   { id: 'loft', note: 'Comparad las listas del Roxy con las del Paradise Garage: el hip-hop debe mucho al disco, y Russell Simmons era cliente del Loft y del Garage.' },
   { id: 'northern-soul', note: 'Keb Darge llevó la manía del disco raro del northern soul al funk de 45 r. p. m.: es el mismo «digging».' },
+  { id: 'sampleado', tracks: [
+    { a: 'De La Soul', t: '3 Feet High and Rising', y: 1989 },
+    { a: 'Public Enemy', t: 'It Takes a Nation of Millions to Hold Us Back', y: 1988 },
+  ] },
+  { id: 'scratch-pop', tracks: [
+    { a: 'Malcolm McLaren', t: 'Duck Rock', y: 1983 },
+  ] },
 ], 10);

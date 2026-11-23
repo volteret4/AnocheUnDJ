@@ -328,7 +328,8 @@ ANOCHE.add([
     refs: [
       { q: '«Comenzamos a tocar mucho de las primerísimas grabaciones de house porque, para nosotros, tenía la misma crudeza que el reggae», dice Beedle.' },
     ] },
-  { id: 'tecno-inteligente', note: 'Warp, cuyo bleep and bass había nutrido el hardcore, se distanció de él con el elepé «Artificial Intelligence».', influences: ['bleep-and-bass'] },
+  { id: 'tecno-inteligente', note: 'Warp, cuyo bleep and bass había nutrido el hardcore, se distanció de él con el elepé «Artificial Intelligence».', influences: ['bleep-and-bass'],
+    tracks: [{ a: 'Various Artists', t: 'Artificial Intelligence', y: 1992, ess: 1 }] },
   { id: 'garage', note: 'El garage británico parte del sonido de Jersey de Tony Humphries: Ministry of Sound lo fichó como residente, y en los Arches, ante el garage acelerado de Londres, fracasó.' },
   { id: 'crackers', note: 'Paul Trouble Anderson, primer DJ negro del Crackers, formó su sonido Trouble Funk y fue el faro de Jazzie B; Norman Jay bailaba allí «Running Away» de Roy Ayers.' },
   { id: 'bluebeat-londres', note: 'Las fiestas blue de los barrios negros británicos se llamaban así por el sello Blue Beat; Count Suckle convirtió una sala de billar de Paddington en el Cue Club.' },
