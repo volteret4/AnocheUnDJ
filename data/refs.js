@@ -462,6 +462,12 @@ window.ANOCHE_REFS = {
   "sec": "París durante la guerra",
   "para": "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa [del francés discothèque]. Formada sobre la palabra francesa para biblioteca [bibliothèque], significa literalmente «un depósito de discos». Supuestamente, sus orígenes se remontan al puerto mediterráneo de Marsella, donde los marineros solían dejar sus discos en los almacenes de los cafés durante el tiempo que estaban en altamar. Cuando se les concedían permisos para ir a tierra, solían regresar a su bar favorito a escuchar los discos en el fonógrafo ubicado en una esquina del establecimiento. El director de cine Roger Vadim reclama haber acuñado el término, pero no hay una etimología definitiva (la división que prestaba discos de la Biblioteca Nacional de Francia se llamaba La Phonothèque [La fonoteca]). Un punto interesante es que no se trataba necesariamente de un lugar: mon discothèque puede significar «mi colección de discos». La connotación apuntaba más a un lugar íntimo y privado que a una sala de baile para orquestas, a las que en Francia se las llamaba le dancing."
  },
+ "Como resultado, para los fanáticos británicos que lo conocían solo por sus producciones y su reputación mitológica, Vasquez y su club Sound Factory llegó a representar lo máximo en la experiencia de clubs.": {
+  "ch": 19,
+  "page": 792,
+  "sec": "DJ invitados y estadounidenses visitantes",
+  "para": "Por otro lado, un DJ talentoso se hizo una leyenda a pesar de (o quizá porque) rehusaba tocar en el Reino Unido. En 1994, Junior Vasquez dijo: «Yo jamás iría para allá a tocar en el Ministry. Es una estupidez; todos lo hacen». Como resultado, para los fanáticos británicos que lo conocían solo por sus producciones y su reputación mitológica, Vasquez y su club Sound Factory llegó a representar lo máximo en la experiencia de clubs. En mayo de 1997 (quizá mucho después de que hubiera amainado el interés de los fanáticos británicos), finalmente cedió y tocó un par de noches, con mucha publicidad, aunque inolvidables, en el Cream y en el Ministry of Sound por una gran suma de dinero."
+ },
  "Como si señalara el fin de una era, en 1989 los espacios al aire libre del Ku y del Amnesia se vieron forzados a añadir techos.": {
   "ch": 14,
   "page": 562,
@@ -833,6 +839,12 @@ window.ANOCHE_REFS = {
   "page": 301,
   "sec": "Bobby DJ en el Ice Palace",
   "para": "El Sandpiper guarda un lugar particular en la historia de la música bailable porque fue aquí en 1972 donde se escucharon las cintas de mezclas legendarias de Tom Moulton por primera vez. Moulton, el padrino de la remezcla, comenzó su carrera editando tortuosamente cintas de bobina abierta, cortando y alargando sus canciones favoritas de soul y de funk para satisfacer el nuevo deseo por un ritmo sin fin. Pasaba horas mezclando las cintas que, en principio, tenía la intención de poner en el Boatel, solo para que el dueño se las devolviera, diciéndole: «No cambies de profesión». Dos semanas más tarde, después de que la cinta llegara a manos del Sandpiper, y Moulton se olvidara de ella, una serie de llamadas de extáticos conversos lo despertó a las tres de la madrugada para felicitarlo; podía escuchar al público gritando al fondo."
+ },
+ "El Sound Factory de Junior era una réplica deliberadamente exacta del Paradise Garage, y en sus mejores momentos casi llegó a despertar los mismos sentimientos de comunidad.": {
+  "ch": 11,
+  "page": 432,
+  "sec": "Larry Levan y el Paradise Garage",
+  "para": "Junior Vasquez forjó toda su carrera siguiendo el camino marcado por Levan: «Yo idolatraba a Larry —dice—. Todavía lo hago a día de hoy; era el mejor. Y sí, vivo en el pasado cuando se trata de eso, y quiero seguir luchando, deseando crear un sentimiento, ese salón, esa cabina». El Sound Factory de Junior era una réplica deliberadamente exacta del Paradise Garage, y en sus mejores momentos casi llegó a despertar los mismos sentimientos de comunidad. Cuando el Sound Factory abrió por primera vez, se colgó el letrero iluminado del Paradise Garage sobre la entrada (una estrategia más bien pretenciosa que rápidamente denunciaron los irritados fieles al Paradise Garage). El Shelter, luego llamado Vinyl, sede de las muy conocidas noches de Body & Soul [cuerpo y alma], era otro club fundado más o menos en su totalidad para preservar el recuerdo del Paradise Garage."
  },
  "El Top 40 debe su nombre a que ese era el número de discos que cabía en una jukebox.": {
   "ch": 3,
