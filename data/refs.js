@@ -12,6 +12,18 @@ window.ANOCHE_REFS = {
   "sec": "El nu-energy y el hard dance",
   "para": "«Puede describirse mejor como un tecno melódico y estimulante», explicó Thomas Foley, de React Records, a Mixmag. «Es tecno con una canción, lo más cerca que el tecno puede acercarse a una tonadilla. A falta de una frase mejor, es un hi-NRG para los noventa»."
  },
+ "A la larga se les conoció como b-boy, seguramente esa «b» era por la palabra break (aunque algunos dicen que también era por el Bronx).": {
+  "ch": 9,
+  "page": 335,
+  "sec": "El breakdancing",
+  "para": "Muchos de los bailarines obviaban el resto de la canción y se recostaban en la pared hasta que llegaba el break del tema. A la larga se les conoció como b-boy, seguramente esa «b» era por la palabra break (aunque algunos dicen que también era por el Bronx). La firme «pose de los b-boy», querida por los raperos incluso hoy —con los hombros curveados hacia dentro y los brazos cruzados firmemente bajo la barbilla— no era tanto un signo agresivo como una forma de los b-boy para verse interesantes mientras esperaban el break."
+ },
+ "A la larga, como ocurrió en Jamaica, la persona que pinchaba los discos fue eclipsada por la persona que pronunciaba las rimas.": {
+  "ch": 9,
+  "page": 368,
+  "sec": "Rapear",
+  "para": "A la larga, como ocurrió en Jamaica, la persona que pinchaba los discos fue eclipsada por la persona que pronunciaba las rimas. Pero por ahora, sobre todo porque era dueño del equipo de sonido y porque el rap todavía estaba en pañales, el DJ asumía todo el control. Herc tenía a Coke La Rock y a Clark Kent; Flash agrupó a sus Furious Five. Bambaataa juntó a varios grupos de rap, entre ellos los Funky Four (Plus One More), Cold Crush se formó en torno a Charlie Chase, Theodore se convertiría en el DJ de los Fantastic Five. Pero ya había artistas para los cuales el DJ era secundario: los Treacherous Three (incluido Kool Moe Dee), los Nigger Twins from Queens, Kurtis Blow…"
+ },
  "A las cuatro de la madrugada quitaron la lona: «Cayeron al unísono mil quinientas mandíbulas, y solo comenzaron a aplaudir».": {
   "ch": 6,
   "page": 249,
@@ -30,6 +42,12 @@ window.ANOCHE_REFS = {
   "sec": "Alan Freed y el rock’n’roll",
   "para": "Sin prestar atención a este tipo de críticas, Freed siguió su camino, aprovechando el color de su piel para promocionar esta forma de música negra emergente a una escala que a la mayoría de los afrodescendientes se les negaba. Para 1957, su show era retransmitido por todo Estados Unidos, y hasta se escuchaba en Gran Bretaña a través de Radio Luxembourg. Alan Freed no fue la primera persona, negra o blanca, en pinchar R&B por la radio, pero sin duda fue la más prominente."
  },
+ "Antes de que existiera cualquier cosa que se llamara hip-hop, estaba el breakdancing.": {
+  "ch": 9,
+  "page": 333,
+  "sec": "El breakdancing",
+  "para": "Antes de que existiera cualquier cosa que se llamara hip-hop, estaba el breakdancing. Era una evolución de una forma de expresión de bravura y pavoneo masculinos, de los pasos Good Foot de James Brown, de los pasos robóticos de los bailarines del funk de la Costa Oeste, de los bailes extrovertidos de las estrellas del podio en el programa de televisión «Soul Train». Asimiló influencias de actos acrobáticos como el claqué y el lindy hop, y hasta del kung fu. Parte de una línea continua de bailes de herencia africana, el breakdancing no era para nada una innovación (los movimientos acrobáticos y marciales de la capoeira, originaria de Brasil, son sorprendentemente parecidos). Su nombre viene de la voz inglesa break, un término del jazz para la parte de un disco bailable en el que la melodía descansa y el baterista tiene libertad para lucirse, es decir, una sección rítmica y explosiva de la canción que apelaba mucho a los fanfarrones adolescentes."
+ },
  "Antes que él, se ponían los discos como si fueran pequeñas actuaciones discretas, pero Francis los trataba como si fueran movimientos de una sinfonía: elementos continuos de un gran todo.": {
   "ch": 6,
   "page": 202,
@@ -47,6 +65,12 @@ window.ANOCHE_REFS = {
   "page": 175,
   "sec": "Los primeros sonidos",
   "para": "La competencia era feroz y se empleaba casi cualquier táctica —justa o marrullera— para «tumbar» al rival y seducir al público a favor de uno en la pista de baile. El fortalecimiento de la potencia del sistema de sonido propio era un método; tener las mejores canciones era igualmente válido, y viajar a Estados Unidos para comprar discos se convirtió en una práctica esencial. King Edwards recuerda que «comenzó a montarse en los aviones como si viajara en autobús» en busca de «especiales»: canciones exclusivas para seducir al público. Además, Coxsone Dodd comenzó a tachar los títulos de los discos y a renombrarlos para desviar la atención de la competencia. Así, Later for Gator de Willis Jackson se convirtió en Coxsone Hop, el buque insignia de su sistema de sonido. Es el primer caso documentado de esta práctica de los DJ, consagrada por el tiempo, y cuyo origen engarza directamente desde Jamaica hasta la escena del northern soul en el Reino Unido y el mundo del hip-hop en Nueva York."
+ },
+ "Bajo el sello de Lenny, Street Beat Records, se lanzó la serie de discos «Ultimate Breaks And Beats» que con el tiempo llegó a alcanzar los veinte volúmenes.": {
+  "ch": 9,
+  "page": 359,
+  "sec": "Afrika Bambaataa",
+  "para": "El empresario de Harlem Paul Winley lazó una serie de recopilaciones de breakbeat llamada «Super Disco Breaks» (es decir, álbumes de canciones que contenían un break excitante). Eran grabaciones notorias por su pobre calidad, masterizadas directamente de las grabaciones de su colección. Otros, como el exchófer Bootleg Lenny Roberts, ofrecía un producto de mejor calidad. En la tienda de discos Music Factory en Time Square, Stanley Platzer (conocido como Fat Stanley, Rey de los Ritmos) guardaba un cuaderno donde registraba para Lenny todas las grabaciones que pedían los clientes. Bajo el sello de Lenny, Street Beat Records, se lanzó la serie de discos «Ultimate Breaks And Beats» que con el tiempo llegó a alcanzar los veinte volúmenes. Muchos otros siguieron esta vía para satisfacer la demanda por temas que por entonces conformaban una gama que iba desde lo inasequible hasta lo imposible de encontrar."
  },
  "Barclay reclama haber abierto la primera discoteca del mundo, Eddie’s, después de la liberación en 1944.": {
   "ch": 3,
@@ -77,6 +101,12 @@ window.ANOCHE_REFS = {
   "page": 325,
   "sec": "Música mañanera",
   "para": "Esta trayectoria de música rápida de temática sexual, seguida por un sonido litúrgico más lento que remitía a amores conquistados y perdidos, era la vida resumida de un hombre gay: ligón coqueto, guerrero lujurioso, amante tierno y, finalmente, vampiresa desgarrada. Cada noche contaba una nueva historia, narrada por el DJ. Vitiretti explicaba su método a David Diebold: «De repente entrábamos en un set descontrolado y salvaje y golpeábamos al público con luz estroboscópica y música salvaje. Los azotábamos con una canción dura tras otra». Pero luego, cuando llegaba la mañana, «los lanzábamos en un remolino que los apaciguaba… y los devolvía a todos al mismo espacio físico»."
+ },
+ "Casi parecía un discurso hecho en público. Fue muy decepcionante. Fue muy triste. Lloré durante un par de días».": {
+  "ch": 9,
+  "page": 351,
+  "sec": "Grandmaster Flash",
+  "para": "«Lo que me dije a mí mismo fue: “Si tomas la parte culminante de estas grabaciones y las tejes en conjunto y las tocas a tiempo, una y otra y otra vez, pues los voy a emocionar a todos”. Pero cuando salí a tocar, todo estaba completamente en silencio. Casi parecía un discurso hecho en público. Fue muy decepcionante. Fue muy triste. Lloré durante un par de días»."
  },
  "Casi toda forma musical radicalmente nueva en las últimas cinco décadas debe su existencia al DJ.": {
   "ch": 1,
@@ -126,6 +156,12 @@ window.ANOCHE_REFS = {
   "sec": "París durante la guerra",
   "para": "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa [del francés discothèque]. Formada sobre la palabra francesa para biblioteca [bibliothèque], significa literalmente «un depósito de discos». Supuestamente, sus orígenes se remontan al puerto mediterráneo de Marsella, donde los marineros solían dejar sus discos en los almacenes de los cafés durante el tiempo que estaban en altamar. Cuando se les concedían permisos para ir a tierra, solían regresar a su bar favorito a escuchar los discos en el fonógrafo ubicado en una esquina del establecimiento. El director de cine Roger Vadim reclama haber acuñado el término, pero no hay una etimología definitiva (la división que prestaba discos de la Biblioteca Nacional de Francia se llamaba La Phonothèque [La fonoteca]). Un punto interesante es que no se trataba necesariamente de un lugar: mon discothèque puede significar «mi colección de discos». La connotación apuntaba más a un lugar íntimo y privado que a una sala de baile para orquestas, a las que en Francia se las llamaba le dancing."
  },
+ "Como tal, igual que el reggae, el hiphop es una música cuya prioridad absoluta es el DJ.": {
+  "ch": 9,
+  "page": 331,
+  "sec": "La fiebre del Fever en el Bronx",
+  "para": "El hip-hop, o (en términos laxos) la música rap, se define en cientos de canciones orgullosamente autorreferenciales como una música creada con solo dos platos y un micrófono. Como tal, igual que el reggae, el hiphop es una música cuya prioridad absoluta es el DJ. Nació de las innovaciones en las técnicas para los platos de algunos disc jockeys jóvenes del Bronx, quienes se autoimpartieron destrezas fenomenales de manipulación de discos para poder adaptar la música disponible para ellos —éxitos del disco de la época y temas de funk de unos años antes— a fin de poder satisfacer las distintas necesidades de sus pistas de baile."
+ },
  "Con David era una historia de estados de ánimo.": {
   "ch": 6,
   "page": 228,
@@ -149,6 +185,12 @@ window.ANOCHE_REFS = {
   "page": 38,
   "sec": "El DJ versus los editores musicales",
   "para": "A fin de contrarrestar el poder de la ASCAP, en 1923 las cadenas de radio se agruparon y formaron la Asociación Nacional de Radiodifusores (NAB, por sus siglas en inglés). En 1939, con la esperanza de debilitar el monopolio de la ASCAP en la industria de los derechos de autor, la NAB creó su propia firma, la Música de Transmisión Incorporada (BMI, por sus siglas en inglés). Mientras la ASCAP aspiraba a mantener la preeminencia del cantautor, la BMI apostaba por fomentar una industria centrada en los discos y en las transmisiones. La mayoría de los artistas de renombre eran miembros de la ASCAP, así que los reclutas de la BMI eran casi todos músicos y cantautores más jóvenes, incluidos todos los músicos folk y «de raza» a quienes la ASCAP les negaba hacerse miembros. Con los contactos cercanos entre la BMI y la radio y una membresía más étnicamente variopinta, eran buenas noticias para el auge de la música negra."
+ },
+ "Contar con los raperos más impresionantes era una nueva forma para que el DJ se destacara.": {
+  "ch": 9,
+  "page": 365,
+  "sec": "Rapear",
+  "para": "Otra instancia de mucha competencia era el rap o, como se conocía entonces, el arte del MC [en inglés, MCing]. En tanto los DJ saqueaban las mejores canciones de cada cual, sus listas de reproducción (salvo, quizá, la de Bambaataa) se volvieron cada vez más parecidas. Contar con los raperos más impresionantes era una nueva forma para que el DJ se destacara."
  },
  "Convirtieron a los discos de culto de los setenta en seres divinos».": {
   "ch": 8,
@@ -186,6 +228,12 @@ window.ANOCHE_REFS = {
   "sec": "La rentabilidad del disco",
   "para": "Ya en 1979, simplemente había demasiado disco, y la gente comenzó a detestarlo. Muchos de los que habían ganado mucho con él se quedaron tumbados en la lona, y las repercusiones de tamaña constatación fueron duraderas. De repente, todo el mundo recordó que era música de maricones, que «era una mierda». Es una de las razones por las cuales hoy el pop bailongo ha tenido tantos problemas para establecerse en Estados Unidos, apriorísticamente estigmatizado como el disco. Para las masas hetero a las que les gusta el rock todavía tiene muchos vínculos con lo presuntamente gay, y para la industria musical estadounidense trae demasiados malos recuerdos por el desmesurado exceso de inversión."
  },
+ "Desarrolló el scratching, girando el disco hacia delante y hacia atrás mientras manipulaba el control cruzado de la mezcladora para producir un nuevo sonido de percusión brutal.": {
+  "ch": 9,
+  "page": 362,
+  "sec": "Habilidad para pagar las facturas",
+  "para": "Desde luego, este querubín de pie delante de una caja de botellas de leche en una fiesta callejera en 63 Park mezclando velozmente por vía de colocar la aguja llamó mucho la atención, pero se puliría como DJ por sus propios méritos con mucha más rapidez de lo que había planificado Flash. Llamándose a sí mismo Grand Wizard Theodore, el chico adquirió más que un nombre. Desarrolló el scratching, girando el disco hacia delante y hacia atrás mientras manipulaba el control cruzado de la mezcladora para producir un nuevo sonido de percusión brutal."
+ },
  "Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom.": {
   "ch": 5,
   "page": 174,
@@ -209,6 +257,12 @@ window.ANOCHE_REFS = {
   "page": 80,
   "sec": "La liberación",
   "para": "«Ya se llevaba la bola brillante y la sillería tapizada, una barra grande donde la gente bebía; tenía una cabinita para el DJ, con dos platos giratorios, en una mesa, con una pila de vinilos y ya está. La música no estaba muy alta, salvo en la pista de baile, así que la gente conversaba. El DJ no mezclaba una canción con otra. Bajaba el volumen al terminar una, luego subía el volumen de la siguiente; nunca bajaban el volumen para pasar a la otra ni las tocaban seguidas. No había tecnología para fusionar las grabaciones. Todos estaban sentados, en las mesas y en la barra, y cuando el DJ tocaba un disco, la gente tenía que ir de una mesa a la otra para invitar a una chica»."
+ },
+ "El DJ no se preocupaba por el género de las grabaciones que pinchaba, lo único que pensaba era en la efectividad de los componentes sonoros y su efecto en la pista de baile.": {
+  "ch": 9,
+  "page": 360,
+  "sec": "Afrika Bambaataa",
+  "para": "El pop sintético europeo, por vía del rock ácido, hasta llegar a los temas de los dibujos animados: incluso desde sus inicios, el hip-hop era ambicioso y ecléctico. El DJ no se preocupaba por el género de las grabaciones que pinchaba, lo único que pensaba era en la efectividad de los componentes sonoros y su efecto en la pista de baile."
  },
  "El Lyceum se convirtió en el primer lugar donde todos los elementos identificables de un club moderno (luces, discos de baile de última moda, un disc jockey y una pista de baile) se combinaron en un solo conjunto.": {
   "ch": 3,
@@ -390,6 +444,12 @@ window.ANOCHE_REFS = {
   "sec": "Alan Freed y el rock’n’roll",
   "para": "El rock’n’roll lo creó un DJ. El nombre en sí proviene directamente del título de un show de radio. La música era sencillamente R&B con un nombre distinto. En un país dividido drásticamente por el tema racial, el término rock’n’roll era una forma sutil para lograr que la música afrodescendiente fuera más accesible a la juventud blanca. A la larga, hubo una diferencia entre los dos estilos de música, pero incluso esta distinción fue impulsada por el DJ. El hombre que cambió el nombre, y que logró más que una forma de popularizar la música, levantó una controversia tan grande en dicho proceso que sería investigado por el Gobierno de Estados Unidos durante la mayor parte de su vida profesional; investigación que, finalmente, lo llevó a la tumba."
  },
+ "El scratching, además de constituir un enorme salto conceptual para convertir los platos giratorios en verdaderos instrumentos, era un fenomenal captador de público.": {
+  "ch": 9,
+  "page": 363,
+  "sec": "Habilidad para pagar las facturas",
+  "para": "El scratching, además de constituir un enorme salto conceptual para convertir los platos giratorios en verdaderos instrumentos, era un fenomenal captador de público. Cuando la gente escuchaba las canciones reestructuradas por la mezcla rápida podían sorprenderse, pero cuando venía acompañada con la percusión futurista chaca-chaca del scracthing, ahí sí que flipaban de lo lindo."
+ },
  "El sida primero se conoció como «la Enfermedad del Saint», pues muchos de los socios del club fueron los primeros en morir.": {
   "ch": 8,
   "page": 326,
@@ -426,17 +486,35 @@ window.ANOCHE_REFS = {
   "sec": "Cleethorpes",
   "para": "En 1976 entró un tercero en liza cuando un pueblo costero de Lincolnshire llamado Cleethorpes organizó un revival del soul de la época dorada. Un matrimonio, Colin y Mary Chapman de Scunthorpe, encontraron un local en un complejo turístico desvencijado en la Costa Este, que había sido sede de todo, desde conciertos de Leo Sayer hasta espectáculos veraniegos de las Nolan Sisters. Cuando el viento soplaba, se podía oír el crujir del cercano muelle. Repleto de cientos de bailarines de northern soul crujía aún más. El elenco de disc jockeys estaba compuesto por desconocidos locales como Poke y Chris Scott, y tras añadir a algunos residentes veteranos como Ian Dewhirst, forjaron un sonido que era en esencia una amalgama del Casino y el Mecca."
  },
+ "En 1976, tres personas lo gobernaban.": {
+  "ch": 9,
+  "page": 361,
+  "sec": "Habilidad para pagar las facturas",
+  "para": "El Bronx es la única parte de la ciudad de Nueva York que queda en el continente estadounidense. La parte occidental está repleta de colinas altas, mientras que la tierra al este del río Bronx se inclina hacia abajo poco a poco hasta el mar. En sus 109 kilómetros cuadrados, tiene una playa artificial, 1,3 millones de habitantes y las autopistas más concurridas de todo Estados Unidos. En 1976, tres personas lo gobernaban."
+ },
  "En 1978, Billboard declaró que el Casino de Wigan era la mejor discoteca del mundo": {
   "ch": 4,
   "page": 141,
   "sec": "El Casino de Wigan frente al Mecca de Blackpool",
   "para": "En 1978, Billboard declaró que el Casino de Wigan era la mejor discoteca del mundo, apenas un año después de otorgarse esta distinción al Paradise Garage de Nueva York. Para muchos, el Casino de Wigan es sinónimo del northern soul. Abierto al público entre 1973 y 1981, en su apogeo era la expresión más importante y más representativa en el ámbito nacional de una escena regional sólida. El número de sus miembros era enorme (100 000 en su mejor momento) y atraía una ingente cantidad de clientes semana tras semana. Sin duda era muy popular. Sin embargo, los reclamos de que en realidad era el mejor de los clubs de northern soul hay que tomarlos con pinzas. No era el más influyente, y lo cierto es que no era el más atrevido y, en sus últimos años, mientras proveía una procesión de grabaciones que eran incluso harto ridículas, cuyo único mérito era el enérgico ritmo norteño, se quedaba algo corto en sus reclamos por la corona del norte. El escritor John McCready lo ha comparado con el actual Ministry of Sound e insta a los historiadores a que no exageren su importancia solo porque atrapaba la mayor cantidad de gente. Aun así, el Casino de Wigan guarda un lugar especial en la memoria de miles, e incluso hoy para muchos representa el verdadero club de northern soul: era el Corazón del Soul."
  },
+ "En 2010, el complejo de apartamentos en el número 1520 de Sedgwick Avenue fue salvado al borde de la destrucción": {
+  "ch": 9,
+  "page": 344,
+  "sec": "Kool Herc",
+  "para": "Como muchos pioneros, Herc cosechó un gran respeto y poca remuneración. Para el momento en que aquellos a quienes inspiró firmaban contratos de grabación y se iban de gira por Europa, él se había retirado del juego y caído en las drogas, devastado por la trágica muerte por ahogamiento de su padre y completamente desmoralizado en 1977 después de que lo apuñalaran en la palma de la mano en una de sus fiestas «por una discrepancia». Veinte años más tarde, los Chemical Brothers lo invitaron a Londres a una de sus presentaciones para rendir homenaje al hombre que creó el breakbeat, el corazón de su música. Sin embargo, su ausencia de lo que se convirtió en una industria de miles de millones solo sirvió para acentuar el estatus mítico de este gigante convertido en leyenda. Solo recientemente se le ha otorgado a Herc un lugar en la historia cultural estadounidense. En 2010, el complejo de apartamentos en el número 1520 de Sedgwick Avenue fue salvado al borde de la destrucción a manos de una inmobiliaria carroñera y el lugar fue rebautizado oficialmente como la cuna del hip-hop."
+ },
  "En Jamaica, los DJ de sistemas de sonido emularon esta forma de hablar, llamada jive, casi de inmediato y se convirtieron en disc jockeys superestrellas como toasters o MC. En Nueva York, veinte años más tarde, surgió el rapero, descendiente de ambas tradiciones.": {
   "ch": 2,
   "page": 53,
   "sec": "Hablar el jive",
   "para": "Cuando Yuri Gagarin completó el primer vuelo espacial pilotado por un ser humano en 1961, Jocko le envió un telegrama. Decía: «Felicidades. Me alegra que hayas podido llegar. Ahora no me siento tan solo aquí». Jocko y otros locos similares demostraron que el DJ de radio podría ser un artista creativo por méritos propios, no solo un comediante o acompañante, sino un vocalista, un poeta. En Jamaica, los DJ de sistemas de sonido emularon esta forma de hablar, llamada jive, casi de inmediato y se convirtieron en disc jockeys superestrellas como toasters o MC. En Nueva York, veinte años más tarde, surgió el rapero, descendiente de ambas tradiciones."
+ },
+ "En el proceso crearon un tipo de música en directo completamente nuevo; sin una guitarra a la vista.": {
+  "ch": 9,
+  "page": 331,
+  "sec": "La fiebre del Fever en el Bronx",
+  "para": "Estos DJ se percataron de que algunos bailarines explotaban con sus pasos más salvajes no solo cuando escuchabas ciertas grabaciones, sino también con ciertas partes de las grabaciones. Siguiendo la máxima del arte del DJ —que hay que fomentar ese tipo de energía—, buscaron formas para pinchar solo esas secciones en particular y repetirlas una y otra vez y otra vez. En el proceso crearon un tipo de música en directo completamente nuevo; sin una guitarra a la vista."
  },
  "En ellos, un DJ famoso de la radio salía del estudio y asumía la función de una rocola humana.": {
   "ch": 3,
@@ -552,6 +630,12 @@ window.ANOCHE_REFS = {
   "sec": "Alan Freed y el rock’n’roll",
   "para": "La reacción al diabólico engendro del R&B, el rock’n’roll, fue apocalíptica. Algunas ciudades lo prohibieron en sus salas de conciertos; otras exigieron que los menores de dieciocho años que asistieran a bailes de rock’n’roll trajeran a sus padres. Las clases medias afroamericanas pensaban que solo fortalecería los estereotipos peyorativos, por sus letras discretas y hasta obscenas que presentaban a las personas de la raza negra como jugadores compulsivos y bebedores con la libido desatada. Los intolerantes blancos lo vieron como un intento de mestizaje; el Consejo de Ciudadanos Blancos de Alabama declaró que el rock’n’roll «apela a lo más básico del hombre, suscita el animalismo y la vulgaridad… Es una conspiración para “mestizar” a Estados Unidos». Además, la mayoría de los críticos de música lo detestaban. El insigne crítico de jazz Leonard Feather escribió: «El rock’n’roll apela a los tontos de todas las edades, pero en particular a tontos jóvenes»."
  },
+ "Esa noche intentó tocar una serie de breaks de forma seguida, uno detrás de otro, sin las otras partes de las canciones.": {
+  "ch": 9,
+  "page": 335,
+  "sec": "Kool Herc",
+  "para": "Esa noche intentó tocar una serie de breaks de forma seguida, uno detrás de otro, sin las otras partes de las canciones."
+ },
  "Ese mismo año, el antiguo DJ del club Midlands, DJ Pete Waterman, junto con los músicos de estudio Mike Stock y Matt Aitken, formaron una sociedad de compositores que llevaría al sonido del hi-NRG a una comercialidad estratosférica.": {
   "ch": 8,
   "page": 314,
@@ -581,6 +665,18 @@ window.ANOCHE_REFS = {
   "page": 231,
   "sec": "Batiendo marcas",
   "para": "«Los mejores DJ de discoteca eran estrellas desconocidas que descubrían álbumes ignorados previamente, importaciones foráneas, cortes de discos y sencillos raros con el poder de lograr que el público grite y tocarlos de forma solapada, sin parar, para que bailaran hasta el desmayo —escribió Vince Aletti—. Como los DJ están más cercanos a los cambios de último minuto en los gustos musicales de las personas, son los primeros en reflejar estos cambios en la música que tocan meses antes de las listas comerciales de las revistas y casi todas las estaciones de radio». Este artículo, publicado en Rolling Stone el 13 de septiembre de 1973, fue la primera historia de lo que más adelante se conoció como el disco."
+ },
+ "Este modo de samplear y relanzar la secuencia, sin perder el ritmo, es la base fundamental del hip-hop": {
+  "ch": 9,
+  "page": 350,
+  "sec": "Grandmaster Flash",
+  "para": "Al enseñarse a sí mismo a revolotear entre sus dos platos a velocidad temeraria, encontrar la entrada de la parte escogida de un disco en segundos, y tocar y repetir y recombinar unos compases determinados, Flash adquirió la capacidad de reestructurar una canción completamente a su antojo. Este modo de samplear y relanzar la secuencia, sin perder el ritmo, es la base fundamental del hip-hop (así como la de otros géneros con breakbeat, como el drum and bass, el breaks, el big beat, el trip hop). Prefigura las técnicas de cortar y pegar para crear música que se convirtieron en la convención tan pronto se desarrolló la tecnología del sampleado digital."
+ },
+ "Flowers y Pete Jones merecen el crédito por desarrollar las mismas técnicas al mismo tiempo y, sobre todo, por impartirlas a una parte más amplia de Nueva York, incluido el Bronx.": {
+  "ch": 9,
+  "page": 347,
+  "sec": "Grandmaster Flash",
+  "para": "Aunque la música que ponían apenas era innovadora —era la totalidad de los éxitos R&B de la lista de Billboard con algún que otro viejo éxito del funk con un toque del más oscuro northern soul—, Jones y sus colegas fueron fundamentales a la hora de divulgar técnicas de mezcla más allá de los clubs subterráneos del centro. En la escena gay, Francis Grasso había creado el beatmatching o «sincronización de ritmos» y fusiones (o grabaciones «a la carrera», como las denomianaba Pete) que precisaban destreza. Flowers y Pete Jones merecen el crédito por desarrollar las mismas técnicas al mismo tiempo y, sobre todo, por impartirlas a una parte más amplia de Nueva York, incluido el Bronx."
  },
  "Francis Grasso fue el primer DJ en presentar una verdadera interpretación creativa.": {
   "ch": 6,
@@ -642,6 +738,12 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Hasta que la industria musical adoptó tardíamente el formato MP3, el disco de 12 pulgadas fue el único formato de música grabada que se impuso por la demanda del consumidor y no gracias a los ardides de los responsables de marketing de las discográficas."
  },
+ "Herc tenía la ventaja inicial y el volumen, Flash tenía sus técnicas, pero Afrika Bambaataa tenía los discos.": {
+  "ch": 9,
+  "page": 356,
+  "sec": "Afrika Bambaataa",
+  "para": "Herc tenía la ventaja inicial y el volumen, Flash tenía sus técnicas, pero Afrika Bambaataa tenía los discos. Y sin espacio para otros criterios que no fueran «¿Esto añadiría potencia a mi fiesta?», era un fiero cazador de vinilos. Mientras otros en el Bronx eran fieles al funk, al disco y al soul, Bam estaba dispuesto a tocar cualquier cosa que pusiera a la gente a bailar, listo para comprar cualquier disco que tuviera apenas unos segundos de un ritmo vibrante: una introducción, un break y un toque de bajo."
+ },
  "Hoy (sin ánimo de ofender a sacerdotes y ministros, que dan lo mejor de sí) es el disc jockey o DJ quien cumple esta función.": {
   "ch": 1,
   "page": 6,
@@ -671,6 +773,12 @@ window.ANOCHE_REFS = {
   "page": 271,
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "La burla terminó en junio de 1976 cuando Salsoul, un sello independiente pequeño, lanzó un disco de 12 pulgadas que era demasiado bueno para ser una artimaña: Ten Percent de Double Exposure. El productor Arthur Baker recuerda escuchar a Gibbons pinchar Ten Percent en el Galaxy 21: «Tenía esta grabación que no parecía tener fin, con todos estos cortes en ella. Yo me decía: “¿Cómo logra esto? Tiene que ser muy veloz”. Era asombroso. Fui hasta la cabina y me enteré de que era una sola grabación. Se llamaba Ten Percent». El jefe de Salsoul, Ken Cayre, recuerda el ensayo extenso en la sesión de la orquesta. «Terminamos la canción, pero ellos seguían tocando, y acabaron con una pista de unos ocho o nueve minutos». Después de que Walter Gibbons metiera mano a la mezcla, el resultado fue una remezcla épica de diez minutos de patrones rítmicos esparcidos y amplios y estridentes movimientos de la orquesta."
+ },
+ "La cultura afroestadounidense nunca ha carecido de destreza oral.": {
+  "ch": 9,
+  "page": 365,
+  "sec": "Rapear",
+  "para": "Para los públicos que se criaron con intérpretes como James Brown, Isaac Hayes, Millie Jackson, Barry White, los Last Poets y Gil Scott Heron, o con comediantes como Pigmeat Markham, Nipsey Russel y Moms Mabley, o con DJ de radio como Jocko Henderson y Eddie O’Jay, con DJ de disco como DJ Hollywood y Eddie Cheeba —y no olvidemos a Muhammad Ali—, el rap no era para nada un fenómeno nuevo. En 1991, en el libro de William Perkins Droppin’ Science, el legendario director de orquesta Cab Calloway nos recuerda: «Yo estaba rapeando hace cincuenta años. Mis letras de rap eran mucho más sucias que las de mis canciones». Asimismo, añade: «También hice el paseo lunar hace cincuenta años». Los afrocentristas entre nosotros trazarán los orígenes del rap hasta la poesía de los griots, pasando por docenas de iglesias en edificios comerciales de afrodescendientes hasta las puertas del grupo gánster más reciente. La cultura afroestadounidense nunca ha carecido de destreza oral."
  },
  "La escena gay también salía del armario poco a poco.": {
   "ch": 3,
@@ -719,6 +827,12 @@ window.ANOCHE_REFS = {
   "page": 46,
   "sec": "El salón de baile imaginario",
   "para": "La influencia de Block como disc jockey engendró una nueva figura en la industria musical: el promotor de discos. En The Death of Rhythm And Blues, Nelson George cuenta la historia de Dave Clark, un joven «hombre de avanzadilla», cuyo trabajo era advertir a una ciudad en particular de la llegada de varias orquestas que estaban de gira. En 1938, Clark se hizo pasar por un chófer para lograr acceder a las oficinas de WNEW (como era negro, le hubieran denegado el acceso si decía la verdad) y entregó un disco: la orquesta de Jimmy Lunceford tocando «St. Paul’s Walking Through Heaven With You». [San Pablo camina por el cielo contigo]. Clark dijo furtivamente a Block que el disco provenía directamente del dueño de la estación, quien esperaba escucharlo por la radio. Se cercioró de que Block lo pusiera en el tocadiscos acto seguido."
+ },
+ "La información sobre las grabaciones con buenos breaks se filtraban como los planos de un reactor nuclear, y los discos pronto se vendían al precio del plutonio.": {
+  "ch": 9,
+  "page": 358,
+  "sec": "Afrika Bambaataa",
+  "para": "La información sobre las grabaciones con buenos breaks se filtraban como los planos de un reactor nuclear, y los discos pronto se vendían al precio del plutonio. Para el verano de 1978, Billboard se percató de este comercio particularmente localizado y publicó una historia sobre cómo Downstairs Records, «el principal minorista de discos», fomentaba una rugiente venta de «descartes oscuros de R&B», y mencionó a Son of Scorpio de Dennis Coffey, Fruit Song de Jeannie Reynolds y Bongo Rock de Incredible Bongo Band. Perfilando a Kool Herc como el instigador del fenómeno, la revista destacó «… que los jóvenes DJ negros del Bronx… están comprando grabaciones solo para tocar treinta segundos más o menos de los breaks rítmicos que contiene cada disco»."
  },
  "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual.": {
   "ch": 5,
@@ -954,6 +1068,12 @@ window.ANOCHE_REFS = {
   "sec": "PREFACIO A LA PRIMERA EDICIÓN",
   "para": "Nuestra empresa tenía por objeto escribir una biografía de la figura más importante de la música dance: el disc jockey [DJ, pronunciado «diyéi»]. Caracterización que, a modo de semblanza, hurga en la evolución de la figura del DJ hasta su consagración como motor de la música popular. Al relatarla, nos hemos centrado en los años de mayor locura, cuando todo valía y hervía, en perjuicio de su comportamiento reciente, ahora que ha sentado la cabeza y se ha convertido en una figura respetable."
  },
+ "Otro compinche de Flash, Melle Mel (Melvin Glover), es el MC de los MC": {
+  "ch": 9,
+  "page": 367,
+  "sec": "Rapear",
+  "para": "Los MC de las fiestas del Bronx pronto introdujeron nuevos elementos y estilos a toda prisa. Cowboy, el fenecido Keith Wiggins, fue el primer MC permanente de Flash. Es recordado como el primero en rimar sobre su DJ, y el primero en ponerse al frente y actuar como un maestro de ceremonias de forma artística. Flash le atribuye la adición del elemento humanizante que al final logró que el estilo de la mezcla rápida fuera agradable al público. «Si no fuera por Cowboy, pues no lo sé… Cowboy encontró la forma de complementar lo que yo hacía». Otro compinche de Flash, Melle Mel (Melvin Glover), es el MC de los MC: su nombre aparece con más frecuencia cuando los raperos hablan de sus héroes."
+ },
  "Para acortar las pausas entre grabaciones, se le ocurrió la idea de emplear dos platos.": {
   "ch": 3,
   "page": 69,
@@ -1026,6 +1146,12 @@ window.ANOCHE_REFS = {
   "sec": "San Francisco y La Prueba del Ácido",
   "para": "Como sabemos, en algún momento los clubs nocturnos se convirtieron en lugares de gran espectáculo: enormes sistemas de luz palpitante, lugares fuera de este mundo que podían sacudirte la realidad de los huesos; y los aficionados a los clubs pasaron de ser miembros de un público a unos participantes activos y recíprocos, los componentes vitales de la música ritual trascendental. Este cambio se fue dando gradualmente por un tiempo, mientras la experiencia del club se movía al lento compás de la tecnología, los experimentos musicales y las costumbres sociales. Pero de repente… ¡todo era ácido!"
  },
+ "Pero durante media década, sin que en el temeroso mundo exterior nada se supiera, albergó y ocultó buena parte de la música más emocionante y revolucionaria del planeta.": {
+  "ch": 9,
+  "page": 331,
+  "sec": "La fiebre del Fever en el Bronx",
+  "para": "El Bronx no había sido un destino popular durante más de sesenta años. Condenado a las tinieblas inhabitables por las grandes autopistas de la mano del planificador de la ciudad Robert Moses, quemado por los motines y los incendios premeditados para cobrar el seguro y finalmente empapado en inundaciones de heroína, para mediados de los setenta todos los que podían irse se habían ido. Había partes del distrito que parecían ruinas de guerra, y sus estadísticas sociales eran tercermundistas. Pero durante media década, sin que en el temeroso mundo exterior nada se supiera, albergó y ocultó buena parte de la música más emocionante y revolucionaria del planeta."
+ },
  "Pero el hi-NRG todavía es disco; sus DJ originales fueron DJ de disco.": {
   "ch": 8,
   "page": 297,
@@ -1043,6 +1169,12 @@ window.ANOCHE_REFS = {
   "page": 270,
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Pero lo cierto es que el sencillo de 12 pulgadas llegó por accidente. Moulton fue a que le imprimieran una mezcla a un vinilo, pero a su maestro ingeniero, José Rodriguez, se le habían acabado las placas en blanco necesarias para cortar el disco maestro. «José me dijo que se le habían acabado las placas de 7 pulgadas y que tendría que usar una de 12. Le dije: “Bah, eso es ridículo”. Así que él dijo: “Tengo una idea: ensancharemos las ranuras para que suene más alto”. Y, por supuesto, por poco me muero cuando lo escuché». Este disco, el primer sencillo de 12 pulgadas, era So Much For Love de Moment Of Truth. Fue algo que Moulton creó para un grupo muy selecto de sus amigos DJ, y aunque Roulette lo lanzó luego en formato de 7 pulgadas, en formato más grande nunca estuvo disponible comercialmente."
+ },
+ "Pete fue la principal inspiración para Flash. ¿Por qué? Porque, a diferencia de Herc, mantenía un ritmo uniforme.": {
+  "ch": 9,
+  "page": 347,
+  "sec": "Grandmaster Flash",
+  "para": "Pete fue la principal inspiración para Flash. ¿Por qué? Porque, a diferencia de Herc, mantenía un ritmo uniforme. Después de ver a Jones pinchar en varias fiestas callejeras locales, Flash concibió una música que combinara los estilos de los dos DJ."
  },
  "Podría decirse que el primer club comercial que logró una combinación perfecta fue el Gallery.": {
   "ch": 6,
@@ -1128,6 +1260,12 @@ window.ANOCHE_REFS = {
   "sec": "LOVE IS THE MESSAGE (EL AMOR ES EL MENSAJE)",
   "para": "Se trata de la revuelta de Stonewall, noche en la que el Nueva York gay tomó las calles y se rebeló contra el orden establecido. Pero se trató de un acto de rebelión distinto: diríase que fue más un alegre acto teatral que una revuelta armada. Era la culminación de décadas de opresión y de humillación. Instados por la lucha de los conciudadanos afroamericanos por los derechos civiles, e inspirada en el movimiento por la liberación de la mujer, Stonewall fue la revuelta fundacional con la que se certificó el nacimiento del orgullo gay."
  },
+ "Si Herc fue quien descubrió la electricidad del breakbeat, Grandmaster Flash fue quien metió los cables y lo conectó al enchufe.": {
+  "ch": 9,
+  "page": 345,
+  "sec": "Grandmaster Flash",
+  "para": "Flash es rápido, Flash es cool. Si Herc fue quien descubrió la electricidad del breakbeat, Grandmaster Flash fue quien metió los cables y lo conectó al enchufe. Como dice Kidd Creole de los Furious Five: «Es un dato sabido: los Herculoids podrían causar un desastre, pero solo podía haber un Grandmaster Flash»."
+ },
  "Si Ian Samwell del Lyceum fue el revolucionario accidental de la cultura de clubs británica, Stevens fue su Lenin, un creyente confirmado en el poder revolucionario del disc jockey.": {
   "ch": 3,
   "page": 97,
@@ -1188,6 +1326,12 @@ window.ANOCHE_REFS = {
   "sec": "La jukebox o máquina de discos",
   "para": "La mayor influencia de la rocola llegó después de la guerra, cuando se extendió su dominio más allá de bares y clubs a cafeterías y farmacias, lugares que los más jóvenes solían frecuentar. La música para bailar, una vez separada del alcohol, era un asunto del que los adolescentes podían participar. Junto con la expansión de la radio, la máquina de discos fue una fuerza fundamental en el auge explosivo del R&B y del rock’n’roll. Socavó la dependencia de la música en directo y sentó las bases para que el DJ tomara el mando."
  },
+ "Solo Herc representa un vínculo directo.": {
+  "ch": 9,
+  "page": 339,
+  "sec": "Kool Herc",
+  "para": "Los otros dos pinchadiscos principales en el momento de la fundación del hip-hop también tenían raíces caribeñas, pero ambos niegan que la cultura del dub jamaicano los influyera directamente. Solo Herc representa un vínculo directo. Nueva York, sobre todo Brooklyn, disfrutaba de grandes sistemas de sonido móviles al estilo jamaicano antes de que Herc lanzara sus fiestas, pero él sin duda trajo consigo varios elementos jamaicanos que hay que considerar. En primer lugar, el estilo de rima sumamente influyente que él y sus MC usaban se basaba claramente en el toaster jamaicano, en vez de los dúos elaborados de los DJ de discoteca que rapeaban. Herc usaba una cámara de ecos, otro elemento jamaicano. Además, estaba listo, de una forma que recordaba a los seleccionadores del dub, para tratar las grabaciones no como canciones separadas, sino como herramientas para componer. Y, por su puesto, está el predominio del bajo y el volumen."
+ },
  "Spring Records lanzó «Disco Par-r-r-ty» como el primer elepé de baile con música grabada sin parar.": {
   "ch": 7,
   "page": 262,
@@ -1241,6 +1385,12 @@ window.ANOCHE_REFS = {
   "page": 85,
   "sec": "Londres",
   "para": "La creciente comunidad inmigrante de Londres comenzaba a tener su impacto también en la noche londinense. Los antillanos, que ignoraban que tuvieran que estar en cama a las diez con una taza de leche Horlicks, escuchando el programa de radio «Light Programme», celebraban toda la noche en lugares como el Roaring Twenties. El disc jockey aquí era un sujeto jamaicano de nombre Count Suckle, quien introdujo en la metrópoli el llamado bluebeat (cuyo nombre proviene del sello de ska de Ziggy Jackson, Blue Beat). Suckle ya tenía una reputación considerable entre la comunidad afrodescendiente gracias a sus fiestas con sistema de sonido (que solía celebrar en días de fiesta nacional) en el Porchester Hall, el Kilburn Gaumont State y otros lugares en el oeste y noroeste de Londres. También trajo consigo otra innovación jamaicana, el «encubrimiento», que consiste en rasgar el sello del disco para disimular la identidad de la grabación. Mick Eve, un músico activo en la escena londinense de fiestas nocturnas, recuerda una vez que Suckle despegó con vapor el sello de una copia prístina del disco My Baby Just Cares for Me, de Nina Simone."
+ },
+ "Tan pronto Herc comenzó a pinchar, cada hijoputa comenzó a robar los discos de mamá y papá».": {
+  "ch": 9,
+  "page": 343,
+  "sec": "Kool Herc",
+  "para": "Herc iba a ejercer una influencia masiva, de largo aliento. De repente, cada b-boy soñaba con disfrutar con el mismo tipo de adoración local; todos querían poder tener platos a mano y celebrar fiestas tan salvajes como las suyas. Todo parecía posible. Después de todo, solo desenterraba grabaciones viejas y pinchaba los mejores trozos. Como dijo Jazzy Jay, otro DJ inspirado en la leyenda de Herc: «Todos estaban en tu casa: eran los discos de tu madre y tu padre. Tan pronto Herc comenzó a pinchar, cada hijoputa comenzó a robar los discos de mamá y papá»."
  },
  "Time de los Chambers Brothers era como el himno del Salvation.": {
   "ch": 3,
@@ -1296,11 +1446,23 @@ window.ANOCHE_REFS = {
   "sec": "David Mancuso en el Loft",
   "para": "Además de controlar con sigilo quién venía a las fiestas, Mancuso prestaba atención a la música. Entendía que las dinámicas de sonido que él proyectaba eran tan importantes como los discos que pinchaba. «Quiero escuchar la música. Una vez uno escucha el sistema de sonido significa que hay fatiga auditiva. Uno quiere escuchar la música, no el sistema»."
  },
+ "Y les dije: “Pues ya era hora de que viniera alguien lo suficientemente inteligente para poner esa mierda en un disco.": {
+  "ch": 9,
+  "page": 370,
+  "sec": "Rapear",
+  "para": "Sal Abbatielo del Disco Fever recuerda la primera vez que escuchó Rapper’s Delight: «Estaba en mi oficina y escuché la grabación y dije: “¿Quién está rapeando?”. Y me dicen: “No, eso es un disco”. Y les dije: “Pues ya era hora de que viniera alguien lo suficientemente inteligente para poner esa mierda en un disco. Ahora no me romperán todos mis micrófonos”»."
+ },
  "Y, desde luego, tras el éxito de U-Roy, aparecieron Big Youth, I-Roy, Dillinger y cientos de diyeis más que robaban el protagonismo a los cantantes.": {
   "ch": 5,
   "page": 180,
   "sec": "El DJ agarra el micrófono",
   "para": "Carl Gayle, editor de la revista de Kingston Jahugliman, intentó explicar el fenómeno: «Lo que distancia a U-Roy del resto es el hecho de que aportó esta dimensión del jive en directo que es tan electrizante. Con todo esto de la voluntad del más pequeño encarnada en un jive kingstoniano, cambió la dinámica de una escena de grabación jamaicana repleta de talento para el canto, lo que sentó las bases para que en las salas de baile irrumpieran incontables imitadores». Y, desde luego, tras el éxito de U-Roy, aparecieron Big Youth, I-Roy, Dillinger y cientos de diyeis más que robaban el protagonismo a los cantantes."
+ },
+ "Y… Flash ya contaba con la consola: fue el primero en añadir la caja de ritmos a las mezclas.": {
+  "ch": 9,
+  "page": 364,
+  "sec": "Habilidad para pagar las facturas",
+  "para": "El infatigablemente innovador Flash no se detuvo ahí. A él se le atribuye la importante idea del punch phasing, un fraseo de vientos o un estribillo de voces que «golpeaba» desde un disco por encima del sonido del otro, y fue el primero en ejecutar «trucos con el cuerpo», como darles la espalda a los platos mientras tocaba o girar discos con los pies. Y… Flash ya contaba con la consola: fue el primero en añadir la caja de ritmos a las mezclas."
  },
  "fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio.": {
   "ch": 4,
@@ -1319,6 +1481,18 @@ window.ANOCHE_REFS = {
   "page": 263,
   "sec": "El nacimiento de la remezcla",
   "para": "Por pura coincidencia, inspirados en las extensas improvisaciones del jazz y la desmesurada épica del rock progresivo, los productores de música pop habían comenzado a experimentar con pistas más largas, lo cual solía verse como una señal de mayor seriedad musical. Norman Whitfield, de la Motown, fue uno de esos productores: su trabajo tardío con los Temptations y Undisputed Youth muestra influencias claras de su deuda con el rock psicodélico. Frank Wilson, otro miembro de la línea de producción de Berry Gordy, llevó las nociones de Whitfield aún más lejos. Colaborando con el exvocalista de los Temptations, Eddie Kendricks, produjo Girl You Need A Change Of Mind, lanzada en 1973, del que se podría decir que fue la primera grabación de disco."
+ },
+ "sin embargo, había inventado lo que hoy se conoce como breakbeat: el uso del break de percusión de una grabación en vez de pinchar toda la canción.": {
+  "ch": 9,
+  "page": 336,
+  "sec": "Kool Herc",
+  "para": "Inmediatamente, Herc comenzó a incluir sin falta secuencias de breaks en su música durante el curso de la noche, y empezó a comprar dos copias de cada grabación para que pudiera repetir el mismo break de forma consecutiva. Todavía pinchaba canciones completas, incluidas muchas de James Brown, y los números más recientes del disco. Pero siempre tenía un grupo de grabaciones que preparaba especialmente para los oídos de los b-boy. Hasta tenía un nombre para esta parte de la noche: «“El carrusel”. Verás, si uno lo escuchaba, se tenía que montar [hop on]. No regresabas, solo ibas hacia delante». Su estilo era muy distinto al de los DJ de hip-hop de hoy, en el sentido de que casi siempre ponía todos los treinta segundos, más o menos, de un break en vez de dividirlo en unidades más pequeñas de tiempo; sin embargo, había inventado lo que hoy se conoce como breakbeat: el uso del break de percusión de una grabación en vez de pinchar toda la canción."
+ },
+ "«A mi estilo lo llamé la “Teoría de la Mezcla Rápida”": {
+  "ch": 9,
+  "page": 350,
+  "sec": "Grandmaster Flash",
+  "para": "«A mi estilo lo llamé la “Teoría de la Mezcla Rápida”, que consiste en tomar una sección de música y cortarla a tiempo, de forma seguida, en treinta segundos o menos. Se trataba básicamente de tomar un pasaje particular de música y reestructurar el arreglo frotando el disco para atrás y para delante o cortando el disco, o dándole un “giro inverso” al disco. Su “Teoría del Reloj” para apoyar el proceso consistía en marcar el disco con una línea en el sello, como la manecilla de un reloj para indicar dónde comenzaba un pasaje seleccionado. Esto le permitía retroceder con velocidad a la parte de la canción que quería repetir."
  },
  "«Alan Freed era amable con demasiadas personas afrodescendientes, así que acabaron con él.": {
   "ch": 2,
@@ -1428,6 +1602,12 @@ window.ANOCHE_REFS = {
   "sec": "Sellos independientes",
   "para": "Cuando estos sellos independientes comenzaron a disfrutar de las primeras ganancias por la música disco, las majors tenían la mirada puesta en otros mercados. Después de intentar impulsar al reggae y, más tarde, al punk como el próximo fenómeno musical, se conformaron con Peter Frampton. La prensa tampoco se había percatado de lo que ocurría. Como señala el crítico de música Andrew Kopkind en el Village Voice: «John Rockwell todavía escribía análisis hegelianos sobre los Sex Pistols en el Sunday Times mientras dos tercios de la ciudad escuchaba a Donna Summer»."
  },
+ "«La Zulu Nation no es una banda.": {
+  "ch": 9,
+  "page": 352,
+  "sec": "Afrika Bambaataa",
+  "para": "«La Zulu Nation no es una banda. Es una organización de individuos en busca de éxito, paz, conocimiento, sabiduría, entendimiento y de una forma honrada de vida. Los miembros zulúes deben buscar la manera de sobrevivir positivamente en esta sociedad. Las actividades negativas son acciones que pertenecen a los desalmados. La naturaleza animal es la naturaleza negativa. Los zulúes tienen que ser civilizados». Así se leen los Principios Universales de la Zulu Nation, partes uno y dos."
+ },
  "«La música disco era un mantra, una oración.": {
   "ch": 6,
   "page": 253,
@@ -1451,6 +1631,12 @@ window.ANOCHE_REFS = {
   "page": 327,
   "sec": "Tragedia",
   "para": "Patrick Cowley murió el 12 de noviembre de 1982. Sylvester estaba actuando en el Heaven de Londres. En una escena emotiva, anunció la muerte de su amigo y colaborador antes de interpretar Do You Wanna Funk? Por desgracia, Sylvester también murió de sida seis años después, el 18 de septiembre de 1988. Casi todos los de Megatone y Moby Dick también murieron. «Mató a nuestros clientes, mató a nuestros artistas, mató a nuestros fundadores —recuerda John Hedges—. Fue como un banco de niebla que nos envolvió durante tres o cuatro años, y de repente no quedaba nadie»."
+ },
+ "«Mucha de mi música tiene que ver con el bajo», dice.": {
+  "ch": 9,
+  "page": 340,
+  "sec": "Kool Herc",
+  "para": "Durante sus primeras fiestas, Herc hasta tocaba reggae y dub, aunque afirma: «Nunca tuve el público para ello. La gente no le daba la bienvenida al reggae en ese momento. Toqué un poco, pero no pegaba». Los descendientes del Caribe en Nueva York se habían quedado separados sorprendentemente de las corrientes dominantes de la cultura afrodescendiente (posiblemente porque pueden distinguirse como emigrantes voluntarios). Sin duda, mientras el hip-hop cobraba forma en el Bronx, no se escuchaba o no había oídos para el reggae allí. Así que, por este motivo, Herc se pasó a la música funk y latina, a las que su público del Bronx estaba acostumbrado: «Haced en Roma lo que los romanos. Estoy aquí. Tengo que estar en la onda de lo que está aquí». Sin embargo, a la hora de seleccionar discos y personalizar el sonido, se concentraba en los mismos elementos que valoraba la música jamaicana, el boonce, como dice él que su padre, con inclinaciones musicales, pronunciaba en inglés la palabra bass, es decir, el bajo. «Mucha de mi música tiene que ver con el bajo», dice."
  },
  "«Muchos de los DJ ponían las canciones en un orden particular debido a la forma en que la gente bailaba», recuerda Bellars": {
   "ch": 4,
@@ -1481,6 +1667,12 @@ window.ANOCHE_REFS = {
   "page": 316,
   "sec": "San Francisco",
   "para": "Los negocios que atendían a una clientela específicamente gay aparecieron en Polk Street (precursora de Castro Street) en 1965, con un centro comunitario gay que abrió al año siguiente. La explosión hippie alimentó los sentimientos de liberación. «En el Capri, uno se paraba en la calle, en nuestro propio territorio, hablábamos, formábamos vínculos, forjábamos amistades, en público, al aire libre —decía el poeta Aaron Shurin del primer bar gay hippie de San Francisco—. Para mí era importante porque la dinámica no la regía el dolor, no la regía la soledad. No se vivía bajo el estigma de la soledad. Se vivía bajo las señales de algo nuevo, una nueva luz y un nuevo orden que apenas se nombraba». En efecto, para finales de los sesenta, la comunidad gay de San Francisco ya era una fuerza política lo suficientemente potente como para erradicar el acoso policial que tanto enfurecía a Nueva York. «No hubo Stonewall en esta ciudad porque estábamos muy adelantados», dice Nan Alamilla Boyd, profesor de estudios de género de la Sonoma State University."
+ },
+ "«No podía aprender mucho de Bam porque las cosas de Bam eran tan profundas y tan poderosas que simplemente no sabía de dónde las sacaba».": {
+  "ch": 9,
+  "page": 358,
+  "sec": "Afrika Bambaataa",
+  "para": "«No podía aprender mucho de Bam porque las cosas de Bam eran tan profundas y tan poderosas que simplemente no sabía de dónde las sacaba»."
  },
  "«No sabíamos que nuestros pasos de baile estaban esculpiendo las inscripciones de nuestros epitafios».": {
   "ch": 8,
@@ -1554,10 +1746,22 @@ window.ANOCHE_REFS = {
   "sec": "El disco se estrella",
   "para": "El disco no tenía banda de músicos. Ni giras. Ni camisetas ni souvenirs. Sus abanderados no eran otra cosa que un atajo de disc jockeys irresponsables. La crítica no le prestó mucha atención y el disco tuvo poca cobertura mediática, excepción hecha de Vince Aletti y Tom Moulton en Billboard, y casi toda era negativa. En el Reino Unido, los independientes del rock, en su gran mayoría blancos de clase trabajadora, eran particularmente incapaces de aguantar una música diseñada para el cuerpo y no para la mente. Como Danny Baker —uno de los pocos periodistas del rock que entendió lo que era el disco— escribió en NME por aquel entonces: «¿Cómo se puede criticar esta música estando sentado?»."
  },
+ "»Esta música te acapara de principio a fin. El Fever fue el club de vecindario más grande del mundo.": {
+  "ch": 9,
+  "page": 330,
+  "sec": "ADVENTURES ON THE WHEELS OF STEEL (AVENTURAS EN LAS RUEDAS DE METAL)",
+  "para": "»Esta música te acapara de principio a fin. El Fever fue el club de vecindario más grande del mundo. El Copacabana estaba en Manhattan, el Studio 54 estaba en Manhattan; tenían todo el glamur y toda la prensa; nosotros solo teníamos esa música. Ese sonido. Y era nuestro»."
+ },
  "»Y luego el Hombre creó al Heaven [Cielo]».": {
   "ch": 8,
   "page": 309,
   "sec": "Ian Levine en el Heaven",
   "para": "»Y luego el Hombre creó al Heaven [Cielo]»."
+ },
+ "¿Así que tu madre inventó el scratching?": {
+  "ch": 9,
+  "page": 363,
+  "sec": "Habilidad para pagar las facturas",
+  "para": "¿Así que tu madre inventó el scratching?"
  }
 };
