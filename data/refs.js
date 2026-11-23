@@ -6,6 +6,12 @@ window.ANOCHE_REFS = {
   "sec": "Studio 54",
   "para": "El control de la puerta no solo era estricto; era caprichoso. A Nile Rogers y a Bernard Edwards del grupo Chic se les negó la entrada, aun cuando sus canciones se pinchaban con éxito dentro del club. En protesta, se fueron a casa y escribieron una canción llamada Fuck Off [Jodeos]. Luego, cuando sustituyeron estas palabras por Freak Out [Pierde el control], nació Le Freak, uno de los discos de baile más vendidos de la historia."
  },
+ "A este ritmo cargado se le conoce como «Farley’s Foot».": {
+  "ch": 12,
+  "page": 479,
+  "sec": "El Hot Mix 5",
+  "para": "En su condición de único miembro afrodescendiente con solera del quinteto étnicamente diverso, Farley disfrutó de mayor influencia entre los chicos del house del sur de la ciudad. También tenía una residencia en un club llamado Playground, donde se aprovechaba de su éxito en la radio. Aquí experimentó con una caja de ritmos 808 bajo grabaciones viejas de Filadelfia como Love Is The Message, cosa que también intentó en la radio. A este ritmo cargado se le conoce como «Farley’s Foot»."
+ },
  "A falta de una frase mejor, es un hi-NRG para los noventa».": {
   "ch": 8,
   "page": 313,
@@ -84,6 +90,18 @@ window.ANOCHE_REFS = {
   "sec": "La radio negra y el rhythm and blues",
   "para": "Así fue como el DJ hizo gala por primera vez de su inestimable talento para crear géneros musicales nuevos. Al ayudar a las diversas ramificaciones de la música racial para que llegaran a un público mucho mayor, el DJ tuvo un efecto profundo en el desarrollo de la música. Al lograr que su música se escuchase por todo lo alto y todo lo ancho, forjó el orgullo y las ambiciones de los músicos folk locales que preservaban estas tradiciones ajenas al dictado del mercado. Al permitir a los músicos escuchar música de otros lugares, entraron en contacto distintas variantes estilísticas que procedían del mismo sustrato cultural, lo cual permitió que se fusionaran y evolucionaran en pos de un nuevo lenguaje. Y al escoger y promover la música que pensaba que era la que su audiencia quería escuchar, el DJ otorgó dirección e ímpetu a la música. Mientras le etiqueta de race music [música de raza] daba paso a rhythm and blues [ritmo y blues], el DJ se aseguró de que la música también cambiara."
  },
+ "Así pues, vimos que si poníamos carteles que decían “Como se escucha en el Warehouse”, muchos de estos discos volaban de los estantes.": {
+  "ch": 12,
+  "page": 462,
+  "sec": "El significado de house",
+  "para": "«Los chicos venían buscando música disco más antigua. Decían: “Quiero música de la que tocan en el Warehouse”, y eso suponía referirse a la música disco. Así pues, vimos que si poníamos carteles que decían “Como se escucha en el Warehouse”, muchos de estos discos volaban de los estantes. Al final se abrevió el nombre del club a solo “The House”. Esa fue la consagración del término»."
+ },
+ "Así que por qué no crear música nueva y llamarla house. Es básicamente lo que hicimos».": {
+  "ch": 12,
+  "page": 485,
+  "sec": "La prisa por grabar",
+  "para": "Los DJ se daban prisa para recrear exclusivas raras. Como explica Chip E: «Había un montón de grabaciones y ediciones que uno no podía conseguir en ningún otro lado, así que las emulábamos. Y la gente estaba familiarizada con la línea de bajo, por lo que, al emularla, casi te asegurabas un éxito». Chip sabía que discos como esos se venderían bien. «Yo, Farley, Steve Hurley y Jesse Saunders pensamos: “¿Sabes qué? Lo único que tenemos que hacer es grabar y ponerle house y se va a vender como rosquillas”. Así que por qué no crear música nueva y llamarla house. Es básicamente lo que hicimos»."
+ },
  "Así, Later for Gator de Willis Jackson se convirtió en Coxsone Hop, el buque insignia de su sistema de sonido.": {
   "ch": 5,
   "page": 175,
@@ -155,6 +173,18 @@ window.ANOCHE_REFS = {
   "page": 27,
   "sec": "Un revolucionario musical",
   "para": "Así pues, aunque los historiadores de la música lo hayan ignorado en gran medida, el disc jockey apenas ha salido de la oficina de patentes de la música popular. Casi toda forma musical radicalmente nueva en las últimas cinco décadas debe su existencia al DJ. Fue él quien posibilitó que el rhythm and blues y el rock’n’roll dieran sus primeros pasos al popularizar géneros inconexos y conseguir inadvertidamente con ello que se fusionaran. El reggae fue impulsado por las necesidades del DJ y su sistema de sonido. Y el DJ estaba en el mismo centro de la insurrección que forjó la música disco en la música grabada. No contentos con semejante contribución, durante los últimos treinta años los DJ se han puesto a trabajar a conciencia: nos dieron el hip-hop, el house y una gran constelación de géneros satélite; géneros musicales creados exclusivamente por los DJ."
+ },
+ "Chez recuerda el efecto de una noche en el Warehouse: «Los muchachos perdían todo el control».": {
+  "ch": 12,
+  "page": 460,
+  "sec": "CAN YOU FEEL IT? (¿PUEDES SENTIRLO?)",
+  "para": "Y la música de Frankie era algo completamente nuevo para muchas de estas personas. Llevaba al público hasta la locura al moldear canciones hasta darles formas desenfrenadas con nuevas mezclas y ediciones: destrezas de los DJ de Nueva York que conocían poco los clubs de Chicago. En algún punto de la noche, apagaba las luces del salón y ponía una grabación con el efecto sonoro de una locomotora acelerando, alternando al máximo el sonido de un conjunto de altavoces a otro de forma que se sintiera como un tren pasando por el club a toda máquina. Chez recuerda el efecto de una noche en el Warehouse: «Los muchachos perdían todo el control»."
+ },
+ "Chicago era el ejemplo más claro de cómo el disco continuó felizmente con un nombre distinto.": {
+  "ch": 12,
+  "page": 498,
+  "sec": "El house se muda de casa",
+  "para": "Chicago es famoso por su inventario de vocalistas curtidos en las iglesias. Estas voces angelicales trabajan constantemente porque la ciudad es la capital mundial de las canciones publicitarias. Una feliz mezcla parecida de lo sagrado y lo profano es exactamente lo que potenció el house. Era un género inspirado tanto en los clásicos espirituales bailables de los setenta como en la tecnología básica de los ordenadores comerciales. Gracias a esta combinación, en un proceso que no debe prácticamente nada a los músicos y casi todo a los DJ, Chicago era el ejemplo más claro de cómo el disco continuó felizmente con un nombre distinto."
  },
  "Clark despojó al twist de todas sus connotaciones sexuales, de su esencia afrodescendiente y lo convirtió en un producto seguro para los adolescentes blancos suburbanos.": {
   "ch": 3,
@@ -282,6 +312,12 @@ window.ANOCHE_REFS = {
   "sec": "Tony Humphries y la música garaje",
   "para": "«Me concentraba más en la parte góspel, o más en el aspecto jazz o en la parte melódica —explica—. Cuanto más se pareciera al sonido de una banda real o a algo del pasado, entonces más me inclinaba hacia esa dirección». Es lo que se conoció en Gran Bretaña como el «garage estadounidense»."
  },
+ "Curiosamente, el house pronto asumió el mismo papel cultural que el hip-hop ocupó en Nueva York.": {
+  "ch": 12,
+  "page": 490,
+  "sec": "El hip-hop de Chicago",
+  "para": "Curiosamente, el house pronto asumió el mismo papel cultural que el hip-hop ocupó en Nueva York. Sus constituyentes originales eran pobres y afrodescendientes. Su energía provenía de la competencia local entre los DJ. Su estética era el resultado de los DJ disgustados con el sonido dominante, que redescubría música más antigua y la rescataba de forma innovadora."
+ },
  "Curiosamente, esta es una de las pocas áreas del house que tuvo contribuciones importantes de mujeres": {
   "ch": 8,
   "page": 313,
@@ -306,17 +342,41 @@ window.ANOCHE_REFS = {
   "sec": "La rentabilidad del disco",
   "para": "Ya en 1979, simplemente había demasiado disco, y la gente comenzó a detestarlo. Muchos de los que habían ganado mucho con él se quedaron tumbados en la lona, y las repercusiones de tamaña constatación fueron duraderas. De repente, todo el mundo recordó que era música de maricones, que «era una mierda». Es una de las razones por las cuales hoy el pop bailongo ha tenido tantos problemas para establecerse en Estados Unidos, apriorísticamente estigmatizado como el disco. Para las masas hetero a las que les gusta el rock todavía tiene muchos vínculos con lo presuntamente gay, y para la industria musical estadounidense trae demasiados malos recuerdos por el desmesurado exceso de inversión."
  },
+ "De repente, todos en Chicago eran productores y promovían ansiosamente las cintas por debajo de las narices de los DJ.": {
+  "ch": 12,
+  "page": 481,
+  "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
+  "para": "A medida que la cultura del house fue apoderándose de esta ciudad, el objetivo de los DJ era subyugar a los bailarines con estados de furia hipnótica propiciados por la percusión, mediante un sinfín de pistas de ritmos retumbantes para conducir a la pista de baile hacia el orgasmo de una gran canción cantada. Este estilo exigía un suministro constante de pistas de percusión repetitivas y sencillas. La gente había visto cuán básica puede ser una pista. El equipo de los estudios se había vuelto pequeño y asequible. De repente, todos en Chicago eran productores y promovían ansiosamente las cintas por debajo de las narices de los DJ."
+ },
  "Desarrolló el scratching, girando el disco hacia delante y hacia atrás mientras manipulaba el control cruzado de la mezcladora para producir un nuevo sonido de percusión brutal.": {
   "ch": 9,
   "page": 362,
   "sec": "Habilidad para pagar las facturas",
   "para": "Desde luego, este querubín de pie delante de una caja de botellas de leche en una fiesta callejera en 63 Park mezclando velozmente por vía de colocar la aguja llamó mucho la atención, pero se puliría como DJ por sus propios méritos con mucha más rapidez de lo que había planificado Flash. Llamándose a sí mismo Grand Wizard Theodore, el chico adquirió más que un nombre. Desarrolló el scratching, girando el disco hacia delante y hacia atrás mientras manipulaba el control cruzado de la mezcladora para producir un nuevo sonido de percusión brutal."
  },
+ "Después de desempaquetarlo todo, no sabía tocar ni una nota.": {
+  "ch": 12,
+  "page": 487,
+  "sec": "La prisa por grabar",
+  "para": "Con Heard a modo de excepción, la mayoría de estos jóvenes no tenían formación musical y ni siquiera habían soñado con crear discos. La historia de Marshall Jefferson es un ejemplo paradigmático. Después de «bautizarse en el house» en el Music Box, usó su tarjeta hasta el límite del crédito y compró todo lo que necesitaba para crear un tema. Dice que se gastó unos nueve mil dólares en equipo, y salió de la tienda con un teclado Roland JX8P, un módulo Korg EX8000, cajas de ritmo Roland 707, 808 y 909; una TB 303 y una grabadora de cintas de cuatro canales Tascam. Después de desempaquetarlo todo, no sabía tocar ni una nota. Sus colegas en la oficina de correos se rieron mucho de él."
+ },
+ "Después de varias carcajadas, simplemente dijo: «Jesse cambió la música, tío».": {
+  "ch": 12,
+  "page": 482,
+  "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
+  "para": "Después de varias carcajadas, simplemente dijo: «Jesse cambió la música, tío»."
+ },
  "Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom.": {
   "ch": 5,
   "page": 174,
   "sec": "Los primeros sonidos",
   "para": "Los inmigrantes en Gran Bretaña se mantenían en contacto con su tierra natal, y pronto aparecieron los primeros sistemas de sonido jamaicano por las islas. Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom."
+ },
+ "Durante mucho tiempo, la palabra house se refería no a un estilo particular de música, sino a una actitud.": {
+  "ch": 12,
+  "page": 461,
+  "sec": "El significado de house",
+  "para": "Durante mucho tiempo, la palabra house se refería no a un estilo particular de música, sino a una actitud. Si una canción era house, era música de un club cool, era underground, era música que no se escuchaba en la radio. En Chicago, el club adecuado sería house, y si lo visitabas, tú eras house, y también todos tus amigos. Al caminar por Michigan Avenue, uno podía distinguir quién era house y quién no lo era por la vestimenta. Si en su reproductor de casetes sonaba la Gap Band, sin duda no eran house, pero si lo hacía Loleatta Holloway o los Eurythmics, lo era, y probablemente te acercarías para hablar con ellos."
  },
  "Durante una buena temporada mis vecinos pensaron que era un narcotraficante».": {
   "ch": 10,
@@ -468,6 +528,12 @@ window.ANOCHE_REFS = {
   "sec": "Ecos y reverberaciones",
   "para": "El hip-hop tiene con el reggae una deuda enorme. Kool Herc, fundador del hip-hop, era jamaicano, y lo que llevó a cabo en el Bronx tenía como fin desarrollar una versión neoyorquina de los equipos de sonido kingstonianos de la infancia, incluidos los diyeis que hablaban por encima de las canciones. Los primeros remezcladores del disco aprendieron estas técnicas —que en un principio tenían más que ver con la prolongación y la reestructuración que con la deconstrucción del sonido— sin ser conscientes de lo que ocurría en Jamaica. Sin embargo, las aportaciones del dub pronto se extendieron por todo Nueva York. François Kevorkian reconoce esa gran influencia, y en los métodos de productores de la era posdisco como Arthur Russel y Larry Levan, es evidente la deuda con el dub. Los remezcladores de hoy se rigen todavía por los principios que acuñaron aquellos visionarios de Jamaica, y casi cada pista de baile tiene algún tipo de mezcla de dub para nutrir esas pistas. Las formas del doblaje hoy están presentes en las bandas más populares de la actualidad; las más famosas son Massive Attack, Underworld y Leftfield."
  },
+ "El house era música disco creada por principiantes.": {
+  "ch": 12,
+  "page": 480,
+  "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
+  "para": "El house era música disco creada por principiantes. Tenía la esencia del disco —sus ritmos, sus líneas de bajo, su espíritu— recreado en máquinas que parecían tanto juguetes como instrumentos musicales, y creada por jóvenes que eran más aficionados a los clubs que músicos. Los DJ, en su empeño por preservar la música cuyo certificado de defunción se resistían a dar por bueno, crearon una música nueva a partir de sus cenizas. Y en Chicago esta nueva música compartió incluso el nombre del lugar donde fue creada porque, recordemos, el disco que tocaban Ron y Frankie se llamaba house antes de que el propio género naciera y se hiciera acreedor a esa etiqueta."
+ },
  "El indiscutible campeón de campeones de la Primera División de discos raros del northern soul era Do I Love You? de Frank Wilson.": {
   "ch": 4,
   "page": 157,
@@ -576,6 +642,12 @@ window.ANOCHE_REFS = {
   "sec": "El Peppermint Lounge",
   "para": "La popularidad del twist desató una serie de bailes con la misma forma libre: el frug, el mashed potato, el poni, el hully gully, el monkey. Al cabo de pocos años, las pistas de baile habían otorgado popularidad a los eslóganes «freak-out» [pierde el control] y «flower power» [poder de las flores] de la era hippie, así como a las volteretas acrobáticas y las piruetas del northern soul. El twist había lanzado una bomba nuclear sobre el sector conservador del mundo del baile y erradicado los muy rígidos rituales de la pista de baile. Con esta hazaña se sentó la base para un nuevo tipo de club nocturno. Era hora de que la discoteca llegara a la edad adulta."
  },
+ "Ella miró el cartel y le dijo: «Se refiere a música como la que pinchas en el Warehouse».": {
+  "ch": 12,
+  "page": 462,
+  "sec": "El significado de house",
+  "para": "Frankie Knuckles dice que la primera vez que vio el término fue en 1981. Conduciendo al sur en las afueras de su ciudad de adopción para visitar a su ahijada, se percató de un cartel en la ventana de un bar: «TOCAMOS MÚSICA house». Curioso, se volvió hacia su amiga y preguntó: «¿Y qué quiere decir todo eso?». Ella miró el cartel y le dijo: «Se refiere a música como la que pinchas en el Warehouse»."
+ },
  "Emanando de los altavoces como la miel, era el equivalente radiofónico de Barry White": {
   "ch": 11,
   "page": 441,
@@ -623,6 +695,12 @@ window.ANOCHE_REFS = {
   "page": 344,
   "sec": "Kool Herc",
   "para": "Como muchos pioneros, Herc cosechó un gran respeto y poca remuneración. Para el momento en que aquellos a quienes inspiró firmaban contratos de grabación y se iban de gira por Europa, él se había retirado del juego y caído en las drogas, devastado por la trágica muerte por ahogamiento de su padre y completamente desmoralizado en 1977 después de que lo apuñalaran en la palma de la mano en una de sus fiestas «por una discrepancia». Veinte años más tarde, los Chemical Brothers lo invitaron a Londres a una de sus presentaciones para rendir homenaje al hombre que creó el breakbeat, el corazón de su música. Sin embargo, su ausencia de lo que se convirtió en una industria de miles de millones solo sirvió para acentuar el estatus mítico de este gigante convertido en leyenda. Solo recientemente se le ha otorgado a Herc un lugar en la historia cultural estadounidense. En 2010, el complejo de apartamentos en el número 1520 de Sedgwick Avenue fue salvado al borde de la destrucción a manos de una inmobiliaria carroñera y el lugar fue rebautizado oficialmente como la cuna del hip-hop."
+ },
+ "En Chicago, Jesse era más famoso que Prince».": {
+  "ch": 12,
+  "page": 484,
+  "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
+  "para": "«Todo lo que sacaba Jesse lo ponían en la radio —recuerda Marshall—. Y al comparar su música con canciones como las de Prince, pues sonaban a pura mierda. ¡Sonaban como latas, chico! Pero… todos conocían a Jesse, así que esa mierda se hacía popular. Para cuando por fin sacó Real Love, que era como una quinta parte de la calidad que normalmente se requiere para que se toque en la radio (¡lo demás que había sacado no era digno ni de una duodécima parte!), cuando salió esa mierda, ¡fue una bomba! En Chicago, Jesse era más famoso que Prince»."
  },
  "En Jamaica, los DJ de sistemas de sonido emularon esta forma de hablar, llamada jive, casi de inmediato y se convirtieron en disc jockeys superestrellas como toasters o MC. En Nueva York, veinte años más tarde, surgió el rapero, descendiente de ambas tradiciones.": {
   "ch": 2,
@@ -690,6 +768,12 @@ window.ANOCHE_REFS = {
   "sec": "Los bancos de discos",
   "para": "«Las discográficas y los disc jockeys se reunieron por primera vez. Fue un fracaso monumental», recuerda David Mancuso. Steve D’Acquisto también estaba en la reunión. «La cosa terminó en una gran pelea a gritos. En medio de todo eso, David se giró y dijo: “¿Por qué no fundamos un banco de discos?”. Conversamos entre nosotros y yo me levanté e invité a todos los DJ al Loft. Les dije que no tenía sentido discutir nada allí. Teníamos que conformar un frente común. De repente estábamos defendiendo nuestros derechos. Así que celebramos nuestra reunión entre los DJ y redactamos una declaración de intenciones»."
  },
+ "En realidad fue por ignorancia. Nadie sabía cómo usar la maldita 303».": {
+  "ch": 12,
+  "page": 495,
+  "sec": "El acid house",
+  "para": "«Quería crear algo que sonara como cosas que había escuchado en el Music Box, o que había escuchado a Farley tocar en la radio —dice Pierre—. Pero cuando creamos Acid Track, fue por accidente. En realidad fue por ignorancia. Nadie sabía cómo usar la maldita 303»."
+ },
  "En realidad, Block había tomado la idea para su show —incluso el nombre— de Al Jarvis": {
   "ch": 2,
   "page": 45,
@@ -720,6 +804,12 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento de la remezcla",
   "para": "En un sentido estricto, estas cintas eran reediciones y no remezclas. Una reedición es una versión lograda mediante el corte y empalme de trozos de la canción original, casi siempre mediante una grabadora de cintas, una cuchilla de afeitar y algo de cinta adhesiva. Una remezcla supone un proceso en el que la grabación original de las diferentes pistas de una canción se usan para construir una nueva versión a partir de sus componentes. Si uno concibe la reedición como la creación de una versión a base de retazos, en la remezcla es cuando uno realmente separa las fibras sonoras individuales de una canción —separar la pista del bajo de la pista de la batería de la pista de la voz— y las recompone hasta lograr una nueva textura musical."
  },
+ "Encajaba tan bien con su frenesí inducido por el LSD, que la llamaron Ron Hardy’s Acid Track": {
+  "ch": 12,
+  "page": 497,
+  "sec": "El acid house",
+  "para": "Spanky, Herb y Pierre habían titulado la canción originalmente In Your Mind, pero los aficionados del Music Box, en un viaje con el ponche cargado del club, tenían otras ideas. Encajaba tan bien con su frenesí inducido por el LSD, que la llamaron Ron Hardy’s Acid Track [El tema de ácido de Ron Hardy]. Causó gran revuelo."
+ },
  "Entrenaría a un DJ blanco para que sonara como un negro.": {
   "ch": 2,
   "page": 54,
@@ -732,11 +822,23 @@ window.ANOCHE_REFS = {
   "sec": "Tony Humphries y la música garaje",
   "para": "A principios del siguiente año, Berger visitó el Paradise Garage y quedó maravillado. «Se enamoró del lugar —recuerda Torrales— y quería traerlo a Jersey». Inmediatamente, transformó la sala de baile del segundo piso en el mejor club nocturno que la ciudad haya visto jamás, con todo lo necesario y un sistema de sonido diseñado por Richard Long. La noche inaugural fue el 29 de agosto de 1979, con malabaristas, magos y chicas al estilo de Las Vegas. Berger hasta trajo leones y tigres rugiendo en jaulas para amenizar la velada. La música fue transmitida en directo por la estación WNJR y la crema de la realeza musical de Nueva Jersey apareció en el lugar, con los discos de Kool & The Gang, Tasha Thomas y los All Platinum colgando en la cabina. El jefe de los All Platinum acababa de montar un sello, Sugar Hill, y trajo un disco de promoción para que Torrales lo pinchara. «Se me acercó y me dijo: “Nadie más ha pinchado esto en la zona de Nueva York. Quiero que lo hagas tú”. Era Rappers’ Delight»."
  },
+ "Era casi como un sistema: las ponías en los platos y simplemente funcionaban».": {
+  "ch": 12,
+  "page": 477,
+  "sec": "El Hot Mix 5",
+  "para": "Los esfuerzos de Italia por continuar en el disco fueron un éxito total en Chicago. Chip E plantea que esta situación se debe a que este estilo ayudó a los DJ a emular las llamativas destrezas de los Hot Mix 5. «Las grabaciones de disco italiano, como las sintetizaban tanto, eran muy fáciles para mezclar. Era casi como un sistema: las ponías en los platos y simplemente funcionaban»."
+ },
  "Era como despejar la cabina de vuelo para el despegue.": {
   "ch": 11,
   "page": 437,
   "sec": "El Paradise Garage",
   "para": "Aunque el Paradise Garage tenía a un responsable de luminotecnia muy talentoso en Robert DaSilva —quien también montó las luces en el Gallery y en Studio 54—, Levan tenía un segundo conjunto de controles instalados en una barra a lo largo de la parte superior de la cabina. Cuando el ánimo lo arrebataba —cuando estaba listo para sacar a la gente a pasear— se acercaba a la consola y sacaba a los ocupantes de la cabina. Era como despejar la cabina de vuelo para el despegue."
+ },
+ "Era como ver a John Holmes en una película porno. Uno sabe que no puede hacerlo mejor».": {
+  "ch": 12,
+  "page": 481,
+  "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
+  "para": "«Eso fue lo que inspiró a todos. Nos dio esperanza —dice Marshall Jefferson—. Cuando Jamie estaba en acción, nadie pensaba en grabar un disco. Su trabajo era demasiado bueno. Era como ver a John Holmes en una película porno. Uno sabe que no puede hacerlo mejor»."
  },
  "Era el fin de la vieja escuela.": {
   "ch": 10,
@@ -749,6 +851,12 @@ window.ANOCHE_REFS = {
   "page": 322,
   "sec": "Música mañanera",
   "para": "El hi-NRG suele caracterizarse como música para hacer ejercicio para juerguistas con bigote y consumidores de esteroides. Sin embargo, aquel género también fue de instrumental importancia a la hora de promocionar música con oficio y elaboradas texturas, llamada la «música mañanera» o «sensual» [sleaze] que empezaba a sonar cuando salía el sol. Nacida en los clubs que abrían hasta altas horas en Nueva York, era el alivio después del ajetreo sin pausa de toda la noche. Cuando llegaba la luz, el ritmo disminuía, y mientras el programa temprano de la madrugada se caracterizaba por su explícita carga sexual, el matinal daba paso al romance, el amor y el desamor. Era la belleza que seguía el ritmo."
+ },
+ "Era mucho más valiente».": {
+  "ch": 12,
+  "page": 471,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "«Ronnie era algo flacucho y Frankie era regordete —rememora Chip E, al referirse más a sus estilos que a sus cinturas—. Ronnie se arriesgaba más. Podía traer una cinta a Frankie y él podría esperar dos o tres horas para escucharla en sus auriculares y decir: “Creo que la puedo colar por aquí”. Pero a Ronnie le traían una cinta y al cabo de diez a quince minutos la tenía sonando a tope y luego la pinchaba varias veces por noche. Era mucho más valiente»."
  },
  "Era muy común sabotear los bailes rivales comenzando peleas o lanzando piedras al público.": {
   "ch": 5,
@@ -840,6 +948,12 @@ window.ANOCHE_REFS = {
   "sec": "Los mods y el Swingin’ London",
   "para": "La cultura de fiestas para bailar toda la noche en Londres pronto despegó en todas partes, y resultaron sumamente populares en las Midlands y el norte de Inglaterra. Mientras que los clubs de baile del sur sucumbían a los aires floridos de los hippies, la clase trabajadora del norte prosiguió su luna de miel con la música afroamericana. Esta cultura alternativa se convertiría en pocos años en el northern soul."
  },
+ "Esta dieta musical tuvo una influencia profunda en los gustos de la ciudad": {
+  "ch": 12,
+  "page": 476,
+  "sec": "El Hot Mix 5",
+  "para": "Esta dieta musical tuvo una influencia profunda en los gustos de la ciudad, y conformó la espina dorsal de las listas de reproducción para los clubs más comerciales. Los DJ más sofisticados buscaban importaciones poco comunes de línea similar, como Wire, Yello y DAF. DJ Pierre, quien luego creó el acid house, recuerda canciones italianas como You Must Feel The Drive de Doctor’s Cat, I Need Love de Capricorn y Not Love de Trilogy, así como Brainwash del grupo belga Telex. Las grabaciones europeas fueron fundamentales para el desarrollo del house, pero su popularidad era apenas una anomalía de Chicago. En 1983, casi un tercio de todas las posiciones de las listas estadounidenses estaban copadas por canciones de grupos británicos."
+ },
  "Esta persona que pinchaba los discos ya no se sentaba de forma pasiva mientras una canción sonaba hasta acabarse": {
   "ch": 5,
   "page": 167,
@@ -900,6 +1014,12 @@ window.ANOCHE_REFS = {
   "sec": "Los mods y el Swingin’ London",
   "para": "Fue en el Flamingo donde Count Suckle trajo primero el sonido jamaicano de Ladbroke Grove al West End. Después de contratarlo para que tocara los domingos por la noche, el dueño del club, Rik Gunnell, observaba cómo el carismático DJ atraía un vasto público de todas partes de Londres. La alegría de Gunnell no le duró mucho, pues el Roaring Twenties en Carnaby Street le robó a Suckle para que pinchara todas las noches."
  },
+ "Fue entonces cuando caí en la cuenta de que tenía que cambiar algunas cosas para seguir alimentando mi pista de baile.": {
+  "ch": 12,
+  "page": 464,
+  "sec": "Frankie Knuckles en el Warehouse",
+  "para": "«No me tomaba la molestia de pinchar en el club mucho de lo que tocaba al principio porque estaba ocupado tomando las riendas y simplemente familiarizándome con el oficio. Pero para 1981, cuando declararon que el disco estaba muerto, todos los sellos querían eliminar sus departamentos de baile, todos renegaron de aquella pulsación hipnótica. Fue entonces cuando caí en la cuenta de que tenía que cambiar algunas cosas para seguir alimentando mi pista de baile. O de lo contrario, acabaríamos cerrando el club»."
+ },
  "Fue la experiencia más embriagadora que he tenido en mi vida —dijo un aficionado a los clubs—.": {
   "ch": 8,
   "page": 306,
@@ -911,6 +1031,12 @@ window.ANOCHE_REFS = {
   "page": 31,
   "sec": "MAKE BELIEVE BALLROOM (EL SALÓN DE BAILE IMAGINARIO)",
   "para": "Fue un contralto cantando el «Largo» de Händel, de la ópera Jerjes."
+ },
+ "Fue una de las primeras inspiraciones para la música house».": {
+  "ch": 12,
+  "page": 478,
+  "sec": "El Hot Mix 5",
+  "para": "Una grabación que tuvo particular influencia era una compilación neerlandesa de pistas de ritmos llamada «Mix Your Own Stars». «No era más que pistas de percusión —explica Chip E—. La más popular era una que se llamaba 119 porque estaba literalmente a 119 bpm. Sonaba a algo como: “du-du-duu-chac-chac-chac; du-du-duu-chac-chac-chac”. Había solo bajo y batería, una caja piccolo, algunos toms y puro palmoteo. Uno podía llenar una pista de baile con solo eso. Fue una de las primeras inspiraciones para la música house»."
  },
  "Fueron los nazis quienes propulsaron el primer boom de los discos.": {
   "ch": 3,
@@ -942,6 +1068,18 @@ window.ANOCHE_REFS = {
   "sec": "El Torch",
   "para": "«¡Cantó con la peor banda que jamás haya escuchado! Era esta una banda británica que no tenía idea de lo que era el northern soul —recuerda Ian Levine—. Pero esa noche era la primera en que trabajé como DJ para ese lugar, y fue la noche más electrizante de toda mi carrera». Subiendo del tono de voz, añadió: «No cabía un alma más en ese club. Había gente colgando de las vigas. El calor debía de rondar los 48 grados. Hacía tanto calor y estaba tan abarrotado que el sudor de las personas subía en forma de condensación y caía de nuevo sobre ellas desde el techo»."
  },
+ "Hardy quedó atrapado en el torbellino de la decadencia por el abuso de las drogas.": {
+  "ch": 12,
+  "page": 499,
+  "sec": "El house se muda de casa",
+  "para": "Hardy quedó atrapado en el torbellino de la decadencia por el abuso de las drogas. Comenzó a inyectarse, solía vender sus cintas por un chute. Su apetito voraz por la diversión degeneró con los años en una enfermedad que lo llevó a vender los discos más raros por unos pocos dólares cada uno. Murió en 1992."
+ },
+ "Hardy se metía cada una de las drogas conocidas. ¿Cómo cojones programas eso?».": {
+  "ch": 12,
+  "page": 470,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "El estilo de Frankie era más ordenado y mantenía su tempo mucho más bajo. Le prestaba más atención a la calidad de su sonido y sus sets eran más precisos y estructurados en términos técnicos, la intensidad subía y bajaba por ciclos durante la noche. Conforme a su estatus de «estrella» en la ciudad, su cabina lo mantenía relativamente inaccesible. Ron Hardy, por el contrario, tocaba con una energía cruda, de baja fidelidad, que le dejaba a uno sin dudas del trance por el que transitaba. Tocaba al nivel del suelo y lo único que le importaba era la energía, forzar a sus bailarines hasta el límite. Tenía poco tiempo para planificar nada. Como dice Marshall: «No le importaba una mierda programar ni nada de eso. Hardy se metía cada una de las drogas conocidas. ¿Cómo cojones programas eso?»."
+ },
  "Hasta que la industria musical adoptó tardíamente el formato MP3, el disco de 12 pulgadas fue el único formato de música grabada que se impuso por la demanda del consumidor": {
   "ch": 7,
   "page": 273,
@@ -972,6 +1110,12 @@ window.ANOCHE_REFS = {
   "sec": "YOU SHOULD BE DANCING (DEBERÍAS ESTAR BAILANDO)",
   "para": "Hoy (sin ánimo de ofender a sacerdotes y ministros, que dan lo mejor de sí) es el disc jockey o DJ quien cumple esta función. Es el DJ quien preside nuestros ritos extáticos. Como el médico brujo, sabemos que, en el fondo, es un sujeto normal —vamos, míralo—, pero destierra la cotidianidad de nuestras vidas conjurando el latido de los tambores sagrados y las santificadas líneas de bajo; obrándose el milagro para recibirlo como a un dios, o por lo menos un intermediario con lo sagrado, el demiurgo que puede invocar al Creador y mediar para que nos devuelva las llamadas."
  },
+ "Hurley obtuvo su venganza, sin embargo, cuando en enero de 1987 Jack Your Body se convirtió en el primer número uno del Reino Unido.": {
+  "ch": 12,
+  "page": 490,
+  "sec": "Éxitos del house",
+  "para": "Fue otro tema de Hurley, una versión de I Can’t Turn Around de Isaac Hayes, lo que propulsó esta música aún más lejos. La versión de Hurley, aunque la había tocado en los clubs durante mucho tiempo, fue impresa en un vinilo por su amigo Farley, que ahora se llamaba a sí mismo Farley Jackmaster Funk (Hurley reclama que el nombre «Jackmaster» era suyo originalmente, de ahí el «JM» en JM Silk). Farley renombró la canción a Love Can’t Turn Around, y con la amplitud de registro vocal de Darryl Pandy, el tema llevó al house al ámbito internacional. Se aceptó como una grabación de pop en el Reino Unido, donde ocupó el décimo puesto en las listas en septiembre de 1986. Hurley obtuvo su venganza, sin embargo, cuando en enero de 1987 Jack Your Body se convirtió en el primer número uno del Reino Unido."
+ },
  "Iba hasta allá arriba y era la única chica blanca en el club, y eso era salvaje, y pensé: “Dios mío, tengo que traer todo esto al centro”».": {
   "ch": 10,
   "page": 397,
@@ -995,6 +1139,12 @@ window.ANOCHE_REFS = {
   "page": 71,
   "sec": "NIGHT TRAIN (TREN NOCTURNO)",
   "para": "Savile prosiguió el camino de su carrera como disc jockey. También trabajó como luchador profesional ocho años, pero para mediados de los sesenta ya se había hecho un nombre en el Reino Unido como DJ para Radio Luxembourg y luego como anfitrión del clásico de televisión «Top Of The Pops», cuya primera edición presentó en 1964. El escritor Nick Cohn lo llamó «nuestro mejor disc jockey. En ese sentido, para mí, era nuestro único disc jockey». Jimmy Savile fue el primer DJ en convertirse en una superestrella."
+ },
+ "Jones es más conocido como DJ Pierre, su grupo era Phuture, y la música que innovaron se convertiría en el acid house.": {
+  "ch": 12,
+  "page": 495,
+  "sec": "El acid house",
+  "para": "Nadie en Chicago esperaba que su música tuviera un impacto fuera de la ciudad, mucho menos en Londres, pero fue en el Reino Unido donde esta música alcanzó su apogeo. Love Can’t Turn Around y Jack Your Body fueron las puntas de lanza, pero el mercado de exportación dio un salto cuántico cuando Nathaniel Pierre Jones descubrió los sonidos supersintéticos, sofocantes y de ciencia ficción escondidos en las entrañas de una máquina de música que, de otra manera, hubiera sido condenada al desguace. Jones es más conocido como DJ Pierre, su grupo era Phuture, y la música que innovaron se convertiría en el acid house."
  },
  "La burla terminó en junio de 1976 cuando Salsoul, un sello independiente pequeño, lanzó un disco de 12 pulgadas que era demasiado bueno para ser una artimaña: Ten Percent de Double Exposure.": {
   "ch": 7,
@@ -1056,6 +1206,24 @@ window.ANOCHE_REFS = {
   "sec": "El poder detrás del mito",
   "para": "El poder del Paradise Garage era igualmente aparente en su efecto en el comercio de discos local. A finales de 1978, un matrimonio, Charlie y Debbie Grappone, abrió una tiendecita de música llamada Vinylmania en Carmine Street, en Greenwich Village. Resulta que estaba a la vuelta de la esquina del Paradise Garage, y Grappone pronto se percató de las hordas desaliñadas que navegaban camino al metro cada sábado por la mañana. La gente comenzó a preguntar por discos raros que Grappone —que estaba muy orgulloso de su propio conocimiento musical— nunca había escuchado, «lo que tocaba Larry»."
  },
+ "La gente dice que había hasta pedacitos de zapatillas viejas de tenis en el disco»": {
+  "ch": 12,
+  "page": 493,
+  "sec": "Explotación",
+  "para": "«Si recibía un pedido de alguien que le preguntaba si tenía copias de On And On, le decía: “Pues no, pero puedo imprimir algunas y enviártelas”». Las impresiones de Chicago también eran famosas por su pobre calidad, como consecuencia de la costumbre de Sherman de reciclar vinilos usados. «Solían poner cualquier cosa ahí. La gente dice que había hasta pedacitos de zapatillas viejas de tenis en el disco», cree recordar un productor de Chicago."
+ },
+ "La gente diría que era como bajar al foso del infierno.": {
+  "ch": 12,
+  "page": 459,
+  "sec": "CAN YOU FEEL IT? (¿PUEDES SENTIRLO?)",
+  "para": "«El salón era oscuro —le contó Frankie a la escritora Sheryl Garratt—. La gente diría que era como bajar al foso del infierno. La gente solía asustarse cuando escuchaban los golpes de la música y veían la cantidad de personas allá abajo, completamente capturados por la música»."
+ },
+ "La gente hasta se saltaba la escuela para grabar las mezclas».": {
+  "ch": 12,
+  "page": 479,
+  "sec": "El Hot Mix 5",
+  "para": "«Todo el mundo los escuchaba, sobre todo cuando lo pasaban al mediodía. A las doce uno se pegaba a la radio. La gente hasta se saltaba la escuela para grabar las mezclas». En Importes Etc., entonces la principal tienda de música especialista en música bailable, había un tablón de anuncios que consignaban las canciones que se habían tocado en cada mezcla, para evitarle a la plantilla que los bombardeasen a preguntas sobre cada sesión."
+ },
  "La grandeza de Larry Levan es prueba de que la destreza técnica es solo una pequeña parte de ser DJ.": {
   "ch": 11,
   "page": 435,
@@ -1074,6 +1242,12 @@ window.ANOCHE_REFS = {
   "sec": "El Londres gay",
   "para": "El primer lugar de este tipo fue The Catacombs en Brompton Road, un bar caverna en el que Gordon Fruin pinchaba una banda sonora de convincente soul y pop, un DJ que trabajaba con artistas y repertorio para Berry Gordy, y cuyo nombre de DJ no era otro que la espléndida Pamela Motown. Luego, al final de la década, abrió Yours and Mine (conocido popularmente como The Sombrero) en Kensington. Liberace estuvo allí la noche inaugural, Bowie lo convirtió en su segunda casa y la alta alcurnia gay de la industria musical llenó sus arcas. La idea de que los londinenses gais pudieran preferir sus propias discotecas no iba a desaparecer."
  },
+ "La industria musical —en particular, la música bailable— es una de las más corruptas que hay. En Chicago, la cosa fue peor.": {
+  "ch": 12,
+  "page": 492,
+  "sec": "Explotación",
+  "para": "En cuanto la música casera de Chicago comenzaba a generar dinero llegaron las estafas. Durante la férrea competencia de la época, copiar y piratear eran la norma, la autoría de los temas era dudosa y pocos se beneficiaban de su talento en términos económicos. La industria musical —en particular, la música bailable— es una de las más corruptas que hay. En Chicago, la cosa fue peor."
+ },
  "La influencia de Block como disc jockey engendró una nueva figura en la industria musical: el promotor de discos.": {
   "ch": 2,
   "page": 46,
@@ -1085,6 +1259,12 @@ window.ANOCHE_REFS = {
   "page": 358,
   "sec": "Afrika Bambaataa",
   "para": "La información sobre las grabaciones con buenos breaks se filtraban como los planos de un reactor nuclear, y los discos pronto se vendían al precio del plutonio. Para el verano de 1978, Billboard se percató de este comercio particularmente localizado y publicó una historia sobre cómo Downstairs Records, «el principal minorista de discos», fomentaba una rugiente venta de «descartes oscuros de R&B», y mencionó a Son of Scorpio de Dennis Coffey, Fruit Song de Jeannie Reynolds y Bongo Rock de Incredible Bongo Band. Perfilando a Kool Herc como el instigador del fenómeno, la revista destacó «… que los jóvenes DJ negros del Bronx… están comprando grabaciones solo para tocar treinta segundos más o menos de los breaks rítmicos que contiene cada disco»."
+ },
+ "La invención del acid house es un ejemplo perfecto de cómo se puede pervertir creativamente una tecnología disponible en nombre de la música.": {
+  "ch": 12,
+  "page": 495,
+  "sec": "El acid house",
+  "para": "La invención del acid house es un ejemplo perfecto de cómo se puede pervertir creativamente una tecnología disponible en nombre de la música. La máquina de bajo TB 303 fue diseñada para proveer un acompañamiento de bajo automático para guitarristas solistas. Para estos propósitos, era prácticamente inútil. Cuando Pierre y sus amigos Herb Jackson y Earl Spanky Smith comenzaron a jugar con los controles, sin embargo, al final lograron encontrar algunos sonidos notables, perfectos para las pistas de baile iluminadas por las drogas del Music Box de Ron Hardy."
  },
  "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual.": {
   "ch": 5,
@@ -1109,6 +1289,12 @@ window.ANOCHE_REFS = {
   "page": 452,
   "sec": "Tony Humphries y la música garaje",
   "para": "La palabra garage es con diferencia el término más mutilado de toda la historia de la música. Lo que hoy llamamos garage —pronunciado lo más seguro al estilo del inglés británico como «garridge», y llamado de forma más útil «garage británico» (antes llamado speed garage)— es un estilo que surgió cuando la música house, llena de soul, se aceleró un poco y se le añadió ritmos saltones de percusión y bajo, además de unas profundas líneas de bajo a un tempo más pausado. Abundaremos en esto en el capítulo siguiente."
+ },
+ "La palabra house como género musical nace del apócope de Warehouse": {
+  "ch": 12,
+  "page": 463,
+  "sec": "El significado de house",
+  "para": "Estos significados aportan matices a este género, pero no son el origen de la palabra (aunque otros sostengan lo contrario). La palabra house como género musical nace del apócope de Warehouse, en clara referencia a la música que se tocaba en el club con ese nombre, a las manipulaciones que introdujo Frankie como DJ y a la onda underground que engendró el club."
  },
  "La pionera de este estilo fue la KMPX de San Francisco": {
   "ch": 2,
@@ -1145,6 +1331,12 @@ window.ANOCHE_REFS = {
   "page": 235,
   "sec": "Nicky Siano en el Gallery",
   "para": "Larry Levan llamaba al Gallery «su misa de los sábados». Casey compartía este entusiasmo."
+ },
+ "Las grabaciones de acid house —sintéticas, mutantes, fuera de este mundo— llegaron de la nada": {
+  "ch": 12,
+  "page": 497,
+  "sec": "El acid house",
+  "para": "Si la corriente principal del house era originalmente recalentar el disco, el acid house apuntaba en una dirección más radical. Las grabaciones de acid house —sintéticas, mutantes, fuera de este mundo— llegaron de la nada; no heredaban tradición alguna, se inspiraban más en las posibilidades de una tecnología nueva que en ideas musicales existentes. En las notas de la carátula de «Acid», Tim Lawrence argumenta que este lado experimental del house debe analizarse de forma independiente de los sonidos más tradicionales. «Mientras algunos productores del house de Chicago miraban detenidamente en la dirección de la central del disco (Nueva York) y sus satélites claves (Filadelfia, Los Ángeles, Miami), otros posaron su mirada en el espacio, con la esperanza de romper con el pasado y apostar por el futuro»."
  },
  "Las reglas eran sencillas: debía tener ritmo y soul, e impartir palabras de esperanza, redención y orgullo. El amor era el mensaje.": {
   "ch": 6,
@@ -1254,6 +1446,12 @@ window.ANOCHE_REFS = {
   "sec": "San Francisco y La Prueba del Ácido",
   "para": "Los Dead lograron con el rock’n’roll lo que el DJ de discoteca lograría más tarde con la música dance: la retorcían al filo de lo imposible. Como relata Tom Wolfe en The Electric Kool-Aid Acid Test: «No se trataba de novatos psicodélicos que pintaban dibujos bonitos, sino que eran unos verdaderos exploradores». Sus «canciones» se convirtieron en elaboradas sesiones de experimentación que se desarrollaban allí, al momento, a la medida de las necesidades de los bailarines, cuyos cuerpos (y, a menudo, cuya ropa) dejaba su morada y se abandonaban a la deriva a merced de la memoria extática. «En el Avalon o en el Fillmore —escribió Joel Selvin en Summer of Love—, los Grateful Dead tocaban siempre y cuando se sintieran bien, siempre y cuando pusieran a la gente a bailar, y cuando la mayoría del público entraba en comunión con ellos, eso podía durar mucho tiempo»."
  },
+ "Los Hot Mix 5, además de ser importantes creadores de tendencia, mezclaban como locos: mucho mejor, se dicen, que Knuckles y Hardy.": {
+  "ch": 12,
+  "page": 478,
+  "sec": "El Hot Mix 5",
+  "para": "Los Hot Mix 5, además de ser importantes creadores de tendencia, mezclaban como locos: mucho mejor, se dicen, que Knuckles y Hardy."
+ },
  "Los atuendos de mafiosos de Cold Crush debutaron en uno de los duelos más famosos de la historia": {
   "ch": 10,
   "page": 377,
@@ -1277,6 +1475,12 @@ window.ANOCHE_REFS = {
   "page": 408,
   "sec": "Turntablism: crear con los platos",
   "para": "Las destrezas de los DJ de hip-hop eran tan vistosas que podían explotarse como un fin en sí mismas, y mientras los raperos y las DAT eclipsaban la atención hacia el DJ, esto fue exactamente lo que ocurrió. Los elementos esenciales del arte de un DJ de hip-hop se destilaron hasta que se convirtieron en una forma de arte independiente, separada del todo de su función original en la pista de baile."
+ },
+ "Los esfuerzos de Italia por continuar en el disco fueron un éxito total en Chicago.": {
+  "ch": 12,
+  "page": 477,
+  "sec": "El Hot Mix 5",
+  "para": "Los esfuerzos de Italia por continuar en el disco fueron un éxito total en Chicago. Chip E plantea que esta situación se debe a que este estilo ayudó a los DJ a emular las llamativas destrezas de los Hot Mix 5. «Las grabaciones de disco italiano, como las sintetizaban tanto, eran muy fáciles para mezclar. Era casi como un sistema: las ponías en los platos y simplemente funcionaban»."
  },
  "Los fanáticos del Casino llevaban chapas con el lema: «LEVINE MUST GO»": {
   "ch": 4,
@@ -1344,6 +1548,12 @@ window.ANOCHE_REFS = {
   "sec": "El salón de baile imaginario",
   "para": "Martin Block fue la primera estrella entre los disc jockeys; uno entre un puñado de personajes exitosos que sentaron las bases para el rápido auge del DJ en la posguerra. Comenzó como vendedor, anunciando varios tipos de productos y pinchando discos en el ínterin desde un camión con un altavoz que recorría arriba y abajo todo Broadway, hasta que la policía y los dueños de las tiendas lo silenciaron."
  },
+ "Me di cinco años y si no lograba el éxito en ese plazo, pues siempre podía regresar a casa».": {
+  "ch": 12,
+  "page": 461,
+  "sec": "CAN YOU FEEL IT? (¿PUEDES SENTIRLO?)",
+  "para": "«En ese momento me di cuenta de que tenía que reflexionar sobre lo que quería hacer. Si realmente quería abandonar el nido en Nueva York y mudarme para allá. Cuando por fin lo consideré bien, no tenía nada que me atara aquí. Qué rayos, me dije. Me di cinco años y si no lograba el éxito en ese plazo, pues siempre podía regresar a casa»."
+ },
  "Me dijo: “Estás tocando tresillos. Tocas muchos tresillos”.": {
   "ch": 10,
   "page": 414,
@@ -1385,6 +1595,12 @@ window.ANOCHE_REFS = {
   "page": 419,
   "sec": "El transforming y el beat-juggling",
   "para": "«Me encanta ir a estos nuevos duelos entre DJ y ver a estos muchachos, ¡porque la cosa se pone fuera de control! —dice entusiasmado—. Ver en carne propia que has inspirado un género, todo un movimiento… Miro a estos muchachos y pienso: “Nosotros empezamos esa mierda”. Es increíble lo que estos tipos aprendieron de nosotros, y parece que no tiene fin»."
+ },
+ "Muchas de las primeras grabaciones del house derivan directamente de temas de italodisco.": {
+  "ch": 12,
+  "page": 477,
+  "sec": "El Hot Mix 5",
+  "para": "El italodisco era enormemente popular tanto en Europa como en Chicago, y consiguió incluso que grupos de rock italianos como N. O. I. A. y Gaznevada se convirtieran a la causa (con grandes éxitos en Chicago, The Rule To Survive y I. C. Love Affair, respectivamente). Los temas más avanzados eran claros precursores del house, como A Love Supreme y Problèmes D’Amour de Alexander Robotnick (Maurizio Dami), y una serie de éxitos de club de Klein & MBO (Tony Carrasco y Mario Boncaldo). Muchas de las primeras grabaciones del house derivan directamente de temas de italodisco. MB Dance de Chip E sampleó MBO Theme de Klein & MBO, mientras que Your Love de Jamie Principle tomó la línea de bajo de Feel Good de Electra. Tanta era la influencia de este estilo que, para los habitantes de Chicago, el italodisco se confundía con cualquier forma de música sintetizada de principios de los ochenta. No es poco común escuchar que Gino Soccio (canadiense), Robert Görl (alemán) o Shock (inglés) fueron adscritos a esa corriente."
  },
  "Muchos de estos clubs habían encontrado en el concepto la inspiración del Loft, en particular su política de aceptar solo a miembros (pero no su onda igualitaria de inspiración hippie).": {
   "ch": 8,
@@ -1439,6 +1655,12 @@ window.ANOCHE_REFS = {
   "page": 2,
   "sec": "PREFACIO A LA PRIMERA EDICIÓN",
   "para": "Nuestra empresa tenía por objeto escribir una biografía de la figura más importante de la música dance: el disc jockey [DJ, pronunciado «diyéi»]. Caracterización que, a modo de semblanza, hurga en la evolución de la figura del DJ hasta su consagración como motor de la música popular. Al relatarla, nos hemos centrado en los años de mayor locura, cuando todo valía y hervía, en perjuicio de su comportamiento reciente, ahora que ha sentado la cabeza y se ha convertido en una figura respetable."
+ },
+ "Nunca había ido a un lugar donde el DJ tenía tal control sobre las personas": {
+  "ch": 12,
+  "page": 468,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "«Era como un ídolo. La primera vez que lo vi pinchar discos, era su cumpleaños, y solo ver a la gente literalmente llorando porque este hombre los tenía tan a tope, ver a gente desmayarse, me dije: “¡Oye, estas son las fiestas que me gustan!”. Nunca había ido a un lugar donde el DJ tenía tal control sobre las personas, al punto de que gritaban y bailaban, y hasta lloraban en ciertos momentos. Dependiendo de cuán colocados estuvieran, se desmayaban de puro entusiasmo. Allí lo que había era pura energía»."
  },
  "Otro compinche de Flash, Melle Mel (Melvin Glover), es el MC de los MC": {
   "ch": 9,
@@ -1548,17 +1770,41 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Pero lo cierto es que el sencillo de 12 pulgadas llegó por accidente. Moulton fue a que le imprimieran una mezcla a un vinilo, pero a su maestro ingeniero, José Rodriguez, se le habían acabado las placas en blanco necesarias para cortar el disco maestro. «José me dijo que se le habían acabado las placas de 7 pulgadas y que tendría que usar una de 12. Le dije: “Bah, eso es ridículo”. Así que él dijo: “Tengo una idea: ensancharemos las ranuras para que suene más alto”. Y, por supuesto, por poco me muero cuando lo escuché». Este disco, el primer sencillo de 12 pulgadas, era So Much For Love de Moment Of Truth. Fue algo que Moulton creó para un grupo muy selecto de sus amigos DJ, y aunque Roulette lo lanzó luego en formato de 7 pulgadas, en formato más grande nunca estuvo disponible comercialmente."
  },
+ "Pero si a Ron Hardy no le gustaba, hubiera sido el fin del acid house».": {
+  "ch": 12,
+  "page": 496,
+  "sec": "El acid house",
+  "para": "Lo primero que hicieron los jóvenes productores con su tema revolucionario fue llevar una copia en casete al Music Box para que la pusiera Ron Hardy. Esperaron un par de horas en el petrificante frío a las puertas del club hasta que llegó. «Porque era el mejor. Si decía que le encantaba algo, pues ya está. Pero si a Ron Hardy no le gustaba, hubiera sido el fin del acid house»."
+ },
  "Pero ¿quiénes eran la Sugar Hill Gang? El disco vendía miles de copias diarias, pero el Bronx nunca los había visto agarrar un micrófono.": {
   "ch": 10,
   "page": 381,
   "sec": "Rappers’ Delight",
   "para": "Pero ¿quiénes eran la Sugar Hill Gang? El disco vendía miles de copias diarias, pero el Bronx nunca los había visto agarrar un micrófono."
  },
+ "Pero, tío, ¡era GENIAL!». El veterano productor de house Marshall Jefferson recuerda a Hardy: «Fue el mejor DJ que jamás haya existido».": {
+  "ch": 12,
+  "page": 468,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "«¿Ron Hardy? Todos lo detestaban, era mezquino y repugnante, un adicto a las drogas. Tenía un ego enorme, así era. Pero, tío, ¡era GENIAL!». El veterano productor de house Marshall Jefferson recuerda a Hardy: «Fue el mejor DJ que jamás haya existido»."
+ },
  "Pete fue la principal inspiración para Flash. ¿Por qué? Porque, a diferencia de Herc, mantenía un ritmo uniforme.": {
   "ch": 9,
   "page": 347,
   "sec": "Grandmaster Flash",
   "para": "Pete fue la principal inspiración para Flash. ¿Por qué? Porque, a diferencia de Herc, mantenía un ritmo uniforme. Después de ver a Jones pinchar en varias fiestas callejeras locales, Flash concibió una música que combinara los estilos de los dos DJ."
+ },
+ "Pierre incluso recuerda haber perdido un duelo porque no tenía el tema Time To Jack.": {
+  "ch": 12,
+  "page": 491,
+  "sec": "El hip-hop de Chicago",
+  "para": "«Un DJ tenía que traer su propio sistema de sonido, sus propios MC y un cartel grande con su nombre. Y se llevaban a cabo en un gimnasio escolar grande —dice—. Luego otro DJ traía su propio sistema de sonido, y un tercer DJ traía el suyo. Y uno tenía que hacer lo suyo durante treinta minutos o una hora, y quien lograra que su sistema de sonido y sus destrezas como DJ sonaran mejor ganaba la competición». Pierre incluso recuerda haber perdido un duelo porque no tenía el tema Time To Jack."
+ },
+ "Pinchó siete de mis temas en una secuencia. ¡Siete!": {
+  "ch": 12,
+  "page": 487,
+  "sec": "La prisa por grabar",
+  "para": "El debut de Marshall llegó con el EP Virgo Go Wild Rhythm Tracks, producido con la ayuda de Vince Lawrence. Elaborado con la caja de ritmos 808, pero contenía elementos que más tarde cristalizarían en el clásico de 1986 Move Your Body, fue el primer registro house de la casa en incluir una melodía de piano. Una de las primeras canciones que produjo, en 1985, I’ve Lost Control de Sleezy D, cosechó un éxito enorme en el Music Box, convirtiéndose en un himno para las incondicionales huestes del club. Marshall recuerda la primera noche que Ron Hardy puso sus pistas en cinta: «Pinchó siete de mis temas en una secuencia. ¡Siete! Y para cuando llegó la quinta, era I’ve Lost Control y esa obtuvo la mayor reacción del respetable. Corrieron hacia la pista de baile. Fue como una estampida. Todo el mundo yendo aaaarghhh, y yo estaba pensando: “¡Hostias! ¡Sí!”»."
  },
  "Podría decirse que el primer club comercial que logró una combinación perfecta fue el Gallery.": {
   "ch": 6,
@@ -1571,6 +1817,12 @@ window.ANOCHE_REFS = {
   "page": 30,
   "sec": "MAKE BELIEVE BALLROOM (EL SALÓN DE BAILE IMAGINARIO)",
   "para": "A las 21.00 horas de la Nochebuena de 1906, un ingeniero canadiense llamado Reginald A. Fessenden, quien habían trabajado con Edison, y que había intentado transmitir ondas de radio entre Estados Unidos y Escocia, envió señales de radio sin encriptar —música y voz— desde Brant Rock, cerca de Boston, Massachusetts, a un grupo de asombrados operadores de telégrafo que navegaban por el Atlántico. Lo único que debían de haber escuchado hasta entonces era estática y bips, pero Fessenden había equipado algunas naves de la United Fruit Company con los receptores necesarios para que estuvieran preparados para escuchar algo «inusual». Pronunció un discurso breve en el que explicaba lo que hacía, leyó el texto bíblico «Gloria a Dios en las alturas y paz a los hombres de buena voluntad» y tocó «Oh, Holy Night» con su violín y cantó un poco, advirtiendo que «no era muy bueno que digamos». Por todo lo cual, se convirtió en el primer disc jockey porque, usando un fonógrafo de cilindros Ediphone, también puso un disco en las ondas."
+ },
+ "Porque a finales de los ochenta, justo cuando esta música parecía agonizar en su lugar de origen, al otro lado del océano reverdecería hasta alcanzar cotas nunca antes vistas.": {
+  "ch": 12,
+  "page": 499,
+  "sec": "El house se muda de casa",
+  "para": "El house, impulsado por su éxito en ultramar, se convirtió en una empresa de exportación. Porque a finales de los ochenta, justo cuando esta música parecía agonizar en su lugar de origen, al otro lado del océano reverdecería hasta alcanzar cotas nunca antes vistas."
  },
  "Porque lo que hicimos fue partir la escena en dos con un hacha».": {
   "ch": 4,
@@ -1589,6 +1841,12 @@ window.ANOCHE_REFS = {
   "page": 23,
   "sec": "El ángulo posmoderno",
   "para": "Porque su arte proviene de la combinación del arte de otros, porque su actuación se compone de las actuaciones de otros músicos, el DJ es el epítome del artista posmoderno. Sencillamente, pinchar es un ejercicio de combinatoria. El DJ usa grabaciones para crear un collage musical, de la misma forma en que Quentin Tarantino podría crear una película nueva con tan solo un montón de escenas copiadas de películas viejas o Phillip Johnson podría construir un rascacielos con la forma de un reloj de pie. Esto es en esencia el modus operandi del posmodernismo: recortar ideas y formas y combinarlas de manera creativa."
+ },
+ "Pregunta a cualquiera de los pioneros del house si recibieron en algún momento un cheque por regalías, y lo más seguro es que se meen de risa.": {
+  "ch": 12,
+  "page": 493,
+  "sec": "Explotación",
+  "para": "Era una práctica común comprar temas directamente con un contrato mínimo sin mencionar regalías ni publicación. Los jefes de los sellos exhortaban a los productores para que se asesoraran y recomendaban a un abogado, pero no les explicaban que se trataba de su propio abogado. Pregunta a cualquiera de los pioneros del house si recibieron en algún momento un cheque por regalías, y lo más seguro es que se meen de risa. Los jóvenes eran demasiado ingenuos como para protestar, pues, en efecto, estaban demasiado contentos con recibir un pago único de unos cientos a unos miles de dólares por un tema, sin imaginar que una vez el ingreso por los derechos comenzara a correr, era probable que el tema ahora valiera unas cincuenta veces su valor original. Para ser justos, aun cuando se enteraron de cómo se supone que funcionaba la industria, muchos siguieron vendiendo música a Trax y a DJ International contentos por recibir dinero rápido por un tema rápido. «Éramos jóvenes y estos tipos controlaban las chequeras», cuenta Chip E suspirando."
  },
  "Que no quepa duda, Bambaataa era tan punk como cualquiera en Nueva York.": {
   "ch": 10,
@@ -1686,6 +1944,18 @@ window.ANOCHE_REFS = {
   "sec": "LOVE IS THE MESSAGE (EL AMOR ES EL MENSAJE)",
   "para": "Se trata de la revuelta de Stonewall, noche en la que el Nueva York gay tomó las calles y se rebeló contra el orden establecido. Pero se trató de un acto de rebelión distinto: diríase que fue más un alegre acto teatral que una revuelta armada. Era la culminación de décadas de opresión y de humillación. Instados por la lucha de los conciudadanos afroamericanos por los derechos civiles, e inspirada en el movimiento por la liberación de la mujer, Stonewall fue la revuelta fundacional con la que se certificó el nacimiento del orgullo gay."
  },
+ "Sherman estaba tan confiado de que el house no vendería, que apostó su coche Corvette a favor del fracaso de On And On de Jesse Saunders.": {
+  "ch": 12,
+  "page": 492,
+  "sec": "Explotación",
+  "para": "Dos hombres llegaron a dominar virtualmente el rendimiento entero del house: Rocky Jones, de DJ International, y Larry Sherman, de Trax. Jones era un DJ veterano que administraba el banco de discos local, Audio Talent. El primer lanzamiento de su sello fue Music Is The Key de JM Silk. Larry Sherman era un veterano de Vietnam y un empresario local al que le gustaba el rock ácido. Comenzó su sello, Trax, con el asesoramiento en la escena local de Vince Lawrence, quien diseñó el sello Trax. Sherman estaba tan confiado de que el house no vendería, que apostó su coche Corvette a favor del fracaso de On And On de Jesse Saunders. Con el éxito del disco tuvo que entregar su coche (que tiempo después Lawrence logró estrellar contra un poste)."
+ },
+ "Si Frankie Knuckles es el padrino del house, el engendro fue criado por Ron Hardy.": {
+  "ch": 12,
+  "page": 468,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "Si Frankie Knuckles es el padrino del house, el engendro fue criado por Ron Hardy. La llegada de Knuckles había desatado un período de experimentación intensa. Había multiplicado el interés por la música underground y había demostrado que un DJ podía ser una verdadera fuerza creativa. Al regresar a Chicago para reincorporarse a este laboratorio, Ron Hardy se convertiría en el enajenado experimentador de turno. Mientras buena parte de los esfuerzos se basaban en mantener viva la música disco, Hardy creó un foro que miraba al futuro. Y mientras que los experimentos con la pista de baile de Frankie se desarrollaban con su sensato impulso característico, a Hardy lo alimentaba un apetito más demoníaco: tanto para la música como para los narcóticos. Knuckles era el cambio estimulante, pero Hardy estaba preparado para alterar la naturaleza, ansioso por desatar fuerzas musicales que escapaban a su control."
+ },
  "Si Herc fue quien descubrió la electricidad del breakbeat, Grandmaster Flash fue quien metió los cables y lo conectó al enchufe.": {
   "ch": 9,
   "page": 345,
@@ -1776,6 +2046,18 @@ window.ANOCHE_REFS = {
   "sec": "El poder detrás del mito",
   "para": "«Tenías que pasar un sábado por la mañana —dice Grappone con su acento de Brooklyn—. Treinta y cinco, cuarenta, cincuenta personas esperando a que yo llegara. Abría la tienda y Manny ponía algo porque Manny había estado allí la noche anterior. “Coño, eso es lo que tocó anoche”. Solíamos vender unas sesenta copias del disco entre las diez y las once de la mañana. ¡Sesenta copias! La tienda vendía cientos de copias de las canciones favoritas del Paradise Garage. “Si Larry pinchaba el disco, se iba a vender Vynilmania”»."
  },
+ "Son estos experimentos los que vertebran las raíces de la música house.": {
+  "ch": 12,
+  "page": 466,
+  "sec": "Frankie Knuckles en el Warehouse",
+  "para": "Son estos experimentos los que vertebran las raíces de la música house. En la medida en que se copiaban estas ideas y técnicas, por lo general, de formas mucho más sencillas y por DJ mucho menos diestros que usaban un equipo mucho más básico, nació la estética house."
+ },
+ "Sorprendentemente, Heard reclama haber grabado las tres canciones el mismo día.": {
+  "ch": 12,
+  "page": 486,
+  "sec": "La prisa por grabar",
+  "para": "El músico Larry Heard introdujo un lenguaje más sofisticado procedente del jazz y comenzó el proyecto Fingers Inc. con el vocalista Robert Owens. Grabadas en 1984, pero lanzadas en 1985, Can You Feel It y Mistery of Love de Heard añadieron sabor a jazz y a soul, mientras que su tema Washing Machine era un ejemplo temprano de Chicago para un estilo de house más frío y más angular que más tarde se conocería como tecno. Sorprendentemente, Heard reclama haber grabado las tres canciones el mismo día."
+ },
  "Spring Records lanzó «Disco Par-r-r-ty» como el primer elepé de baile con música grabada sin parar.": {
   "ch": 7,
   "page": 262,
@@ -1811,6 +2093,12 @@ window.ANOCHE_REFS = {
   "page": 34,
   "sec": "La era de la radio",
   "para": "Fue también en 1922 cuando la BBC salió en antena en Gran Bretaña, con un informativo el 15 de noviembre leído por Arthur Burrows. Sin embargo, dado que su director general y fundador, lord Reith, tenía ideales de servicio público que obviaban el entretenimiento, no fue hasta julio de 1927 que la BBC posó la aguja en el surco para darle al Reino Unido su primer DJ. Su nombre era Christopher Stone y tuvo que trabajar duro para convencer a la BBC de que lo dejara crear un programa basado únicamente en escuchar grabaciones. Sin embargo, una vez en el aire cosechó un éxito rotundo, y su actitud mordaz y encantadora lo convirtieron instantáneamente en una de las primeras estrellas de la radio."
+ },
+ "Su nombre era Ron Hardy, y para muchos en Chicago era, nada más y nada menos, que el mejor DJ del mundo.": {
+  "ch": 12,
+  "page": 467,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "Porque, en efecto, el Warehouse no fue el primer lugar de Chicago en escuchar el disco underground. En un club gay llamado Den One, un joven DJ se encargaba de las noches de disco afrodescendiente duro por lo menos dos años antes de la llegada de Frankie. Para 1977 se había ido de la ciudad para trabajar en California, lo cual dejó un vacío en el mundo de los clubs que luego llenaría Knuckles. Pero a finales de 1982, regresó para tocar en el Music Box y volver a tomar por asalto la Ciudad de los Vientos. Su nombre era Ron Hardy, y para muchos en Chicago era, nada más y nada menos, que el mejor DJ del mundo."
  },
  "Su tiempo en el Tubs fue el prototipo para el legendario Paradise Garage.": {
   "ch": 6,
@@ -1853,6 +2141,18 @@ window.ANOCHE_REFS = {
   "page": 343,
   "sec": "Kool Herc",
   "para": "Herc iba a ejercer una influencia masiva, de largo aliento. De repente, cada b-boy soñaba con disfrutar con el mismo tipo de adoración local; todos querían poder tener platos a mano y celebrar fiestas tan salvajes como las suyas. Todo parecía posible. Después de todo, solo desenterraba grabaciones viejas y pinchaba los mejores trozos. Como dijo Jazzy Jay, otro DJ inspirado en la leyenda de Herc: «Todos estaban en tu casa: eran los discos de tu madre y tu padre. Tan pronto Herc comenzó a pinchar, cada hijoputa comenzó a robar los discos de mamá y papá»."
+ },
+ "Te preguntaban: “¿Eres hijo o hijastro?”.": {
+  "ch": 12,
+  "page": 473,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "Esta apertura sexual produciría transformaciones drásticas en los chicos heteros más rudos que se aventuraban hasta el lugar. Había poca o ninguna homofobia. «Si no soportas estar entre gais, pues no podías ir de fiesta en la ciudad de Chicago —recuerda Cedric—. Te preguntaban: “¿Eres hijo o hijastro?”. Es decir, ¿eres gay o no? Si eras hijastro, quería decir que eras hetero, pero te aceptábamos». Durante un tiempo fue una moda actuar como un gay aunque no lo fueras. Cedric recuerda personas que experimentaban con su bisexualidad en un intento para acercarse al verdadero significado de la música house."
+ },
+ "Tenías que moverlos con los pies. Era el podólogo».": {
+  "ch": 12,
+  "page": 480,
+  "sec": "El Hot Mix 5",
+  "para": "«Traje mi caja de ritmos al club para tocar grabaciones que solían usar la misma máquina, como Dirty Talk de Klein & MBO. Frankie Knuckles y yo solíamos tocar muchas de las mismas grabaciones, pero mientras él creaba una versión reeditada en su casa, yo tocaba mi caja de ritmos junto con las canciones, para que el público pudiera realmente sentir ese pie pesado, bien pesado. Tocar una grabación como Let The Music Play de Shannon, que no tenía ese bombo omnipresente, equivalía a pedir a gritos que te lanzaran tomates. Tenías que moverlos con los pies. Era el podólogo»."
  },
  "Tienes que hacerlos pensar: “Esa es la canción que Tony pinchó en el Zanzibar”. Si no pasa eso, ¿quién eres?».": {
   "ch": 11,
@@ -1938,6 +2238,12 @@ window.ANOCHE_REFS = {
   "sec": "Versión",
   "para": "Una versión es una canción a la que se le han quitado las voces, una secuencia de una canción creada para que el diyey pueda hablar por encima del sonido. Al grabar tales canciones instrumentales e imprimirlas en discos de cera blanda, los productores contaban con un arsenal de novedosas exclusivas con las que seducir a su público. Cuando el sistema de sonido tocaba estos temas únicos, con un diyey en directo «montando el ritmo», el público escuchaba algo absolutamente excepcional, con la misma inmediatez de una presentación en directo tradicional. En términos de espectáculo, el diyey (ahora representado por la trinidad del productor, el seleccionador y el diyey), esta vez sí se batía el cobre."
  },
+ "Uno podía saber si estaba alerta y feliz o podía saber si solo estaba drogado, fuera de sí mismo en un trip extracorporal».": {
+  "ch": 12,
+  "page": 474,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "«Por la manera en que Ron Hardy pinchaba, uno podía notar cómo se sentía —dice Cedric—. La forma en que tocaba las grabaciones, la secuencia en que lo hacía, cuán prolongadas eran las mezclas. Uno podía notar si estaba deprimido porque él y su amante habían tenido una pelea. Uno podía saber si estaba alerta y feliz o podía saber si solo estaba drogado, fuera de sí mismo en un trip extracorporal»."
+ },
  "Uno puede encontrar el nombre «A. Freed» en los créditos de «Maybellene» de Chuck Berry.": {
   "ch": 2,
   "page": 59,
@@ -1974,6 +2280,12 @@ window.ANOCHE_REFS = {
   "sec": "Rapear",
   "para": "Sal Abbatielo del Disco Fever recuerda la primera vez que escuchó Rapper’s Delight: «Estaba en mi oficina y escuché la grabación y dije: “¿Quién está rapeando?”. Y me dicen: “No, eso es un disco”. Y les dije: “Pues ya era hora de que viniera alguien lo suficientemente inteligente para poner esa mierda en un disco. Ahora no me romperán todos mis micrófonos”»."
  },
+ "Y parece que es una pérdida de tiempo aprender todo eso, porque ahora un chico puede agarrar un ordenador, tener suerte con él y escribir un éxito».": {
+  "ch": 12,
+  "page": 485,
+  "sec": "La prisa por grabar",
+  "para": "El secreto radicaba en lo sencillo de los temas. «Nuestro sonido es tan distinto porque podemos crear una línea de bajo y una pista de ritmo y podemos vender diez mil copias de eso solo en la ciudad —le dijo Farley a Sheryl Garratt, de The Face, en 1986—. Lo único que necesitas es sentir la música. Hay personas que van a la universidad a estudiar música y no pueden crear ni siquiera una base rítmica, menos aún una grabación exitosa. Es extraño. Y parece que es una pérdida de tiempo aprender todo eso, porque ahora un chico puede agarrar un ordenador, tener suerte con él y escribir un éxito»."
+ },
  "Y él les dijo: “Mira, chaval, no me preguntes a mí, pregúntale a él, él escribió la puta canción”».": {
   "ch": 10,
   "page": 414,
@@ -1997,6 +2309,12 @@ window.ANOCHE_REFS = {
   "page": 135,
   "sec": "Farmer Carl en el Catacombs",
   "para": "Aunque la escena todavía estaba en sus años de formación, ya lograba ejercer una influencia en la industria musical en general: fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio. Cuando Just A Little Misunderstanding de los Contours 45 (grabada originalmente en 1965 y coescrita por Stevie Wonder) se coló en las listas en enero de 1970, anunció una nueva era para la música bailable en el Reino Unido. Le siguió pronto I’m Gonna Run From You de Tami Lynn, del sello Mojo Records, distribuida por la Polydor de John Abbey, que alcanzó el número cuatro en mayo de 1971. Como este último era dueño y fundador de Blue & Soul, estaba en una posición privilegiada para ver las posibilidades de la música. La confirmación de este nuevo fenómeno se produjo cuando Hey Girl Don’t Bother Me de las Tams, una grabación cuya fama se debe a la influencia de Farmer Carl, llegó al número uno (en Reino Unido) en 1971."
+ },
+ "la línea de bajo de Acid Tracks se conservará para siempre en las entrañas de esa máquina».": {
+  "ch": 12,
+  "page": 498,
+  "sec": "El acid house",
+  "para": "Con el éxito de Acid Tracks, la 303 se convirtió en la pieza de equipo codiciada, y sus sonidos burbujeantes y dinámicos pronto salpicaron la escena house. Parte de esta atracción se debe a que sus circuitos literalmente escribirían la música, cortesía de la función aleatoria de la máquina. Uno la enciende y hay una serie de líneas de bajo mutantes listas para usarse. Si uno quería un patrón, simplemente sacaba y sustituía las de serie y brotaba una nueva composición lista y esperando. «De forma un tanto terrorífica —dice Pierre—, la línea de bajo de Acid Tracks se conservará para siempre en las entrañas de esa máquina»."
  },
  "nuestro planeta se mueve al ritmo de la pulposa bomba del hi-NRG.": {
   "ch": 8,
@@ -2028,6 +2346,18 @@ window.ANOCHE_REFS = {
   "sec": "El sampleado",
   "para": "En el hip-hop, la dependencia del sampleado llegó a su punto máximo a finales de los ochenta con las producciones de Public Enemy usando el wall-of-sound, y en los empeños por usar cualquier cosa aleatoria de La Soul, antes de que se volviera demasiado caro o arriesgado basar grabaciones en una alta cantidad de sampleados largos e identificables. El comentarista Nelson George señala un punto interesante: solo cuando el hip-hop comenzó a samplear música de blancos —en particular en el caso de Biz Markie, pero también en las demandas relacionadas con los elepés «Three Feet High And Rising» de La Soul y «It Take A Nation Of Millions To Hold Us Back» de Public Enemy— entonces la industria comenzó a percatarse de un problema."
  },
+ "y que el house aceptaba, que no rechazaba, el aspecto gay del disco y sus compases de «cuatro explosiones en el bombo».": {
+  "ch": 12,
+  "page": 490,
+  "sec": "El hip-hop de Chicago",
+  "para": "Como antaño el hip-hop, el house tomó las líneas de bajo y los patrones de percusión de antiguas canciones (ambos géneros intentaron en un principio crear una versión mínima y repetitiva del disco). Su progresión creativa era el resultado de la introducción constante de los DJ de nuevos elementos para sus actuaciones, para así superar al competidor. Y el house, como el hip-hop, dependía del espíritu competitivo que emanaba del «háztelo tú mismo». Hasta la ropa que caracterizaba el house de Chicago —holgada y práctica— era lo que después se identificaría como el estilo hip-hop por todo el mundo. Las únicas diferencias fundamentales eran el tempo y la música, y que el house aceptaba, que no rechazaba, el aspecto gay del disco y sus compases de «cuatro explosiones en el bombo»."
+ },
+ "¡Dios me tocó esa noche! El volumen, tío, solo ¡¡¡BUM!!! Me perforó el pecho y tomó el control de mi corazón».": {
+  "ch": 12,
+  "page": 472,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "Marshall Jefferson había llegado al Music Box gracias a una chica salvaje que trabajaba en la oficina de correos. También era estríper además de cartera, y Marshall dice que quería ver su cuerpo en acción en la pista, así que le dijo: «Quiero ver esos clubs locos a los que vas». Un fan del rock fuerte con discos de Thin Lizzy en su colección y una tendencia a creer que el disco es una mierda, se convirtió a la música bailable inmediatamente, así era el poder de Hardy. «Me llevó a este lugar llamado Music Box. ¡Dios me tocó esa noche! El volumen, tío, solo ¡¡¡BUM!!! Me perforó el pecho y tomó el control de mi corazón»."
+ },
  "¡Recuerdo haber tenido sexo allí un par de veces!».": {
   "ch": 11,
   "page": 434,
@@ -2045,6 +2375,12 @@ window.ANOCHE_REFS = {
   "page": 379,
   "sec": "Hip-hop grabado",
   "para": "El propio Flash admite haber rechazado varias ofertas iniciales para grabar, pensando que la música creada a partir de las grabaciones de otras personas no era lo suficientemente comercial. «A mí me preguntaron antes que a nadie. Y pensé: “¿Quién querría escuchar un disco que yo ponía regrabado con la voz de un MC por encima?”»."
+ },
+ "«Agarraban el dinero y huían con él —insiste Farley": {
+  "ch": 12,
+  "page": 494,
+  "sec": "Explotación",
+  "para": "Quizá de forma aún más dañina, sin embargo, Trax y DJ International al parecer invertieron muy poca energía en desarrollar las carreras de esos jóvenes artistas y se concentraron, en cambio, en vender rápido contratos de derechos en el extranjero, cuyas ganancias se mantuvieron en secreto para la mayoría de los productores. Se suele argumentar que ahuyentaron el interés por parte de las majors en la música de Chicago. «Agarraban el dinero y huían con él —insiste Farley—, en vez de invertir en la carrera artística de estos jóvenes valores»."
  },
  "«Alan Freed era amable con demasiadas personas afrodescendientes, así que acabaron con él.": {
   "ch": 2,
@@ -2075,6 +2411,12 @@ window.ANOCHE_REFS = {
   "page": 39,
   "sec": "El DJ versus las discográficas",
   "para": "«Cada sello en cada disco llevaba una leyenda en la que se advertía que estaba terminantemente prohibida la transmisión por radio», recuerda el DJ pionero Al Jarvis en la edición del setenta y cinco aniversario de Billboard. «Así que tenía que comprarme mis propios discos y apostar a que la Corte Suprema archivara el caso Waring»."
+ },
+ "«Chicago produjo su propia versión del tecno un par de años después, pero no lo llamaron tecno porque ya teníamos ese término, así que lo llamaron acid house».": {
+  "ch": 12,
+  "page": 498,
+  "sec": "El acid house",
+  "para": "En efecto, la producción vanguardista de Chicago tenía quizá más elementos en común con el sonido de Detroit que al final se conocería como tecno. Como le dijo el pionero del tecno Juan Atkins a Lawrence: «Chicago produjo su propia versión del tecno un par de años después, pero no lo llamaron tecno porque ya teníamos ese término, así que lo llamaron acid house»."
  },
  "«Creo que yo era el mejor DJ del mundo hasta que escuché pinchar a Walter Gibbons»": {
   "ch": 6,
@@ -2172,6 +2514,12 @@ window.ANOCHE_REFS = {
   "sec": "Larry Levan y el Paradise Garage",
   "para": "…trataban como a un invitado de honor, con un grado de cortesía y respeto prácticamente desconocido en clubs de hoy. «Uno se sentía especial —dice Danny Tenaglia, uno de los muchos DJ inspirados por sus primeras visitas al Paradise Garage—. Uno se sentía como si estuviera en una élite, con personas con las que compartías la misma sensibilidad musical tuya». He aquí un mundo privado, pura reivindicación del espíritu original de amorosa igualdad del disco. En marcado contraste con lo que se llevaba extramuros, el Paradise Garage representaba libertad, compasión y camaradería. Era tanto un centro comunitario como una discoteca. Dave Piccioni, dueño de Black Market Records, en Londres, quien entonces era DJ y vivía en Nueva York, era un cliente habitual del Paradise Garage a finales de los ochenta. «Era un momento en Nueva York donde se rajaban las gargantas por dinero —recuerda—. Todos sacaban la navaja y la clavaban en la espalda del otro. Era un todos contra todos. Era agresivo. Narcotráfico, sesenta mil personas vivían en la calle. Y entonces uno iba a este pequeño oasis donde la gente era en verdad educada y amistosa con los demás. Uno se sentía cómodo. Eran personas que compartían, y eso era tener la mente abierta. Estados Unidos es un lugar de mente estrecha. Lo que tenían en común no era tan solo ponerse hasta las cejas, como aquí; era mucho más que"
  },
+ "«Eran competitivos. —Marshall ríe—. Como dos pistoleros».": {
+  "ch": 12,
+  "page": 469,
+  "sec": "Ron Hardy en el Music Box",
+  "para": "«Frankie era quien llevaba los pantalones —recuerda Marshall—. Ahora la llamaban música house, y eso se debía a Frankie. Y que Ron Hardy llegara y le birlara el fuego a Frankie, eso sí que fue un acontecimiento». El Power Plant renunció a los sábados y solo abría los viernes, y a la larga la semana se dividió entre los dos clubs: los miércoles y los viernes eran noches del Power Plant y los jueves, viernes y sábados pertenecían al Music Box. «Eran competitivos. —Marshall ríe—. Como dos pistoleros»."
+ },
  "«Es la persona que más influyó en mí —dice Nicky Siano—.": {
   "ch": 6,
   "page": 249,
@@ -2195,6 +2543,12 @@ window.ANOCHE_REFS = {
   "page": 47,
   "sec": "El salón de baile imaginario",
   "para": "«Ese servicio causó sensación —dijo Wallichs—. Convertimos al disc jockey en un prescriptor, en un tipo importante, en el VIP de la industria. Y publicamos un pequeño periódico en el cual aparecían fotos y semblanzas de estos personajes»."
+ },
+ "«Estaba tan encabronado porque ya no tenía mi canción temática": {
+  "ch": 12,
+  "page": 483,
+  "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
+  "para": "Cuando no podía tocarla más (en función de la versión que des por buena, o se la robaron de su caja de discos o pertenecía a Wayne Williams, quien le prohibió tocarla), Saunders juró recrearla. Como le dijo a Jonathan Fleming: «Estaba tan encabronado porque ya no tenía mi canción temática y no podía lograr que el público enloqueciera como solía hacer cuando la ponía. Así que me dije: “Voy a hacer una para mí”»."
  },
  "«Farmer Carl era el DJ al que todos consideraban un dios», declara Levine.": {
   "ch": 4,
@@ -2279,6 +2633,12 @@ window.ANOCHE_REFS = {
   "page": 425,
   "sec": "I’LL TAKE YOU TO PARADISE (TE LLEVARÉ AL PARAÍSO)",
   "para": "En Chicago, el locutor de radio y DJ Steve Dahl odiaba tanto al disco que formó un «ejército para la destrucción del disco» y lo movilizó para atacarlo donde fuera posible. Sus seguidores se unieron en torno al lema sumamente homofóbico [en voz inglesa]. «Disco Sucks» y emprendió una cruzada contra el maricón malvado acosando a los DJ de clubs cada vez que ponían esta música. «La música disco es una enfermedad. La llamo distrofia disco —despotricaba por las ondas radiofónicas—. Las víctimas de este mal asesino caminan por ahí como zombis. Debemos hacer todo lo posible para detener la propagación de esta plaga»."
+ },
+ "«La puta pista se vació —recuerda Pierre, riéndose": {
+  "ch": 12,
+  "page": 496,
+  "sec": "El acid house",
+  "para": "Cuando Hardy la puso, los resultados fueron asombrosos. «La puta pista se vació —recuerda Pierre, riéndose—. Nos quedamos sentados allí, pensando: “Pues bien, supongo que ya no la tocaremos jamás”». Pero Hardy esperó a que la pista se llenara y forzó la canción sobre sus aficionados otra vez, con una reacción algo mejor en esta ocasión. Esperó un rato más y la tocó por tercera vez. Para la cuarta vez que la tocó, a las cuatro de la madrugada, cuando ya todos estaban en pleno efecto de los narcóticos, el público se agitó. «La gente la bailaba patas arriba. Este tipo estaba acostado bocarriba, dando patadas al aire. Me quedé como que: “¡Guau!”. La gente se volvía loca, comenzaron a bailar slamdancing, empujaban a quienes tuvieran en medio, estaban locos»."
  },
  "«La típica discoteca de Nueva York era joven, italiana y gay», escribió Vince Aletti": {
   "ch": 6,
@@ -2382,6 +2742,18 @@ window.ANOCHE_REFS = {
   "sec": "El Saint",
   "para": "«Nunca había existido un club como el Saint», dice Ian Levine, otrora DJ dominante el northern soul y entonces el residente fundador del Heaven (Londres). «El Saint ostenta un lugar único en la historia de la música disco. —Suspira—. El mejor de la historia. En el Heaven, a lo mejor podíamos aspirar vagamente a lograr una décima parte de lo que era el Saint. Era lo máximo»."
  },
+ "«Para la mayoría de los que asistían al Warehouse, este era un templo».": {
+  "ch": 12,
+  "page": 459,
+  "sec": "CAN YOU FEEL IT? (¿PUEDES SENTIRLO?)",
+  "para": "«Para la mayoría de los que asistían al Warehouse, este era un templo»."
+ },
+ "«Para mí, definitivamente, es como una iglesia —explicó en el canal de televisión WMAQ de Chicago": {
+  "ch": 12,
+  "page": 457,
+  "sec": "CAN YOU FEEL IT? (¿PUEDES SENTIRLO?)",
+  "para": "Muchos DJ hablan de su trabajo en términos religiosos, pocos con la sensatez de Frankie Knuckles. «Para mí, definitivamente, es como una iglesia —explicó en el canal de televisión WMAQ de Chicago—. Porque cuando uno tiene a tres mil personas enfrente, son tres mil personalidades diferentes. Y cuando esas tres mil personas se convierten en una sola personalidad, es la cosa más asombrosa. Es como en la iglesia. Para cuando el predicador calienta los motores, o ese coro comienza, en algún punto en particular, cuando la cosa llega a su punto culminante, todo el salón se hace uno, y es eso es lo mejor de todo»."
+ },
  "«Para mí, esta comunión en la pista es una congregación espiritual», declaró Rodriguez": {
   "ch": 6,
   "page": 251,
@@ -2484,11 +2856,23 @@ window.ANOCHE_REFS = {
   "sec": "Disco friki",
   "para": "Russell era un místico de ojos locos que colaboró con todos desde Allen Ginsberg (a quien enseñó a tocar la guitarra) hasta Laurie Anderson y también Philip Glass (además de la leyenda de A&R de CBS, John Hammond). Sus entrevistas eran tan abstractas como su música, con comentarios que hacían que Phil Spector pareciera normal. «Uno no puede llevar la batería al espacio exterior, uno la lleva en la mente», dijo a David Toop en 1987. Un celista vanguardista con una obsesión por el eco, se le cita con frecuencia como el pionero del disco dub-style, pero esta música suele ser imposible de bailar. «No negaré que Arthur era un visionario absoluto —dice François, quien perfeccionó el genio de Russell con una forma más agradable—, pero no creo que él realmente supiera solucionar lo que creo. Cuando remezclé Go Band, realmente le di un giro a esa grabación. La simplifiqué al máximo. Pasé horas y horas con ella»."
  },
+ "«Yo era el único con los cojones suficientes para ir allí y traer la música al sur y ponérsela a los jóvenes heteros».": {
+  "ch": 12,
+  "page": 466,
+  "sec": "Frankie Knuckles en el Warehouse",
+  "para": "«Durante dos años, más o menos, solía ir y plantarme cerca de la cabina del DJ y preguntarle al tipo al lado de Frankie el nombre de la grabación que pinchaba y luego iba a la tienda a conseguirlo —recuerda—. Al estar en un club gay, me daba un poco de miedo preguntarle a Frankie». Williams, que compraba en Sounds Good, adquiría cuantas canciones de Frankie encontraba y las pinchaba a su público del sur de la ciudad. Acostumbrados a los sonidos del momento, al principio su público despejó la pista. Sin embargo perseveró, y al tocar la música que ninguno de sus colegas quería tocar, se convirtió rápidamente en uno de los DJ más exitosos de la ciudad. «Yo era el único con los cojones suficientes para ir allí y traer la música al sur y ponérsela a los jóvenes heteros». Su éxito en el Loft (que no guarda relación con el club de Nueva York) logró una influencia considerable, y durante los primeros años de los ochenta, el sonido más viejo, más funk que se conocía entonces como house comenzó a difundirse más allá de los clubs gais."
+ },
  "«Yo idolatraba a Larry —dice—. Todavía lo hago a día de hoy; era el mejor.": {
   "ch": 11,
   "page": 432,
   "sec": "Larry Levan y el Paradise Garage",
   "para": "Junior Vasquez forjó toda su carrera siguiendo el camino marcado por Levan: «Yo idolatraba a Larry —dice—. Todavía lo hago a día de hoy; era el mejor. Y sí, vivo en el pasado cuando se trata de eso, y quiero seguir luchando, deseando crear un sentimiento, ese salón, esa cabina». El Sound Factory de Junior era una réplica deliberadamente exacta del Paradise Garage, y en sus mejores momentos casi llegó a despertar los mismos sentimientos de comunidad. Cuando el Sound Factory abrió por primera vez, se colgó el letrero iluminado del Paradise Garage sobre la entrada (una estrategia más bien pretenciosa que rápidamente denunciaron los irritados fieles al Paradise Garage). El Shelter, luego llamado Vinyl, sede de las muy conocidas noches de Body & Soul [cuerpo y alma], era otro club fundado más o menos en su totalidad para preservar el recuerdo del Paradise Garage."
+ },
+ "«Yo solo quería acostarme con chicas —declara": {
+  "ch": 12,
+  "page": 483,
+  "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
+  "para": "En 1983, con su caja 808, un teclado Korg Poly 61 que le compró su madre, un sintetizador para bajo TB 303 y una grabadora de cuatro canales, comenzó a crear pistas. «Solo usé lo que conocía de muchas canciones y discos que pinchaba que eran grandes éxitos, a fin de fundirlos y juntarlos en una sola cosa». A la primera la llamó Fantasy y a otra le puso el nombre On And On como homenaje a su canción temática robada. Jesse negoció la tarea de lanzar discos con la ayuda de su amigo Vince Lawrence. Según este, la alianza se forjó con un objetivo en mente. «Yo solo quería acostarme con chicas —declara—. Tú sabes, ¡tratar de llevármelas a la cama!». Como uno de los mejores DJ de la ciudad, Jesse contaba con una red instantánea de promoción. En cuanto a Vince, este sabía cómo producir un disco porque su padre Mitch era dueño de Mitchbal, un sello de blues diminuto, y un año antes, más o menos, con al nombre de Z Factor, él y algunos amigos de la escuela habían grabado un sencillo electrónico de rock pop, (I Like To Do It In). Fast Cars. Aunque se escuchó por un tiempo en las radios de Chicago, Fast Car —una aproximación distante al lujurioso estilo del ídolo de Vince, Trevor Horn— tenía poco que ver con lo que ocurría en los clubs. Sin embargo, algunos, en particular Vince, dicen que es la primera grabación de house."
  },
  "«todo el público se fue con él.": {
   "ch": 6,
@@ -2507,6 +2891,12 @@ window.ANOCHE_REFS = {
   "page": 294,
   "sec": "El disco se estrella",
   "para": "El disco no tenía banda de músicos. Ni giras. Ni camisetas ni souvenirs. Sus abanderados no eran otra cosa que un atajo de disc jockeys irresponsables. La crítica no le prestó mucha atención y el disco tuvo poca cobertura mediática, excepción hecha de Vince Aletti y Tom Moulton en Billboard, y casi toda era negativa. En el Reino Unido, los independientes del rock, en su gran mayoría blancos de clase trabajadora, eran particularmente incapaces de aguantar una música diseñada para el cuerpo y no para la mente. Como Danny Baker —uno de los pocos periodistas del rock que entendió lo que era el disco— escribió en NME por aquel entonces: «¿Cómo se puede criticar esta música estando sentado?»."
+ },
+ "«Éramos jóvenes y estos tipos controlaban las chequeras», cuenta Chip E suspirando.": {
+  "ch": 12,
+  "page": 493,
+  "sec": "Explotación",
+  "para": "Era una práctica común comprar temas directamente con un contrato mínimo sin mencionar regalías ni publicación. Los jefes de los sellos exhortaban a los productores para que se asesoraran y recomendaban a un abogado, pero no les explicaban que se trataba de su propio abogado. Pregunta a cualquiera de los pioneros del house si recibieron en algún momento un cheque por regalías, y lo más seguro es que se meen de risa. Los jóvenes eran demasiado ingenuos como para protestar, pues, en efecto, estaban demasiado contentos con recibir un pago único de unos cientos a unos miles de dólares por un tema, sin imaginar que una vez el ingreso por los derechos comenzara a correr, era probable que el tema ahora valiera unas cincuenta veces su valor original. Para ser justos, aun cuando se enteraron de cómo se supone que funcionaba la industria, muchos siguieron vendiendo música a Trax y a DJ International contentos por recibir dinero rápido por un tema rápido. «Éramos jóvenes y estos tipos controlaban las chequeras», cuenta Chip E suspirando."
  },
  "»Esta música te acapara de principio a fin. El Fever fue el club de vecindario más grande del mundo.": {
   "ch": 9,
