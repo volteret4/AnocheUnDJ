@@ -12,6 +12,12 @@ window.ANOCHE_REFS = {
   "sec": "Froggy en el Royalty",
   "para": "Sin embargo, lo que comenzó como una escena de entusiastas poco documentada multiplicó sus efectivos exponencialmente. En 1977, el jazz-funk organizó un golpe de Estado contra el sonido del northern soul que prevaleció en el resto del país. En una fiesta de día completo en Reading, Chris Hill dirigió a sus discípulos desde su salón trasero pequeño hasta la pista de baile principal y exigió que los DJ del northern soul cedieran y tocaran funk. Como respuesta, un fanático del northern soul destrozó una copia de Hill de Could Heaven Be Like This? de Idris Muhammad (las piezas se enmarcaron con la inscripción: «Remezclado por un DJ del northern soul»). Al año siguiente, se había girado la tortilla y Chris Hill y la Mafia del Soul fueron coronados en la sala principal con miles de chicos del soul que vivían en Londres."
  },
+ "(una edición temprana tiene una foto de Pete Tong vestido de Santa Claus)": {
+  "ch": 17,
+  "page": 728,
+  "sec": "La revolución será sintetizada",
+  "para": "La DMC de Prince también organizó una competición de mezcla —de la que el hip-hop se apropió inmediatamente y sigue siendo el foro prominente para los pinchas—, además de lanzar el magazine del ámbito de los clubs Mixmag, que comenzó como un boletín de subscriptores (una edición temprana tiene una foto de Pete Tong vestido de Santa Claus). A DMC la acompañó en el mercado de remezclas británico Music Factory, con sede en Leeds, que en 1989 dio seguimiento a sus mezclas con solo DJ con una imitación de la idea de Stars On 45, con unas grabaciones aún más atroces de Jive Bunny."
+ },
  "A Nile Rogers y a Bernard Edwards del grupo Chic se les negó la entrada, aun cuando sus canciones se pinchaban con éxito dentro del club.": {
   "ch": 7,
   "page": 283,
@@ -77,6 +83,12 @@ window.ANOCHE_REFS = {
   "page": 430,
   "sec": "Larry Levan y el Paradise Garage",
   "para": "Un club, a mucha distancia de los demás, fue el que marcó el camino para que muchos de los hijos del disco dieran sus primeros pasos: el Paradise Garage, de Nueva York. Abierto desde 1977 hasta 1987, el Garage fue el vínculo crucial entre el disco y las otras formas musicales que evolucionaron de esta música."
+ },
+ "Ahora la gente esperaba escuchar algo completamente distinto cuando compraban una remezcla».": {
+  "ch": 17,
+  "page": 721,
+  "sec": "La evolución de la remezcla",
+  "para": "Una tercera etapa llegó cuando se usaba la pista de voz de forma intacta, pero la música que la acompañaba se cambiaba por completo con música que el remezclador mismo había preparado. «Uno comenzaba a poner música nueva a las remezclas. Todo lo que quedaba de la canción original era la pista de voz. Ahora la gente esperaba escuchar algo completamente distinto cuando compraban una remezcla»."
  },
  "Ahora que la relación entre la música y el público era interactiva, el público pasó a ser parte del evento": {
   "ch": 3,
@@ -216,6 +228,12 @@ window.ANOCHE_REFS = {
   "sec": "Alfredo en el Amnesia",
   "para": "Trevor Fung llega a plantear que, aunque Alfredo solía repetirse, la forma en que concatenaba su música era tan carismática que uno no podía evitar quedarse perplejo. «La música del Amnesia la tengo grabada en la cabeza. Es como si conociera a Alfredo de los pies a la cabeza. La conozco de memoria. Sé lo que tocará después de esta canción, sé la que pondrá después de esa. Pero funcionaba. Aunque uno sabía lo que iba a poner, era brillante»."
  },
+ "Baby Ford creó la primera grabación de acid house británico, Oochy Koochy": {
+  "ch": 17,
+  "page": 732,
+  "sec": "Coldcut y M/A/R/R/S",
+  "para": "Bang The Party ganó respecto a Estados Unidos con Release Your Body y Bang You’re Mine; Baby Ford creó la primera grabación de acid house británico, Oochy Koochy, y D Mob dio al país un sorbo de la escena ácida de Londres con la infumable We Call It Acieed, que llegó a la tercera posición en el Reino Unido y provocó que la BBC prohibiera todas las canciones que contuvieran la palabra inglesa acid."
+ },
  "Bajo el sello de Lenny, Street Beat Records, se lanzó la serie de discos «Ultimate Breaks And Beats» que con el tiempo llegó a alcanzar los veinte volúmenes.": {
   "ch": 9,
   "page": 359,
@@ -233,6 +251,12 @@ window.ANOCHE_REFS = {
   "page": 79,
   "sec": "La liberación",
   "para": "El fundador de la industria discográfica francesa moderna, el recién fallecido Eddie Barclay (cuyo verdadero nombre de pila era Édouard Ruault), pasó la guerra trabajando como pianista en un club nocturno, y se la pasaba con una pandilla influyente de amantes del jazz. Barclay reclama haber abierto la primera discoteca del mundo, Eddie’s, después de la liberación en 1944. Dado que era un ávido coleccionista de discos, el primer importador de discos estadounidenses a gran escala y el primer productor francés de discos en vinilo (el vinilo permitía una amplificación más alta que los discos de laca de 78 rpm), este hecho parece muy probable: si alguien tenía fe en el poder de la música grabada era Barclay. Sin duda le encantaba la fiesta, también, pues tuvo un total de nueve esposas y celebraba fiestas en su villa de Saint-Tropez tan opulentas que parecía como si el resto de la Riviera francesa fuera un barrio obrero."
+ },
+ "Beat Dis de Bomb The Bass, Theme From S’Express de S’Express, el éxito visionario Voodoo Ray de A Guy Called Gerald y Pacific State de 808 State fueron algunas de las mejores.": {
+  "ch": 17,
+  "page": 732,
+  "sec": "Coldcut y M/A/R/R/S",
+  "para": "Hubo otra explosión de energía a medida que los productores de baile británicos (casi todos eran DJ) adoptaron el modelo del hip-hop y del house —fundiendo elementos de los dos géneros— e incorporaron sus propias lecturas de la nueva estética bailable. A finales de 1987 y principios de 1988 llegó un despliegue de éxitos que, evidentemente, se crearon con estas influencias. Beat Dis de Bomb The Bass, Theme From S’Express de S’Express, el éxito visionario Voodoo Ray de A Guy Called Gerald y Pacific State de 808 State fueron algunas de las mejores. Todas alcanzaron las listas."
  },
  "Big Apple, que Skream describió una vez como la «escuela del bajo».": {
   "ch": 16,
@@ -545,6 +569,12 @@ window.ANOCHE_REFS = {
   "page": 481,
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "A medida que la cultura del house fue apoderándose de esta ciudad, el objetivo de los DJ era subyugar a los bailarines con estados de furia hipnótica propiciados por la percusión, mediante un sinfín de pistas de ritmos retumbantes para conducir a la pista de baile hacia el orgasmo de una gran canción cantada. Este estilo exigía un suministro constante de pistas de percusión repetitivas y sencillas. La gente había visto cuán básica puede ser una pista. El equipo de los estudios se había vuelto pequeño y asequible. De repente, todos en Chicago eran productores y promovían ansiosamente las cintas por debajo de las narices de los DJ."
+ },
+ "De veras que podemos hacerlo nosotros mismos”».": {
+  "ch": 17,
+  "page": 734,
+  "sec": "KLF y el nuevo punk",
+  "para": "Más importante aún, el sonido que todos buscaban era de muy poca calidad. El hip-hop y el house de Chicago inspiraban más cada día por el mero hecho de que eran una música poco pulida. Como dice Matt Black: «Había la actitud de una ignorancia amable, que consistía en que si sonaba fresco, gustaba. Así, solo con samplear una nota de bajo de una grabación de JB con un sampleador Casio de veinte libras esterlinas, uno podía tocar una línea de bajo. Sí, sonaba áspero, pero de veras tenía algo de peso y un sonido genial. Tiene que haber muchas personas que sintieron lo mismo que nosotros en esa época: “¡Eh! ¡Guau! Podemos hacerlo. De veras que podemos hacerlo nosotros mismos”»."
  },
  "Definió lo que debería ser un buen DJ: alguien que te conduce por caminos nuevos sin comprometer demasiado».": {
   "ch": 14,
@@ -1026,6 +1056,12 @@ window.ANOCHE_REFS = {
   "sec": "El éxtasis",
   "para": "«Muchas personas se largaron en 1983 o 1984 —dice DJ Parrot—. Las personas que antes eran caras conocidas en la ciudad y en los partidos de fútbol ahora simplemente ya no estaban. El término era “Ladrones de Turistas Internacionales”. Muchos de ellos acabaron en Ibiza. Cuando ese grupo comenzó a regresar fue cuando empezó a aparecer el éxtasis»."
  },
+ "El éxito Jam de Michael Jackson de 1991 se lanzó en no menos de veinticuatro versiones distintas.": {
+  "ch": 17,
+  "page": 737,
+  "sec": "La remezcla comercial",
+  "para": "Una remezcla realmente radical puede llevar una canción a otro género distinto y lograr que atraiga a un conjunto de fanáticos completamente nuevo. Una canción de Mariah Carey que funciona bien como pieza de pop en la radio puede remezclarse como una pista de house, podría haber una versión hip-hop o incluso conseguir que alguien la remezcle para que funcione en un club tecno. En un esfuerzo por capturar cada segmento del mundo del baile, los sellos comenzaron a permitir que la remezcla fuera una parte vital de sus estrategias comerciales. Los sencillos de baile se lanzaban en paquetes dobles o triples y se incluía un sinfín de remezclas. El éxito Jam de Michael Jackson de 1991 se lanzó en no menos de veinticuatro versiones distintas."
+ },
  "El éxtasis comenzó a llegar a la isla en algún momento del principio de los ochenta, por cortesía de la secta religiosa de Bhagwan Shree Rajneesh": {
   "ch": 14,
   "page": 557,
@@ -1170,6 +1206,12 @@ window.ANOCHE_REFS = {
   "sec": "El garage británico",
   "para": "En el año 2000, el garage británico era el sonido nacional. Los éxitos llegaban sin discusión y rápidos: Artful Dodger presentó al cantante Craig David en Re-Rewind y Fill Me In, quien alcanzó la primera posición en el Reino Unido; Shanks y Bigfoot también alcanzaron el primer puesto con Sweet Like Chocolate, y DJ Luck y MC Neat representaban a la facción más próxima al estilo de los MC del garage con A Little Bit Of Luck. Dreem Teem llevó el sonido de Londres al carnaval de Notting Hill con doce artistas, entre ellos Mystique, Craig David, Elizabeth Troy y Shola Ama. Trevor Nelson, representando a la cara tradicional de soul, solo llevó a dos. Y como para alardear del triunfo de lo nuevo, cuando Dreem Teem tocó la última grabación, Nelson salió y comenzó a llover a cántaros."
  },
+ "En el mundo digital de hoy, todo lo que tiene un estudio puede contenerse en un solo ordenador portátil, salvo la máquina de café y la recepcionista.": {
+  "ch": 17,
+  "page": 739,
+  "sec": "¿Artista?",
+  "para": "En años recientes, los avances tecnológicos han permitido que el DJ pueda llevar cualquier tipo de equipo a la cabina. En el mundo digital de hoy, todo lo que tiene un estudio puede contenerse en un solo ordenador portátil, salvo la máquina de café y la recepcionista. Tocar grabaciones digitales desde un ordenador le permite al DJ desmontar cada canción que toca en sus componentes y mezclar y casar estos elementos en vez de las canciones enteras. Difuminar la frontera entre el DJ y el músico brinda más argumentos a quienes quieren defender el estatus del DJ como artista. Hace unos años emergieron varios DJ —uno de ellos era el giradiscos Pure Science (Phil Sebastian)— que no tocaron nada más que sus propias composiciones, personalizándolas en directo usando una multitud de ritmos, sampleados y equipo digital MIDI. Es exactamente lo que hacen las bandas basadas en el baile como Orbital, Underworld y los Chemical Brothers cuando tocan «en directo». En vez de tener una sola versión finalizada de la canción, se montan en la tarima y tocan con los componentes de la canción, quizá motivando al público con una sola nota rugiente de bajo, luego la deforman progresivamente en una línea de bajo que tocan hasta que el público está listo para el ataque de unos ritmos de percusión. De esta manera, los músicos electrónicos tienen exactamente la misma suerte de diálogo con su público que cualquier músico de rock."
+ },
  "En el proceso crearon un tipo de música en directo completamente nuevo; sin una guitarra a la vista.": {
   "ch": 9,
   "page": 331,
@@ -1193,6 +1235,12 @@ window.ANOCHE_REFS = {
   "page": 282,
   "sec": "Studio 54",
   "para": "El 26 de abril de 1977, aquí fue donde llegó el disco. Le Jardin había señalado el camino y ahora, en la inauguración de Studio 54, las ambiciones sociales del disco lo llevaron directamente a la cima. Cultivando los más altos niveles de glamur, misticismo y hedonismo que cualquier club antes o después, Studio 54 logró que los más famosos del mundo se sintieran completamente cómodos desmelenándose en público. Quizá no fue el origen de la cuerda de terciopelo ni del elitismo que representaba (este honor pertenece al Arthur), pero sin duda los legitimó. Los que estaban ahí dentro sentían que habían pasado una suerte de examen de entrada, así que se generó un ambiente de igualdad y seguridad. Todos los habitantes del club, aunque eran muy identificables, sentían que eran parte de una conspiración para la decadencia. Pero la depravada democracia que regía en sus entrañas dependía de la criba que solo un fascismo inmisericorde en la puerta aseguraba. En este sentido, Studio 54 era conscientemente la antítesis de los clubs de disco originales. No se trataba de bailar en masa. Se trataba de dinero, fama y estatus individual."
+ },
+ "En i-D, Weatherall resume la función del remezclador como «un miembro externo de la banda».": {
+  "ch": 17,
+  "page": 736,
+  "sec": "La remezcla comercial",
+  "para": "Al final de la explosión del acid house, hubo una gran demanda para contratar los servicios de remezcladores británicos como Darren Emerson, Justin Robertson, Terry Farley y Andy Weatherall, debido a su habilidad para empujar las guitarras en la dirección del DJ. El remezclador era una parte intrínseca de la explosión «Madchester» del rock bailable, con Paul Oakenfold y otros que convirtieron combinaciones de ritmos desastrosos en un tesoro de la pista de baile. En i-D, Weatherall resume la función del remezclador como «un miembro externo de la banda». Explicó cómo lo valioso del remezclador es su conocimiento musical: «Uno no sabe tocar un instrumento, uno tiene una gran colección de discos, y eso es lo que uno aporta»."
  },
  "En julio de 1978, una estación de rock clásico que casi nadie escuchaba, WKTU, se «convirtió al disco».": {
   "ch": 7,
@@ -1746,6 +1794,12 @@ window.ANOCHE_REFS = {
   "sec": "Cazatesoros",
   "para": "Percatándose de la fuerza de las escenas soul del norte, Godin, que era londinense, le puso ese nombre. Inspirado por su primer peregrinaje al Twisted Wheel, acuñó el término northern soul en una columna para Blue & Soul de 1970. Godin era copropietario de una tienda de discos en Monmouth Street, en Soho, llamada Soul City. Primero comentó la diferencia de gustos entre el norte y el sur cuando los norteños, que viajaban desde el norte y el oeste para ver el fútbol, preguntaban por un sonido específico. «Me percaté de que la gente que venía del norte no compraba lo que más tarde se conoció como el funk —dice Godin—. Así que comencé a usar el término northern soul, con la idea de que cuando tuviéramos una tienda repleta de personas del norte deberíamos ponerles el northern soul. Así fue como nació el término»."
  },
+ "Inspirados por lo que escucharon, Coldcut se convirtió en el primer grupo británico en lanzar una grabación compuesta de sampleados, Say Kids, What Time Is It?": {
+  "ch": 17,
+  "page": 731,
+  "sec": "Coldcut y M/A/R/R/S",
+  "para": "Inspirados por lo que escucharon, Coldcut se convirtió en el primer grupo británico en lanzar una grabación compuesta de sampleados, Say Kids, What Time Is It? Cuando lanzaron el tema, incrementaron su atractivo al pretender que era una importación estadounidense, tachando para tal fin los números matrices en el centro de los discos."
+ },
  "Irónicamente, la función del DJ existía, en formato autómata, antes de que este cobrara existencia.": {
   "ch": 3,
   "page": 71,
@@ -1787,6 +1841,12 @@ window.ANOCHE_REFS = {
   "page": 505,
   "sec": "Kraftwerk",
   "para": "Kraftwerk producía tecno cuando Detroit aún fabricaba coches. Cuatro alemanes vestidos como robots bibliotecarios no parecía que guardaran escondida en sus pantalones de fiesta una explosión en la pista, pero su influencia en la música bailable es más profunda que la de cualquier otro grupo. Los músicos de formación clásica Ralf Hütter y Florian Schneider se conocieron en la Academia de las Artes de Düsseldorf en 1968. A medida que emergían los primeros instrumentos electrónicos, concibieron una música que daría vida a la cultura de la posguerra alemana en la que se arrancaba virtualmente desde cero."
+ },
+ "La ausencia de rapeo es otro factor clave, pues daba luz verde para crear una grabación a cualquiera que le encantara el hip-hop pero que no pudiera 1) hacer scratching ni 2) rapear.": {
+  "ch": 17,
+  "page": 730,
+  "sec": "Double Dee & Steinski",
+  "para": "Si bien un gran número de fuentes musicales se combinaban en estas grabaciones, era así porque eran el resultado discernible de empalmes de cinta en vez de las destrezas en los platos, lo que las hizo tan gratas para el oído británico. Si bien Grandmaster Flash había asombrado a todos con su habilidad, las grabaciones de Steinski sugerían un método de construcción más sencillo. La ausencia de rapeo es otro factor clave, pues daba luz verde para crear una grabación a cualquiera que le encantara el hip-hop pero que no pudiera 1) hacer scratching ni 2) rapear."
  },
  "La burla terminó en junio de 1976 cuando Salsoul, un sello independiente pequeño, lanzó un disco de 12 pulgadas que era demasiado bueno para ser una artimaña: Ten Percent de Double Exposure.": {
   "ch": 7,
@@ -1920,11 +1980,23 @@ window.ANOCHE_REFS = {
   "sec": "Afrika Bambaataa",
   "para": "La información sobre las grabaciones con buenos breaks se filtraban como los planos de un reactor nuclear, y los discos pronto se vendían al precio del plutonio. Para el verano de 1978, Billboard se percató de este comercio particularmente localizado y publicó una historia sobre cómo Downstairs Records, «el principal minorista de discos», fomentaba una rugiente venta de «descartes oscuros de R&B», y mencionó a Son of Scorpio de Dennis Coffey, Fruit Song de Jeannie Reynolds y Bongo Rock de Incredible Bongo Band. Perfilando a Kool Herc como el instigador del fenómeno, la revista destacó «… que los jóvenes DJ negros del Bronx… están comprando grabaciones solo para tocar treinta segundos más o menos de los breaks rítmicos que contiene cada disco»."
  },
+ "La integridad artística, en la pista de baile, es opcional.": {
+  "ch": 17,
+  "page": 716,
+  "sec": "DJ/productor/remezclador",
+  "para": "La mayor ventaja de los DJ sobre los músicos es la claridad de sus objetivos. La tarea de estos es producir un disco que ponga la gente a bailar. Quizá quieran hacerte sentir feliz y único, pero al final les basta con ser eficientes. La integridad artística, en la pista de baile, es opcional. Las primeras pistas de house eran poco más que cajas de ritmo grabadas en un vinilo, y con eso tumbaron el techo. Por supuesto, cuando la música comenzó a crearse de esta manera, los músicos la denunciaron por falta de musicalidad y de creatividad. A los DJ no les importaba porque sus bailarines se volvían locos."
+ },
  "La invención del acid house es un ejemplo perfecto de cómo se puede pervertir creativamente una tecnología disponible en nombre de la música.": {
   "ch": 12,
   "page": 495,
   "sec": "El acid house",
   "para": "La invención del acid house es un ejemplo perfecto de cómo se puede pervertir creativamente una tecnología disponible en nombre de la música. La máquina de bajo TB 303 fue diseñada para proveer un acompañamiento de bajo automático para guitarristas solistas. Para estos propósitos, era prácticamente inútil. Cuando Pierre y sus amigos Herb Jackson y Earl Spanky Smith comenzaron a jugar con los controles, sin embargo, al final lograron encontrar algunos sonidos notables, perfectos para las pistas de baile iluminadas por las drogas del Music Box de Ron Hardy."
+ },
+ "La línea entre los DJ y los artistas, remezcladores y productores se vuelve cada vez más borrosa».": {
+  "ch": 17,
+  "page": 725,
+  "sec": "La remezcla y la remodelación",
+  "para": "El auge del DJ como artista quedó ratificado en 1993, cuando se lanzó el elepé de remezclas de un DJ con toda la fanfarria de un artista principal, y con la intención, después de la transformación del mundo del baile británico, de capturar el mercado del pop. Sasha (Alexander Coe), el DJ que ha llegado a la fama como residente del Shelleys, en Stoke-on-Tent, lanzó un álbum compuesto únicamente de remezclas («Sasha: The Remixes»). No había canciones compuestas para la sesión en el estudio. No fue presentado como un productor que, incidentalmente, también era DJ. Eran canciones escritas y grabadas originalmente por otros artistas, muchos de ellos artistas muy reconocidos, con mucho éxito. Lo único que había hecho Sasha fue remezclar los temas. A pesar de esto, estas reconstrucciones estaban en su disco, con su nombre en el título, y se consideraban piezas de su música. Pero, más importante aún, a diferencia de dos o tres elepés de remezclas que lo antecedieron, «Sasha: The Remixes» no fue una producción pequeña apta solo para el consumo de los expertos y otros DJ. Fue un lanzamiento a lo grande. «Sasha es la viva evidencia de una realidad indiscutible: los DJ, motores principales de la música bailable, están en la posición ideal para elevar la música a otros niveles como productores —declaró Nick Gordon Brown en las notas de la carátula—. La línea entre los DJ y los artistas, remezcladores y productores se vuelve cada vez más borrosa»."
  },
  "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual.": {
   "ch": 5,
@@ -2010,6 +2082,18 @@ window.ANOCHE_REFS = {
   "sec": "George Powers en el Crackers",
   "para": "Por otro lado, si uno era blanco, había encontrado el lugar con música afroamericana y personas afrodescendientes que no te hacía sentir como si estuvieras invadiendo el espacio. Para muchos fue el precursor de una sociedad daltónica. «Lo que era tan grande era ir a un lugar que era pura mezcla —opina en jefe del drum and bass, Fabio—. En las fiestas de reggae no te encontrabas con personas blancas. Pero este lugar era cincuenta-cincuenta. Fue la primera vez que veía algo así. La primera vez que vi que el color en realidad no importaba»."
  },
+ "La remezcla eclipsó completamente a la original y alcanzó el octavo puesto (Reino Unido).": {
+  "ch": 17,
+  "page": 741,
+  "sec": "¿Artista?",
+  "para": "Como The Manual se escribió en 1988, la revolución que predijo en cuanto a la manera en que se creará la música pop libró su batalla y venció. El pop mundial se ha vuelto más orientado al baile que nunca, y la supremacía de los DJ está asegurada. En 1992, en pleno ascenso al panteón, Paul Oakenfold fue invitado para remezclar un tema de los gigantes del rock, U2. Manteniendo gran parte de la canción, pero rociándola con un poco de magia de la pista de baile, la remezcla de Oakenfold fue un éxito enorme en los clubs. La remezcla acabó en las listas unas tres semanas después de que el lanzamiento hubiera caído de su mejor posición, la número doce (Reino Unido). La remezcla eclipsó completamente a la original y alcanzó el octavo puesto (Reino Unido)."
+ },
+ "La remezcla, tal como la conocemos hoy, se llevó a cabo por primera vez en Jamaica en los sesenta": {
+  "ch": 17,
+  "page": 719,
+  "sec": "La evolución de la remezcla",
+  "para": "La remezcla, tal como la conocemos hoy, se llevó a cabo por primera vez en Jamaica en los sesenta, cuando los DJ/productores como Bunny Lee, King Tubby y Lee Perry primero comenzaron a utilizar una mesa de mezclas como un instrumento. Llevando las grabaciones en grabadoras de dos y cuatro pistas al límite de sus posibilidades, estos pioneros inmortalizaron canciones en versiones únicas o en acetatos, jugando con los agudos y los bajos para que fueran más efectivas en los sistemas de sonido al aire libre. El otro aspecto atractivo de estas remezclas era su exclusividad: ninguno de los demás sistemas de sonido podía tocarlas."
+ },
  "La resistencia en el Reino Unido suponía que el house, y no el disco, fue el que finalmente hizo obligatoria la práctica de mezclar.": {
   "ch": 15,
   "page": 597,
@@ -2045,6 +2129,12 @@ window.ANOCHE_REFS = {
   "page": 235,
   "sec": "Nicky Siano en el Gallery",
   "para": "Larry Levan llamaba al Gallery «su misa de los sábados». Casey compartía este entusiasmo."
+ },
+ "Las cajas de ritmos y las sampleadoras manejan la música como lo hace un DJ: tocan por encima de ella o la samplean y la repiten.": {
+  "ch": 17,
+  "page": 716,
+  "sec": "DJ/productor/remezclador",
+  "para": "El house y el hip-hop, ambos emergieron como la respuesta de los DJ a las exigencias de sus respectivas pistas de baile: se basaron en el conocimiento peculiar de un DJ en cuanto a la música. Y fueron revoluciones conceptuales. El hip-hop albergó la idea del sampleado, de robar en vez de emular, de crear música con parches de una multitud de fuentes. El house demostró que la música creada con cajas de ritmo y sintetizadores podía ser sexy, tener funk y ser estrictamente tan bailable como la creada con madera, metales y cuerdas. Lo que dio alas a todo esto fue el nuevo equipo electrónico que lo facilitaba todo. Por unos cientos de dólares, uno podía comprar un universo musical nuevo, empaquetado nítidamente en una caja plateada con Roland, Casio, Korg o Akai estampado al lado. Y estas máquinas revolucionarias eran pan comido para el DJ. Las cajas de ritmos y las sampleadoras manejan la música como lo hace un DJ: tocan por encima de ella o la samplean y la repiten."
  },
  "Las grabaciones de Shut Up And Dance cobraban fuerza por la posición poco habitual que disfrutaban: estaban en la escena rave, pero no provenían de allí.": {
   "ch": 16,
@@ -2208,6 +2298,12 @@ window.ANOCHE_REFS = {
   "sec": "El bleep and bass",
   "para": "Cuando Orbital creó Chime y esta se coló entre las mejores veinte en las listas de 1990, la era del bleep and bass había encontrado su himno. Y como las decenas de grabaciones que aparecían cada semana, Chime era una producción casera. La revolución del estudio casero había desencadenado una inundación musical, sobre todo porque los productores ya no dependían de los sellos de renombre. O fundaban sus propios sellos o renunciaban a la idea del todo y solo pagaban para imprimir sus canciones con solo el nombre y el título, cargando los discos para venderlos en las tiendas. Los DJ siempre se habían emocionado por las importaciones, pero ahora tenían una forma de grabación novedosa y vanguardista: el sello blanco."
  },
+ "Los DJ usaban estas mezclas de quince minutos de pistas populares de disco como calentamiento o para aprovechar e ir al baño.": {
+  "ch": 17,
+  "page": 727,
+  "sec": "La revolución será sintetizada",
+  "para": "Las pistas de Stars On 45, en realidad, se inspiraban en una serie de discos pirateados sumamente asequibles, llamada «Bits and Pieces» (así como en otras más antiguas con el nombre Hollywood). Los DJ usaban estas mezclas de quince minutos de pistas populares de disco como calentamiento o para aprovechar e ir al baño. Después de que esta serie llevara la idea a las listas en 1983, el DJ Tony Prince de Radio Luxembourg la usó como la base para su servicio de remezclas DMC (Club de Mezclas Disco, por sus siglas en inglés). Los miembros que pagaban recibían mezclas exclusivas de las canciones más recientes hechas solo por DJ, y como eran para «uso exclusivamente promocional», Prince no tenía que pagar derechos para usarlas. Varios servicios similares emergieron en Estados Unidos; el más famoso era Disconet, que desde 1977 contrataba DJ, entre ellos Bobby Guttadaro y Bobby Vitteriti, para reconstruir y combinar éxitos de la pista de baile para sus suscriptores."
+ },
  "Los Dead lograron con el rock’n’roll lo que el DJ de discoteca lograría más tarde con la música dance: la retorcían al filo de lo imposible.": {
   "ch": 3,
   "page": 111,
@@ -2370,6 +2466,12 @@ window.ANOCHE_REFS = {
   "sec": "El Paradise Garage",
   "para": "George también recuerda cuán democrático era. «Recuerdo estar ahí una noche y ver a Diana Ross pasearse con un abrigo de piel, dejarlo caer al suelo, bailar un rato e irse. Me quedé… todo era cuestión de música»."
  },
+ "Me refiero a que ni siquiera debemos llamarlo “remezclar” de ahora en adelante. Es producir».": {
+  "ch": 17,
+  "page": 722,
+  "sec": "La evolución de la remezcla",
+  "para": "Finalmente, a los remezcladores se les dio vía libre para cambiar cualquier cosa de la canción original y añadir lo que quisieran de otras fuentes. En algunos casos no quedaba nada de la canción original salvo quizá un pedacito de voz o de instrumentación. Aquí, el remezclador construía una canción completamente nueva e incorporaba algunos aullidos del cantante, o un par de toques de la guitarra. Piensa en la remezcla famosa de Professional Widow de Tori Amos por parte de Armand Van Helden. En términos estrictos, el remezclador ahora crea la producción completa (aunque no cobra regalías ni tarifas de publicidad por ello porque, contractualmente, casi siempre se trata de una remezcla), y esa es la forma más común de remezcla en nuestros días. «Hoy es una dimensión desconocida —dice Morales—. Es otra cosa completamente. Me refiero a que ni siquiera debemos llamarlo “remezclar” de ahora en adelante. Es producir»."
+ },
  "Me sentí tan avergonzado que tuve que irme. Mi sistema no le llegaba ni a la suela de los zapatos».": {
   "ch": 10,
   "page": 375,
@@ -2508,6 +2610,12 @@ window.ANOCHE_REFS = {
   "sec": "Kraftwerk",
   "para": "«Cuando comenzamos fue un shock, se hizo el silencio. ¿De dónde venimos? —le espetó Ralf Hütter a Jon Savage para The Village Voice—. No teníamos figuras paternas, no teníamos una tradición continua de entretenimiento. Durante los cincuenta y sesenta, todo se americanizó. Éramos parte del movimiento del 68, donde de repente parecían abrirse muchas posibilidades, y fue entonces cuando comenzamos a trabajar en la creación de un sonido alemán»."
  },
+ "No tiene sentido ir en busca de la originalidad».": {
+  "ch": 17,
+  "page": 735,
+  "sec": "KLF y el nuevo punk",
+  "para": "Tras su éxito en las listas, Drummond y Cauty escribieron un libro titulado The Manual (How To Have A Number One The Easy One), que se puede traducir como «El manual: Cómo crear un éxito número uno por la vía fácil». El texto describe exactamente lo que dice el título, en la medida en que ofrece un conocimiento incisivamente entretenido sobre el funcionamiento de la industria musical. Por lo menos un grupo siguió las instrucciones al pie de la letra y, en efecto, logró producir un éxito. The Manual recuerda que el que tiene talento toma prestado, pero el genio lo roba: «Será un trabajo de construcción, de juntar cosas. Tendrás que activar el Frankestein que hay en ti para que funcione. Tienes que desempolvar tus instintos carroñeros. Si piensas que esto suena como una receta para un monstruo horrendo, te aseguramos que toda música solo puede ser la suma o la parte de un todo de lo que ya se ha hecho antes. Cada canción número uno que se haya escrito está compuesta únicamente de pedazos de otras canciones. No hay ningún acorde perdido. Tampoco cambio alguno que no se haya probado antes. No hay notas que sobran en la escala o notas escondidas en el compás. No tiene sentido ir en busca de la originalidad»."
+ },
  "Nos miraban como si dijeran: “¡Malditos cabrones sureños apegados al soul!”».": {
   "ch": 15,
   "page": 628,
@@ -2609,6 +2717,12 @@ window.ANOCHE_REFS = {
   "page": 152,
   "sec": "La pugna por el alma del soul",
   "para": "A medida que el Mecca evolucionaba inevitablemente, mezclando cualquier cosa de Philly International con las propuestas de Funkadelic, Wigan reaccionó violentamente con una verdadera pesadilla de stompers que provenían del pop. Ponían Theme From Joe 90, así como Hawaii 5-0 de los Ventures. Un DJ, Richard Searling, hizo todo lo que pudo para conservar la dignidad de las selecciones musicales, pero no era suficiente. Parecía como si el northern soul se parodiara a sí mismo."
+ },
+ "Pasé una semana en la tierra de Michael Jackson».": {
+  "ch": 17,
+  "page": 738,
+  "sec": "La remezcla comercial",
+  "para": "En 1995 creó lo que fue entonces la remezcla suprema: Scream, el primer sencillo del disco nuevo de Michael Jackson. Fue un trabajo de perfil tan alto que, en vez de enviar a Morales las cintas maestras para que trabajara con ellas (como era la convención), lo montaron en un avión camino del estudio de Jackson. «No me querían dar la grabación maestra. Me enviaron a Los Ángeles en un avión; trajeron a todo el mundo, el dinero no era un problema. Pasé una semana en la tierra de Michael Jackson». Se rumorea que le pagaron 80 000 dólares por tres mezclas. Esta suma incluso fue superada con el tiempo. La década siguiente, el magnate del hip-hop supercomercial Sean Diddy Combs supuestamente exigía alrededor de 100 000 dólares para estampar su nombre en una remezcla."
  },
  "Patrick Cowley era un hombre blanco intratable y completamente liberado que vivía, como sugieren sus canciones, para el sexo y la música.": {
   "ch": 8,
@@ -2790,6 +2904,12 @@ window.ANOCHE_REFS = {
   "sec": "Explotación",
   "para": "Era una práctica común comprar temas directamente con un contrato mínimo sin mencionar regalías ni publicación. Los jefes de los sellos exhortaban a los productores para que se asesoraran y recomendaban a un abogado, pero no les explicaban que se trataba de su propio abogado. Pregunta a cualquiera de los pioneros del house si recibieron en algún momento un cheque por regalías, y lo más seguro es que se meen de risa. Los jóvenes eran demasiado ingenuos como para protestar, pues, en efecto, estaban demasiado contentos con recibir un pago único de unos cientos a unos miles de dólares por un tema, sin imaginar que una vez el ingreso por los derechos comenzara a correr, era probable que el tema ahora valiera unas cincuenta veces su valor original. Para ser justos, aun cuando se enteraron de cómo se supone que funcionaba la industria, muchos siguieron vendiendo música a Trax y a DJ International contentos por recibir dinero rápido por un tema rápido. «Éramos jóvenes y estos tipos controlaban las chequeras», cuenta Chip E suspirando."
  },
+ "Pump Up The Volume se disparó a la primera posición de las listas británicas en septiembre de 1987.": {
+  "ch": 17,
+  "page": 731,
+  "sec": "Coldcut y M/A/R/R/S",
+  "para": "Otro DJ de Londres que no pudo esperar para probar suerte con la música nueva fue Dave Dorrell. En la primavera de 1987, MTV se le acercó con el encargo de crear algo de música para una serie de canciones publicitarias en vídeo con motivo del lanzamiento del canal en Europa. Se juntó con Martin Young para formar la banda Colourbox, quien tenía la experiencia necesaria en el estudio, y se dispusieron, como dice él mismo, «a poner la mayor cantidad de ediciones posibles dentro de quince segundos». La música resultante —un intenso montaje de sonidos cortados— adornó la pantalla durante unos meses, pero también despertó el apetito para más producciones. Así, como parte de un proyecto que involucraba a Colourbox y otra banda, AR Kane, y con la adición de CJ Mackintosh como su DJ de scratching, Dorrell y Young formaron M/A/R/R/S. Con la influencia admitida de Say Kids… de Coldcut y las grabaciones de Steinski, reunieron todas las canciones abiertas que pudieron y crearon Pump Up The Volume. Este collage era una ráfaga de cortes de voz que incluían al cantante israelí Ofra Haza, la Criminal Element Orchestra cantando «put he needle to the record», Public Enemy gritando «you’re gonna git yours» y algunos gruñidos de James Brown, todo enlazado por un ritmo de baile insistente. Pump Up The Volume se disparó a la primera posición de las listas británicas en septiembre de 1987."
+ },
  "Puse D Mob y había tres mil personas con los brazos arriba».": {
   "ch": 14,
   "page": 576,
@@ -2867,6 +2987,12 @@ window.ANOCHE_REFS = {
   "page": 644,
   "sec": "Future y Spectrum",
   "para": "La vieja guardia, aún obsesionada con la moda, no lo entendió. Mark Moore llevó al promotor Phillip Sallon a Future y le dijo: «Este es el futuro, literalmente el futuro. Es lo próximo que va a ocurrir». Sallon lo reprendió: «No seas tonto; son solo chicos de los suburbios»."
+ },
+ "Se convirtió en productor, y dado que había inventado nuevas formas de concebir y construir la música, los DJ pronto eclipsaron a los nostálgicos luditas de la competencia.": {
+  "ch": 17,
+  "page": 713,
+  "sec": "EVEN BETTER THAN THE REAL THING (INCLUSO MEJOR QUE LO REAL)",
+  "para": "¿Qué más? Sin descansar un solo minuto después de cuatro frenéticas décadas creando estilos musicales nuevos y radicales, el DJ puso la mira en su posición actual como fuerza creativa más poderosa de la música popular. Se convirtió en productor, y dado que había inventado nuevas formas de concebir y construir la música, los DJ pronto eclipsaron a los nostálgicos luditas de la competencia. Los nuevos géneros que crearon los DJ partían de la premisa de que se podía crear música con personas que no son músicos. Y, pese a ello, los DJ se encontraban muy por delante de los demás."
  },
  "Se dice que el rock’n’roll nació la noche del 21 de marzo de 1952": {
   "ch": 2,
@@ -3018,6 +3144,12 @@ window.ANOCHE_REFS = {
   "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
   "para": "Si eres británico, hay una línea de bajo que es parte de ti. Es el ritmo fuerte y subyacente que levanta las calles durante esas preciosas semanas de verano, el pulso sobrecargado que sirve de banda sonora para la liberación del país. El resto del año, regresa a las entrañas de la tierra y uno lo puede escuchar filtrándose desde cárceles y radios piratas, desde sótanos y coches oscuros. Podría ser el lejano eco rompetechos de una fiesta okupa en Hackney, o la resaca de una noche de drum and bass, o el chasquido que lame las suelas de un MC de grime. El bajo británico es la nota que te hace moverte en el Rampage en Carnival, en Orbital en Glastonbury, o que te pone los párpados pesados en el Jah Shaka, en alguna sala comunitaria lejana."
  },
+ "Si nos complace premiar a un chef o a un director de orquesta o a un productor de discos con la categoría de artista, deberíamos hacer otro tanto con el DJ también.": {
+  "ch": 17,
+  "page": 739,
+  "sec": "¿Artista?",
+  "para": "Se puede argumentar que un DJ no tiene que crear grabaciones para ser un artista, pues los mejores pueden expresar su arte en las actuaciones de clubs. Disfrutar de una inspiradora noche de música recopilada de cientos de fuentes diferentes, formadas tras años de coleccionismo —una secuencia de grabaciones que nunca se había imaginado antes y que nunca se repetirá—, es escuchar nada menos que a un artista en plena faena. Los infundados prejuicios que ponen en tela de juicio el estatus de los DJ tiene su origen en la evidente ignorancia de lo que realmente hacen los DJ. Si nos complace premiar a un chef o a un director de orquesta o a un productor de discos con la categoría de artista, deberíamos hacer otro tanto con el DJ también."
+ },
  "Si para preparar el tejido social de Nueva York para la llegada del disco necesitó de muchos factores, para preparar la pista de baile bastó con un disc jockey.": {
   "ch": 6,
   "page": 198,
@@ -3041,6 +3173,12 @@ window.ANOCHE_REFS = {
   "page": 507,
   "sec": "Kraftwerk",
   "para": "Aunque los instrumentos electrónicos aún eran muy caros, emergió un puñado de productores con la determinación de modelar su carrera a imagen y semejanza de Kraftwerk. Los contemporáneos de la banda incluían a Jean-Michel Jarre, Giorgio Moroder y Evangelos Odysseas Papathanassiou (Vangelis). Para finales de los setenta, los sintetizadores eran cajas en vez de salones, y los grupos electrónicos se infiltraban en el terreno del pop. Human League, Gary Numan, Ultravox, Devo, Yello: al final de la revolución del punk, había un flujo constante de grupos sintetizadores. Si uno era un adolescente afrodescendiente buscando apartarse de la cultura que Estados Unidos esperaba que uno disfrutara, aquí estaba: código Morse desde Marte."
+ },
+ "Si uno sabía cómo usar una cinta de bobina abierta, no era muy difícil dar el salto a empalmar con ellas».": {
+  "ch": 17,
+  "page": 720,
+  "sec": "La evolución de la remezcla",
+  "para": "A medida que la popularidad del disco aumentaba, muchos de los DJ del género disfrutaron de carreras como remezcladores comerciales, y, por lo menos en Nueva York, se aceptó este aspecto rápidamente como parte de la profesión: una manera de que el DJ alimentara su pista de baile, para que su actuación llevara su sello, y al convertir canciones no muy atractivas en piezas adecuadas para la pista, aumentaba su cartera de grabaciones. Danny Krivit, un DJ famoso por sus reediciones, recuerda el cambio: «Parecía que todos los DJ que eran alguien lo hacían. Si uno sabía cómo usar una cinta de bobina abierta, no era muy difícil dar el salto a empalmar con ellas»."
  },
  "Simplemente, el disco sufrió mejoras cosméticas, cambió de nombre varias veces y dio instrucciones para que le enviaran el correo a un vecindario menos glamuroso.": {
   "ch": 11,
@@ -3077,6 +3215,12 @@ window.ANOCHE_REFS = {
   "page": 339,
   "sec": "Kool Herc",
   "para": "Los otros dos pinchadiscos principales en el momento de la fundación del hip-hop también tenían raíces caribeñas, pero ambos niegan que la cultura del dub jamaicano los influyera directamente. Solo Herc representa un vínculo directo. Nueva York, sobre todo Brooklyn, disfrutaba de grandes sistemas de sonido móviles al estilo jamaicano antes de que Herc lanzara sus fiestas, pero él sin duda trajo consigo varios elementos jamaicanos que hay que considerar. En primer lugar, el estilo de rima sumamente influyente que él y sus MC usaban se basaba claramente en el toaster jamaicano, en vez de los dúos elaborados de los DJ de discoteca que rapeaban. Herc usaba una cámara de ecos, otro elemento jamaicano. Además, estaba listo, de una forma que recordaba a los seleccionadores del dub, para tratar las grabaciones no como canciones separadas, sino como herramientas para componer. Y, por su puesto, está el predominio del bajo y el volumen."
+ },
+ "Solo la llegada del acid house permitió que el conocimiento enciclopédico de la música bailable por fin se transformara en creatividad.": {
+  "ch": 17,
+  "page": 726,
+  "sec": "La revolución será sintetizada",
+  "para": "Desde los sesenta, Gran Bretaña cuenta con la escena musical más extrañamente conocedora, nutrida por coleccionistas fanáticos, una industria pop boyante, las listas más dinámicas y diversas y decenas de revistas musicales, muchas de ellas semanales. Pero, pese a todo ello, en materia de música bailable, el Reino Unido pasó un cuarto de siglo a merced de Estados Unidos. Solo la llegada del acid house permitió que el conocimiento enciclopédico de la música bailable por fin se transformara en creatividad."
  },
  "Solíamos vender unas sesenta copias del disco entre las diez y las once de la mañana. ¡Sesenta copias!": {
   "ch": 11,
@@ -3252,6 +3396,12 @@ window.ANOCHE_REFS = {
   "sec": "Treinta años de hip-hop",
   "para": "Todo esto con tan solo dos platos y una pila de discos viejos de tus padres."
  },
+ "Todos estos pioneros ayudaron a popularizar el collage como un método para crear música, además de demostrar que la versión original de una grabación no tiene por qué ser sacrosanta.": {
+  "ch": 17,
+  "page": 720,
+  "sec": "La evolución de la remezcla",
+  "para": "Cuando llegó el hip-hop, los DJ con experiencia en la radio y en publicidad se dieron cuenta de que es más fácil cortar y empalmar cintas (o incluso tener un botón de pausa) que aprender las destrezas imponentes de Grandmaster Flash o Jazzy Jay. La investigación épica de Neil McMillan, Cut Up Or Shut Up, publicada parcialmente en la revista Grand Slam, ofrece detalles de pioneros como Chep Nuñez (el «latino más malo de Manhattan») quien trabajaba con Mantronix, así como los Latin Rascals (Albert Cabrera y Tony Moran, quien creó una serie de grabaciones cortadas muy influyentes), y también con los mejores cirujanos del sonido, Double Dee & Steinski. Todos estos pioneros ayudaron a popularizar el collage como un método para crear música, además de demostrar que la versión original de una grabación no tiene por qué ser sacrosanta."
+ },
  "Todos pensaban que era una forma artística moribunda».": {
   "ch": 10,
   "page": 393,
@@ -3372,6 +3522,12 @@ window.ANOCHE_REFS = {
   "sec": "Duelos",
   "para": "»No podíamos ni escuchar nuestra propia mierda. ¡Uf! Comenzamos a buscar botones, a subirlo todo, los altavoces empezaron a fallar. Y entonces él pone The Mexican. ¿Alguna vez has escuchado The Mexican de Babe Ruth? Comienza a volumen bien bajo: bam-pum-pum. Unos dieciséis compases después, simplemente nos rendimos y apagamos los putos amplificadores. Apagamos todo. Y todavía no había comenzado la percusión. Cuando entró la batería, todas las paredes… como un ¡BRUUUUUM! Se acabó»."
  },
+ "Walter Gibbons fue probablemente el primero en convertir esta técnica en una parte importante de su set.": {
+  "ch": 17,
+  "page": 719,
+  "sec": "La evolución de la remezcla",
+  "para": "Un objetivo similar estaba en juego en el Nueva York de mediados de los setenta, cuando los DJ de disco y de hip-hop inventaron la técnica de cortar rápidamente de un disco a otro para extender los mejores pasajes. Walter Gibbons fue probablemente el primero en convertir esta técnica en una parte importante de su set. Gibbons solía crear mezclas de dos copias de la misma grabación y en torno a 1974 comenzó a usar cintas de bobina abierta para recrear estos experimentos, y solía imprimir la versión de la cinta en un disco de acetato. Mientras la mayoría de sus esfuerzos se concentraban en convertir breaks cortos en pasajes de percusión extensos, otros combinaban varias canciones para crear algo nuevo. El DJ/productor escocés Colin Gate, quien había visto la colección de Gibbons, se percató de que una canción fusiona la percusión de Fatback Band con algunos fraseos de los vientos de James Brown y algunas voces tomadas de otra fuente."
+ },
  "Y así nació la escena dominical.": {
   "ch": 16,
   "page": 702,
@@ -3468,6 +3624,12 @@ window.ANOCHE_REFS = {
   "sec": "El tecno definido",
   "para": "«La otra cosa en que la gente se equivocó completamente era esta imagen del tecno como una nueva ola de música bailable producida en megaestudios. Lo cierto es que se creaba con tecnología doméstica», añade McCready, al señalar que Strings Of Life fue masterizada de un casete. «Había muchas paradojas en ese lugar»."
  },
+ "construir o reconstruir una grabación de baile es muy parecido a una versión comprimida de disyoquear.": {
+  "ch": 17,
+  "page": 717,
+  "sec": "DJ/productor/remezclador",
+  "para": "Hoy lo que hace un productor en el estudio para crear una grabación de baile dista poco, en principio, de lo que hace un DJ en un club. Cuando un DJ se presenta, solapa capas de grabaciones una encima de la otra, tejiendo y empalmando distintos elementos que crean una suite original de música. De forma similar, crear o remezclar una grabación de baile supone jugar con pedazos de sonido existente —patrones de percusión y sampleados— y combinarlos para crear algo nuevo. Toma un break de batería de un tema viejo de funk, añade la línea de bajo de otro, ponlos en repetición constante, añade algo de melodía con un solo dedo en el teclado y listo. En la práctica, puede haber niveles fenomenales de sutileza y complejidad, pero en lo más básico, construir o reconstruir una grabación de baile es muy parecido a una versión comprimida de disyoquear."
+ },
  "el complejo turístico ganó una reputación como la versión Lonely Planet de Ibiza.": {
   "ch": 13,
   "page": 549,
@@ -3485,6 +3647,12 @@ window.ANOCHE_REFS = {
   "page": 689,
   "sec": "El jungle",
   "para": "El breakbeat acelerado fue la clave de esta explosión. Era un estilo fácil de trabajar, toda vez que los ritmos sampleados y en bucles son más manejables que programar una caja de ritmos. De igual modo a como el hip-hop se montó en la ola de los ritmos primarios de Funky Drummer, el jungle reciclaba sin parar el break de Amen Brother de los Winstons. Para los productores que se criaron con el hip-hop y el reggae, usar los breakbeats añadía un elemento funk, cierta dureza, una «negrura» al metrónomo del house y del tecno. Y los breakbeats al tempo del house extirparon el hip-hop de Estados Unidos y lo moldearon con un tempo que llevaba denominación de origen («hecho en Gran Bretaña»). Olvídate de intentar rapear con el acento equivocado, había un estilo realmente autóctono en el estilo del sistema de sonido, el bajo británico había cobrado fuerza. Como dijo Carl Cox sobre la avalancha de grabaciones hardcore en 1991 y 1992: «Era fantástico ver que teníamos nuestra propia dinámica funcionando aquí mismo, que no necesitábamos que Todd Terry creara discos para nosotros. Comenzamos a crear nuestro propio imperio con nuestra propia música, nuestros propios sellos y también con nuestra propia cultura»."
+ },
+ "el rock adoptó una postura tan fudamentalista en contra de la tecnología que el baile lo pulverizó en términos creativos durante muchos años.": {
+  "ch": 17,
+  "page": 741,
+  "sec": "¿Artista?",
+  "para": "Adviértase aquí que mientras los DJ mostraban sus nuevas destrezas como productores, el rock adoptó una postura tan fudamentalista en contra de la tecnología que el baile lo pulverizó en términos creativos durante muchos años. Los DJ se apoderaron de los sampleadores, los secuenciadores y los sintetizadores porque ya estaban familiarizados con las formas que aportaban a la música (y porque no sabían tocar instrumentos «reales»), mientras eran criticados con dureza por los músicos inclinados al rock (que sí podían). Solo cuando los artistas comenzaron a adoptar estos desarrollos derivados del baile, el rock comenzó a asumir un cariz más innovador."
  },
  "el sonido «hoover belga», un dron al acecho como una bomba de neutrones persiguiendo un autobús.": {
   "ch": 13,
@@ -3648,11 +3816,23 @@ window.ANOCHE_REFS = {
   "sec": "Explotación",
   "para": "Quizá de forma aún más dañina, sin embargo, Trax y DJ International al parecer invertieron muy poca energía en desarrollar las carreras de esos jóvenes artistas y se concentraron, en cambio, en vender rápido contratos de derechos en el extranjero, cuyas ganancias se mantuvieron en secreto para la mayoría de los productores. Se suele argumentar que ahuyentaron el interés por parte de las majors en la música de Chicago. «Agarraban el dinero y huían con él —insiste Farley—, en vez de invertir en la carrera artística de estos jóvenes valores»."
  },
+ "«Ahora entiendo a los discos porque creo discos —insiste Morales—.": {
+  "ch": 17,
+  "page": 740,
+  "sec": "¿Artista?",
+  "para": "Aun sin haberse asegurado su condición de artista, hace tiempo que el DJ dejó de ser visto, por parte de las fuerzas de la reacción, como «alguien que solo pone discos», gracias, en buena medida, al mérito de haber sabido construirse su propia carrera en el estudio de grabación. Hoy, a causa de esta suerte de epifanía, el DJ es el rey de reyes de la música bailable. Los DJ que no producen su propia música son raros, así como lo son los productores que no comenzaron pinchando discos. Las dos artes están vinculadas indisolublemente, pues una inspira a la otra. «Ahora entiendo a los discos porque creo discos —insiste Morales—. Y eso solo hace que uno sea mejor DJ porque uno entiende mejor la música»."
+ },
  "«Al escuchar esas mezclas cósmicas, uno piensa: “¿Reglas? Pues no hay reglas”.": {
   "ch": 14,
   "page": 586,
   "sec": "Afrocósmicos italianos",
   "para": "La actitud balear abre los oídos de un DJ: a otros géneros, a otras épocas, a otros países. Para el distribuidor de discos Mark Seven, el espíritu balear provocaba lo mejor del arte del DJ. «Significaba que los DJ no se limitaban solo a ir a la tienda de discos y comprar lo que salía esa semana. La gente en realidad se esforzaba por añadir algo nuevo al ruedo que fuera suyo: un mensaje desde su corazón». La música afrocósmica ejemplificaba este concepto. Seven apostilla: «Al escuchar esas mezclas cósmicas, uno piensa: “¿Reglas? Pues no hay reglas”. Lo que creas que te puede funcionar, funcionará»."
+ },
+ "«Al principio, uno remezclaba la pista original.": {
+  "ch": 17,
+  "page": 721,
+  "sec": "La evolución de la remezcla",
+  "para": "David Morales, uno de los mejores remezcladores del mundo, explica cómo evolucionó la remezcla. «Al principio, uno remezclaba la pista original. Uno usaba lo que había allí para crear una introducción, un cuerpo, un break y una coda, el final de la canción». Pero a los remezcladores pronto se les permitió añadir algunos elementos nuevos. «Podías cambiar la línea de bajo, añadir percusión, o añadías otras cosas, pero todavía tenías la canción. El artista quedaba intacto»."
  },
  "«Alan Freed era amable con demasiadas personas afrodescendientes, así que acabaron con él.": {
   "ch": 2,
@@ -3677,6 +3857,12 @@ window.ANOCHE_REFS = {
   "page": 667,
   "sec": "La ruta Jamaica–Reino Unido",
   "para": "«Abandonamos la escena radical cuando se convirtió en lover’s rock, cuando los británicos comenzaron a crear su propia música —dice Jazzie B de Soul II Soul—. Había chicas en esas fiestas, cuando nunca había chicas en estas cosas». Las únicas mujeres de la escena reggae tradicional eran duras como piedras. «Te topabas con ellas y no era inusual que te apuñalaran a la mínima. Y te cortaban ellas, no sus novios». Pero el lover’s rock, repleto de voces de niñas, lo cambió todo drásticamente. «Aportaba esa calma y afabilidad a la música de nuevo. Además, era un estilo de música inglés, y los chicos fieles al reggae tradicional no podían soportarlo, porque no era jamaicano»."
+ },
+ "«Aquello de “hazlo tú mismo”, eso fue muy importante —dice Matt Black—.": {
+  "ch": 17,
+  "page": 733,
+  "sec": "KLF y el nuevo punk",
+  "para": "Otro motor intenso fue el punk, porque su ideología de «hazlo tú mismo» todavía resonaba y por su aproximación guerrillera en abierta contravención de los intereses de la industria musical. «Aquello de “hazlo tú mismo”, eso fue muy importante —dice Matt Black—. A finales de los setenta, la idea de que uno realmente podía grabar un disco por cuenta propia era muy sugerente. Lo hice con mi pequeña banda en la universidad. Estoy seguro de que cientos más lo hicieron». El punk engendró decenas de sellos pequeños independientes en la medida en que la gente no tenía que vender el alma a un sello principal para que le lanzaran el disco. Estas empresas independientes aportaron el modelo que ahora siguen cientos de sellos de baile."
  },
  "«Bangsy sacó Iron Leg de Mickey & The Soul Generation, puso el disco y dijo: “¡A la mierda! ¡Si eso es acid house, esto es acid jazz!”».": {
   "ch": 15,
@@ -3738,6 +3924,12 @@ window.ANOCHE_REFS = {
   "sec": "Bélgica",
   "para": "Renaat era en muchos sentidos un proselitista y concebía el tecno como la anunciación de un nuevo internacionalismo. «Como no hay palabras, libera la imaginación —le dijo a Simon Reynolds en Details—. Uno se puede escapar de cualquier cosa». Este heavy metal electrónico se antojaría irresistible a los aficionados a los clubs por todo el planeta, e igualmente irresistible para los productores de dormitorio, todos ávidos por introducir un sonido nuevo al fondo genético sonoro. Nos adentrábamos en el vértice giratorio del hardcore."
  },
+ "«Con Eric B & Rakim estuvimos riéndonos todo el tiempo porque pensábamos que lo estábamos haciendo tan jodidamente mal que a nadie le gustaría —confiesa Jonathan More—.": {
+  "ch": 17,
+  "page": 732,
+  "sec": "Coldcut y M/A/R/R/S",
+  "para": "«Con Eric B & Rakim estuvimos riéndonos todo el tiempo porque pensábamos que lo estábamos haciendo tan jodidamente mal que a nadie le gustaría —confiesa Jonathan More—. Pensamos: “Esto los va a joder. No podrán con esto”». Eric B & Rakim la detestaron. Pero el público que compra discos la catapultó a la decimoquinta posición británica en noviembre de 1987. Cuando su auge se desinfló, Coldcut pasó a un estilo más influenciado por el house con grabaciones como Doctorin’ The House, con Yazz en la voz, y People Hold On, con Lisa Stanfield."
+ },
  "«Convertimos todo el puto lugar en un gueto, hombre —dice Fabio—.": {
   "ch": 16,
   "page": 692,
@@ -3768,6 +3960,12 @@ window.ANOCHE_REFS = {
   "sec": "Nicky Siano en el Gallery",
   "para": "Mientras que la influencia de Mancuso funcionó por vía del boca a boca underground, la de Nicky Siano funcionó de forma más directa. «Cuando pinchaba un disco, este se pinchaba en todos lados», alardea. El DJ Kenny Carpenter, un cliente habitual del Gallery, está de acuerdo: «Nicky era al que todos iban a estudiar en el Gallery —afirma—. Nicky sabía hablar mediante la música. Usaba las letras para enviar un mensaje. Te amo, te odio, te extraño. ¿Te acuerdas de Freddie Prinze, un actor de comedias de situación famoso aquí? Pues murió, y esa noche Nickie pinchó Freddie’s Dead del disco “Superfly”. Ese tipo de cosas». Y mientras que Mancuso usaba la música para disimular su timidez, Siano era un exhibicionista desvergonzado."
  },
+ "«Cuando uno disyoquea, pasa incontables horas solo mirando a la gente bailar —explica Cook—.": {
+  "ch": 17,
+  "page": 718,
+  "sec": "DJ/productor/remezclador",
+  "para": "«Cuando uno disyoquea, pasa incontables horas solo mirando a la gente bailar —explica Cook—. Y uno comienza a percatarse de las partes de la grabación a las que la gente reacciona y las partes que los conmueven. Uno tiene que aprender lo que pone la gente a bailar». Esta experiencia se traduce fácilmente en una inspiración para remezclar y producir. «Cuando estoy en el estudio, pienso en la noche anterior y en el tipo de cosas que funcionaron con los bailarines. Uno recuerda cómo se sentía cuando puso una canción y avivó al público, o cuando tocó una en la que todo el mundo bailó, pese a que ya la habían escuchado antes. No significa necesariamente que uno crea música pop de calidad, pero si tu música está diseñada para la pista de baile, te da una ventaja»."
+ },
  "«De repente, todos los que odiaban el house lo amaban. Se abrazaban. Era asombroso.": {
   "ch": 15,
   "page": 635,
@@ -3779,6 +3977,12 @@ window.ANOCHE_REFS = {
   "page": 213,
   "sec": "Los discípulos de DJ Francis",
   "para": "A pesar de tener solo dieciséis años cuando comenzó a trabajar como DJ, Cappello pronto se forjó una reputación como un pinchadiscos consumado: primero en el Haven, luego con D’Acquisto y Grasso cuando regresaron al Sanctuary. «Desde mi punto de vista, Michael Cappello era el mejor DJ que jamás haya hecho este trabajo —afirma D’Acquisto—. Podía escuchar a Michael hora tras hora, noche tras noche, y nunca me aburría. Siempre fue ingenioso, un genio; era absolutamente astuto»."
+ },
+ "«Disyoquear fue nuestra formación y todavía lo es —añade su compañero Little Louie Vega—.": {
+  "ch": 17,
+  "page": 718,
+  "sec": "DJ/productor/remezclador",
+  "para": "La mayoría de los DJ estarían de acuerdo en que el salto de tocar grabaciones a crearlas es corto; algunos ven el paso de la cabina del DJ al estudio de grabación como una progresión natural. «Todo lo que aprendí lo hice pinchando discos. Dio paso a todo lo demás», dice Kenny Dope Gonzales, la mitad del dúo nuyorriqueño Masters At Work, uno de los equipos de producción y remezcla más respetados de los noventa. «Disyoquear fue nuestra formación y todavía lo es —añade su compañero Little Louie Vega—. Aprender la estructura de las canciones, los compases, los breaks, todo eso se aprende disyoqueando»."
  },
  "«Donde terminan los productos estadounidenses posmodernos: bien producido, regulado, distribuido, circulado y consumido».": {
   "ch": 10,
@@ -3900,6 +4104,12 @@ window.ANOCHE_REFS = {
   "sec": "El arte de ser DJ",
   "para": "David Mancuso, padre putativo del disco, siempre ha sostenido, a capa y espada, que ningún DJ es mejor que su público. Su idea del DJ es que este es intérprete y oyente a un tiempo. En su visión, el DJ debe ser «una persona modesta, que desconecta el ego y respeta la música, y está ahí para que siga su curso: para participar». En las mejores noches, dice, el DJ se siente como un conducto de las emociones que lo rodean: completa el ciclo entre los bailarines y la música. «Es una situación única en la que la gente forma parte de la escenografía de la música que suene en ese momento». En esta relación, el DJ es tan parte del público como los bailarines. «En esencia, uno tiene un pie en la pista de baile y otro en la cabina»."
  },
+ "«En realidad sí eran lecciones —dice Black": {
+  "ch": 17,
+  "page": 730,
+  "sec": "Coldcut y M/A/R/R/S",
+  "para": "«En realidad sí eran lecciones —dice Black, al explicar que, como sugieren los títulos, veían las grabaciones de Steinski como una instrucción práctica—. Así era como uno podía tomar un montón de cosas y convertirlas en algo nuevo. No se hubiese conseguido sin esas guías»."
+ },
  "«Entrar en el club Boccaccio en Gante era como caer en una versión dislocada de la vida a cámara lenta.": {
   "ch": 14,
   "page": 568,
@@ -3977,6 +4187,12 @@ window.ANOCHE_REFS = {
   "page": 47,
   "sec": "El salón de baile imaginario",
   "para": "«Ese servicio causó sensación —dijo Wallichs—. Convertimos al disc jockey en un prescriptor, en un tipo importante, en el VIP de la industria. Y publicamos un pequeño periódico en el cual aparecían fotos y semblanzas de estos personajes»."
+ },
+ "«Ese sonido de Chicago… lo llevé al siguiente nivel —dice—.": {
+  "ch": 17,
+  "page": 724,
+  "sec": "La remezcla y la remodelación",
+  "para": "Algunos DJ estadounidenses se volvieron dioses en el Reino Unido, no por la virtud de sus sesiones como DJ, sino principalmente por su trabajo en el estudio. El productor/remezclador de Brooklyn Todd Terry es un buen ejemplo. A mediados de los noventa, cobraba una tarifa como DJ más alta que cualquiera, pero su fama no provino de pinchar discos, sino de sus producciones y remezclas, y su éxito en este aspecto se debe a su capacidad para destacarse por su estilo tan distintivo. Al injertar la dura estética del hip-hop neoyorquino en el house, trajo una gama de percusión más rica y abundante al género en grabaciones como Can You Party de Royal House y Weekend y Bango de Todd Terry Projects (todas de 1988). «Ese sonido de Chicago… lo llevé al siguiente nivel —dice—. Uno lo escuchaba y decía: “Solo Todd podía hacer eso, ese es el patrón de percusión de Todd, ese es su sonido”, el sonido oscuro y revuelto»."
  },
  "«Estaba tan encabronado porque ya no tenía mi canción temática": {
   "ch": 12,
@@ -4206,11 +4422,23 @@ window.ANOCHE_REFS = {
   "sec": "El sonido Shut Up And Dance",
   "para": "Crudas, robustas, sin pulir, pero cargadas de energía, era la clara influencia del bajo británico. «Lo que los hizo grandes fue que no les importaba una mierda lo que hacían —dice Rhythm Doctor—. Por lo general no estaban ni sincronizados, iban a lo loco, sueltos, pero no les importaba»."
  },
+ "«Lo que no podamos hacer nosotros lo harán las máquinas y los instrumentos electrónicos que inventaremos».": {
+  "ch": 17,
+  "page": 733,
+  "sec": "KLF y el nuevo punk",
+  "para": "La nueva tecnología fue una fuerza vital en Gran Bretaña, como lo había sido en Chicago y Detroit. Cuando rompió la primera ola del house británico, no había llegado el sampleado digital asequible, pero el sampleado con cinta era lo suficientemente fácil y las cajas de ritmo y los sintetizadores eran cada vez más comunes. Con estos instrumentos digitales, el manifiesto del punk de que «cualquiera puede hacer música», «no se requiere experiencia» podía llevarse a cabo a la perfección. John Cage escribió una vez: «Lo que no podamos hacer nosotros lo harán las máquinas y los instrumentos electrónicos que inventaremos». Ahora esas máquinas eran una realidad, y los futuros productores fueron capaces de superar el hecho de que no tenían formación musical alguna (y superaron las tarifas de mil libras diarias para usar el estudio) y comenzaron a crear música en sus habitaciones inmediatamente."
+ },
  "«Lo que sí les gustaba realmente eran las voces femeninas».": {
   "ch": 8,
   "page": 305,
   "sec": "Bobby DJ en el Ice Palace",
   "para": "Aunque el hi-NRG fue un género que no se codificó formalmente hasta 1984, la escena gay blanca de Nueva York ya comenzaba a distinguirse musicalmente. Otro club predominantemente blanco era Barefoot Boy, donde Tony Smith (un afrodescendiente) era el residente. Recuerda cómo a mitad de los setenta, a pesar de una lista de reproducción bastante amplia, no se ponían los temas con mucho funk. «Lo único que no podía pinchar realmente era la música urbana negra. Pude salirme con la mía al poner Doin’ It To Death de los JB, pero no lo pude lograr con Give It Up Turnit Loose o Sex Machine». Smith también destaca otra característica del gusto del público que sería fundamental para el sonido hi-NRG: «Lo que sí les gustaba realmente eran las voces femeninas». A medida que se aproximaba la curva hacia los ochenta, esta variedad particular del disco se impondría con mucha fuerza."
+ },
+ "«Los DJ que no quieren crear sus propias grabaciones son flojos —dice Sasha—, porque nadie mejor que un DJ conoce lo que causa furor en la pista».": {
+  "ch": 17,
+  "page": 715,
+  "sec": "DJ/productor/remezclador",
+  "para": "«Los DJ que no quieren crear sus propias grabaciones son flojos —dice Sasha—, porque nadie mejor que un DJ conoce lo que causa furor en la pista». Norman Cook coincide: «La mayoría de los DJ se hacen DJ porque aman la música, y si uno ama la música, siente que tiene algo de ella por dentro que quiere salir. Uno pincha los temas que son bien sencillos. Uno piensa que son un par de sampleados y una caja de ritmos, apuesto a que lo más seguro es que puedo hacer eso. E, invariablemente, uno puede»."
  },
  "«Los malos hábitos estadounidenses no pegarán aquí —decía indignado Robbie Vincent": {
   "ch": 15,
@@ -4337,6 +4565,12 @@ window.ANOCHE_REFS = {
   "page": 358,
   "sec": "Afrika Bambaataa",
   "para": "«No podía aprender mucho de Bam porque las cosas de Bam eran tan profundas y tan poderosas que simplemente no sabía de dónde las sacaba»."
+ },
+ "«No quería convertirme en un adepto al scratching, como los pinchas. Por supuesto que tardé un tiempo en aprenderlo, y además tenía un trabajo».": {
+  "ch": 17,
+  "page": 729,
+  "sec": "Double Dee & Steinski",
+  "para": "Es preciso hacer aquí una aclaración previa: si bien las primeras grabaciones del hip-hop eran un puto galimatías tan indescifrable como irresistible para muchos, la manera de producirlas era demasiado intimidante para animar a toda una avalancha de copistas británicos. Esta función recayó a su vez en las grabaciones creadas por el técnico de sonido neoyorquino Douglas DiFranco y el guionista de publicidad Steve Stein, conocidos como Double Dee & Steinski, quienes demostraron que era posible crear hip-hop sin pasar años perfeccionando destrezas supernaturales en los platos. Un coleccionista de discos empedernido, Stein se percató de que podía emular a un DJ de mezcla rápida y practicante del scratching con la tecnología del estudio que empleaba para grabar anuncios de radio. «No quería convertirme en un adepto al scratching, como los pinchas. Por supuesto que tardé un tiempo en aprenderlo, y además tenía un trabajo». En cambio, a finales de 1983, el dúo llevó seis cajas de discos al estudio, encendieron la grabadora de ocho pistas, cerraron la puerta y salieron con Lesson One (alias The Payoff Mix), una frenética obra maestra compuesta por un bombardeo de pedazos cortados de otras grabaciones: partes de Adventures On The Wheels Of Steel y un poco de James Brown; algo de Buffalo Gals, That’s The Joint de los Funky Four y una pizca de Culture Club; Rockit de las Supremes, y un cachito de Humphrey Bogart y unos pocos cientos más."
  },
  "«No quería decir mucho, así que les dije: “Probad esto, no os hará demasiado”».": {
   "ch": 15,
@@ -4632,6 +4866,12 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento de la mezcla británica",
   "para": "«Uno no puede mezclar Chick Corea con Jeff Lorber —señala el pionero del northern soul Colin Curtis—. Aquí lo que había era la individualidad de diferentes sonidos y diferentes grabaciones. No había necesidad de mezclarlas. Estábamos acostumbrados al contraste, a los espacios, a las voces…»."
  },
+ "«Uno no sabe tocar un instrumento, uno tiene una gran colección de discos, y eso es lo que uno aporta».": {
+  "ch": 17,
+  "page": 736,
+  "sec": "La remezcla comercial",
+  "para": "Al final de la explosión del acid house, hubo una gran demanda para contratar los servicios de remezcladores británicos como Darren Emerson, Justin Robertson, Terry Farley y Andy Weatherall, debido a su habilidad para empujar las guitarras en la dirección del DJ. El remezclador era una parte intrínseca de la explosión «Madchester» del rock bailable, con Paul Oakenfold y otros que convirtieron combinaciones de ritmos desastrosos en un tesoro de la pista de baile. En i-D, Weatherall resume la función del remezclador como «un miembro externo de la banda». Explicó cómo lo valioso del remezclador es su conocimiento musical: «Uno no sabe tocar un instrumento, uno tiene una gran colección de discos, y eso es lo que uno aporta»."
+ },
  "«Y qué chicas eran.": {
   "ch": 16,
   "page": 703,
@@ -4722,6 +4962,12 @@ window.ANOCHE_REFS = {
   "sec": "Habilidad para pagar las facturas",
   "para": "¿Así que tu madre inventó el scratching?"
  },
+ "¿Cuánto tienes que cambiar antes de que el resultado sea trabajo tuyo y ya no sea una creación de otro?": {
+  "ch": 17,
+  "page": 723,
+  "sec": "La remezcla y la remodelación",
+  "para": "Toma una pintura, córtala en pedacitos y reorganiza las piezas. Quizá añádeles algunas pinceladas propias o desecha parte del original. ¿Cuánto tienes que cambiar antes de que el resultado sea trabajo tuyo y ya no sea una creación de otro? ¿Ayuda si además a la gente le gusta más tu collage que la propia pintura original? ¿Puede el collage ser una pieza de arte genuina?"
+ },
  "¿De dónde proviene este gen malvado que distingue la música británica?": {
   "ch": 16,
   "page": 664,
@@ -4733,5 +4979,23 @@ window.ANOCHE_REFS = {
   "page": 551,
   "sec": "El festival Love Parade",
   "para": "En una era en la que domina el mercado, se ha sugerido que lo que necesita Detroit, ahora que las fábricas están cerradas, no es inversión, ni empleos ni un centro urbano que funcione. No, solo necesita reposicionar la marca. En busca de un nombre que sustituya el de la «Ciudad del Motor», y sumamente conscientes de la revolución musical que comenzó allí, algunos burgueses de la ciudad han dado con algo. ¿Por qué no, sugieren, llamarla la «Ciudad del Tecno»?"
+ },
+ "¿Representa eso al artista? No representa al artista, te representa a ti».": {
+  "ch": 17,
+  "page": 722,
+  "sec": "La evolución de la remezcla",
+  "para": "«Alguien dice: “Necesito una remezcla”. Así que uno toma un pedacito de la voz: “Bla…”, y luego lo pone en una pista de ritmo que ya tenía preparada por ahí. ¿Es eso remezclar? ¿Representa eso al artista? No representa al artista, te representa a ti»."
+ },
+ "¿a cuántos oídos llegan y cuántas unidades puede vender?": {
+  "ch": 17,
+  "page": 714,
+  "sec": "EVEN BETTER THAN THE REAL THING (INCLUSO MEJOR QUE LO REAL)",
+  "para": "El arte y las destrezas de los DJ estaban ya casi definidas del todo desde hacía ya unos veinticinco años. El disco y el hip-hop fueron sus momentos de verdadera innovación. La mayoría de los avances desde entonces han provenido de su función como productores y gracias al buen hacer de sus mánagers. Pero con representantes astutos y buen marketing, los DJ ahora son los héroes de su época: estrellas del pop, arrastra-masas, marcas fiables. Y les pagan (como a las supermodelos y las estrellas de cine, esos otros vencedores del actual capitalismo de consumo) no por su talento, ni por lo duro que trabajan, sino por el tamaño de su franquicia: ¿a cuántos oídos llegan y cuántas unidades puede vender?"
+ },
+ "“Ganasteis el concurso”. “¿Ganamos?”».": {
+  "ch": 17,
+  "page": 730,
+  "sec": "Double Dee & Steinski",
+  "para": "«Seis semanas después —recuerda Stein—, después de una reunión en la agencia, mi secretaria dice: “Eh, Tommy Boy acaba de llamar, Tommy Boy en persona”. Y le digo: “Sí, ¿para qué?”. “Ganasteis el concurso”. “¿Ganamos?”»."
  }
 };
