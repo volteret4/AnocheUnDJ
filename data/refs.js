@@ -42,6 +42,18 @@ window.ANOCHE_REFS = {
   "sec": "Tee Scott en el Better Days",
   "para": "A las cuatro de la madrugada quitaron la lona: «Cayeron al unísono mil quinientas mandíbulas, y solo comenzaron a aplaudir»."
  },
+ "A mí me interesan más los robots de la Ford que la música de Berry Gordy».": {
+  "ch": 13,
+  "page": 525,
+  "sec": "El tecno definido",
+  "para": "Al ser preguntados por aspectos concretos de su música, Cosgrove les arrancó una memorable apostilla a los tres de Belleville. Derrick May fue quien se soltó con esta cita tan repetida: «La música es justo como Detroit, un craso error. Es como si George Clinton y Kraftwerk se quedaran atrapados en un ascensor». Kevin Saunderson explicó cómo, en una ocasión, lo despidieron de una estación de radio por «estar demasiado adelantado a su tiempo», y Juan Atkins le dijo a Cosgrove: «Berry Gordy creó el sonido Motown según los mismos principios del sistema de correas de transmisión de la Ford. Hoy, esas fábricas no funcionan de esa manera: usan robots y ordenadores para construir los coches. A mí me interesan más los robots de la Ford que la música de Berry Gordy»."
+ },
+ "A veces, la visión del futuro nacida en Detroit parece haberse estancado en 1987.": {
+  "ch": 13,
+  "page": 528,
+  "sec": "El tecno definido",
+  "para": "A los periodistas les encantaba la idea de una música bailable con grado universitario, y los productores del tecno respondieron bien a esta aproximación de elogios a la inteligencia. A la larga, sin embargo, analizaron esta música tan exhaustivamente que las inspiraciones y primeros métodos de trabajo del tecno empezaron a malinterpretarse como principios inmutables. Los productores comenzaron a pensar que había un modelo para crear un tecno de Detroit «correcto». Se coló una actitud purista que sirvió de alguna forma para fosilizar el sonido: esas cuerdas orquestales, ese hi-hat gélido. A veces, la visión del futuro nacida en Detroit parece haberse estancado en 1987."
+ },
  "Abierto desde 1977 hasta 1987, el Garage fue el vínculo crucial entre el disco y las otras formas musicales que evolucionaron de esta música.": {
   "ch": 11,
   "page": 430,
@@ -60,11 +72,23 @@ window.ANOCHE_REFS = {
   "sec": "Planet Rock",
   "para": "Otro aspecto clave del sampleado también salió a la luz: su capacidad para generar litigios. Cuando Rappers’ Delight había usado Good Times tan abiertamente, Nile Rogers y Bernard Edwards entendieron que podían reclamar la autoría con éxito. Al escuchar Planet Rock, Kraftwerk interpuso una demanda por reclamación de regalías que se mantuvo sin resolver durante muchos años. (Baker, de hecho, había anticipado problemas legales y había grabado una melodía alternativa para la canción. Cuando Tom Silverman, de Tommy Boy, decidió lanzar la grabación intacta, Baker aprovechó el incidente como base para la siguiente grabación de Bambaataa, Play At Your Own Risk [toca bajo tu cuenta y riesgo]."
  },
+ "Al llevar la música a esos extremos, plantea ella, el gabber se volvió tan «neerlandés como los tulipanes».": {
+  "ch": 13,
+  "page": 543,
+  "sec": "Países Bajos",
+  "para": "En 1992, Poing de Rotterdam Termination Source sentó el camino. Junto con su cara B, Feyenoord Reactivate, el tema fue un himno mundial y vendió alrededor de 70 000 copias, y el tecno superrápido se convirtió en una forma para que Rotterdam se distinguiera. En el libro This Is Our House, la académica de la cultura de clubs neerlandesa, Hillegonda Rietveld, ofrece una perspectiva sobre la progresividad rabiosa que creó el gabber. Cree que los chicos relativamente ricos de Rotterdam no necesitaban una música edificante ni mensajes de paz. Como los fanáticos del death metal escandinavo, solo querían violencia y alienación. Pero era una cuestión territorial, tenía que ser su propia fuente de alienación, una suerte de hooliganismo sonoro. «En el proceso de intentar superar al otro al ser más duro, más rápido y más escandaloso, los neerlandeses definieron su propia estética». Al llevar la música a esos extremos, plantea ella, el gabber se volvió tan «neerlandés como los tulipanes»."
+ },
  "Alan Freed no fue la primera persona, negra o blanca, en pinchar R&B por la radio, pero sin duda fue la más prominente.": {
   "ch": 2,
   "page": 57,
   "sec": "Alan Freed y el rock’n’roll",
   "para": "Sin prestar atención a este tipo de críticas, Freed siguió su camino, aprovechando el color de su piel para promocionar esta forma de música negra emergente a una escala que a la mayoría de los afrodescendientes se les negaba. Para 1957, su show era retransmitido por todo Estados Unidos, y hasta se escuchaba en Gran Bretaña a través de Radio Luxembourg. Alan Freed no fue la primera persona, negra o blanca, en pinchar R&B por la radio, pero sin duda fue la más prominente."
+ },
+ "Analizábamos las grabaciones, poníamos una pieza de música e intentábamos determinar qué estaba pensando la persona cuando la creó».": {
+  "ch": 13,
+  "page": 511,
+  "sec": "El trío de Belleville",
+  "para": "«La música se convirtió en nuestro denominador común. Solíamos sentarnos en la habitación de Juan y hablar hasta que los dos nos quedábamos dormidos. Analizábamos las grabaciones, poníamos una pieza de música e intentábamos determinar qué estaba pensando la persona cuando la creó». Al escuchar música de esta forma aislada, la cargaron con peso filosófico. Un tema épico como E2-E4 de Manuel Göttsching los tenía perplejos. «Siempre eran instrumentales —recuerda Derrick—. Cuando escuchábamos cosas así lo hacíamos durante horas, días, semanas». Sin escuchar las canciones en un contexto de club, desarrollaron un desprecio por todo lo que no fuera serio. «Pensábamos que las voces eran estúpidas. Hablar del amor y de conseguir culos de chicas y de que me rompiste el corazón. Nada de política, nada de conciencia»."
  },
  "Antes de que existiera cualquier cosa que se llamara hip-hop, estaba el breakdancing.": {
   "ch": 9,
@@ -83,6 +107,12 @@ window.ANOCHE_REFS = {
   "page": 202,
   "sec": "Francis Grasso: el primer DJ moderno",
   "para": "Antes que él, se ponían los discos como si fueran pequeñas actuaciones discretas, pero Francis los trataba como si fueran movimientos de una sinfonía: elementos continuos de un gran todo. Al concebir la música de esta manera, ya no solo proveía una banda sonora al revuelo social de los sesenta, sino que imaginaba los clubs del futuro, más centrados en el baile. Y con este concepto de un flujo ininterrumpido de música, la noción de mezclar discos cobró un nuevo significado."
+ },
+ "Así es como me adentré en la música conceptual».": {
+  "ch": 13,
+  "page": 517,
+  "sec": "Las fiestas de la escuela secundaria",
+  "para": "Sin embargo, quedaron eclipsados por los talentos para mezclar de otro joven DJ de radio, un torbellino sin voz de los vinilos conocido como el Wizard [mago], que luego se convertiría en el productor de la segunda generación del tecno, Jeff Mills. En su espacio en WDRQ desde 1984 conformó un arreglo sobrecogedor de grabaciones, tejidas con una destreza superrápida, un estilo que luego exhibió en sus candentes actuaciones como DJ de clubs. Mills pronto se convirtió en el rey de Detroit con una ráfaga de hip-hop y otros sonidos frescos, presentados con el estilo de sus héroes, D. ST, Jazzy Jeff y Cash Money. «Me pasaba todo el día en la estación —dice Mills—, y entonces el director de programación decidió que sería interesante hacer algo relacionado con las mezclas y me llamaron al estudio». Después de estas incursiones breves, en las que cortaba, digamos, dos copias de Chaka Khan, se le dio un presupuesto de grabación jugoso para un programa nocturno de tres horas para un público amplio que dio a conocer a muchos artistas de Detroit. «Creé un programa con un tema que giraba en torno a los efectos de sonido —dice—. Solía ir a la audioteca, agarraba todo lo que podía usar. Así es como me adentré en la música conceptual». Y cuando la competencia por los índices de audiencia se caldeaba, Wizard reeditaba temas; hasta creaba su propia música nueva para el programa."
  },
  "Así fue como el DJ hizo gala por primera vez de su inestimable talento para crear géneros musicales nuevos.": {
   "ch": 2,
@@ -204,6 +234,12 @@ window.ANOCHE_REFS = {
   "sec": "El Sanctuary",
   "para": "Tras cimentar la prosperidad del negocio como club para parejas heterosexuales, el gerente diurno se escapó con el gerente nocturno, y con 175 000 dólares del club. Un plan de rescate puso el local en manos de dueños gais; despidieron a todas las mujeres, y con la memoria reciente de Stonewall, el lugar se enorgulleció de ser el primero en florecer de toda la escena sórdida del auge de las barras de zumos; sería el precursor de lugares como Thrush, Fabulous, Forbidden Fruit, Together y Superstar. Como dijo Albert Goldman: «Sanctuary fue la primera discoteca gay sin inhibiciones de todo Estados Unidos»."
  },
+ "Como dijo después el productor Carl Craig: «Eran tan rígidos que parecían tener funk».": {
+  "ch": 13,
+  "page": 507,
+  "sec": "Kraftwerk",
+  "para": "En 1974, Autobahn, un himno de veintidós minutos a la monotonía de conducir, les dio un éxito mundial, y demostró a la primera escena disco que los ordenadores también podían tener funk además de calcular los impuestos. Después, Kraftwerk poco a poco llevó sus ritmos a la pista de baile. El percusionista electrónico Karl Bartos, quien se les unió para sus álbumes más conocidos, «Trans Europe Express» y «Man Machine», admitió: «Siempre intentamos crear un estilo rítmico estadounidense con una aproximación europea a la armonía y a la melodía». Tal era su habilidad para crear la presión para bailar con ritmos austeros y rígidos, que cuando Leonard Jackson, uno de los técnicos de sonido de Norman Whitfield, llegó a Düsseldorf para mezclar «Man Machine», sospechaba en secreto que Kraftwerk eran afroamericanos. Como dijo después el productor Carl Craig: «Eran tan rígidos que parecían tener funk»."
+ },
  "Como la escena del northern soul se alimentaba de rarezas, convirtió la profesión del DJ en una suerte de arqueología de la reproducción de discos.": {
   "ch": 4,
   "page": 154,
@@ -300,6 +336,18 @@ window.ANOCHE_REFS = {
   "sec": "El sock hop",
   "para": "Cuando Bob pinchaba discos en sus bailes, añadía una innovación importante: el doble plato giratorio, fabricado de forma personalizada en 1955 por su padre, que era ingeniero de sonido. «Tenía dos reguladores de volumen y un interruptor, porque quería lograr mucho más que tocar música. Quería ser capaz de pasar de un disco directamente al otro, bajar el volumen y hablar por encima del disco para subir el volumen otra vez»."
  },
+ "Cuando Derrick disyoqueaba, uno no sabía si pinchaba discos o manipulaba el equipo.": {
+  "ch": 13,
+  "page": 531,
+  "sec": "Un mercado de exportación",
+  "para": "La reedición de May de We Call It Acieed de D-Mob era el himno del MI, tocado entre lanzamientos locales y otras canciones en boga de la explosión del acid house británico. Carl Craig recuerda los potentes sets de May en el lugar. «Tocaba las ediciones más locas de la música más salvaje. Cuando Derrick disyoqueaba, uno no sabía si pinchaba discos o manipulaba el equipo. La gente se volvía loca. Tocaba Big Fun tres o cuatro veces y cada vez me volaba la mente, y la de los demás también». Lamentablemente, el centro de Detroit no estaba preparado para apoyar un club que tocara hasta altas horas buena música bailable, pero que no sirviera alcohol. Y como su principal DJ solía estar fuera ganando mucho dinero en Europa, el auge de club se perdió pronto. El Music Institute cerró el 24 de noviembre de 1989. Los asistentes recuerdan que Derrick May grabó campanas de reloj sobre Strings Of Life y que cerró con Pacific State de 808 State."
+ },
+ "Cuando regresó, dijo: “Ay, dios mío”».": {
+  "ch": 13,
+  "page": 541,
+  "sec": "La segunda ola de Detroit",
+  "para": "La breve escena de Detroit había durado lo suficiente para energizar a los nuevos productores. Stacey Pullen y Alan Oldham se inspiraron para crear música por sus visitas nocturnas al Music Institute. Otro era Carl Craig, la punta de lanza de la segunda ola, un productor talentoso destinado a justificar aquellas comparaciones entre el tecno y el jazz. Creó su primera grabación, Elements de Psyche, en el apartamento de May. «Cuando conocí a Derrick por primera vez, lo único que quería hacer era lanzar un disco. Traje mi material y estaba listo, pero él me dijo que no lo estaba. Experimentaría un poco más y haría lo que fuera por pulirme para estar a la altura de su sello. Entonces, un día, cuando salió de su apartamento por un par de horas, creé Elements. Cuando regresó, dijo: “Ay, dios mío”». Collin veía a productores como Craig como evidencia de que Detroit se reafirmaba. «Esbozan cuán lejos está la mayoría de la música de Detroit deísta de los bips y los pum que rondan cada club de tecno en Europa. El tecno como un arte en vez de como un sonido funcional. Un ruido dulce, que no vicioso. Tener la mente nutrida, que no jodida»."
+ },
  "Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey.": {
   "ch": 5,
   "page": 165,
@@ -366,6 +414,12 @@ window.ANOCHE_REFS = {
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "Después de varias carcajadas, simplemente dijo: «Jesse cambió la música, tío»."
  },
+ "Detroit se componía de camarillas pequeñas muy estrafalarias, y por eso acabó sonando de forma tan distinta».": {
+  "ch": 13,
+  "page": 518,
+  "sec": "Las fiestas de la escuela secundaria",
+  "para": "Con una radio que se volvía creativa, y con hordas de estudiantes de escuela retándose hasta alcanzar nuevas fronteras, Detroit se convirtió en un lugar esperanzador para aspirantes a músicos electrónicos. A pesar de la falta de una escena de clubs potente, había mucho movimiento. «La escena de Detroit no estaba para nada tan desarrollada como la de Chicago —afirma Dan Sicko—. Pero era mucho más idiosincrásica. Detroit se componía de camarillas pequeñas muy estrafalarias, y por eso acabó sonando de forma tan distinta»."
+ },
  "Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom.": {
   "ch": 5,
   "page": 174,
@@ -377,6 +431,12 @@ window.ANOCHE_REFS = {
   "page": 461,
   "sec": "El significado de house",
   "para": "Durante mucho tiempo, la palabra house se refería no a un estilo particular de música, sino a una actitud. Si una canción era house, era música de un club cool, era underground, era música que no se escuchaba en la radio. En Chicago, el club adecuado sería house, y si lo visitabas, tú eras house, y también todos tus amigos. Al caminar por Michigan Avenue, uno podía distinguir quién era house y quién no lo era por la vestimenta. Si en su reproductor de casetes sonaba la Gap Band, sin duda no eran house, pero si lo hacía Loleatta Holloway o los Eurythmics, lo era, y probablemente te acercarías para hablar con ellos."
+ },
+ "Durante tres largos días con sus noches, el nuevo Berlín celebró por todo lo alto entre las ruinas al ritmo del house y el tecno.": {
+  "ch": 13,
+  "page": 533,
+  "sec": "Alemania",
+  "para": "Durante tres largos días con sus noches, el nuevo Berlín celebró por todo lo alto entre las ruinas al ritmo del house y el tecno. «Después de la caída del muro fue como: “¡que todo el mundo grite!” —le contó DJ Westbam (Maximilian Lenz) a Matthew Collin para i-D—. Tiene que ver con que la gente de Alemania Oriental deseaba soltarse después de todo ese control. Lo llamamos el baile de la liberación»."
  },
  "Durante una buena temporada mis vecinos pensaron que era un narcotraficante».": {
   "ch": 10,
@@ -425,6 +485,12 @@ window.ANOCHE_REFS = {
   "page": 73,
   "sec": "La jukebox o máquina de discos",
   "para": "Fue la derogación de la Prohibición en 1933 lo que en realidad provocó el auge repentino de la máquina de discos. Por cada speakeasy ilegal, abrían cinco bares, tabernas o cantinas en su lugar, y casi todos contaban con una máquina de discos. En 1936, solo Decca manejaba unas 150 000. Para el comienzo de la Segunda Guerra Mundial, había casi medio millón por todo Estados Unidos. La rocola se convirtió en una herramienta muy valiosa para las métricas de la mercadotecnia porque registraba el número de veces que se escuchaba cada disco y su popularidad podía medirse. De esa constatación nacieron las listas de éxitos. El Top 40 debe su nombre a que ese era el número de discos que cabía en una jukebox. Uno de los primeros programas de radio llevaba por nombre «Jukebox Saturday Night»."
+ },
+ "El Tresor, que abrió a principios de 1991, era el líder": {
+  "ch": 13,
+  "page": 535,
+  "sec": "Alemania",
+  "para": "Para que la fiesta continuara, se abrieron clubs en el centro de Berlín Occidental. El Planet, en una vieja fábrica de tiza, era uno de ellos (luego se convirtió en el E-Werk de Paul Van Dyke). El Tresor, que abrió a principios de 1991, era el líder, con cinco metros bajo tierra en la cámara acorazada de unos grandes almacenes bombardeados, a minutos del búnker de Hitler. Mientras que algunos clubs sirvieron para exagerar la división social y económica persistente, el Tresor, con su entrada barata y copas más baratas todavía, estaba entre los lugares que unieron a los chicos del Este con los del Oeste. La apariencia militar del tecno, que se lograba con poco dinero, era otro elemento unificador. Nadie sabía cuál era la ley, así que estos clubs funcionaban como querían, se quedaban abiertos mientras hubiera personas bailando, tocaban una dieta de house duro y tecno que parecía tornarse más fuerte cada semana."
  },
  "El Twisted Wheel abrió sus puertas en noviembre de 1963 en el número 26 de Brazennose Street como un club abierto toda la noche": {
   "ch": 4,
@@ -636,6 +702,30 @@ window.ANOCHE_REFS = {
   "sec": "El poder de un DJ",
   "para": "La radio es un medio de transmisión único. Tiene el poder de alcanzar a millones de personas, pero con la intimidad necesaria, a un tiempo, para que cada uno sienta que es la persona más importante escuchando el aparato en aquel momento. A diferencia de la televisión, que invade el hogar e impone imágenes de un mundo exterior, la radio es de alguna manera parte del lugar que la escucha, y las voces y la música que llevan consigo forjan un gran sentido de comunidad. El sociólogo Marshall McLuhan la llamó «el tambor de la tribu». Arnold Passman, en su libro de 1971, The Deejays, sentenciaba: «El tubo de electrones lo cambió todo, porque llevó la humanidad de regreso a la comunicación hablada»."
  },
+ "El sonido que surge de sus cenizas es el trance.": {
+  "ch": 13,
+  "page": 545,
+  "sec": "El trance",
+  "para": "En 1992, DJ Moneypenny, de Nueva York, quien se había mudado a Bélgica el año anterior, informó sobre cómo el tecno europeo evolucionaba. «Aquellos que tocan en los clubs más grandes de Amberes, Frankfurt y Ámsterdam están siendo testigos de cómo cae todo el sonido del tecno hardcore ante sus oídos —escribió—. El sonido que surge de sus cenizas es el trance. El trance ambiente, el acid trance, el trance puro, una involución de ese sonido del tecno que parece que está completamente fuera de control»."
+ },
+ "El tecno como un arte en vez de como un sonido funcional.": {
+  "ch": 13,
+  "page": 541,
+  "sec": "La segunda ola de Detroit",
+  "para": "La breve escena de Detroit había durado lo suficiente para energizar a los nuevos productores. Stacey Pullen y Alan Oldham se inspiraron para crear música por sus visitas nocturnas al Music Institute. Otro era Carl Craig, la punta de lanza de la segunda ola, un productor talentoso destinado a justificar aquellas comparaciones entre el tecno y el jazz. Creó su primera grabación, Elements de Psyche, en el apartamento de May. «Cuando conocí a Derrick por primera vez, lo único que quería hacer era lanzar un disco. Traje mi material y estaba listo, pero él me dijo que no lo estaba. Experimentaría un poco más y haría lo que fuera por pulirme para estar a la altura de su sello. Entonces, un día, cuando salió de su apartamento por un par de horas, creé Elements. Cuando regresó, dijo: “Ay, dios mío”». Collin veía a productores como Craig como evidencia de que Detroit se reafirmaba. «Esbozan cuán lejos está la mayoría de la música de Detroit deísta de los bips y los pum que rondan cada club de tecno en Europa. El tecno como un arte en vez de como un sonido funcional. Un ruido dulce, que no vicioso. Tener la mente nutrida, que no jodida»."
+ },
+ "El tecno es un ambicioso hijo de puta.": {
+  "ch": 13,
+  "page": 501,
+  "sec": "THE SOUND (EL SONIDO)",
+  "para": "El tecno es un ambicioso hijo de puta. Quiere liberarse del bagaje de toda la música mundial previa y dar unos pasos valientes hacia el futuro. Cuando otras formas andaban copiando, emulando, reciclando —regresando a los temas favoritos y a las líneas de bajo conocidas—, el tecno abogaba por la claridad de la creación pura. Rechaza la representación y favorece la abstracción, e intenta conseguir algo más innovador y audaz. Ideas nobles, sin duda. En una ciudad arrasada por la pérdida de fe en el progreso, el tecno intentó construir una nueva creencia en el futuro. Si destiláramos la esencia básica de esta corriente musical, podríamos reducir el objeto de su búsqueda a la siguiente premisa: si el house no es más que disco interpretado por microchips, ¿qué tipo de sonido podían producir estas máquinas por su cuenta y riesgo?"
+ },
+ "El tecno fue la música de su liberación».": {
+  "ch": 13,
+  "page": 534,
+  "sec": "Alemania",
+  "para": "«Para los habitantes de Alemania Oriental, es una revolución social —declaró Juergen Laarman en i-D—. Antes, lo más destacado de su año sería su hermano trayendo un disco de Bob Dylan de la parte occidental. El tecno fue la música de su liberación»."
+ },
  "El twist había lanzado una bomba nuclear sobre el sector conservador del mundo del baile y erradicado los muy rígidos rituales de la pista de baile.": {
   "ch": 3,
   "page": 93,
@@ -690,6 +780,12 @@ window.ANOCHE_REFS = {
   "sec": "Los punks del Bronx",
   "para": "En 1982, Malcolm McLaren declaró: «Me parece que el punk está más vivo en Harlem, en algunos aspectos, de lo que lo está en Bracknell»."
  },
+ "En 1987, a los diecisiete años, al crear un tema de una dureza inexpugnable, CJ Bolland encendió la llama del hardcore tecno.": {
+  "ch": 13,
+  "page": 536,
+  "sec": "Bélgica",
+  "para": "Christian Bolland, de Amberes, dice que lo expulsaron de la escuela por haber introducido una máquina Roland 303 en clase y por programarla con unos auriculares bajo su escritorio. Después de transmitir varios temas en una estación pirata, consiguió un contrato de grabación con el sello de Gante R&S, y prácticamente vivía en la casa de los dueños del estudio, el matrimonio Renaat Vanderpapeliere y Sabine Maes. En 1987, a los diecisiete años, al crear un tema de una dureza inexpugnable, CJ Bolland encendió la llama del hardcore tecno."
+ },
  "En 2010, el complejo de apartamentos en el número 1520 de Sedgwick Avenue fue salvado al borde de la destrucción": {
   "ch": 9,
   "page": 344,
@@ -702,11 +798,23 @@ window.ANOCHE_REFS = {
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "«Todo lo que sacaba Jesse lo ponían en la radio —recuerda Marshall—. Y al comparar su música con canciones como las de Prince, pues sonaban a pura mierda. ¡Sonaban como latas, chico! Pero… todos conocían a Jesse, así que esa mierda se hacía popular. Para cuando por fin sacó Real Love, que era como una quinta parte de la calidad que normalmente se requiere para que se toque en la radio (¡lo demás que había sacado no era digno ni de una duodécima parte!), cuando salió esa mierda, ¡fue una bomba! En Chicago, Jesse era más famoso que Prince»."
  },
+ "En Gran Bretaña, el tecno llegaría a ser sumamente fértil, sobre todo por su mensaje de «tú puedes hacerlo».": {
+  "ch": 13,
+  "page": 537,
+  "sec": "Reino Unido",
+  "para": "En Gran Bretaña, el tecno llegaría a ser sumamente fértil, sobre todo por su mensaje de «tú puedes hacerlo». Temas elegantes de Guy Called Gerald, 808 State, Orbital y LFO y otros artistas del sello Warp fueron la punta de lanza; luego comenzó a extenderse rápidamente el virus del hardcore breakbeat, que sentó las bases para un sonido inequívocamente británico. Como veremos en capítulos posteriores, el tecno fue la base de varias formas de música que los británicos pueden reclamar como suyas, como el jungle, el drum and bass y el garage británico."
+ },
  "En Jamaica, los DJ de sistemas de sonido emularon esta forma de hablar, llamada jive, casi de inmediato y se convirtieron en disc jockeys superestrellas como toasters o MC. En Nueva York, veinte años más tarde, surgió el rapero, descendiente de ambas tradiciones.": {
   "ch": 2,
   "page": 53,
   "sec": "Hablar el jive",
   "para": "Cuando Yuri Gagarin completó el primer vuelo espacial pilotado por un ser humano en 1961, Jocko le envió un telegrama. Decía: «Felicidades. Me alegra que hayas podido llegar. Ahora no me siento tan solo aquí». Jocko y otros locos similares demostraron que el DJ de radio podría ser un artista creativo por méritos propios, no solo un comediante o acompañante, sino un vocalista, un poeta. En Jamaica, los DJ de sistemas de sonido emularon esta forma de hablar, llamada jive, casi de inmediato y se convirtieron en disc jockeys superestrellas como toasters o MC. En Nueva York, veinte años más tarde, surgió el rapero, descendiente de ambas tradiciones."
+ },
+ "En algún punto de cada noche, se las arreglaba para que la nave nodriza, al estilo P-Funk, aterrizara": {
+  "ch": 13,
+  "page": 503,
+  "sec": "Electrifyin’ Mojo",
+  "para": "Oriundo de Little Rock (Arkansas), con una carrera que arrancó en Filipinas, Mojo llegó a la radio de Detroit en 1977. Su rechazo a hincar la rodilla ante las convenciones de la radio del momento hacía que su programa cambiara con frecuencia de estación. El apetito voraz de Mojo por música nueva e inusual era un punto de partida importante para los «tres de Belleville». Los nutría con música e incendiaba su gusto por la exploración musical. A la larga, estaría entre los primeros en transmitir sus grabaciones. Igualmente importante quizá para una sensibilidad futura del tecno estaba el personaje misterioso y desencarnado que cultivaba. Su foto publicitaria era apenas una silueta oscura, y no había duda de la autoridad seductora y espaciada de sus programas. En algún punto de cada noche, se las arreglaba para que la nave nodriza, al estilo P-Funk, aterrizara para instruir a sus radioyentes que encendieran y apagaran sus luces a fin de poder guiar a los afronautas cósmicos hasta sus casas."
  },
  "En efecto, en contubernio con el pretencioso mundo artístico de Manhattan, fue el punk lo que atrajo la atención mundial al hip-hop.": {
   "ch": 10,
@@ -834,6 +942,12 @@ window.ANOCHE_REFS = {
   "sec": "El Paradise Garage",
   "para": "Aunque el Paradise Garage tenía a un responsable de luminotecnia muy talentoso en Robert DaSilva —quien también montó las luces en el Gallery y en Studio 54—, Levan tenía un segundo conjunto de controles instalados en una barra a lo largo de la parte superior de la cabina. Cuando el ánimo lo arrebataba —cuando estaba listo para sacar a la gente a pasear— se acercaba a la consola y sacaba a los ocupantes de la cabina. Era como despejar la cabina de vuelo para el despegue."
  },
+ "Era como prepararse para un futuro horrible».": {
+  "ch": 13,
+  "page": 535,
+  "sec": "Alemania",
+  "para": "Annie Lloyd, una promotora del Tresor, explicó a Dave Rimmer: «Cuando el tecno comenzó por primera vez en Berlín, era realmente apocalíptico. Un ruido ensordecedor, búnkers de hormigón donde no llegaba la luz solar, un aire tóxico, personas con máscaras de gas y ropa funcional, camuflaje y cosas por el estilo, de las que uno se pone para arrastrarse por alambres de púas. Era como prepararse para un futuro horrible»."
+ },
  "Era como ver a John Holmes en una película porno. Uno sabe que no puede hacerlo mejor».": {
   "ch": 12,
   "page": 481,
@@ -845,6 +959,12 @@ window.ANOCHE_REFS = {
   "page": 406,
   "sec": "El fin de la vieja escuela",
   "para": "Pero mientras la música se asentaba, el trasfondo sociocultural cambiaba. Muchas de las nuevas estrellas provenían de la clase media suburbana, así que el foco de atención se desplazó del centro de la ciudad. Los clubs como el Roxy cerraron o cambiaron de promotor, y pronto eran puestos fronterizos violentos del gueto en vez de un punto de intercambio cultural. La economía de la administración Reagan comenzó a golpear duro, y el crack convirtió los vecindarios del Bronx en zonas de guerra. Las cosas no eran tan divertidas como antes. Era el fin de la vieja escuela."
+ },
+ "Era el sonido del futuro de Detroit.": {
+  "ch": 13,
+  "page": 518,
+  "sec": "El tecno grabado",
+  "para": "Tan temprano como a sus diecisiete años, Juan Atkins les dijo a sus amigos que un día fundaría un sello llamado Metroplex. En 1985, con la ruptura de Cybotron, tenía la libertad para conseguirlo, y con el nombre Model 500 —que, en su opinión, era adecuado porque «no era étnico» (y quizá como un guiño a la numerología de Rick Davis)— produjo la grabación fundadora del tecno. No UFOs era un reto oscuro para las pistas de baile construido de capas de bajo robótico, líneas de melodía disonantes y ladridos de voces desencarnadas. Era música originalmente concebida para Cybotron, y, abordando el tema del control del Gobierno, continuaba el comentario social sombrío de Cybotron, pero era notablemente más rápida: el ritmo básico del electro se echó a un lado para dar cabida a un patrón industrial que empoderaba las «cuatro negras abajo» del bombo con una fuerza terrenal. Era el sonido del futuro de Detroit."
  },
  "Era la belleza que seguía el ritmo.": {
   "ch": 8,
@@ -894,11 +1014,23 @@ window.ANOCHE_REFS = {
   "sec": "El Saint",
   "para": "La pista de baile del Saint era una masa de cuerpos, cada uno esculpido a la perfección, que se movían al unísono como en un ritual. Lamentablemente, a pesar de la música vistosa del club, estos hombres hermosos se colocaban hasta reventar: con PCP, Quaalude, éxtasis, cocaína y anfetaminas. Eran dioses griegos con inveteradas adicciones. Las luces se apagaban, el proyector se encendía, y mientras Nueva York pasaba a las tareas rutinarias del domingo, millares de hombres inhalaban su droga y seguían bailando semidesnudos bajo las estrellas eléctricas."
  },
+ "Eran todo lo que querían porque les explotaba la cabeza».": {
+  "ch": 13,
+  "page": 536,
+  "sec": "Bélgica",
+  "para": "«Si tienes este sonido enorme que viene hacia ti, sobre todo si te has tomado un éxtasis, simplemente te explota la mente por completo —le dijo Bolland a Tony Marcus para Mixmag—. Si tienes un tema de Chicago con un poco de piano y de repente viene esta canción dura, es como que: “Guaaaaaaauuuu, ¿qué le pasa a mi cabeza?”. Pues entonces todos comenzaron a producir canciones duras. Eran todo lo que querían porque les explotaba la cabeza»."
+ },
  "Es el legado de un período corto (apenas entre 1976 y 1979) cuando parte de la música trascendió hacia una comercialidad sumamente rentable.": {
   "ch": 7,
   "page": 253,
   "sec": "SHE WORKS HARD FOR THE MONEY (ELLA TRABAJA DURO PARA GANARSE EL DINERO)",
   "para": "El disco que impulsó los musicales del West End, el disco que obligaba a los estudiantes borrachos a lucir pelucas afro y zapatos de plataforma, el disco que llevaba a todo el mundo a la pista de baile después de un millón de bodas tiene muy poco que ver con las raíces del disco y, sin duda, con el corpus musical y espiritual que da forma a esta corriente. Es el legado de un período corto (apenas entre 1976 y 1979) cuando parte de la música trascendió hacia una comercialidad sumamente rentable."
+ },
+ "Es endiabladamente rápido, pues el promedio de bpm sobrepasa con mucho las 200.": {
+  "ch": 13,
+  "page": 543,
+  "sec": "Países Bajos",
+  "para": "Sin embargo, la contribución más distintiva de este país es el gabber, término de la jerga de los astilleros de Rotterdam que significa «amigo» o «colega», que tiene todo el encanto musical de un martillo a vapor. Es endiabladamente rápido, pues el promedio de bpm sobrepasa con mucho las 200. Una grabación de 160 bpm se considera de tempo pausado. El speedcore, una variante, acelera el tempo hasta las 300 bpm. Los temas están repletos de sampleados satánicos, cánticos del fútbol (por lo general insultos al Ajax de Ámsterdam), antisemitismo ocasional y pesimismo mórbido. Una grabación, Alles Naar De Klote se traduce como «Todo es una mierda» y se pasa la mayoría del tiempo despreciando a DJ Dimitri. Otra tiene una carátula de dibujos animados que muestra la torre Euromast de Rotterdam inclinada y orinando sobre Ámsterdam."
  },
  "Es la fuente del electro, de la raíz de la música de bajo de Miami, es una fuente reconocida para el origen del house y el tecno, y ejerció una monumental influencia en la manera en que se crearían las grabaciones de hip-hop.": {
   "ch": 10,
@@ -990,6 +1122,18 @@ window.ANOCHE_REFS = {
   "sec": "D. ST y Rockit",
   "para": "Este, más que cualquier otro tema, fue lo que popularizó el scratching en todo el mundo. Con la ayuda de un excelente videoclip de Godley & Cream con piernas robóticas muy sexy, ayudó a romper la política de facto de MTV que prohibía «la música negra» y fue un éxito muy visto, aunque apenas alcanzara el número 71 (en el Reino Unido llegó a la octava posición)."
  },
+ "Estos vándalos sonoros estarían en primera línea durante la batalla del Gobierno contra la cultura del baile.": {
+  "ch": 13,
+  "page": 539,
+  "sec": "Reino Unido",
+  "para": "El tecno se convirtió en el sonido básico de los crusties, o «viajeros new age», en la medida en que el anarcopunk se adentró en la música bailable y adoptó el ideal de las raves como forma de seguir la tradición de los festivales gratuitos. Los sistemas de sonido tecno móviles se volvieron artefactos inseparables de la parafernalia crusty, como un perro con su amo, con los clubs Club Dop y Whirl-Y-Gig como ofertas más estables en Londres. Estos vándalos sonoros estarían en primera línea durante la batalla del Gobierno contra la cultura del baile."
+ },
+ "Están muy ocupados saliendo de fiesta».": {
+  "ch": 13,
+  "page": 518,
+  "sec": "Las fiestas de la escuela secundaria",
+  "para": "«De haber habido una escena de fiestas en Detroit, no hubiéramos podido crear la música que hicimos —dijo Eddie Fowlkes a Muzik—. Es lo que nos separa de Nueva York y Chicago. Están muy ocupados saliendo de fiesta»."
+ },
  "Flowers y Pete Jones merecen el crédito por desarrollar las mismas técnicas al mismo tiempo y, sobre todo, por impartirlas a una parte más amplia de Nueva York, incluido el Bronx.": {
   "ch": 9,
   "page": 347,
@@ -1001,6 +1145,12 @@ window.ANOCHE_REFS = {
   "page": 199,
   "sec": "Francis Grasso: el primer DJ moderno",
   "para": "Francis Grasso fue el primer DJ en presentar una verdadera interpretación creativa. Fue el primero en demostrar que una noche repleta de grabaciones podía ser una sola cosa: un viaje, una narrativa, un conjunto. Antes de Grasso, el DJ podía intuir que algunos discos tenían el poder de afectar el ánimo y la energía del público, pero solo después de Grasso el DJ sí reconoció que su poder le pertenecía a él mismo, y no a los discos. Asentó la manipulación diestra de los bailarines en la manera en que secuenciaba y programaba los discos y, en mucho menor grado, las canciones individuales."
+ },
+ "Frankfurt explotó y el Omen era el centro de la explosión».": {
+  "ch": 13,
+  "page": 546,
+  "sec": "El trance",
+  "para": "«Todos escuchábamos música industrial desde principios de los ochenta y habíamos vivido y trabajado en la misma ciudad relativamente pequeña durante años —dijo a Muzik—. En 1991 todo estaba en su lugar para que ocurriera algo grande. Frankfurt explotó y el Omen era el centro de la explosión»."
  },
  "Fue el primer DJ en mezclar discos.": {
   "ch": 3,
@@ -1080,6 +1230,12 @@ window.ANOCHE_REFS = {
   "sec": "Ron Hardy en el Music Box",
   "para": "El estilo de Frankie era más ordenado y mantenía su tempo mucho más bajo. Le prestaba más atención a la calidad de su sonido y sus sets eran más precisos y estructurados en términos técnicos, la intensidad subía y bajaba por ciclos durante la noche. Conforme a su estatus de «estrella» en la ciudad, su cabina lo mantenía relativamente inaccesible. Ron Hardy, por el contrario, tocaba con una energía cruda, de baja fidelidad, que le dejaba a uno sin dudas del trance por el que transitaba. Tocaba al nivel del suelo y lo único que le importaba era la energía, forzar a sus bailarines hasta el límite. Tenía poco tiempo para planificar nada. Como dice Marshall: «No le importaba una mierda programar ni nada de eso. Hardy se metía cada una de las drogas conocidas. ¿Cómo cojones programas eso?»."
  },
+ "Hasta Nude Photo, cuando ya todos dijeron: “Vale, esto ya no es música house”».": {
+  "ch": 13,
+  "page": 522,
+  "sec": "El tecno grabado",
+  "para": "«De la primera hornada de discos, puede uno argumentar que Detroit era un prolapso de Chicago —dice—. Hasta Nude Photo, cuando ya todos dijeron: “Vale, esto ya no es música house”». Sicko plantea que fue su construcción radical, su falta de voluntad para sencillamente juntar elementos preexistentes, lo que señala el cambio de paradigma."
+ },
  "Hasta que la industria musical adoptó tardíamente el formato MP3, el disco de 12 pulgadas fue el único formato de música grabada que se impuso por la demanda del consumidor": {
   "ch": 7,
   "page": 273,
@@ -1122,6 +1278,12 @@ window.ANOCHE_REFS = {
   "sec": "Los punks del Bronx",
   "para": "«Me dije: “¿Qué hostias es esto?”. Estaba completamente sobrecogida —dice Blue—. Solo sabía que, sin importar lo que fuera, quería involucrarme en el tema». Se presentó ante los chicos del Bronx después del espectáculo y, en las semanas siguientes, esta chica punky británica comenzó a pulular por el norte de la ciudad yendo a un club llamado Disco Fever. «Era el club de hip-hop. Nadie abajo en el centro tenía idea de qué rayos pasaba allá arriba, y eso era brutal. Flash era el DJ, Melle Mele era el MC, y había todos estos otros MC allí. Todos los de la Sugar Hill Gang estaban allí. Iba hasta allá arriba y era la única chica blanca en el club, y eso era salvaje, y pensé: “Dios mío, tengo que traer todo esto al centro”»."
  },
+ "Incluso hoy, al discutir lo que define este estilo, Derrick suele recurrir a la palabra melancolía.": {
+  "ch": 13,
+  "page": 523,
+  "sec": "El tecno grabado",
+  "para": "Mientras que al house le encantaba recalentar canciones viejas, el tecno rechazaba esa tradición. Mientras que el house se regodeaba en el disco con funk y soul, el tecno se quedaba transfigurado con la versión computarizada y veloz de Giorgio Moroder. Cuando el house robaba melodías y líneas de bajo al por mayor, el tecno componía nuevas, nota por nota. El tecno tenía que ver con regresar a los principios básicos, a los sonidos y a la composición, al arte musical. Los dos estilos eran muy distintos emocionalmente también, pues estaban relacionados con las ciudades que los alumbraron respectivamente: mientras que el house era una energía lujuriosa y eclesiástica, el tecno pululaba entre el lamento y la ansiedad. Incluso hoy, al discutir lo que define este estilo, Derrick suele recurrir a la palabra melancolía."
+ },
  "Inspirado por su primer peregrinaje al Twisted Wheel, acuñó el término northern soul en una columna para Blue & Soul de 1970.": {
   "ch": 4,
   "page": 132,
@@ -1145,6 +1307,24 @@ window.ANOCHE_REFS = {
   "page": 495,
   "sec": "El acid house",
   "para": "Nadie en Chicago esperaba que su música tuviera un impacto fuera de la ciudad, mucho menos en Londres, pero fue en el Reino Unido donde esta música alcanzó su apogeo. Love Can’t Turn Around y Jack Your Body fueron las puntas de lanza, pero el mercado de exportación dio un salto cuántico cuando Nathaniel Pierre Jones descubrió los sonidos supersintéticos, sofocantes y de ciencia ficción escondidos en las entrañas de una máquina de música que, de otra manera, hubiera sido condenada al desguace. Jones es más conocido como DJ Pierre, su grupo era Phuture, y la música que innovaron se convertiría en el acid house."
+ },
+ "Juan y él también compartían un interés por Alvin Toffler": {
+  "ch": 13,
+  "page": 509,
+  "sec": "Cybotron",
+  "para": "Davis tenía una filosofía personal distinta que hundía sus raíces en la ciencia ficción y en la numerología mística de la Cábala (de ahí su nombre, 3070). Juan y él también compartían un interés por Alvin Toffler, cuyo famoso libro La tercera ola predecía hábilmente un futuro postindustrial que pertenecería a los renegados tecno de la sociedad: rebeldes capaces de manipular la tecnología para sus propios fines. Tales pensamientos resonaban poderosamente con los sueños de Atkins sobre una música futurista creada con instrumentos electrónicos producidos en masa. Él y Davis pasaban horas discutiendo el tema, aplicando estas ideas al sombrío paisaje urbano postindustrial que era Detroit."
+ },
+ "Ken Collier llegó, puso una alfombrilla slipmat, puso un disco, se echó para atrás y pum. En diez segundos se llenó la pista».": {
+  "ch": 13,
+  "page": 516,
+  "sec": "Las fiestas de la escuela secundaria",
+  "para": "Fue en esta escena a la que Magic Juan y Derrick Mayday se lanzaron en 1981 y se establecieron como DJ con Keith Mixin Martin, Art Pumpin Payne y Eddie Flashin Fowlkes. Se llamaron a sí mismos Deep Space Soundworks, y a pesar de sus apodos dinámicos, su primera actuación no fue nada prometedora. Después de rogar un poco, estos novatos tocaron como antesala para Ken Collier en una fiesta de Pink Poodle en el Downstairs Pub. «Tocábamos discos de 7 pulgadas en platos que todavía tenían la alfombrilla de goma encima —recuerda Derrick—. Ni una persona bailaba. Ken Collier llegó, puso una alfombrilla slipmat, puso un disco, se echó para atrás y pum. En diez segundos se llenó la pista». Deep Space serían los subestimados en esta escena ferozmente competitiva durante la mayor parte de su existencia. «Había otra compañía llamada Direct Drive, y odiábamos a esos cabrones. —Derrick se ríe—. Tocaban esta música disco melindrosa, y detestábamos eso. Eran la clase dominante y nosotros luchábamos contra ellos»."
+ },
+ "Kraftwerk producía tecno cuando Detroit aún fabricaba coches.": {
+  "ch": 13,
+  "page": 505,
+  "sec": "Kraftwerk",
+  "para": "Kraftwerk producía tecno cuando Detroit aún fabricaba coches. Cuatro alemanes vestidos como robots bibliotecarios no parecía que guardaran escondida en sus pantalones de fiesta una explosión en la pista, pero su influencia en la música bailable es más profunda que la de cualquier otro grupo. Los músicos de formación clásica Ralf Hütter y Florian Schneider se conocieron en la Academia de las Artes de Düsseldorf en 1968. A medida que emergían los primeros instrumentos electrónicos, concibieron una música que daría vida a la cultura de la posguerra alemana en la que se arrancaba virtualmente desde cero."
  },
  "La burla terminó en junio de 1976 cuando Salsoul, un sello independiente pequeño, lanzó un disco de 12 pulgadas que era demasiado bueno para ser una artimaña: Ten Percent de Double Exposure.": {
   "ch": 7,
@@ -1320,6 +1500,12 @@ window.ANOCHE_REFS = {
   "sec": "La pugna por el alma del soul",
   "para": "La respuesta de Levine, mucho más polémica, fue mirar al presente en busca de sonidos frescos, añadiendo temas del soul moderno, discos de 12 pulgadas y canciones de jazz-funk al repertorio. A los ojos de muchos suponía una burla. Esta era una cultura que idolatraba lo viejo, lo polvoriento y lo anónimo. Un DJ de northern soul rompía las reglas del oficio si se atrevía a adulterar el sonido fuerte y pinchar discos genuinamente nuevos (y fáciles de conseguir). Mientras Levine exhibía su amplitud de miras, se encontró abriendo una profunda brecha entre los feligreses."
  },
+ "La revolución por el cambio».": {
+  "ch": 13,
+  "page": 540,
+  "sec": "La segunda ola de Detroit",
+  "para": "No hacían caso a la industria discográfica dominante de Estados Unidos; en cambio, fundaron sus propios sellos o lanzaban temas con Tansmat, KMS y Metroplex. O con sellos europeos como Tresor, Djax y R&S. La ética desafiante antiindustrial se llevó al extremo cuando Jeff Mills y el antiguo teclista funk Mad Mike Banks (a los que más tarde se unió Robert Hood) fundaron Underground Resistance y comenzaron a lanzar tecno industrial duro, empaquetado y promocionado con militante autoconfianza. Banks desgranó a Collin cuál era su concepto: «Luchábamos por la causa: la música underground contra la mierda esa de los Top 40. Lo que defendemos es la resistencia. Siempre lucharemos contra esa mierda. La revolución por el cambio». Kevin Saunderson fue uno de los que se sorprendió con lo duro que fue su sonido inicial. «Eran tan pesados que me sorprendieron un poco —admitió—. Nunca conocí a alguien que tocara tan duro en Detroit, sobre todo dos afrodescendientes»."
+ },
  "La revolución que causó el twist se debe a su sencillez.": {
   "ch": 3,
   "page": 88,
@@ -1398,6 +1584,12 @@ window.ANOCHE_REFS = {
   "sec": "Tony Humphries y la música garaje",
   "para": "El sistema de sonido de Richard Long estaba impúdicamente expuesto; se podían ver los amplificadores a través del cristal. Era tan potente que los aficionados que esperaban para entrar recuerdan ver todo el edificio temblar. Lo llamaban el sistema terremoto. Para Doug Smith, del equipo de producción de North 95, era la primera vez que escuchaba un sistema de sonido real. «No era perceptible por todos lados, sino que se concentraba en la pista de baile. Si uno salía de ella, podía tener una conversación con una persona en un tono de voz normal. Tan pronto uno cruzaba el umbral de la pista, sin embargo, era asombroso, te pegaba en el centro del pecho»."
  },
+ "Lo llamamos el baile de la liberación».": {
+  "ch": 13,
+  "page": 533,
+  "sec": "Alemania",
+  "para": "Durante tres largos días con sus noches, el nuevo Berlín celebró por todo lo alto entre las ruinas al ritmo del house y el tecno. «Después de la caída del muro fue como: “¡que todo el mundo grite!” —le contó DJ Westbam (Maximilian Lenz) a Matthew Collin para i-D—. Tiene que ver con que la gente de Alemania Oriental deseaba soltarse después de todo ese control. Lo llamamos el baile de la liberación»."
+ },
  "Lo llamamos “scratching”».": {
   "ch": 10,
   "page": 415,
@@ -1415,6 +1607,12 @@ window.ANOCHE_REFS = {
   "page": 11,
   "sec": "Lo que realmente hace un DJ",
   "para": "Lo que hace un DJ es esto: sabe de música. El DJ conoce la música mejor que tú, mejor que tus amigos, mejor que cualquiera en la pista de baile o en la tienda de discos. Algunos DJ conocen su género preferido mejor que nadie más en el planeta. Claro, cualquiera puede poner un disco, pero la mayoría de la gente solo tiene canciones que todos han escuchado, canciones que ya aburren al personal. Un buen DJ lanza a la sala momentos musicales tan nuevos y tan frescos que se antoja irrelevante el que la música sea grabada, y tan poderosos que fácilmente desbancará a tus favoritos de todos los tiempos (y aquí algo «fresco» puede significar una canción vieja rescatada de la más absoluta oscuridad tan fácilmente como una pista producida ayer). El verdadero trabajo del DJ no es agazaparse detrás de los platos por un par de horas, con un aire furtivo a la espera de cupones para bebida; el verdadero tiempo y esfuerzo se empeña en una vida entera examinando la música para decidir si es buena, mala o «¡Ay, Dios mío, escucha esto!». La labor de un DJ es canalizar el vasto océano de música grabada en una sola noche inolvidable."
+ },
+ "Lo único que teníamos para compararlo era Kraftwerk.": {
+  "ch": 13,
+  "page": 509,
+  "sec": "Cybotron",
+  "para": "El primer lanzamiento de Cybotron, Alleys Of Your Mind, salió en 1981 en su propio sello, Deep Space, impreso como un disco de 7 pulgadas. (Juan se ríe al recordar cómo un DJ lo pegó a un disco de 12 pulgadas que le sobraba para poder pincharlo). Un tema electro pulsante y disperso con una voz robótica paranoide, se convirtió en un éxito local y vendió más de 10 000 copias en Chicago y Detroit, apoyado por algunas emisiones por cortesía de Electrifyin’ Mojo. La mayoría de los que lo escucharon estaban convencidos de que lo había grabado algún blanco europeo (debe su inspiración a Mr. X, una canción del elepé «Vienna» de Ultravox). Pero cuando la gente se percató de que Juan era un adolescente de Detroit, sabían que había elevado los estándares. «Era increíble —recuerda el DJ y productor de Detroit Jeff Mills—. Juan estaba tan adelantado. Lo único que teníamos para compararlo era Kraftwerk. Si uno realmente pensaba en lo joven que era y en su técnica para aunar todos los elementos musicales, era alucinante, increíble»."
  },
  "Los Bee Gees lograron para el disco lo que Elvis Presley logró para el R&B": {
   "ch": 7,
@@ -1451,6 +1649,12 @@ window.ANOCHE_REFS = {
   "page": 478,
   "sec": "El Hot Mix 5",
   "para": "Los Hot Mix 5, además de ser importantes creadores de tendencia, mezclaban como locos: mucho mejor, se dicen, que Knuckles y Hardy."
+ },
+ "Los asistentes recuerdan que Derrick May grabó campanas de reloj sobre Strings Of Life y que cerró con Pacific State de 808 State.": {
+  "ch": 13,
+  "page": 531,
+  "sec": "Un mercado de exportación",
+  "para": "La reedición de May de We Call It Acieed de D-Mob era el himno del MI, tocado entre lanzamientos locales y otras canciones en boga de la explosión del acid house británico. Carl Craig recuerda los potentes sets de May en el lugar. «Tocaba las ediciones más locas de la música más salvaje. Cuando Derrick disyoqueaba, uno no sabía si pinchaba discos o manipulaba el equipo. La gente se volvía loca. Tocaba Big Fun tres o cuatro veces y cada vez me volaba la mente, y la de los demás también». Lamentablemente, el centro de Detroit no estaba preparado para apoyar un club que tocara hasta altas horas buena música bailable, pero que no sirviera alcohol. Y como su principal DJ solía estar fuera ganando mucho dinero en Europa, el auge de club se perdió pronto. El Music Institute cerró el 24 de noviembre de 1989. Los asistentes recuerdan que Derrick May grabó campanas de reloj sobre Strings Of Life y que cerró con Pacific State de 808 State."
  },
  "Los atuendos de mafiosos de Cold Crush debutaron en uno de los duelos más famosos de la historia": {
   "ch": 10,
@@ -1578,6 +1782,12 @@ window.ANOCHE_REFS = {
   "sec": "Duelos",
   "para": "«Y decía: “Grandmaster Flash está en la casa”, por el micrófono, y cortaba los altos y bajos de su sistema y solo tocaba el rango medio. “Flash”, decía, “para ser un disc jockey de verdad tienes que tener una cosa… ¡altos!”. Entonces Herc encendía sus altos y el hi-hat sonaba al rojo vivo. “Y sobre todo, Flash”, decía, “tienes que tener… ¡bajo!”. Pues cuando entraba el bajo de Herc, todo el lugar retumbaba. Me sentí tan avergonzado que tuve que irme. Mi sistema no le llegaba ni a la suela de los zapatos»."
  },
+ "Mi primera meta era que Ron Hardy y Frankie las tocaran.": {
+  "ch": 13,
+  "page": 521,
+  "sec": "El tecno grabado",
+  "para": "Juan no sentía mucha simpatía por lo gay de la escena. «Decía: “Ay, hombre, a la mierda con esa mariconería”». Pero Derrick centró todos sus esfuerzos en Chicago. «Recuerdo crear Nude Photo y Strings Of Life. Mi primera meta era que Ron Hardy y Frankie las tocaran. Pensaba que si estos individuos tocaban mi canción, alcanzaría el éxito». Fue Knuckles quien bautizó la canción Strings Of Life, después de que May le hiciera llegar una primera demo. Trajo varios amigos para ver a Hardy tocar, incluido Kevin, quien se quedó tan impresionado que luego escribió Bounce Your Body To The Box [mueve tu cuerpo al ritmo del Box] como homenaje. Hasta Derrick jugó un pequeño papel en esta avalancha de temas que comenzaron a fluir desde Chicago, pues llevó al Power Plant una caja de ritmos 909. Al principio, Frank la usaba para fortalecer los sonidos del bombo de sus grabaciones más viejas, pero a la máquina se le empezó a dar un uso constante cuando una serie de futuros productores la tomaron prestada para grabar temas, entre ellos Chip E y Steve Hurley. En poco tiempo, los productores de Detroit empezaron a llevar regularmente cargamentos de discos en sus coches a la Ciudad de los Vientos. «Chicago nos daba esperanza, nos daba inspiración —dice Kevin—, así que, aunque no había mucho que hacer en casa, en la puerta de al lado había mucho más»."
+ },
  "Mientras Christopher Street bulle con la lucha por la emancipación de la comunidad gay, el DJ está ocupado reescribiendo la manera en que escuchamos las grabaciones en los clubs nocturnos.": {
   "ch": 6,
   "page": 193,
@@ -1590,11 +1800,29 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Mientras que Tom Moulton fue el pionero de la remezcla, Gibbons, un DJ, fue quien realmente demostró su potencial máximo. Las primeras remezclas de Moulton no cambiaron radicalmente la naturaleza sonora de las canciones, sino que tenían que ver con extender las mejores partes y eliminar las más débiles. Gibbons fue mucho más drástico en su enfoque, pues desmantelaba las canciones casi hasta sus elementos más primitivos y los reconstruía en capas complejas e imbricadas de sonido. Como su estilo de DJ, salvaje y tribal, sus remezclas destacaban en la esencia rítmica de la pista. A Walter Gibbons le encantaba la percusión."
  },
+ "Mientras que al house le encantaba recalentar canciones viejas, el tecno rechazaba esa tradición.": {
+  "ch": 13,
+  "page": 523,
+  "sec": "El tecno grabado",
+  "para": "Mientras que al house le encantaba recalentar canciones viejas, el tecno rechazaba esa tradición. Mientras que el house se regodeaba en el disco con funk y soul, el tecno se quedaba transfigurado con la versión computarizada y veloz de Giorgio Moroder. Cuando el house robaba melodías y líneas de bajo al por mayor, el tecno componía nuevas, nota por nota. El tecno tenía que ver con regresar a los principios básicos, a los sonidos y a la composición, al arte musical. Los dos estilos eran muy distintos emocionalmente también, pues estaban relacionados con las ciudades que los alumbraron respectivamente: mientras que el house era una energía lujuriosa y eclesiástica, el tecno pululaba entre el lamento y la ansiedad. Incluso hoy, al discutir lo que define este estilo, Derrick suele recurrir a la palabra melancolía."
+ },
  "Miro a estos muchachos y pienso: “Nosotros empezamos esa mierda”.": {
   "ch": 10,
   "page": 419,
   "sec": "El transforming y el beat-juggling",
   "para": "«Me encanta ir a estos nuevos duelos entre DJ y ver a estos muchachos, ¡porque la cosa se pone fuera de control! —dice entusiasmado—. Ver en carne propia que has inspirado un género, todo un movimiento… Miro a estos muchachos y pienso: “Nosotros empezamos esa mierda”. Es increíble lo que estos tipos aprendieron de nosotros, y parece que no tiene fin»."
+ },
+ "Mojo le dio a Detroit una fuerte dosis de Prince, y en un hecho importante, cuando tuvo en sus manos el álbum «Computer World» de Kraftwerk, solía pinchar el disco entero con frecuencia.": {
+  "ch": 13,
+  "page": 503,
+  "sec": "Electrifyin’ Mojo",
+  "para": "Los tres adolescentes escuchaban un programa nocturno, «The Midnight Funk Association», y estaban irremisiblemente hechizados por la voz hipnótica y la música encantadora de DJ Charles Johnson, Electrifyin’ Mojo. Con una filosofía que desafiaba el curso de las modas y que privilegiaba las emociones por encima de otras consideraciones, Mojo ignoraba el separatismo racial instalado en las ondas raciales para dar a conocer una variedad de sonidos futuristas: combinaba el funk galáctico de los héroes locales Parliament-Funkadelic con un guiso ecléctico de bandas sonoras, música clásica y pop sintetizado europeo de lo más reciente. Mojo le dio a Detroit una fuerte dosis de Prince, y en un hecho importante, cuando tuvo en sus manos el álbum «Computer World» de Kraftwerk, solía pinchar el disco entero con frecuencia."
+ },
+ "Motte lo había inscrito astutamente como un evento político, una «manifestación de la música house» para fomentar la unificación": {
+  "ch": 13,
+  "page": 550,
+  "sec": "El festival Love Parade",
+  "para": "Una manifestación poderosa de la supremacía del tecno fue el rápido auge del festival Love Parade de Berlín, cuyo momento culminante en 1999 vio a un millón y medio de personas de fiesta al son del tecno por toda la ciudad, con cabellos de colores neón, pantalones cortos color plata, pechos desnudos y pistolas de agua. Ahora este festival tiene ediciones en San Francisco, Acapulco, Tel Aviv y Santiago de Chile. Desde su primera edición en agosto de 1989, cuando su fundador, DJ Dr. Motte (Matthias Roeingh) reunió a 150 amigos detrás de una camioneta Volkswagen para apoderarse espontáneamente mediante un sistema de sonido del distrito comercial acaudalado de Ku’damm, la cantidad de personas en el carnaval callejero ha crecido exponencialmente. Motte lo había inscrito astutamente como un evento político, una «manifestación de la música house» para fomentar la unificación, lo cual implicaba que la ciudad pagaba por la seguridad y la limpieza. Pero en 2001 plantearon que Sven Väth vistiendo un par de alas de ángel y miles de tecnodamiselas semidesnudas en realidad no manifestaban gran cosa, y la ciudad retiró el apoyo al evento. La caída en el número de asistentes y la dificultad para conseguir patrocinadores en una economía alemana en horas bajas llevó a la cancelación del evento en 2004, y 2005 fue un año que vio el ominoso cierre del E-Werk y el Tresor. El Love Parade se trasladó a Bochum, en la región del Ruhr."
  },
  "Muchas de las primeras grabaciones del house derivan directamente de temas de italodisco.": {
   "ch": 12,
@@ -1644,17 +1872,41 @@ window.ANOCHE_REFS = {
   "sec": "Los punks del Bronx",
   "para": "»Quería hacer saber a la gente que esta era una cultura multidisciplinaria en la que, como había leído en algún lugar, confluían el baile, la pintura y la música. Esa era la razón por la que quería que se filmara esta película, para dejar constancia esto del arte grafitero, de su enfoque, de sus ramificaciones; estaba vinculada a una forma de música y a una forma de baile. Nadie había conectado antes estos tres elementos»."
  },
+ "No UFOs era un reto oscuro para las pistas de baile construido de capas de bajo robótico": {
+  "ch": 13,
+  "page": 518,
+  "sec": "El tecno grabado",
+  "para": "Tan temprano como a sus diecisiete años, Juan Atkins les dijo a sus amigos que un día fundaría un sello llamado Metroplex. En 1985, con la ruptura de Cybotron, tenía la libertad para conseguirlo, y con el nombre Model 500 —que, en su opinión, era adecuado porque «no era étnico» (y quizá como un guiño a la numerología de Rick Davis)— produjo la grabación fundadora del tecno. No UFOs era un reto oscuro para las pistas de baile construido de capas de bajo robótico, líneas de melodía disonantes y ladridos de voces desencarnadas. Era música originalmente concebida para Cybotron, y, abordando el tema del control del Gobierno, continuaba el comentario social sombrío de Cybotron, pero era notablemente más rápida: el ritmo básico del electro se echó a un lado para dar cabida a un patrón industrial que empoderaba las «cuatro negras abajo» del bombo con una fuerza terrenal. Era el sonido del futuro de Detroit."
+ },
+ "No en vano los chicos lo adoran tanto.": {
+  "ch": 13,
+  "page": 544,
+  "sec": "El trance",
+  "para": "…de un ritmo, lo cual vuelve a la persecución excitante más estimulante cuando, después de escaparse a las tiendas, cambiar una bombilla y darle de comer al gato, por fin regresan. Mezclar dos canciones distintas haría crujir los dientes a cualquiera, pero cortar de un tema a otro en claves más altas provoca el sentimiento dramático de una energía nueva (la modulación, o cambiar de clave, es el equivalente de cambiar de marcha en un coche). Al mover las escalas con las grabaciones, un DJ de trance puede crear la impresión de que el nivel de energía de la música sube constantemente. Si uno le pidiera a un psicólogo que estudiara los efectos de la música en los humanos bajo los efectos del éxtasis y que luego diseñara un estilo de música que los estimulara al máximo, pues eso sería el trance. No en vano los chicos lo adoran"
+ },
  "No se construyó el monumento. Hoy, el edificio es un banco.": {
   "ch": 8,
   "page": 329,
   "sec": "Tragedia",
   "para": "No se construyó el monumento. Hoy, el edificio es un banco."
  },
+ "No teníamos figuras paternas, no teníamos una tradición continua de entretenimiento.": {
+  "ch": 13,
+  "page": 505,
+  "sec": "Kraftwerk",
+  "para": "«Cuando comenzamos fue un shock, se hizo el silencio. ¿De dónde venimos? —le espetó Ralf Hütter a Jon Savage para The Village Voice—. No teníamos figuras paternas, no teníamos una tradición continua de entretenimiento. Durante los cincuenta y sesenta, todo se americanizó. Éramos parte del movimiento del 68, donde de repente parecían abrirse muchas posibilidades, y fue entonces cuando comenzamos a trabajar en la creación de un sonido alemán»."
+ },
  "Nuestra empresa tenía por objeto escribir una biografía de la figura más importante de la música dance: el disc jockey": {
   "ch": 1,
   "page": 2,
   "sec": "PREFACIO A LA PRIMERA EDICIÓN",
   "para": "Nuestra empresa tenía por objeto escribir una biografía de la figura más importante de la música dance: el disc jockey [DJ, pronunciado «diyéi»]. Caracterización que, a modo de semblanza, hurga en la evolución de la figura del DJ hasta su consagración como motor de la música popular. Al relatarla, nos hemos centrado en los años de mayor locura, cuando todo valía y hervía, en perjuicio de su comportamiento reciente, ahora que ha sentado la cabeza y se ha convertido en una figura respetable."
+ },
+ "Nunca conocí a alguien que tocara tan duro en Detroit, sobre todo dos afrodescendientes».": {
+  "ch": 13,
+  "page": 540,
+  "sec": "La segunda ola de Detroit",
+  "para": "No hacían caso a la industria discográfica dominante de Estados Unidos; en cambio, fundaron sus propios sellos o lanzaban temas con Tansmat, KMS y Metroplex. O con sellos europeos como Tresor, Djax y R&S. La ética desafiante antiindustrial se llevó al extremo cuando Jeff Mills y el antiguo teclista funk Mad Mike Banks (a los que más tarde se unió Robert Hood) fundaron Underground Resistance y comenzaron a lanzar tecno industrial duro, empaquetado y promocionado con militante autoconfianza. Banks desgranó a Collin cuál era su concepto: «Luchábamos por la causa: la música underground contra la mierda esa de los Top 40. Lo que defendemos es la resistencia. Siempre lucharemos contra esa mierda. La revolución por el cambio». Kevin Saunderson fue uno de los que se sorprendió con lo duro que fue su sonido inicial. «Eran tan pesados que me sorprendieron un poco —admitió—. Nunca conocí a alguien que tocara tan duro en Detroit, sobre todo dos afrodescendientes»."
  },
  "Nunca había ido a un lugar donde el DJ tenía tal control sobre las personas": {
   "ch": 12,
@@ -1667,6 +1919,12 @@ window.ANOCHE_REFS = {
   "page": 367,
   "sec": "Rapear",
   "para": "Los MC de las fiestas del Bronx pronto introdujeron nuevos elementos y estilos a toda prisa. Cowboy, el fenecido Keith Wiggins, fue el primer MC permanente de Flash. Es recordado como el primero en rimar sobre su DJ, y el primero en ponerse al frente y actuar como un maestro de ceremonias de forma artística. Flash le atribuye la adición del elemento humanizante que al final logró que el estilo de la mezcla rápida fuera agradable al público. «Si no fuera por Cowboy, pues no lo sé… Cowboy encontró la forma de complementar lo que yo hacía». Otro compinche de Flash, Melle Mel (Melvin Glover), es el MC de los MC: su nombre aparece con más frecuencia cuando los raperos hablan de sus héroes."
+ },
+ "Otro tema clave fue Age Of Love de Age Of Love, que a veces se cita como la primera grabación de trance": {
+  "ch": 13,
+  "page": 548,
+  "sec": "El trance",
+  "para": "El término trance dancing había cobrado fuerza durante la era del acid house, y los círculos estadounidenses habían usado antes la palabra trance para referirse a una música house mínima y repetitiva —temas hipnóticos como las mezclas Wildpitch de DJ Pierre—, así que cuando estos DJ cambiaron a un sonido tecno menos dinámico, menos fascinante, este fue el término que encajó. Este estilo al principio era más lo que ahora llamamos progessive house encarnado en una canción candente como We Came In Piece de Dance 2 Trance (DJ Dag y Rolf Ellmar). Otro tema clave fue Age Of Love de Age Of Love, que a veces se cita como la primera grabación de trance; aquí una repetición constante e hipnótica del ritmo queda empapada de cortes sintéticos emotivos que emulan un coro de ángeles, que dan una idea clara de adónde se dirigiría el trance. A la vanguardia del trance alemán estaba el sello de Sven Väth, y MFS —un sello de Berlín fundado por Brit Mark Reeder de las cenizas de la discográfica estatal de Alemania Oriental—, junto con los productores Jam & Spoon (Rolf Ellmar y Mark Spoon), Cosmic Baby (Harald Blüchel) y Olivier Lieb."
  },
  "Para acortar las pausas entre grabaciones, se le ocurrió la idea de emplear dos platos.": {
   "ch": 3,
@@ -1902,6 +2160,12 @@ window.ANOCHE_REFS = {
   "sec": "Alan Freed y el rock’n’roll",
   "para": "Se dice que el rock’n’roll nació la noche del 21 de marzo de 1952, cuando Alan Freed, un DJ de la WJW de Cleveland, organizó su baile Moondong Coronation Ball, un gran concierto de R&B. El poder de Freed como DJ era tal que, con poca publicidad salvo los anuncios que lanzaba él mismo en antena, el evento atrajo un público enorme, compuesto casi en su totalidad por personas de raza negra. El Cleveland Arena tenía capacidad para 10 000 personas, y Freed al principio tenía la preocupación de no poder recuperar el dinero. Sin embargo, para las 23.30 horas, como informó el Cleveland Press, «una multitud de 25 000 fans del jazz se presentaron en el lugar, atascados en cada centímetro del suelo». Miles de personas vestidas con traje estilo zoot, entrada en mano, gritaban a la entrada y al derribar las puertas y con los primeros roces tumultuarios, el cuerpo de bomberos y la policía encendieron las luces y detuvieron el espectáculo. Un estudiante universitario de la época comentó después: «Las autoridades estaban preocupadas. Nunca habían visto tanta gente negra en la calle». Después del evento, la prensa local lanzó una intensa campaña para que Freed se fuera de la ciudad."
  },
+ "Se llamaba Techno City.": {
+  "ch": 13,
+  "page": 510,
+  "sec": "Cybotron",
+  "para": "Aunque Alleys Of Your Mind se le había adelantado unos meses, la corona electro fue conquistada por Afrika Bambaataa con su gran éxito Planet Rock, que perseguía una visión casi idéntica del funk electrónico. Cybotron lanzó dos sencillos más, Cosmic Car y su clásico Clear, que llegó al puesto 52 en la lista de Sencillos Afrodescendientes de Billboard. Consiguieron un contrato para un álbum con Fantasy, en California, y lo grabaron, «Ether», pero cuando Davis, a quien le encantaba Jimi Hendrix, dejó claro que quería seguir una dirección más orientada hacia el rock, la banda se rompió en 1984. Libre para seguir la ruta que trazara su sintetizador, Juan ya sabía cuál iba a ser el siguiente paso. Aunque el lanzamiento final de Cybotron era una opción pobre para dar seguimiento a Clear, su nombre estaba destinado a resonar. Se llamaba Techno City."
+ },
  "Se llamaban a sí mismos los Homo Promos.": {
   "ch": 7,
   "page": 260,
@@ -1986,6 +2250,12 @@ window.ANOCHE_REFS = {
   "sec": "David Mancuso en el Loft",
   "para": "Si el disco tiene un ángel, este es la figura desaliñada de David Mancuso; y si tuvo un lugar de nacimiento, fue su club, el Loft. Más influyente que cualquier club nocturno anterior o posterior, fue el lugar donde se concibió la música que bailas hoy, así como el lugar adonde ir a bailarla."
  },
+ "Si el gabber apuntaba a una inadmisibilidad brutal, el trance es quizá la forma más aceptable de tecno que se haya creado hasta ahora": {
+  "ch": 13,
+  "page": 544,
+  "sec": "El trance",
+  "para": "Si el gabber apuntaba a una inadmisibilidad brutal, el trance es quizá la forma más aceptable de tecno que se haya creado hasta ahora, la materia prima de las pistas de baile del siglo XXI, desde Singapur hasta Seattle. Altisonante y edificante, combina los ritmos rápidos y duros hasta la melodía extrema. El trance se asegura de tener las suficientes notas por centímetro cuadrado y melodías de paisajes sonoros épicos al son de los que uno se puede mover: ya sea clásico, pegajoso o psicodélico. Una característica definitoria son los arreglos adecuados para el consumo de drogas y trucos de Pavlov, como redobles inminentes de la caja de la batería y breakdowns flotantes y etéreos, donde las melodías en pleno vuelo tienen espacio para ejecutar su magia. Estos momentos de melodía pura dejan a los bailarines rogando en favor de un ritmo, lo cual vuelve a la persecución excitante más estimulante cuando, después de escaparse a las tiendas, cambiar una bombilla y darle de comer al gato, por fin regresan. Mezclar dos canciones distintas haría crujir los dientes a cualquiera, pero cortar de un tema a otro en claves más altas provoca el sentimiento dramático de una energía nueva (la modulación, o cambiar de clave, es el equivalente de cambiar de marcha en un coche). Al mover las escalas con las grabaciones, un DJ de trance puede crear la impresión de que el nivel de energía de la música sube constantemente. Si uno le pidiera a un psicólogo que estudiara los efectos de la música en los humanos bajo los efectos del éxtasis y que luego diseñara un estilo de música que los estimulara al…"
+ },
  "Si el movimiento disco fue apaleado por la comercialidad rampante, el sida se lo llevó a la tumba.": {
   "ch": 8,
   "page": 325,
@@ -2015,6 +2285,12 @@ window.ANOCHE_REFS = {
   "page": 441,
   "sec": "El poder detrás del mito",
   "para": "«Solía llevarse los discos de los platos de Larry —recuerda entre risas el promotor de discos Bobby Shaw—. Si tocaban una grabación tuya en el Paradise Garage un viernes o un sábado por la noche, había una muy buena oportunidad de que saliera en antena en la WBLS»."
+ },
+ "Si uno era un adolescente afrodescendiente buscando apartarse de la cultura que Estados Unidos esperaba que uno disfrutara, aquí estaba: código Morse desde Marte.": {
+  "ch": 13,
+  "page": 507,
+  "sec": "Kraftwerk",
+  "para": "Aunque los instrumentos electrónicos aún eran muy caros, emergió un puñado de productores con la determinación de modelar su carrera a imagen y semejanza de Kraftwerk. Los contemporáneos de la banda incluían a Jean-Michel Jarre, Giorgio Moroder y Evangelos Odysseas Papathanassiou (Vangelis). Para finales de los setenta, los sintetizadores eran cajas en vez de salones, y los grupos electrónicos se infiltraban en el terreno del pop. Human League, Gary Numan, Ultravox, Devo, Yello: al final de la revolución del punk, había un flujo constante de grupos sintetizadores. Si uno era un adolescente afrodescendiente buscando apartarse de la cultura que Estados Unidos esperaba que uno disfrutara, aquí estaba: código Morse desde Marte."
  },
  "Simplemente, el disco sufrió mejoras cosméticas, cambió de nombre varias veces y dio instrucciones para que le enviaran el correo a un vecindario menos glamuroso.": {
   "ch": 11,
@@ -2106,6 +2382,12 @@ window.ANOCHE_REFS = {
   "sec": "Larry Levan y Frankie Knuckles en el Continental Baths",
   "para": "El 1973, Levan se convirtió en el DJ principal del club, con Frankie de antesala en las noches más tranquilas. Levan se fue en 1974 para abrir su propio club con su socio, el técnico de sonido Richard Long. Su tiempo en el Tubs fue el prototipo para el legendario Paradise Garage. Aunque en el Garage fue donde se convirtió en una estrella, Levan nunca olvidó que sus raíces están en los primeros años temerarios del disco."
  },
+ "Su título provisional fue «The House Sound of Detroit».": {
+  "ch": 13,
+  "page": 524,
+  "sec": "El tecno definido",
+  "para": "Rushton comenzó a contratar licencias de temas para lanzamientos en el Reino Unido, y pronto se dio cuenta de que no había suficiente material en un álbum. Convenció a una subsidiaria de Virgin, Ten, para que creara una compilación que destacara la Ciudad del Motor: mucho de Atkins, May y Saunderson, más un par de temas de Blake Baxter, quien David confiaba que daría al tecno más recorrido. Su título provisional fue «The House Sound of Detroit». El nombre se cambió solo en una etapa muy adelantada, cuando Virgin se percató de la ventaja de vender esta música como la siguiente novedad."
+ },
  "Superó al género de mayor venta de la historia de Estados Unidos —el country— en 1999": {
   "ch": 10,
   "page": 423,
@@ -2147,6 +2429,12 @@ window.ANOCHE_REFS = {
   "page": 473,
   "sec": "Ron Hardy en el Music Box",
   "para": "Esta apertura sexual produciría transformaciones drásticas en los chicos heteros más rudos que se aventuraban hasta el lugar. Había poca o ninguna homofobia. «Si no soportas estar entre gais, pues no podías ir de fiesta en la ciudad de Chicago —recuerda Cedric—. Te preguntaban: “¿Eres hijo o hijastro?”. Es decir, ¿eres gay o no? Si eras hijastro, quería decir que eras hetero, pero te aceptábamos». Durante un tiempo fue una moda actuar como un gay aunque no lo fueras. Cedric recuerda personas que experimentaban con su bisexualidad en un intento para acercarse al verdadero significado de la música house."
+ },
+ "Tenía más sentido para los oídos de la industria escuchar esta música de las manos de europeos blancos.": {
+  "ch": 13,
+  "page": 531,
+  "sec": "Un mercado de exportación",
+  "para": "El tecno de Detroit, con su estilo radical y creado con tecnología asequible, fue una inspiración internacional, y en Europa comenzó a recombinarse con los géneros industriales que había inspirado parcialmente. Entretanto, Derrick y Juan pasaron por un período de relativa inactividad, Inner City pasó a manos de personal de A&R que se inclinaban por el R&B, y la segunda ola de productores empezaban a firmar con sellos europeos. El tecno se convirtió rápidamente en la música que emergía de Bélgica y Alemania, y evolucionaba rápidamente en un guiso global de escenas y estilos. El sonido euro comenzó a dominar y robó la atención que recibían los pioneros estadounidenses del tecno. Tenía más sentido para los oídos de la industria escuchar esta música de las manos de europeos blancos."
  },
  "Tenías que moverlos con los pies. Era el podólogo».": {
   "ch": 12,
@@ -2232,6 +2520,12 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento de la remezcla",
   "para": "Una de las primeras personas que cobró notoriedad por esta práctica fue, curiosamente, no un disc jockey, sino un modelo llamado Tom Moulton. El robusto Moulton, quien no desentonaría en un anuncio para productos de afeitar para hombres, había trabajado previamente en ventas al detalle y promoción de discos (trabajó con el sello King de Syd Nathan en los cincuenta, donde James Brown grabó su material más combativo. Aunque nunca fue disc jockey, desarrolló una gran afinidad con la pista muy parecida a la de los DJ."
  },
+ "Una forma para entender la obsesión adolescente de Detroit por la música europea es concebirla como una rebelión contra la tradición R&B, la música de sus padres.": {
+  "ch": 13,
+  "page": 515,
+  "sec": "Las fiestas de la escuela secundaria",
+  "para": "Jeff Mills piensa que la perspectiva internacional de Detroit proviene de su riqueza previa y de su cercanía a Canadá. «Crecimos con ganas de superar las barreras de Detroit. Muchos de nosotros exploramos ciertas cosas, cosas únicas, para definirnos. La música fue una de ellas; la moda, la otra». Una forma para entender la obsesión adolescente de Detroit por la música europea es concebirla como una rebelión contra la tradición R&B, la música de sus padres. Y esnobismo puro y duro: ¿qué mejor forma de distanciarse de los rufianes del gueto que escuchar pop europeo indiferente y a la moda?"
+ },
  "Una versión es una canción a la que se le han quitado las voces, una secuencia de una canción creada para que el diyey pueda hablar por encima del sonido.": {
   "ch": 5,
   "page": 182,
@@ -2304,6 +2598,30 @@ window.ANOCHE_REFS = {
   "sec": "Habilidad para pagar las facturas",
   "para": "El infatigablemente innovador Flash no se detuvo ahí. A él se le atribuye la importante idea del punch phasing, un fraseo de vientos o un estribillo de voces que «golpeaba» desde un disco por encima del sonido del otro, y fue el primero en ejecutar «trucos con el cuerpo», como darles la espalda a los platos mientras tocaba o girar discos con los pies. Y… Flash ya contaba con la consola: fue el primero en añadir la caja de ritmos a las mezclas."
  },
+ "al señalar que Strings Of Life fue masterizada de un casete.": {
+  "ch": 13,
+  "page": 528,
+  "sec": "El tecno definido",
+  "para": "«La otra cosa en que la gente se equivocó completamente era esta imagen del tecno como una nueva ola de música bailable producida en megaestudios. Lo cierto es que se creaba con tecnología doméstica», añade McCready, al señalar que Strings Of Life fue masterizada de un casete. «Había muchas paradojas en ese lugar»."
+ },
+ "el complejo turístico ganó una reputación como la versión Lonely Planet de Ibiza.": {
+  "ch": 13,
+  "page": 549,
+  "sec": "El trance de Goa",
+  "para": "Goa tenía hachís barato, toneladas de drogas psicodélicas y una escena de baile al aire libre próspera durante los ochenta, a base de mucho del new beat industrial y la música hi-NRG que Alemania había disfrutado antes del tecno. Había una fuerte afinidad con el estilo crusty británico, y se consideraba a Goa como un lugar donde promover el viaje espiritual del movimiento rave como consecuencia de la Ley de Justicia Criminal de Gran Bretaña. En los años posteriores al acid house, las vibraciones de Goa se esparcieron por todo el mundo en olas fluorescentes de yoga gracias a la gran diáspora de mochileros, y el complejo turístico ganó una reputación como la versión Lonely Planet de Ibiza. Cuando las restricciones que prohibían viajar a la India se levantaron en 1988, miles de jóvenes israelíes emprendieron el viaje, y los clubs y productores de Tel Aviv, que dominan hoy esta música, adoptaron al por mayor los estilos del trance de Goa y el psy-trance."
+ },
+ "el sonido «hoover belga», un dron al acecho como una bomba de neutrones persiguiendo un autobús.": {
+  "ch": 13,
+  "page": 537,
+  "sec": "Bélgica",
+  "para": "«Bélgica está muy muy avanzada. Son un universo aparte —declaró el productor de tecno estadounidense Joey Beltram en i-D en 1991—. Solía decir a todos en Nueva York que están produciendo una música genial en Bélgica, y me decían: “¿Bélgica?”». La nueva confianza del país la expresaba mejor R&S, quienes vendieron más discos de 12 pulgadas que los demás sellos combinados. Con un oído multicultural, Renaat y Sabine conformaron una plantilla internacional formidable al lanzar discos de Derrick May, Aphex Twin, Jam & Spoon (Frankfurt), Frank De Wulf (Bélgica), Ken Ishii (Japón) y muchos más. Joey Beltram, un productor joven de Queens, Nueva York, lideraba la manada. Con Energy Flash, producto de una emergencia irreprimible, lanzó el desafío. Luego con Mentasm Beltram creó otra monstruosa forma de onda nueva: el sonido «hoover belga», un dron al acecho como una bomba de neutrones persiguiendo un autobús. Unas semanas después, este sonido aterrador podía encontrarse en decenas de sellos blancos."
+ },
+ "el trance de Goa o trance psicodélico evolucionó directamente del house progresivo.": {
+  "ch": 13,
+  "page": 549,
+  "sec": "El trance de Goa",
+  "para": "Otra escena completamente independiente había cultivado el trance de forma paralela. Centrada en las playas de Anjuna y Vagator en Goa, antigua colonia portuguesa en el suroeste de la India, el trance de Goa o trance psicodélico evolucionó directamente del house progresivo. Ejemplificado en temas como Go de Moby o Papua New Guinea de Future Sound Of London, y en el trabajo de William Orbit, el house progresivo era el house creado como el tecno, con melodías construidas de capas de sonidos sintéticos orquestados a la perfección; su nombre es una mofa de la revista Mixmag para referirse al rock progresivo grandilocuente de principios de los setenta. Pronto se colaron mandalas psicodélicos fenomenales y sampleados étnicos y etéreos, como Loop Guru y Banco de Gaia, bandas con gamelanes y flautas de nariz. Los resultados eran perfectos para los que observaban los amaneceres descalzos en las playas de Goa, dirigidos por presentaciones de Juno Reactor y Man With No Name. El sello londinense Dragonfly del exbajista de Killing Joke, Youth, fue una fuerza vital, y la escena de la fiesta la dirigía un DJ llamado Goa Gil, un hippie de San Francisco."
+ },
  "fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio.": {
   "ch": 4,
   "page": 135,
@@ -2334,6 +2652,12 @@ window.ANOCHE_REFS = {
   "sec": "De las cenizas del disco",
   "para": "Después de Bambaataa y los años de la Zulu Nation en el Roxy, los sonidos estruendosos del hip-hop y el electro se vieron incubados, junto con los sonidos bailables latinos de la ciudad, en un club llamado Funhouse. Aquí se desarrolló una forma de culto a la personalidad que surgió en torno a la figura de un DJ latino, John Jellybean Benitez, quien se convertiría en un remezclador estrella y en el primer DJ en firmar un contrato para un elepé con una discográfica principal por méritos propios. Por otro lado, en Danceteria, Mark Kamins, Johnny Dynell y Anita Sarko ejercían una influencia considerable en la música de la ciudad al cruzarla con los sonidos del funk post-punk europeo y el new wave estadounidense (Kamins además condujo a Madonna a su primer contrato de grabación)."
  },
+ "si el house no es más que disco interpretado por microchips, ¿qué tipo de sonido podían producir estas máquinas por su cuenta y riesgo?": {
+  "ch": 13,
+  "page": 501,
+  "sec": "THE SOUND (EL SONIDO)",
+  "para": "El tecno es un ambicioso hijo de puta. Quiere liberarse del bagaje de toda la música mundial previa y dar unos pasos valientes hacia el futuro. Cuando otras formas andaban copiando, emulando, reciclando —regresando a los temas favoritos y a las líneas de bajo conocidas—, el tecno abogaba por la claridad de la creación pura. Rechaza la representación y favorece la abstracción, e intenta conseguir algo más innovador y audaz. Ideas nobles, sin duda. En una ciudad arrasada por la pérdida de fe en el progreso, el tecno intentó construir una nueva creencia en el futuro. Si destiláramos la esencia básica de esta corriente musical, podríamos reducir el objeto de su búsqueda a la siguiente premisa: si el house no es más que disco interpretado por microchips, ¿qué tipo de sonido podían producir estas máquinas por su cuenta y riesgo?"
+ },
  "sin embargo, había inventado lo que hoy se conoce como breakbeat: el uso del break de percusión de una grabación en vez de pinchar toda la canción.": {
   "ch": 9,
   "page": 336,
@@ -2345,6 +2669,12 @@ window.ANOCHE_REFS = {
   "page": 393,
   "sec": "El sampleado",
   "para": "En el hip-hop, la dependencia del sampleado llegó a su punto máximo a finales de los ochenta con las producciones de Public Enemy usando el wall-of-sound, y en los empeños por usar cualquier cosa aleatoria de La Soul, antes de que se volviera demasiado caro o arriesgado basar grabaciones en una alta cantidad de sampleados largos e identificables. El comentarista Nelson George señala un punto interesante: solo cuando el hip-hop comenzó a samplear música de blancos —en particular en el caso de Biz Markie, pero también en las demandas relacionadas con los elepés «Three Feet High And Rising» de La Soul y «It Take A Nation Of Millions To Hold Us Back» de Public Enemy— entonces la industria comenzó a percatarse de un problema."
+ },
+ "un tecno de la corriente de Detroit, que no me gusta mucho».": {
+  "ch": 13,
+  "page": 547,
+  "sec": "El trance",
+  "para": "Berlín se alejó del tecno duro gracias a Paul Van Dyk. Un aprendiz de carpintero de Berlín Oriental, Van Dyk escuchaba la radio de Alemania Occidental, y se enamoró de los Smiths y de New Order, e imaginaba con frustración la escena prohibida de clubs a unos pocos kilómetros de distancia. «Practicaba en estos viejos platos comunistas con pequeñas ruedas que ajustaban la velocidad —le dijo a Dave Fowler en Muzik—. Nadie tenía nada de la marca Technics y no tenía dinero suficiente para comprar discos de 12 pulgadas». Después de la caída del muro, se unió a la emergente escena berlinesa, pero le parecía que la música carecía de sentimiento. Como explicó en DJ Time: «La música que escuchaba en la radio era esta suerte de música electrónica profunda: las primeras grabaciones de Warp y cosas así. Pero cuando fui a todos los clubs de Berlín, la música era muy dura, un tecno de la corriente de Detroit, que no me gusta mucho»."
  },
  "y que el house aceptaba, que no rechazaba, el aspecto gay del disco y sus compases de «cuatro explosiones en el bombo».": {
   "ch": 12,
@@ -2406,6 +2736,12 @@ window.ANOCHE_REFS = {
   "sec": "La radio negra y el rhythm and blues",
   "para": "«Benson mató el inglés del rey», recuerda otro veterano DJ negro, Eddie O’Jay. «No pretendía ser blanco. Sonaba como los negros. Sabía que lo era y la mayoría de nosotros estábamos orgullosos de ello»."
  },
+ "«Bélgica está muy muy avanzada. Son un universo aparte": {
+  "ch": 13,
+  "page": 537,
+  "sec": "Bélgica",
+  "para": "«Bélgica está muy muy avanzada. Son un universo aparte —declaró el productor de tecno estadounidense Joey Beltram en i-D en 1991—. Solía decir a todos en Nueva York que están produciendo una música genial en Bélgica, y me decían: “¿Bélgica?”». La nueva confianza del país la expresaba mejor R&S, quienes vendieron más discos de 12 pulgadas que los demás sellos combinados. Con un oído multicultural, Renaat y Sabine conformaron una plantilla internacional formidable al lanzar discos de Derrick May, Aphex Twin, Jam & Spoon (Frankfurt), Frank De Wulf (Bélgica), Ken Ishii (Japón) y muchos más. Joey Beltram, un productor joven de Queens, Nueva York, lideraba la manada. Con Energy Flash, producto de una emergencia irreprimible, lanzó el desafío. Luego con Mentasm Beltram creó otra monstruosa forma de onda nueva: el sonido «hoover belga», un dron al acecho como una bomba de neutrones persiguiendo un autobús. Unas semanas después, este sonido aterrador podía encontrarse en decenas de sellos blancos."
+ },
  "«Cada sello en cada disco llevaba una leyenda en la que se advertía que estaba terminantemente prohibida la transmisión por radio»": {
   "ch": 2,
   "page": 39,
@@ -2417,6 +2753,18 @@ window.ANOCHE_REFS = {
   "page": 498,
   "sec": "El acid house",
   "para": "En efecto, la producción vanguardista de Chicago tenía quizá más elementos en común con el sonido de Detroit que al final se conocería como tecno. Como le dijo el pionero del tecno Juan Atkins a Lawrence: «Chicago produjo su propia versión del tecno un par de años después, pero no lo llamaron tecno porque ya teníamos ese término, así que lo llamaron acid house»."
+ },
+ "«Como el Titanic pudriéndose bajo el agua», solía decir Derrick.": {
+  "ch": 13,
+  "page": 501,
+  "sec": "THE SOUND (EL SONIDO)",
+  "para": "Desde que fundaron sus sellos, se mudaron al Eastern Market, el último suspiro del centro, para traer algo de actividad económica de regreso a la ciudad. Aunque es difícil mantener el optimismo cuando uno conduce por Detroit: está quemada, tapiada, rodeada de vías de tren mohosas, fábricas de automóviles muertas. «Como el Titanic pudriéndose bajo el agua», solía decir Derrick. Pero es adecuada para el ánimo melancólico de su música. Además, el alquiler de la vivienda es barato."
+ },
+ "«Como no hay palabras, libera la imaginación": {
+  "ch": 13,
+  "page": 537,
+  "sec": "Bélgica",
+  "para": "Renaat era en muchos sentidos un proselitista y concebía el tecno como la anunciación de un nuevo internacionalismo. «Como no hay palabras, libera la imaginación —le dijo a Simon Reynolds en Details—. Uno se puede escapar de cualquier cosa». Este heavy metal electrónico se antojaría irresistible a los aficionados a los clubs por todo el planeta, e igualmente irresistible para los productores de dormitorio, todos ávidos por introducir un sonido nuevo al fondo genético sonoro. Nos adentrábamos en el vértice giratorio del hardcore."
  },
  "«Creo que yo era el mejor DJ del mundo hasta que escuché pinchar a Walter Gibbons»": {
   "ch": 6,
@@ -2448,11 +2796,23 @@ window.ANOCHE_REFS = {
   "sec": "Disco friki",
   "para": "«Don’t Make Me Wait trata sobre el sexo, y todo el mundo puede identificarse con eso —dijo Levan al periodista de NME Paolo Hewitt—. Era muy muy apasionada, muy ruda, también era tierna, pero luego era fría y entonces se volvía inclasificable. Lo tenía todo»."
  },
+ "«El Front es la cuna de la cultura house alemana.": {
+  "ch": 13,
+  "page": 534,
+  "sec": "Alemania",
+  "para": "El house había llegado a Alemania con cierta precocidad, de la mano de DJ Klaus Stockhausen en el Front de Hamburgo, inveterado patrocinador de la música electrónica. El fotógrafo Wolfgang Tillmans era cliente habitual: «El Front es la cuna de la cultura house alemana. El estilo de mezclar de Klaus era especial por su increíble uso del ecualizador. Cambiar de unos ensordecedores agudos a un bajo corpóreo y latente fue muy moderno en la época, antes de que se convirtiera en un cliché de las raves»."
+ },
  "«El Garage es lo máximo en Estados Unidos, y yo soy su abuelo», reclamó Levan en 1985.": {
   "ch": 11,
   "page": 452,
   "sec": "Tony Humphries y la música garaje",
   "para": "«El Garage es lo máximo en Estados Unidos, y yo soy su abuelo», reclamó Levan en 1985. Sin embargo, cuando uno denomina un género musical con el nombre de un club que abrió durante diez años y que era conocido por su eclecticismo salvaje, confrontará problemas con la definición en un santiamén."
+ },
+ "«El MI trajo una sensación europea a nuestra ciudad.": {
+  "ch": 13,
+  "page": 530,
+  "sec": "Un mercado de exportación",
+  "para": "Detroit disfrutó de un estrellato efímero durante el verano de 1988 cuando Alton Miller y George Baker abrieron un pequeño club llamado Music Institute (MI) (o mejor dicho, el Detroit Musical Institute) en el número 1315 de Broadway, donde tocaron May, Darrell D Wynn, Miller y Chez Damier (Anthony Pearson). Aunque el MI solo abrió por poco más de un año, fue una suerte de catalizador para consolidar una escena tecno en la ciudad. Muy oscuro, con un mural enorme de un ojo detrás de la cabina, ofreció tardíamente un espacio en el cual escuchar su propia música. «El MI trajo una sensación europea a nuestra ciudad. Antes de que fuéramos un puñado de jóvenes afrodescendientes de clase media que leían The Face y GQ y Melody Maker y soñaban con cómo sería Londres o Nueva York». Recuerda efusivamente a los artistas británicos que visitaban el MI. «Ahora ABC y Depeche Mode venía al MI a ser testigos del implacable Mayday en plena faena, y para pasar el tiempo con nosotros. ¡Británicos de verdad! ¡Con acentos de verdad! En nuestro club»."
  },
  "«El beat-juggling consiste en tomar dos discos, y simplemente reestructurar los arreglos del ritmo».": {
   "ch": 10,
@@ -2472,11 +2832,29 @@ window.ANOCHE_REFS = {
   "sec": "El sampleado",
   "para": "En efecto, la historia del sampleado es el relato de cómo la tecnología ha ido alcanzando al DJ, a fin y efecto de crear un equipo que haga el trabajo más rápido, más preciso y más fácil que el que el DJ llevaba largo tiempo haciendo. Después de la invención del instrumento musical computarizado Fairlight, que permitía reproducir una ínfima cantidad de sonido sampleado, llegó el EMU Emulator, usado por primera vez para una grabación de hip-hop en 1982 por Marley Marl, quien sampleó el ritmo de una caja de la batería accidentalmente mientras trabajaba en una remezcla. Como le dijo al escritor Harry Allen, se percató del potencial del aparato inmediatamente: «Podía tomar cualquier sonido de batería de mi grabación vieja, ponerla ahí y obtener ese sonido de batería experimentado». El baterista experimentado Max Roach se dio cuenta del potencial de samplear, al declarar: «El hip-hop vive en el mundo del sonido, no en el de la música, y por eso es tan revolucionario». Por el contrario, el inventor del Emulator, Dave Rossum, apenas tenía idea de lo importante que sería esta máquina. Cuando le preguntaron en los ochenta si el sampleado sería el «futuro de la industria del sonido», simplemente se rio."
  },
+ "«El sintetizador era el catalizador principal.": {
+  "ch": 13,
+  "page": 508,
+  "sec": "Cybotron",
+  "para": "Juan dejó a un lado el bajo a medida que lo atrajo el sintetizador. Sus sonidos inquietantes dialogaban con su enajenación adolescente, y aportaron a sus melodías una seriedad llamativa. Él mismo admite que la tecnología era una prioridad absoluta. «El sintetizador era el catalizador principal. Uno toca con un sintetizador, hay ciertas cosas que uno escucha en la máquina: te incitará a llevar a cabo ciertas cosas. Especialmente si uno crea todos los compases y ritmos con esa misma máquina»."
+ },
  "«El tema I Love Music de los O’Jays realmente abrió las puertas a nuevos sencillos», dice Kev Roberts.": {
   "ch": 4,
   "page": 152,
   "sec": "La pugna por el alma del soul",
   "para": "«El tema I Love Music de los O’Jays realmente abrió las puertas a nuevos sencillos», dice Kev Roberts. «Sentó el camino para cosas como Heaven Must Be Missing An Angel, que fue un coloso del northern soul, y como Young Hearts Run Free, otra canción perfecta para al público norteño». Levine había recibido el disco de los O’Jays de parte de Roberts para que lo pusiera, porque había dejado el Wigan por una disputa con Russ Winstanley y le estaba dando un uso acertado a las 59 libras esterlinas que costaba cada trayecto de Freddie Laker a Nueva York para buscar discos. De alguna manera, logró conseguir un disco de prueba de manos del disc jockey neoyorquino Tony Gioe, quien, a su vez, lo había conseguido directamente de Kenny Gamble, el productor."
+ },
+ "«El trampolín era Detroit; la piscina a la que saltaba sería Inglaterra": {
+  "ch": 13,
+  "page": 529,
+  "sec": "Un mercado de exportación",
+  "para": "«Levántate, Estados Unidos, Estás Muerto» era el sutil título para una mesa de debate en el New Music Seminar de 1989. Lanzando el ataque, el jefe de Factory Records, Tony Wilson, planteaba que el house y el tecno no habrían florecido sin Gran Bretaña. Los Happy Mondays lo apoyaron con vítores, así como el artista pop Keith Allen. Encandilado, Marshall Jefferson se fue de la reunión, y Derrick May llamó «cabrón» a Allen. Hoy, sin embargo, May admite que está de acuerdo en gran parte. «El trampolín era Detroit; la piscina a la que saltaba sería Inglaterra: la cuna de la cultura pop, el pozo séptico de esa mierda»."
+ },
+ "«El único ritmo que los alemanes entienden es el ritmo marcial de la marcha».": {
+  "ch": 13,
+  "page": 536,
+  "sec": "Alemania",
+  "para": "Westbam, un antiguo fanático del hip-hop que se convertiría en uno de los DJ más famosos de Alemania, tenía su propia explicación chistosa para el amor de su país por el tecno: «El único ritmo que los alemanes entienden es el ritmo marcial de la marcha»."
  },
  "«Empleé tres platos, dos mezcladoras y entre diez y quince tomas para que quedara bien —recuerda Flash": {
   "ch": 10,
@@ -2610,6 +2988,18 @@ window.ANOCHE_REFS = {
   "sec": "Vicious Rap",
   "para": "Otra figura clave en los comienzos fue el empresario experimentado Paul Winley. Después de grabar a grupos de doo wop en los cincuenta, algunos de los cuales describe como «verdaderos matones», Winley encontró un ambiente familiar en el hip-hop. «La era del doo wop y la era del hip-hop, en sus inicios, eran la misma cosa. Eran muchachos. Niños»."
  },
+ "«La escena de escuela secundaria era asombrosa —dice Derrick": {
+  "ch": 13,
+  "page": 513,
+  "sec": "Las fiestas de la escuela secundaria",
+  "para": "«La escena de escuela secundaria era asombrosa —dice Derrick—. Eran pretenciosos: adolescentes afrodescendientes con dinero. Tenías chicos vistiendo Polo y Versace, todas esas marcas ridículas, en la escuela secundaria. Era una locura lo mucho que generaban estas fiestas. La gente cobraba veinticinco dólares la entrada». Los promotores, también estudiantes de escuela secundaria, alardeaban de su sofisticación al identificarse con la alta moda italiana y el movimiento New Romantic británico, y adoptaban nombres que reflejaban estas aspiraciones enrarecidas: Plush, Funtime Society, Universal, GQ Productions y, luego, Ciabattino, Courtier, Cacharel, Schiaparelli, Gables. Administraban las fiestas como si fueran un club privado, concentrados en escuelas en particular, y la vestimenta era tan importante como la música: botas de cuero de cierre lateral Sidewinder, camisas cruzadas, accesorios tecnicolor Fiorucci. Uno de los equipos de producción más exitosos era Charivari: un nombre apropiado de una cadena de tiendas de ropa de Nueva York. En 1981, este sería el título de otra de las primeras incursiones de Detroit en la música electrónica, el tema de estilo italodisco Sharevari de A Number Of Names (la ortografía del título se alteró para evitar problemas)."
+ },
+ "«La gente lo odiaba. Hasta nuestros propios empleados detestaban el house», recuerda.": {
+  "ch": 13,
+  "page": 542,
+  "sec": "Países Bajos",
+  "para": "«La gente lo odiaba. Hasta nuestros propios empleados detestaban el house», recuerda. Después de que apenas cincuenta personas se presentaran para ver a Fingers Inc. y solo cien para ver a Derrick May, se llevó un autobús lleno de aficionados al Boccaccio, con la esperanza de que su escena loca los haría despertar en la nueva música. Después de dos años de ardua promoción, el house por fin pegó en Ámsterdam en 1989, y ganó nuevos defensores, como el adorado DJ Dimitri. En Rotterdam, Ted Langenbach organizaba fiestas glamurosas MTC (la Música Toma el Control), y en Eindhoven Miss Djax (Saskia Slegers) comenzó a organizar eventos en el Effenaar. Su sello Djax y sus varias ramificaciones fueron fundamentales para promocionar el house y el tecno, por lo que rápidamente se convirtió en una de las mejores del mundo, lo cual le permitió firmar a muchos de los productores de Chicago de la segunda ola. Los Países Bajos pasaron a ser una fuente de influencia primordial en los círculos de baile, pues engendraron festivales como Dance Valley y Mystery Island, sellos como Fresh Fruit y Touché y una serie de figuras importantes del trance, desde Ferry Corsten hasta Tiësto. También es culpable del tecno a lo teletubby de los Vengaboys y de 2 Unlimited."
+ },
  "«La leyenda de Larry va más allá de la razón; se alimenta de sí misma hasta cierto punto», sugiere el crítico musical Vince Aletti.": {
   "ch": 11,
   "page": 439,
@@ -2633,6 +3023,12 @@ window.ANOCHE_REFS = {
   "page": 425,
   "sec": "I’LL TAKE YOU TO PARADISE (TE LLEVARÉ AL PARAÍSO)",
   "para": "En Chicago, el locutor de radio y DJ Steve Dahl odiaba tanto al disco que formó un «ejército para la destrucción del disco» y lo movilizó para atacarlo donde fuera posible. Sus seguidores se unieron en torno al lema sumamente homofóbico [en voz inglesa]. «Disco Sucks» y emprendió una cruzada contra el maricón malvado acosando a los DJ de clubs cada vez que ponían esta música. «La música disco es una enfermedad. La llamo distrofia disco —despotricaba por las ondas radiofónicas—. Las víctimas de este mal asesino caminan por ahí como zombis. Debemos hacer todo lo posible para detener la propagación de esta plaga»."
+ },
+ "«La música es justo como Detroit, un craso error. Es como si George Clinton y Kraftwerk se quedaran atrapados en un ascensor».": {
+  "ch": 13,
+  "page": 525,
+  "sec": "El tecno definido",
+  "para": "Al ser preguntados por aspectos concretos de su música, Cosgrove les arrancó una memorable apostilla a los tres de Belleville. Derrick May fue quien se soltó con esta cita tan repetida: «La música es justo como Detroit, un craso error. Es como si George Clinton y Kraftwerk se quedaran atrapados en un ascensor». Kevin Saunderson explicó cómo, en una ocasión, lo despidieron de una estación de radio por «estar demasiado adelantado a su tiempo», y Juan Atkins le dijo a Cosgrove: «Berry Gordy creó el sonido Motown según los mismos principios del sistema de correas de transmisión de la Ford. Hoy, esas fábricas no funcionan de esa manera: usan robots y ordenadores para construir los coches. A mí me interesan más los robots de la Ford que la música de Berry Gordy»."
  },
  "«La puta pista se vació —recuerda Pierre, riéndose": {
   "ch": 12,
@@ -2675,6 +3071,12 @@ window.ANOCHE_REFS = {
   "page": 383,
   "sec": "Rappers’ Delight",
   "para": "«Me dije: “Coño, pude haber sido el primero”. No sabía que ese cañón estaba tan cargado. Que estallaría así. Fue un disco enorme para ellos». Juró entonces convertir esa furia en acción. «Está bien, con todo y eso. Porque vamos a venir después… Teníamos el talento, y ellos, no»."
+ },
+ "«Me quedé paralizado —dice—. Todo era tan limpio y tan preciso, tan robótico».": {
+  "ch": 13,
+  "page": 507,
+  "sec": "Cybotron",
+  "para": "Con la casa insonorizada por todos lados, punteando el bajo que llevaba puesto como una camiseta, escribiendo música que sería conocida en todo el planeta, garabateando nombres de ciencia ficción para canciones futuras: cada día Juan Atkins se acercaba más a su destino. Supo desde el principio que sería un músico famoso. Juan se crio en una parte dura de Detroit, hijo de un promotor de conciertos exitoso que se había mudado a los suburbios después de romper con su esposa. Juan había creado música durante toda su infancia, tocando el bajo y la batería en bandas funk en los garajes de sus casas. Sus gustos eran amplios, pero después de escuchar Flashlight, quedó fascinado por el sonido del teclado con sintetizador para bajo que introdujo Bernie Worrell en Parliament-Funkadelic. Cuando una noche se embriagó con la estética al límite de Kraftwerk en el programa de Mojo, se quedó perplejo. «Me quedé paralizado —dice—. Todo era tan limpio y tan preciso, tan robótico»."
  },
  "«Mucha de mi música tiene que ver con el bajo», dice.": {
   "ch": 9,
@@ -2760,6 +3162,12 @@ window.ANOCHE_REFS = {
   "sec": "David Rodriguez en el Ginza",
   "para": "«Para mí, esta comunión en la pista es una congregación espiritual», declaró Rodriguez en una entrevista a mitad de los setenta, explorando un tema que se ha vuelto recurrente para muchos DJ. «Hay cientos de personas en un salón cuyo vínculo es la música. No hay tensión alguna entre gais y heteros: el denominador común es la música. Me puedo colocar (en el sentido literal) solo con la música. A veces elijo estos discos de manera que me permiten contar una historia completa en una noche. ¿Sabes lo que se siente al escuchar que todo un salón suspira cuando comienza una canción? ¡Es como un aplauso para mí!»."
  },
+ "«Pienso, luego ambiento», pronunció el DJ Mixmaster Morris": {
+  "ch": 13,
+  "page": 538,
+  "sec": "Reino Unido",
+  "para": "Una segunda fase igualmente fructífera ganó impulso a principios de los noventa. Sobre todo como reacción a las espirales veloces de la escena hardcore, se le definió como una exploración del ambiente; «ambiente» era un término acuñado en 1978 por el productor pionero Brian Eno para describir una música «tanto descartable como interesante». «Pienso, luego ambiento», pronunció el DJ Mixmaster Morris (Morris Gould) en su traje gris, con lo que implicaba la superioridad intelectual de la música introspectiva y en gran medida no orientada al baile que evolucionaba en espacios chill-out en clubs y raves. En caso de tener alguna duda, nos lo deletreó: «el tecno inteligente» era lo opuesto al «hardcore estúpido». Warp envió un mensaje similar con una compilación llamada «Artificial Intelligence» en la que artistas como Black Dog y Auterche declararon su fidelidad al tecno más cerebral de los predecesores de Detroit. En apoyo a esta moción, los DJ Dave Clark, Colin Cale, Dave Angel y Carl Cox se distanciaron de la escena hardcore."
+ },
  "«Pinchar allí cada noche, escuchar la música una y otra vez. Así fue como prácticamente me formé».": {
   "ch": 6,
   "page": 243,
@@ -2796,6 +3204,12 @@ window.ANOCHE_REFS = {
   "sec": "Tony Humphries y la música garaje",
   "para": "A principios del siguiente año, Berger visitó el Paradise Garage y quedó maravillado. «Se enamoró del lugar —recuerda Torrales— y quería traerlo a Jersey». Inmediatamente, transformó la sala de baile del segundo piso en el mejor club nocturno que la ciudad haya visto jamás, con todo lo necesario y un sistema de sonido diseñado por Richard Long. La noche inaugural fue el 29 de agosto de 1979, con malabaristas, magos y chicas al estilo de Las Vegas. Berger hasta trajo leones y tigres rugiendo en jaulas para amenizar la velada. La música fue transmitida en directo por la estación WNJR y la crema de la realeza musical de Nueva Jersey apareció en el lugar, con los discos de Kool & The Gang, Tasha Thomas y los All Platinum colgando en la cabina. El jefe de los All Platinum acababa de montar un sello, Sugar Hill, y trajo un disco de promoción para que Torrales lo pinchara. «Se me acercó y me dijo: “Nadie más ha pinchado esto en la zona de Nueva York. Quiero que lo hagas tú”. Era Rappers’ Delight»."
  },
+ "«Si el tecno belga nos da ostinatos; el tecno alemán, ruido; el tecno británico, los breakbeats; entonces Detroit suplía la profundidad cerebral pura": {
+  "ch": 13,
+  "page": 539,
+  "sec": "La segunda ola de Detroit",
+  "para": "«Si el tecno belga nos da ostinatos; el tecno alemán, ruido; el tecno británico, los breakbeats; entonces Detroit suplía la profundidad cerebral pura —escribió Matthew Collin en 1991—. Europa podrá tener la escena y la energía, pero es Estados Unidos el que aporta la dirección ideológica». Y, en consecuencia, Detroit se reagrupaba para un segundo ataque: más duro, más rápido, sin prisioneros. Mientras que Juan y Derrick habían sido inspirados por Kraftwerk, muchos en la segunda ola encontraron su motivación en bandas industriales más intensas: Skinny Puppy, Cabaret Voltaire, Front 242. Y mientras que los tres de Belleville se habían esforzado por construir algo dentro de su propia ciudad, los chicos más jóvenes apuntaban fuera de la ciudad desde el inicio."
+ },
  "«Si pudieras ver mi colección, verías que me gusta todo tipo de música, pensarías que pertenece a cuatro DJ distintos —explica": {
   "ch": 11,
   "page": 445,
@@ -2825,6 +3239,12 @@ window.ANOCHE_REFS = {
   "page": 420,
   "sec": "Excavadores de discos",
   "para": "De niño coleccionaba cómics. «Tengo el gen del coleccionista en la sangre. Supongo que es un trastorno obsesivo-compulsivo de alguna clase —admite—. Pero tengo el temor de que algún día ya no pueda traer discos por la puerta. Las tiendas de discos usados están cerrando, ¿sabes? Así que quiero asegurarme de que no me pillen tocando el último disco y no tener ningún disco nuevo para poner»."
+ },
+ "«Tocamos las máquinas; las máquinas nos tocan —le dijo Hütter a Danny Eccleston para la revista Q": {
+  "ch": 13,
+  "page": 506,
+  "sec": "Kraftwerk",
+  "para": "«Tocamos las máquinas; las máquinas nos tocan —le dijo Hütter a Danny Eccleston para la revista Q—. Es realmente el intercambio y la amistad que tenemos con las máquinas lo que nos hace crear música nueva»."
  },
  "«Tocar música era más importante que nuestras vidas —bromea Charlie Chase": {
   "ch": 10,
@@ -2874,6 +3294,12 @@ window.ANOCHE_REFS = {
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "En 1983, con su caja 808, un teclado Korg Poly 61 que le compró su madre, un sintetizador para bajo TB 303 y una grabadora de cuatro canales, comenzó a crear pistas. «Solo usé lo que conocía de muchas canciones y discos que pinchaba que eran grandes éxitos, a fin de fundirlos y juntarlos en una sola cosa». A la primera la llamó Fantasy y a otra le puso el nombre On And On como homenaje a su canción temática robada. Jesse negoció la tarea de lanzar discos con la ayuda de su amigo Vince Lawrence. Según este, la alianza se forjó con un objetivo en mente. «Yo solo quería acostarme con chicas —declara—. Tú sabes, ¡tratar de llevármelas a la cama!». Como uno de los mejores DJ de la ciudad, Jesse contaba con una red instantánea de promoción. En cuanto a Vince, este sabía cómo producir un disco porque su padre Mitch era dueño de Mitchbal, un sello de blues diminuto, y un año antes, más o menos, con al nombre de Z Factor, él y algunos amigos de la escuela habían grabado un sencillo electrónico de rock pop, (I Like To Do It In). Fast Cars. Aunque se escuchó por un tiempo en las radios de Chicago, Fast Car —una aproximación distante al lujurioso estilo del ídolo de Vince, Trevor Horn— tenía poco que ver con lo que ocurría en los clubs. Sin embargo, algunos, en particular Vince, dicen que es la primera grabación de house."
  },
+ "«el tecno inteligente» era lo opuesto al «hardcore estúpido».": {
+  "ch": 13,
+  "page": 538,
+  "sec": "Reino Unido",
+  "para": "Una segunda fase igualmente fructífera ganó impulso a principios de los noventa. Sobre todo como reacción a las espirales veloces de la escena hardcore, se le definió como una exploración del ambiente; «ambiente» era un término acuñado en 1978 por el productor pionero Brian Eno para describir una música «tanto descartable como interesante». «Pienso, luego ambiento», pronunció el DJ Mixmaster Morris (Morris Gould) en su traje gris, con lo que implicaba la superioridad intelectual de la música introspectiva y en gran medida no orientada al baile que evolucionaba en espacios chill-out en clubs y raves. En caso de tener alguna duda, nos lo deletreó: «el tecno inteligente» era lo opuesto al «hardcore estúpido». Warp envió un mensaje similar con una compilación llamada «Artificial Intelligence» en la que artistas como Black Dog y Auterche declararon su fidelidad al tecno más cerebral de los predecesores de Detroit. En apoyo a esta moción, los DJ Dave Clark, Colin Cale, Dave Angel y Carl Cox se distanciaron de la escena hardcore."
+ },
  "«todo el público se fue con él.": {
   "ch": 6,
   "page": 245,
@@ -2915,5 +3341,11 @@ window.ANOCHE_REFS = {
   "page": 363,
   "sec": "Habilidad para pagar las facturas",
   "para": "¿Así que tu madre inventó el scratching?"
+ },
+ "¿Por qué no, sugieren, llamarla la «Ciudad del Tecno»?": {
+  "ch": 13,
+  "page": 551,
+  "sec": "El festival Love Parade",
+  "para": "En una era en la que domina el mercado, se ha sugerido que lo que necesita Detroit, ahora que las fábricas están cerradas, no es inversión, ni empleos ni un centro urbano que funcione. No, solo necesita reposicionar la marca. En busca de un nombre que sustituya el de la «Ciudad del Motor», y sumamente conscientes de la revolución musical que comenzó allí, algunos burgueses de la ciudad han dado con algo. ¿Por qué no, sugieren, llamarla la «Ciudad del Tecno»?"
  }
 };
