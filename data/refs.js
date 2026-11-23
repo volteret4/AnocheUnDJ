@@ -24,11 +24,23 @@ window.ANOCHE_REFS = {
   "sec": "Rapear",
   "para": "A la larga, como ocurrió en Jamaica, la persona que pinchaba los discos fue eclipsada por la persona que pronunciaba las rimas. Pero por ahora, sobre todo porque era dueño del equipo de sonido y porque el rap todavía estaba en pañales, el DJ asumía todo el control. Herc tenía a Coke La Rock y a Clark Kent; Flash agrupó a sus Furious Five. Bambaataa juntó a varios grupos de rap, entre ellos los Funky Four (Plus One More), Cold Crush se formó en torno a Charlie Chase, Theodore se convertiría en el DJ de los Fantastic Five. Pero ya había artistas para los cuales el DJ era secundario: los Treacherous Three (incluido Kool Moe Dee), los Nigger Twins from Queens, Kurtis Blow…"
  },
+ "A la larga, el nombre pasó a referirse al lado más soul, más jazz, más góspel del house": {
+  "ch": 11,
+  "page": 452,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "Lo que para Levan era el garage era, más o menos «la música house de Nueva York». Probablemente se refería al tipo de grabación electrónica pseudo-dub que producía y promovía en el Paradise Garage, apenas una pequeña parte de su lista de reproducción. El término en territorio británico se utilizó como una forma de comercializar las compilaciones de música bailable de Nueva York, como una forma de separar la producción de esta ciudad del house de Chicago y del tecno de Detroit. Esta nomenclatura es evidente en títulos de discos como «Garage Trax» y «The Garage Sound of Deepest New York». A la larga, el nombre pasó a referirse al lado más soul, más jazz, más góspel del house: pistas de voz con producción melódica y exuberante o instrumentales de jazz con mucho platillo hi-hat. Nosotros lo llamaremos «garage estadounidense» para que les resulte más sencillo. ¿Nos siguen?"
+ },
  "A las cuatro de la madrugada quitaron la lona: «Cayeron al unísono mil quinientas mandíbulas, y solo comenzaron a aplaudir».": {
   "ch": 6,
   "page": 249,
   "sec": "Tee Scott en el Better Days",
   "para": "A las cuatro de la madrugada quitaron la lona: «Cayeron al unísono mil quinientas mandíbulas, y solo comenzaron a aplaudir»."
+ },
+ "Abierto desde 1977 hasta 1987, el Garage fue el vínculo crucial entre el disco y las otras formas musicales que evolucionaron de esta música.": {
+  "ch": 11,
+  "page": 430,
+  "sec": "Larry Levan y el Paradise Garage",
+  "para": "Un club, a mucha distancia de los demás, fue el que marcó el camino para que muchos de los hijos del disco dieran sus primeros pasos: el Paradise Garage, de Nueva York. Abierto desde 1977 hasta 1987, el Garage fue el vínculo crucial entre el disco y las otras formas musicales que evolucionaron de esta música."
  },
  "Ahora que la relación entre la música y el público era interactiva, el público pasó a ser parte del evento": {
   "ch": 3,
@@ -54,6 +66,12 @@ window.ANOCHE_REFS = {
   "sec": "El breakdancing",
   "para": "Antes de que existiera cualquier cosa que se llamara hip-hop, estaba el breakdancing. Era una evolución de una forma de expresión de bravura y pavoneo masculinos, de los pasos Good Foot de James Brown, de los pasos robóticos de los bailarines del funk de la Costa Oeste, de los bailes extrovertidos de las estrellas del podio en el programa de televisión «Soul Train». Asimiló influencias de actos acrobáticos como el claqué y el lindy hop, y hasta del kung fu. Parte de una línea continua de bailes de herencia africana, el breakdancing no era para nada una innovación (los movimientos acrobáticos y marciales de la capoeira, originaria de Brasil, son sorprendentemente parecidos). Su nombre viene de la voz inglesa break, un término del jazz para la parte de un disco bailable en el que la melodía descansa y el baterista tiene libertad para lucirse, es decir, una sección rítmica y explosiva de la canción que apelaba mucho a los fanfarrones adolescentes."
  },
+ "Antes que eso, yo solo ponía discos, cosa que para nada es ser un DJ».": {
+  "ch": 11,
+  "page": 451,
+  "sec": "El tiempo no espera a nadie",
+  "para": "Johnny Dynell cree que Levan le demostró lo que en realidad supone ser DJ: «Cuando uno está creando magia en la pista. Cuando alzan las manos al aire y se pierden y abandonan en este otro mundo. Y uno es quien los ha llevado allí. Eso es ser DJ. Antes que eso, yo solo ponía discos, cosa que para nada es ser un DJ»."
+ },
  "Antes que él, se ponían los discos como si fueran pequeñas actuaciones discretas, pero Francis los trataba como si fueran movimientos de una sinfonía: elementos continuos de un gran todo.": {
   "ch": 6,
   "page": 202,
@@ -71,6 +89,12 @@ window.ANOCHE_REFS = {
   "page": 175,
   "sec": "Los primeros sonidos",
   "para": "La competencia era feroz y se empleaba casi cualquier táctica —justa o marrullera— para «tumbar» al rival y seducir al público a favor de uno en la pista de baile. El fortalecimiento de la potencia del sistema de sonido propio era un método; tener las mejores canciones era igualmente válido, y viajar a Estados Unidos para comprar discos se convirtió en una práctica esencial. King Edwards recuerda que «comenzó a montarse en los aviones como si viajara en autobús» en busca de «especiales»: canciones exclusivas para seducir al público. Además, Coxsone Dodd comenzó a tachar los títulos de los discos y a renombrarlos para desviar la atención de la competencia. Así, Later for Gator de Willis Jackson se convirtió en Coxsone Hop, el buque insignia de su sistema de sonido. Es el primer caso documentado de esta práctica de los DJ, consagrada por el tiempo, y cuyo origen engarza directamente desde Jamaica hasta la escena del northern soul en el Reino Unido y el mundo del hip-hop en Nueva York."
+ },
+ "Aunque cada uno tomó un conjunto muy distinto de cromosomas de la madre, todos nacieron de las caderas anchas del disco.": {
+  "ch": 11,
+  "page": 428,
+  "sec": "De las cenizas del disco",
+  "para": "Los otros avances cruciales fueron de naturaleza tecnológica. La revolución digital trajo consigo una reducción sustancial en el tamaño y el precio de los equipos, el salto de DJ a productor se tornaba cada vez más corto. Y en la primera mitad de los ochenta, ansiosos por nutrir sus pistas de baile con algo nuevo, una generación de jóvenes DJ dieron el salto. Algunos demostraron ser tan innovadores, tanto detrás de los platos como en el estudio, que incluso se les atribuyó haber inspirado la creación de géneros musicales completamente nuevos. La concentración en los elementos más rápidos y camp del disco creó el hi-NRG; los intentos de Chicago por preservar el disco nos trajeron el house; en Detroit, la adopción entusiasta de instrumentos electrónicos forjó el tecno, con un futurismo similar en Chicago que cristalizó en el acid house. Aunque cada uno tomó un conjunto muy distinto de cromosomas de la madre, todos nacieron de las caderas anchas del disco. A medida que la era del DJ/productor comenzaba formalmente, la música bailable se adentraba en uno de sus períodos más fértiles."
  },
  "Bajo el sello de Lenny, Street Beat Records, se lanzó la serie de discos «Ultimate Breaks And Beats» que con el tiempo llegó a alcanzar los veinte volúmenes.": {
   "ch": 9,
@@ -210,11 +234,23 @@ window.ANOCHE_REFS = {
   "sec": "El DJ versus los editores musicales",
   "para": "A fin de contrarrestar el poder de la ASCAP, en 1923 las cadenas de radio se agruparon y formaron la Asociación Nacional de Radiodifusores (NAB, por sus siglas en inglés). En 1939, con la esperanza de debilitar el monopolio de la ASCAP en la industria de los derechos de autor, la NAB creó su propia firma, la Música de Transmisión Incorporada (BMI, por sus siglas en inglés). Mientras la ASCAP aspiraba a mantener la preeminencia del cantautor, la BMI apostaba por fomentar una industria centrada en los discos y en las transmisiones. La mayoría de los artistas de renombre eran miembros de la ASCAP, así que los reclutas de la BMI eran casi todos músicos y cantautores más jóvenes, incluidos todos los músicos folk y «de raza» a quienes la ASCAP les negaba hacerse miembros. Con los contactos cercanos entre la BMI y la radio y una membresía más étnicamente variopinta, eran buenas noticias para el auge de la música negra."
  },
+ "Con su club épico y su personalidad grandiosa, Larry Levan encarnó lo que es ser un DJ: tocar la música que uno ama para las personas que uno ama.": {
+  "ch": 11,
+  "page": 451,
+  "sec": "El tiempo no espera a nadie",
+  "para": "Con su club épico y su personalidad grandiosa, Larry Levan encarnó lo que es ser un DJ: tocar la música que uno ama para las personas que uno ama. Su éxito se basaba en la virtud de estar en el lugar correcto en el momento correcto, y nadie podía negar el profundo efecto que tuvo en la escena de baile de Nueva York. Conectó drásticamente el territorio entre el disco y el house. Inspiró a más DJ de calibre mundial que cualquier otro antes o después de él, y demostró que, con el esfuerzo justo y la atención por el detalle, un club podía expresar las ideas de solidaridad y de amor, sin importar cuán grande fuera."
+ },
  "Con todo, de alguna forma, los DJ sobrevivieron.": {
   "ch": 10,
   "page": 408,
   "sec": "El fin de la vieja escuela",
   "para": "Con todo, de alguna forma, los DJ sobrevivieron."
+ },
+ "Con un público muy íntimo y leal en el «Zanz», Humphries fue capaz de construir una escena tan enérgica y tan sofisticada musicalmente como la de su ídolo Levan": {
+  "ch": 11,
+  "page": 456,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "Con un público muy íntimo y leal en el «Zanz», Humphries fue capaz de construir una escena tan enérgica y tan sofisticada musicalmente como la de su ídolo Levan, y cuando el Paradise Garage cerró, el Zanzibar recibió el testigo. En el proceso creó un espacio para artistas locales —entre ellos Adeva, Phase II y Turntable Orchestra— y apoyó a productores locales como Paul Simpson, Smack Productions y Blazie, así como a los sellos de Nueva Jersey Ace Beat y Movin’."
  },
  "Contar con los raperos más impresionantes era una nueva forma para que el DJ se destacara.": {
   "ch": 9,
@@ -239,6 +275,12 @@ window.ANOCHE_REFS = {
   "page": 165,
   "sec": "WRECK UP A VERSION (SÁCATE UNA VERSIÓN DE LA NADA)",
   "para": "Antes de ser diezmada por Europa, los arahuacos llamaban a esta fértil isla Xaymaca, que significa «Tierra de Manantiales». Cuando era la capital pirata de los siete mares, su ciudad principal, Port Royal, era el lugar más malvado del planeta. Cuando era una plantación azucarera colonial sustentada por los músculos africanos cautivos, los dueños de esclavos podían recibir una multa si un ser humano de su propiedad era sorprendido tocando un tambor. Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey."
+ },
+ "Cuanto más se pareciera al sonido de una banda real o a algo del pasado, entonces más me inclinaba hacia esa dirección».": {
+  "ch": 11,
+  "page": 457,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "«Me concentraba más en la parte góspel, o más en el aspecto jazz o en la parte melódica —explica—. Cuanto más se pareciera al sonido de una banda real o a algo del pasado, entonces más me inclinaba hacia esa dirección». Es lo que se conoció en Gran Bretaña como el «garage estadounidense»."
  },
  "Curiosamente, esta es una de las pocas áreas del house que tuvo contribuciones importantes de mujeres": {
   "ch": 8,
@@ -377,6 +419,12 @@ window.ANOCHE_REFS = {
   "page": 185,
   "sec": "El dub",
   "para": "El dub trajo consigo un nuevo universo de sonidos. Es la primera cristalización completa del remix de baile. El dub abrió tantas posibilidades que se considera un género aparte. Las técnicas que brinda son tan poderosas y aplicables a otras músicas que ahora se usan a lo largo y ancho de todo el espectro de la música popular. Y como una música creada expresamente para el uso del sistema de sonido, el doblaje debe su existencia mayormente al DJ."
+ },
+ "El dúo, ambos negros y gais, eran el yin y el yang perfecto": {
+  "ch": 11,
+  "page": 433,
+  "sec": "Reade Street",
+  "para": "El nombre de pila de Larry Levan era Lawrence Philpot y nació el 21 de julio de 1954 en Brooklyn. Para cuando era adolescente había comenzado a recorrer el trayecto mágico por encima del río East hacia Manhattan con su amigo de la infancia del Bronx, Frankie Knuckles. El dúo, ambos negros y gais, eran el yin y el yang perfecto: Levan era emocional, pueril, excéntrico; Knuckles era relajado, afable, amigable. Después de trabajar juntos en el Gallery y luego, como DJ, en el Continental Baths, Knuckles se fue a Chicago, donde catalizó la creación del house. Levan se fue primero al Soho Place y luego al prototipo del Paradise Garage, el Reade Street."
  },
  "El escritor estadounidense Nelson George dijo que era «perfecto para gente que no tenía sentido del ritmo».": {
   "ch": 7,
@@ -528,6 +576,12 @@ window.ANOCHE_REFS = {
   "sec": "El Peppermint Lounge",
   "para": "La popularidad del twist desató una serie de bailes con la misma forma libre: el frug, el mashed potato, el poni, el hully gully, el monkey. Al cabo de pocos años, las pistas de baile habían otorgado popularidad a los eslóganes «freak-out» [pierde el control] y «flower power» [poder de las flores] de la era hippie, así como a las volteretas acrobáticas y las piruetas del northern soul. El twist había lanzado una bomba nuclear sobre el sector conservador del mundo del baile y erradicado los muy rígidos rituales de la pista de baile. Con esta hazaña se sentó la base para un nuevo tipo de club nocturno. Era hora de que la discoteca llegara a la edad adulta."
  },
+ "Emanando de los altavoces como la miel, era el equivalente radiofónico de Barry White": {
+  "ch": 11,
+  "page": 441,
+  "sec": "El poder detrás del mito",
+  "para": "Frankie Crocker no era un mero pirata de radio. Nacido en Buffalo, en el norte del estado de Nueva York (una ciudad que ha dado muchos DJ negros excelentes, entre ellos Eddie O’Jay y Gary Byrd), tuvo su primera oportunidad en la estación WZUM de Pittsburg y se trasladó rápidamente a la WWRL de Nueva York. Aquí, con su briosa ejecución y su voz aterciopelada, se hizo con muchas fans. Emanando de los altavoces como la miel, era el equivalente radiofónico de Barry White, y era conocido también con los sobrenombres de «Lover Man» [el amante], «Fast Frankie». [Frankie el rápido], «Chief Rocker» [el roquero jefe] y «Hollywood». Crocker se convirtió en uno de los primeros DJ en cruzar la barrera racial cuando se unió al equipo completamente blanco de los «Good Guys» [los chicos buenos] de la WMCA en 1969. Pero fue en la WBLS durante los setenta cuando se coronó como rey de reyes, al defender la fusión jazz de Grover Washington Jr y Miles Davis, y el soul socialmente consciente de Donny Hathaway y Marvin Gaye, así como al incorporar grupos blancos como los Bee Gees y Queen a sus listas de reproducción."
+ },
  "En 1964, la revista Time declaró a San Francisco como la capital gay de Estados Unidos.": {
   "ch": 8,
   "page": 315,
@@ -672,6 +726,18 @@ window.ANOCHE_REFS = {
   "sec": "Hablar el jive",
   "para": "La idea del «negro blanco», sin embargo, aún rezumaba racismo. George recuerda la increíble historia de Vernon Winslow, un exprofesor universitario de diseño con un conocimiento exhaustivo del jazz, a quien le denegaron un trabajo como locutor en la WJMR de Nueva Orleans solo porque era negro. Después de lo que parecía ser una entrevista exitosa, a Winslow, cuyo tono de piel era bastante claro, se le preguntó: «¿De paso, eres un puto negro?». Después de que le negaran una posición en antena solo por su raza, contrataron a Winslow para un trabajo extraordinario. Entrenaría a un DJ blanco para que sonara como un negro. Winslow tenía que enseñar a un colega blanco —ahora bautizado como Poppa Stoppa— la jerga local más reciente, y le enseñó frases como: «Mira el diente de oro, tesoro» y «Aquí te pillo, aquí te mato». El show fue en un éxito rotundo. Una noche, frustrado por su posición entre bambalinas, Winslow se las arregló para tomar el micrófono a escondidas en una ocasión. Lo despidieron inmediatamente. La WJMR se quedó con el nombre Poppa Stoppa y continuó usando a un hombre blanco, Clarence Hamman, como la voz de Poppa. (Sin embargo, Winslow se pudo vengar al convertirse en Doctor Daddy-O para la WEZZ de Nueva Orleans, donde se convirtió en uno de los mejores diez DJ de la nación)."
  },
+ "Era Rappers’ Delight».": {
+  "ch": 11,
+  "page": 453,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "A principios del siguiente año, Berger visitó el Paradise Garage y quedó maravillado. «Se enamoró del lugar —recuerda Torrales— y quería traerlo a Jersey». Inmediatamente, transformó la sala de baile del segundo piso en el mejor club nocturno que la ciudad haya visto jamás, con todo lo necesario y un sistema de sonido diseñado por Richard Long. La noche inaugural fue el 29 de agosto de 1979, con malabaristas, magos y chicas al estilo de Las Vegas. Berger hasta trajo leones y tigres rugiendo en jaulas para amenizar la velada. La música fue transmitida en directo por la estación WNJR y la crema de la realeza musical de Nueva Jersey apareció en el lugar, con los discos de Kool & The Gang, Tasha Thomas y los All Platinum colgando en la cabina. El jefe de los All Platinum acababa de montar un sello, Sugar Hill, y trajo un disco de promoción para que Torrales lo pinchara. «Se me acercó y me dijo: “Nadie más ha pinchado esto en la zona de Nueva York. Quiero que lo hagas tú”. Era Rappers’ Delight»."
+ },
+ "Era como despejar la cabina de vuelo para el despegue.": {
+  "ch": 11,
+  "page": 437,
+  "sec": "El Paradise Garage",
+  "para": "Aunque el Paradise Garage tenía a un responsable de luminotecnia muy talentoso en Robert DaSilva —quien también montó las luces en el Gallery y en Studio 54—, Levan tenía un segundo conjunto de controles instalados en una barra a lo largo de la parte superior de la cabina. Cuando el ánimo lo arrebataba —cuando estaba listo para sacar a la gente a pasear— se acercaba a la consola y sacaba a los ocupantes de la cabina. Era como despejar la cabina de vuelo para el despegue."
+ },
  "Era el fin de la vieja escuela.": {
   "ch": 10,
   "page": 406,
@@ -702,6 +768,12 @@ window.ANOCHE_REFS = {
   "sec": "Payola",
   "para": "En 1973, su archirrival Dick Clark finalmente admitió que Freed «fue el hombre que hizo posible el rock’n’roll» y que «le debemos mucho». Antes de Alan Freed, el R&B era desconocido para la mayoría de las personas de raza blanca. El rock’n’roll no solo revolucionó la música —en tanto que los artistas afrodescendientes ya no tenían que dulcificar su estilo para lograr el éxito generalizado—, sino que también tuvo un impacto social profundo al confrontar a muchos con su primera experiencia de la cultura afroamericana. Freed pagó muy caro el precio de semejante reconocimiento. Era un claro ejemplo del poder que podía amasar un DJ, y también de los límites a los que el sistema llegaría para subyugar a esos individuos."
  },
+ "Era un pintor abstracto, la verdad».": {
+  "ch": 11,
+  "page": 448,
+  "sec": "Disco friki",
+  "para": "Russell descubrió la música disco en una visita al Gallery de Nicky Siano a principios de los setenta y colaboró con varios pioneros de la escena, primero con el propio Siano en Kiss Me Again de Dinosaur, y luego con Steve D’Acquisto con Is It All Over My Face? de Loose Joints. «Tenía toda esta energía y la belleza de su música; tanta fuerza y ternura —alaba con entusiasmo D’Acquisto—. Era un pintor abstracto, la verdad». Aunque su trabajo pasó inadvertido en su momento, recientemente, fanáticos como DJ Gilles Peterson lo han rescatado."
+ },
  "Era uno de esos clubs raros donde se fraguaba una verdadera polinización cruzada: lo contrario a la decadencia selectiva de Studio 54.": {
   "ch": 10,
   "page": 399,
@@ -731,6 +803,18 @@ window.ANOCHE_REFS = {
   "page": 57,
   "sec": "Alan Freed y el rock’n’roll",
   "para": "La reacción al diabólico engendro del R&B, el rock’n’roll, fue apocalíptica. Algunas ciudades lo prohibieron en sus salas de conciertos; otras exigieron que los menores de dieciocho años que asistieran a bailes de rock’n’roll trajeran a sus padres. Las clases medias afroamericanas pensaban que solo fortalecería los estereotipos peyorativos, por sus letras discretas y hasta obscenas que presentaban a las personas de la raza negra como jugadores compulsivos y bebedores con la libido desatada. Los intolerantes blancos lo vieron como un intento de mestizaje; el Consejo de Ciudadanos Blancos de Alabama declaró que el rock’n’roll «apela a lo más básico del hombre, suscita el animalismo y la vulgaridad… Es una conspiración para “mestizar” a Estados Unidos». Además, la mayoría de los críticos de música lo detestaban. El insigne crítico de jazz Leonard Feather escribió: «El rock’n’roll apela a los tontos de todas las edades, pero en particular a tontos jóvenes»."
+ },
+ "Esa es la escuela de DJ de donde provengo».": {
+  "ch": 11,
+  "page": 435,
+  "sec": "El Paradise Garage",
+  "para": "Sin duda alguna, Siano y Mancuso eran sus fuentes de inspiración principales (tuvo amoríos breves con ambos), y en sus comienzos era posible recordar cada una de las grabaciones de Levan que se escuchaban en el Loft o en el Gallery. Pero nunca negó la deuda con sus antecesores. «Nicky Siano, David Mancuso, Steve D’Acquisto y Michael Cappello, David Rodriguez —le dijo a Steven Harvey—. Esa es la escuela de DJ de donde provengo»."
+ },
+ "Esa fue razón suficiente para que él la pinchara; y la pegara también».": {
+  "ch": 11,
+  "page": 445,
+  "sec": "La música del Paradise Garage",
+  "para": "Otro ejemplo fue Love Is A Battlefield de Pat Benatar, uno de varios himnos poco probables del Paradise Garage. «Alguien dijo que él nunca podía pincharla allí —confirma Danny Krivit—. Esa fue razón suficiente para que él la pinchara; y la pegara también»."
  },
  "Esa noche intentó tocar una serie de breaks de forma seguida, uno detrás de otro, sin las otras partes de las canciones.": {
   "ch": 9,
@@ -839,6 +923,12 @@ window.ANOCHE_REFS = {
   "page": 199,
   "sec": "Francis Grasso: el primer DJ moderno",
   "para": "Grasso rescató al DJ del mundo de la servidumbre y lo convirtió en el jefe de cocina musical. DJ Francis no seguía las listas del pop y no se limitaba a complacer los gustos de los clientes. Por el contrario, cocinaba un banquete nocturno de platos musicales exóticos que los comensales, aunque los devoraban ávidamente y pedían más, jamás hubieran pedido porque no sabían de su existencia."
+ },
+ "Había tanta emoción en el momento que uno simplemente lo sabía». Levan murió tres meses después, el 8 de noviembre de 1992.": {
+  "ch": 11,
+  "page": 450,
+  "sec": "El tiempo no espera a nadie",
+  "para": "Su último viaje al extranjero fue una gira a Japón con François Kevorkian en agosto de 1992. Tocaron juntos en un club llamado Endmax. «Larry usó un set de clásicos de Filadelfia —recuerda Kevorkian—, que era tan desgarrador, tan emotivo, porque el mensaje de todas las canciones decía que pasaba por un momento de mucho dolor. Todos lo sentimos en ese momento (creo que sabía muy bien que se estaba muriendo), y todas las canciones que pinchó estaban relacionadas con cómo la vida pasa tan rápido, cuán temporal es. Tocó una canción de Jean Carn titulada Time Waits For No One y Were Do We Go From Here? de los Trammps, y ese tipo de cosas. Yo solo estaba de pie ahí, en la cabina, mirando a Larry poner estos discos, y me percaté de que ese era uno de los mejores momentos de grandeza que había visto en mi vida. Era tan obvio, tan grande. Había tanta emoción en el momento que uno simplemente lo sabía». Levan murió tres meses después, el 8 de noviembre de 1992."
  },
  "Había una buena razón para la preferencia de canciones rápidas que se tocaban en el Wheel. La clientela estaba enganchada a las anfetas.": {
   "ch": 4,
@@ -954,6 +1044,24 @@ window.ANOCHE_REFS = {
   "sec": "El hip-hop y el disco",
   "para": "Por lo tanto, lejos de rechazar el disco como algunos han sugerido, los DJ del Bronx lo reformularon. Hay que entender el hip-hop como una ramificación de la primera ola del disco que creció en paralelo a este: una suerte de versión de la revolución del baile provocada por el disco adaptada a los gustos del Bronx. La fórmula «hip-hop = disco + gueto» no está muy lejos de la realidad."
  },
+ "La generación del rock lo veía como la antítesis de todo lo sagrado: no hay músicos visibles, no hay «verdaderas» estrellas, no hay actuaciones «en vivo».": {
+  "ch": 11,
+  "page": 426,
+  "sec": "I’LL TAKE YOU TO PARADISE (TE LLEVARÉ AL PARAÍSO)",
+  "para": "Las campañas de Dahl no eran para nada únicas. El descontento con el disco estaba por todas partes. La generación del rock lo veía como la antítesis de todo lo sagrado: no hay músicos visibles, no hay «verdaderas» estrellas, no hay actuaciones «en vivo». Era una música basada únicamente en el consumo, música sin un fin estético, sin ningún otro propósito que no fuera hacer que tu cuerpo se crispara involuntariamente. Era deshumanizante, carente de expresión, sin contenido: los juicios eran condenatorios."
+ },
+ "La gente comenzó a preguntar por discos raros que Grappone —que estaba muy orgulloso de su propio conocimiento musical— nunca había escuchado, «lo que tocaba Larry».": {
+  "ch": 11,
+  "page": 442,
+  "sec": "El poder detrás del mito",
+  "para": "El poder del Paradise Garage era igualmente aparente en su efecto en el comercio de discos local. A finales de 1978, un matrimonio, Charlie y Debbie Grappone, abrió una tiendecita de música llamada Vinylmania en Carmine Street, en Greenwich Village. Resulta que estaba a la vuelta de la esquina del Paradise Garage, y Grappone pronto se percató de las hordas desaliñadas que navegaban camino al metro cada sábado por la mañana. La gente comenzó a preguntar por discos raros que Grappone —que estaba muy orgulloso de su propio conocimiento musical— nunca había escuchado, «lo que tocaba Larry»."
+ },
+ "La grandeza de Larry Levan es prueba de que la destreza técnica es solo una pequeña parte de ser DJ.": {
+  "ch": 11,
+  "page": 435,
+  "sec": "El Paradise Garage",
+  "para": "La grandeza de Larry Levan es prueba de que la destreza técnica es solo una pequeña parte de ser DJ. Técnicamente hablando, no estaba al nivel de un Walter Gibbons ni, en efecto, la mayoría de los DJ de los comienzos del disco. Su arte de mezclar era descuidado y solía preferir soltar algo torpemente que una fusión limpia. Lo que lo llevó a la grandeza fue su control obsesivo de todos los aspectos de la experiencia de un aficionado a los clubs y su aguda habilidad para transmitir su personalidad y su ánimo por las propias ranuras de los discos."
+ },
  "La historia del dub gira en torno a King Tubby.": {
   "ch": 5,
   "page": 186,
@@ -995,6 +1103,12 @@ window.ANOCHE_REFS = {
   "page": 160,
   "sec": "Copias falsas y piratas",
   "para": "La nueva obsesión con las rarezas abonó un terreno fértil para las copias falsas y piratas. Simon Soussan, quien había descubierto el disco de Frank Wilson, reforzaba sus listas de ventas con títulos ficticios, exigiendo a sus clientes que incluyeran más opciones con sus pedidos. Uno de esos pedidos imaginarios era «Reaching For The Best» de Bob Relf (este era un artista que había tenido un éxito modesto con una canción titulada Blowing My Mind To Pieces). Al fortalecer el estatus de su lista con un disco tan «raro», Soussan obtuvo varias ofertas. Ninguna, por supuesto, recibió la nueva grabación de Relf, aunque Soussan liquidó todo su inventario vendiendo a todo el mundo discos de segunda opción. En un giro gracioso de esta historia, Ian Levine robó el título de Soussan y escribió una canción real con él. Fue su primera producción, Reaching For The Best de The Exciters, y llegó al número 31 en las listas pop del Reino Unido en 1975."
+ },
+ "La palabra garage es con diferencia el término más mutilado de toda la historia de la música.": {
+  "ch": 11,
+  "page": 452,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "La palabra garage es con diferencia el término más mutilado de toda la historia de la música. Lo que hoy llamamos garage —pronunciado lo más seguro al estilo del inglés británico como «garridge», y llamado de forma más útil «garage británico» (antes llamado speed garage)— es un estilo que surgió cuando la música house, llena de soul, se aceleró un poco y se le añadió ritmos saltones de percusión y bajo, además de unas profundas líneas de bajo a un tempo más pausado. Abundaremos en esto en el capítulo siguiente."
  },
  "La pionera de este estilo fue la KMPX de San Francisco": {
   "ch": 2,
@@ -1050,6 +1164,12 @@ window.ANOCHE_REFS = {
   "sec": "Rappers’ Delight",
   "para": "Lejos de ser veteranos de la escena, eran un grupo fabricado por la astuta Sylvia Robinson. Ella afirmaba haberlos fichado después de verlos actuar en la fiesta de cumpleaños de su sobrina en el Harlem World. Otros recuerdan a los miembros de la banda Wonder Mile como amigo de su hijo y a Big Bank Hank como portero del Sparkle, uno de los clubs de Kool Herc; el resto del tiempo trabajaba en una pizzería de Englewood, Nueva Jersey, donde residía Robinson."
  },
+ "Levan usaba el eco y las reverberaciones para dar tensión a las grabaciones de forma muy parecida a como lo hacían los DJ de los sistemas de sonido jamaicanos.": {
+  "ch": 11,
+  "page": 447,
+  "sec": "Disco friki",
+  "para": "Levan usaba el eco y las reverberaciones para dar tensión a las grabaciones de forma muy parecida a como lo hacían los DJ de los sistemas de sonido jamaicanos. Las palmadas digitales de Don’t Make Me Wait eran una aproximación a un truco de reverberación que solía hacer en directo. Y en el excelente sistema del Paradise Garage, ciertas grabaciones con dub sonaban simplemente espectaculares. Una de ellas era Love Money de Funk Masters, que François Kevorkian pinchó por primera vez en el Paradise Garage. Escuchada allí, la reverberación, el eco y la decadencia espacial de la grabación eran sumamente emocionantes. Muy inspirado, Kevorkian incorporó estas ideas en una serie de remezclas que parecen clásicos incluso hoy: You’re The One For Me (Reprise) de D Train, Can You Handle It? de Sharon Redd, Situation de Yazoo y, sobre todo, Go Bang de Dinosaur L, producida por Arthur Russell."
+ },
  "Levine estaba allí, y Levine era el barómetro del gusto.": {
   "ch": 4,
   "page": 142,
@@ -1062,11 +1182,29 @@ window.ANOCHE_REFS = {
   "sec": "Ian Levine en el Heaven",
   "para": "Después de dar a Londres el primer bocado de una discoteca moderna diseñada para esos propósitos con el Embassy, el publicista del Peerage de Burke, Jeremy Norman, había decidido que era el momento oportuno para algo más grande y más gris. Una cuantiosa reforma más tarde, el Global Village, el club de jazz y funk debajo de la estación de Charing Cross, se convirtió en el Heaven, su discoteca explícitamente gay. Greg James, a la sazón residente del Embassy, había recomendado a Ian Levine como el DJ que podía llevar las riendas de este nuevo carruaje con el impulso necesario. En el Mecca de Blackpool, Levine había colaborado en la conformación de la escena del northern soul y luego había forzado a sus aficionados en los clubs a escuchar disco, toda vez que sus viajes para comprar discos de soul al mercado estadounidense se habían convertido en escapadas al mundo de los clubs gais de Nueva York. También fue uno de los únicos DJ del Reino Unido que podía mezclar discos. Levine estaba decidido a traer un poco del paraíso homosexual del Saint a Gran Bretaña. En el proceso, destilaba los gustos musicales del club para lograr un género duradero."
  },
+ "Llegó ocho días tarde sin discos y terminó quedándose tres meses.": {
+  "ch": 11,
+  "page": 450,
+  "sec": "El tiempo no espera a nadie",
+  "para": "«Lo trajimos por tres días —recuerda Berkman—. Llegó ocho días tarde sin discos y terminó quedándose tres meses. Le dije: “Larry, ¿y tus discos?”. Él dijo: “No tengo. Los vendí todos”». Pero le consiguieron discos, y pese a hallarse en las profundidades de la adicción, Levan pudo sacar un gran set."
+ },
  "Lo cierto es que era tan solo el principio.": {
   "ch": 3,
   "page": 117,
   "sec": "El fin del principio",
   "para": "Lo cierto es que era tan solo el principio."
+ },
+ "Lo inauguraron después de la lucha por los derechos gais, pero antes de la época del sida; después del Loft y antes del Paradise Garage.": {
+  "ch": 11,
+  "page": 433,
+  "sec": "Reade Street",
+  "para": "Los asiduos al Reade Street, como en el Paradise Garage, eran principalmente afroamericanos, con una clientela de lo más variopinta: desde operadoras de teléfono hasta bailarines de la compañía local de ballet Alvin Ailey’s, y cantantes en sus ratos libres como Teddy Pendergrass, Rick James y Chaka Khan. Era casi exclusivamente gay. La planta alta era un espacio loft cavernoso, con globos, tenues luces parpadeantes y un paracaídas gigante de seda que colgaba encima de la pista de baile. Al final de cada sábado, se soltaban los globos desde arriba, y estos caían como una cascada sobre los bailarines abajo. Lo inauguraron después de la lucha por los derechos gais, pero antes de la época del sida; después del Loft y antes del Paradise Garage. Todo se hizo a la perfección y durante una breve etapa del disco, el Reade Street fue el sitio de moda."
+ },
+ "Lo llamaban el sistema terremoto.": {
+  "ch": 11,
+  "page": 455,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "El sistema de sonido de Richard Long estaba impúdicamente expuesto; se podían ver los amplificadores a través del cristal. Era tan potente que los aficionados que esperaban para entrar recuerdan ver todo el edificio temblar. Lo llamaban el sistema terremoto. Para Doug Smith, del equipo de producción de North 95, era la primera vez que escuchaba un sistema de sonido real. «No era perceptible por todos lados, sino que se concentraba en la pista de baile. Si uno salía de ella, podía tener una conversación con una persona en un tono de voz normal. Tan pronto uno cruzaba el umbral de la pista, sin embargo, era asombroso, te pegaba en el centro del pecho»."
  },
  "Lo llamamos “scratching”».": {
   "ch": 10,
@@ -1091,6 +1229,12 @@ window.ANOCHE_REFS = {
   "page": 289,
   "sec": "Fiebre del sábado noche",
   "para": "Los Bee Gees lograron para el disco lo que Elvis Presley logró para el R&B, lo que Diana Ross logró para el soul, lo que Dave Brubeck logró para el jazz: convirtieron sus respectivos géneros en algo seguro para la gente blanca y heterosexual de clase media, llevándolos del gueto subcultural al circo del mainstream. Aquí había algo con lo que la clase media estadounidense podía mover el culo a su antojo."
+ },
+ "Los DJ de estos clubs de repente eran productores o remezcladores.": {
+  "ch": 11,
+  "page": 428,
+  "sec": "De las cenizas del disco",
+  "para": "A principios de los ochenta —conforme a la dialéctica gastada de la vida nocturna—, mientras los ricos y famosos se iban de los clubs, los jóvenes y desconocidos tomaron su lugar. En Nueva York, las pistas de baile gais que habían producido el disco comenzaron a recobrar cierta vitalidad clandestina, así como ocurrió en lugares para afroamericanos heteros y en locales «étnicos» (el código racial de la ciudad para los italianos y los latinos), donde la música latina de la ciudad florecía junto a formas más modernas de hip-hop y electro. Los DJ de estos clubs de repente eran productores o remezcladores. Ahora tenían el poder de no solo amoldar su música en directo para sus pistas de baile, sino también para grabar material original y lanzarlo comercialmente. Con el apoyo de una red creciente de sellos de baile independientes y con la atención inevitable de los principales DJ de la radio, podían hasta usar sus clubs para promocionar discos (incluidos los propios) y catapultarlos a las listas de ventas. Los DJ habían demostrado que sabían más que nadie sobre cómo crear música bailable. Ahora, gracias a las estructuras que montó el disco, podían poner en práctica sus conocimientos con más facilidades."
  },
  "Los DJ de la época llamaban a su estilo «música de jungla» o jungle music.": {
   "ch": 6,
@@ -1212,6 +1356,12 @@ window.ANOCHE_REFS = {
   "sec": "Planet Rock",
   "para": "Arthur Baker, el productor de la grabación, reconoció la importancia de Planet Rock inmediatamente. «Oh, lo sabía —insiste—. Lo sabía desde antes de mezclarla. Lo sabía desde antes de que le añadieran el rap. Me fui a casa la noche en que cortamos la pista y me llevé la cinta a casa, y le dije a mi esposa de entonces: “Acabamos de hacer historia”»."
  },
+ "Me quedé… todo era cuestión de música».": {
+  "ch": 11,
+  "page": 438,
+  "sec": "El Paradise Garage",
+  "para": "George también recuerda cuán democrático era. «Recuerdo estar ahí una noche y ver a Diana Ross pasearse con un abrigo de piel, dejarlo caer al suelo, bailar un rato e irse. Me quedé… todo era cuestión de música»."
+ },
  "Me sentí tan avergonzado que tuve que irme. Mi sistema no le llegaba ni a la suela de los zapatos».": {
   "ch": 10,
   "page": 375,
@@ -1247,6 +1397,12 @@ window.ANOCHE_REFS = {
   "page": 195,
   "sec": "Orígenes clandestinos",
   "para": "Musicalmente, el disco era verdaderamente revolucionario. Estaba en el corazón de algunas de las innovaciones más radicales hasta esa fecha en la manera en que se concebía, creaba y consumía la música. Cambió la apariencia de los clubs hasta rayar lo irreconocible, cambió la radio de forma drástica y tuvo un efecto importante en el equilibrio de poder en la industria musical entre los sellos independientes y las majors [los grandes grupos de la industria discográfica]. Hacia el final de su reinado, habían nacido el disco sencillo de 12 pulgadas, la remezcla y una serie de nuevas técnicas de grabación en estudio. Y con la reconstrucción de las canciones exclusivamente para las pistas de baile (más largas, más centradas en el ritmo, más funcionales) y con los discos vistos como las herramientas de los DJ en vez de simples representaciones de la música en directo, llegó una nueva noción de lo que debe ser la música popular."
+ },
+ "Más allá del hecho de ser un buen disc jockey y tener un buen club, tenía el oído del mejor disc jockey de radio de la ciudad».": {
+  "ch": 11,
+  "page": 440,
+  "sec": "El poder detrás del mito",
+  "para": "Y su amistad con el DJ de la radio Frankie Crocker de la WBLS le otorgó una influencia sin precedentes como DJ. «En ese momento era la estación de radio y él era el gran disc jockey. Así que Larry se convirtió en una figura muy importante —explica Vince Aletti—. Más allá del hecho de ser un buen disc jockey y tener un buen club, tenía el oído del mejor disc jockey de radio de la ciudad». Ambos eran potros salvajes, almas gemelas. «Larry era el único DJ negro con éxito, así que se hicieron amigos, creo, por la cuestión racial», dice Nicky Siano. En un contraste marcado con el ritmo notoriamente pesado de la programación de la radio estadounidense, Crocker era veloz a la hora de divulgar grabaciones por las ondas."
  },
  "Más aún, al evitar meticulosamente la palabra girl [chica] en sus letras": {
   "ch": 8,
@@ -1422,6 +1578,12 @@ window.ANOCHE_REFS = {
   "sec": "La pugna por el alma del soul",
   "para": "Hoy, hasta Levine siente algo de remordimiento. «Lo digo públicamente aquí: nos excedimos —dice firmemente—. La escena del northern soul era muy especial. Comenzamos con los Carstairs y Marvin Holmes, que eran igualmente exóticos pero más modernos. Luego pinchábamos Tavares y Crown Heights Affair, hasta Kool & The Gang. Y, de repente, ya no estabas escuchando algo que no podías escuchar en ningún otro lado. No había nada único en todo aquello. Debimos de haber parado antes de pasarnos de la raya. Porque lo que hicimos fue partir la escena en dos con un hacha»."
  },
+ "Porque para estos chicos, el lugar era un templo. Era sagrado.": {
+  "ch": 11,
+  "page": 430,
+  "sec": "Larry Levan y el Paradise Garage",
+  "para": "«Esto es el Paradise Garage en pocas palabras —dice el DJ neoyorquino Johnny Dynell—. Una noche, Chi Chi, mi esposa, trabajaba de barman en el Paradise Garage. Y después de haber trabajado en el mismo puesto en el Danceteria, no lo podía creer cuando vio a estos chicos trabajar de forma tan limpia. Sacaban la basura y luego lavaban y cepillaban el cubo, luego lo secaban y ponían una bolsa de basura nueva. Estaba anonadada con el amor que estos chicos mostraban por ese cubo de basura. Porque para estos chicos, el lugar era un templo. Era sagrado. Ese no era un mero cubo de basura, era un cubo de basura del Paradise Garage. Era muy del Antiguo Testamento. Y en cuanto a los demás que estaban allí, en realidad era un templo. Era tierra santa»."
+ },
  "Porque su arte proviene de la combinación del arte de otros, porque su actuación se compone de las actuaciones de otros músicos, el DJ es el epítome del artista posmoderno.": {
   "ch": 1,
   "page": 23,
@@ -1445,6 +1607,12 @@ window.ANOCHE_REFS = {
   "page": 120,
   "sec": "La primera cultura rave",
   "para": "Quince años antes de que la cultura rave cobrara existencia, el northern soul le brindó un prototipo casi perfecto. He aquí una dimensión en la que los muchachos de la clase trabajadora venían juntos en grandes cantidades y recorrían largas distancias hasta lugares oscuros para consumir drogas y bailar una música que a nadie más importaba. Una comunión en la que la solidaridad y la pertenencia al clan eran muy importantes. Durante mucho tiempo, la actitud de los sofisticados pimpollos del mundo de los clubs londinenses fue de ignorancia cuando no de desprecio, lo que le permitió desarrollarse prácticamente sin problemas y sin llamar la atención. Y, tal como sucediera con el movimiento rave (en el que el hardcore se distanció de la vertiente más comercial de la escena en un esfuerzo por preservar el espíritu de la música original), el northern soul terminó escindiéndose en un esquizoide cisma, en la medida en que los DJ más progresistas y abiertos de miras consideraban que sus gustos musicales chocaban con la férrea oposición de los tradicionalistas ultraortodoxos."
+ },
+ "Quizá la expresión más extraña del sentimiento antidisco provino de Turquía": {
+  "ch": 11,
+  "page": 426,
+  "sec": "I’LL TAKE YOU TO PARADISE (TE LLEVARÉ AL PARAÍSO)",
+  "para": "«Kill Disco». [Matad al disco] se convirtió en una pieza de grafiti popular. La estación neoyorquina WXLO programó varios «Fin de Semana Sin Disco». El DJ de Pasadena, Darryl Wayne, acuñó un lema para su programa: «Abolir el disco mientras estemos vivos», y aceptaba llamadas de radioyentes que sugerían cómo se podía lograr esta gesta. «Que le cortaran la fuente de estrógeno a los Bee Gees» era una de las ideas. Por todo el planeta se hizo frente a la amenaza del disco: los derechistas estadounidenses lo denunciaron como una degradación moral y probablemente una forma de control mental por parte de los comunistas; los países comunistas lo prohibieron por decadente y por capitalista. Quizá la expresión más extraña del sentimiento antidisco provino de Turquía, donde los científicos de la Universidad de Ankara demostraron que escuchar disco causaba sordera en los cerdos y homosexualidad en los ratones."
  },
  "Ray Reneri, quien trabajaba para Freed, aseguraba que si este pinchaba un disco, «al día siguiente vendía diez mil copias».": {
   "ch": 2,
@@ -1493,6 +1661,12 @@ window.ANOCHE_REFS = {
   "page": 185,
   "sec": "El dub",
   "para": "Se puede describir el doblaje como «una placa de rayos X musicales». Una mezcla de dub es, en resumidas cuentas, la mezcla de un tema con el bajo más alto. El «dob dub laje» segrega la canción en sus componentes principales, y añade y sustrae cada ingrediente de sonido hasta que se crea una nueva composición. Al añadir espacio a una pista, lo que queda tiene mucho más impacto. Al reforzar la línea de bajo hasta que se convierte en una presencia retumbante y colosal, eliminando todo de la canción salvo la percusión, enviando un fragmento de voz a un eco reverberante, estirando un ritmo con una dilatación interminable, el dub puede convertir una composición musical de anodina aridez en un paisaje montañoso con relieve."
+ },
+ "Se recogieron más de 10 000 discos que luego hicieron explotar dentro de un contenedor.": {
+  "ch": 11,
+  "page": 425,
+  "sec": "I’LL TAKE YOU TO PARADISE (TE LLEVARÉ AL PARAÍSO)",
+  "para": "En una treta publicitaria, Dahl —quien había renunciado a la estación de radio WDAI, molesto porque adoptó un formato de música disco únicamente— regaló cientos de entradas para un concierto de los Village People con la condición de que los receptores llevaran consigo nubes de algodón con las palabras «Disco Sucks» para lanzárselas a la banda. El mejor momento para Dahl llegó el 12 de julio de 1979, cuando arengó a miles de fanáticos del béisbol a formar un motín que acabó con detenciones y heridos de diversa consideración. Una promoción conjunta entre la estación WLUP y los White Sox de Chicago, su «mitin para la demolición del disco» en el estadio Comiskey Park, se concentró en otorgar un descuento en la entrada para un doble partido contra los Tigers de Detroit a cambio de depositar un vinilo de música disco en los torniquetes de la entrada. Se recogieron más de 10 000 discos que luego hicieron explotar dentro de un contenedor. El sentimiento antidisco de la clase media estadounidense no pudo manifestarse de forma más clara con la invasión violenta del terreno de juego por parte del público, peleas por parte de los vándalos que cantaban, encendían fuegos y excavaban el terreno de juego. La policía no pudo restablecer el orden para el segundo partido, por lo que cerraron el estadio a los White Sox."
  },
  "Se siente como si uno hiciera algo noble».": {
   "ch": 10,
@@ -1566,6 +1740,18 @@ window.ANOCHE_REFS = {
   "sec": "Francis Grasso: el primer DJ moderno",
   "para": "Si para preparar el tejido social de Nueva York para la llegada del disco necesitó de muchos factores, para preparar la pista de baile bastó con un disc jockey. Es el ancestro de todos los DJ modernos, el patriarca de estas artes, el primer DJ al que le reconocemos haber hecho lo mismo que hacen los DJ de hoy. La misma noche en que la rebelión de Stonewall comenzó, la revolución social que nutriría el disco estaba a un tiro de piedra, tocando en Haven, conspirando para urdir la revolución musical que le daría alas. Se llamaba Francis Grasso."
  },
+ "Si tocaban una grabación tuya en el Paradise Garage un viernes o un sábado por la noche, había una muy buena oportunidad de que saliera en antena en la WBLS».": {
+  "ch": 11,
+  "page": 441,
+  "sec": "El poder detrás del mito",
+  "para": "«Solía llevarse los discos de los platos de Larry —recuerda entre risas el promotor de discos Bobby Shaw—. Si tocaban una grabación tuya en el Paradise Garage un viernes o un sábado por la noche, había una muy buena oportunidad de que saliera en antena en la WBLS»."
+ },
+ "Simplemente, el disco sufrió mejoras cosméticas, cambió de nombre varias veces y dio instrucciones para que le enviaran el correo a un vecindario menos glamuroso.": {
+  "ch": 11,
+  "page": 427,
+  "sec": "I’LL TAKE YOU TO PARADISE (TE LLEVARÉ AL PARAÍSO)",
+  "para": "En efecto, las noticias de la defunción del disco siempre se han exagerado mucho. Su breve era comercial quizá acabó con un colapso bestial, pero la música que originalmente movió la escena se mantuvo viva y razonablemente en buena forma, y ha estado con nosotros desde entonces. Estas variantes como el house y el tecno son en realidad el legado del disco desarrollado por otros medios. Simplemente, el disco sufrió mejoras cosméticas, cambió de nombre varias veces y dio instrucciones para que le enviaran el correo a un vecindario menos glamuroso."
+ },
  "Sin duda alguna, el disco anunciaba la llegada de una nueva figura: el DJ como sumo sacerdote.": {
   "ch": 6,
   "page": 252,
@@ -1584,6 +1770,12 @@ window.ANOCHE_REFS = {
   "sec": "Kool Herc",
   "para": "Los otros dos pinchadiscos principales en el momento de la fundación del hip-hop también tenían raíces caribeñas, pero ambos niegan que la cultura del dub jamaicano los influyera directamente. Solo Herc representa un vínculo directo. Nueva York, sobre todo Brooklyn, disfrutaba de grandes sistemas de sonido móviles al estilo jamaicano antes de que Herc lanzara sus fiestas, pero él sin duda trajo consigo varios elementos jamaicanos que hay que considerar. En primer lugar, el estilo de rima sumamente influyente que él y sus MC usaban se basaba claramente en el toaster jamaicano, en vez de los dúos elaborados de los DJ de discoteca que rapeaban. Herc usaba una cámara de ecos, otro elemento jamaicano. Además, estaba listo, de una forma que recordaba a los seleccionadores del dub, para tratar las grabaciones no como canciones separadas, sino como herramientas para componer. Y, por su puesto, está el predominio del bajo y el volumen."
  },
+ "Solíamos vender unas sesenta copias del disco entre las diez y las once de la mañana. ¡Sesenta copias!": {
+  "ch": 11,
+  "page": 442,
+  "sec": "El poder detrás del mito",
+  "para": "«Tenías que pasar un sábado por la mañana —dice Grappone con su acento de Brooklyn—. Treinta y cinco, cuarenta, cincuenta personas esperando a que yo llegara. Abría la tienda y Manny ponía algo porque Manny había estado allí la noche anterior. “Coño, eso es lo que tocó anoche”. Solíamos vender unas sesenta copias del disco entre las diez y las once de la mañana. ¡Sesenta copias! La tienda vendía cientos de copias de las canciones favoritas del Paradise Garage. “Si Larry pinchaba el disco, se iba a vender Vynilmania”»."
+ },
  "Spring Records lanzó «Disco Par-r-r-ty» como el primer elepé de baile con música grabada sin parar.": {
   "ch": 7,
   "page": 262,
@@ -1601,6 +1793,12 @@ window.ANOCHE_REFS = {
   "page": 134,
   "sec": "Farmer Carl en el Catacombs",
   "para": "Un club vinculado estrechamente al Twisted Wheel era el Catacombs en Temple Street, Wolverhampton. Aunque el que cerrara temprano (a medianoche) limitó la influencia directa de este club en las Midlands, fue aquí donde se conformó el primer menú musical del northern soul. Su DJ, Farmer Carl Dene, hizo quizá más que cualquier otro para sentar las bases de este género. Fue probablemente el primer DJ de la escena en realmente dedicar un esfuerzo a desenterrar discos raros y uno de los primeros en darse cuenta de que tener más rarezas que tus competidores sí podía convertirse en un aspecto creativo del trabajo del DJ. Y al introducir y prestar discos a los DJ del nuevo Twisted Wheel, fue el responsable de consagrar los primeros himnos de la primera fase del northern soul."
+ },
+ "Su afinidad con el público era inmensa.": {
+  "ch": 11,
+  "page": 439,
+  "sec": "El poder detrás del mito",
+  "para": "Muchos han criticado la técnica de Levan, o por lo menos su consistencia. «Larry era malísimo, era muy ruidoso, dejaba brechas largas entre grabaciones y dejaba que las canciones saltaran, solía poner baladas en mitad de la noche —dice DJ Bruce Forest, uno de los contemporáneos de Levan—. Pero eso era tan solo el cinco por ciento de todo lo que sucedía ahí dentro. Por otro lado, tenía un ambiente que nadie más podrá alcanzar. Lograba la impresión de que te ponía discos en el salón de tu casa. Su afinidad con el público era inmensa. Si uno iba al club una semana y una bombilla era roja, a la semana siguiente, cuando regresabas, era azul, y la gente decía: “Larry cambió la bombilla esta semana”»."
  },
  "Su lúgubre sobriedad crearía una brecha profunda que los sonidos aprovecharon y rellenaron.": {
   "ch": 5,
@@ -1644,17 +1842,35 @@ window.ANOCHE_REFS = {
   "sec": "Londres",
   "para": "La creciente comunidad inmigrante de Londres comenzaba a tener su impacto también en la noche londinense. Los antillanos, que ignoraban que tuvieran que estar en cama a las diez con una taza de leche Horlicks, escuchando el programa de radio «Light Programme», celebraban toda la noche en lugares como el Roaring Twenties. El disc jockey aquí era un sujeto jamaicano de nombre Count Suckle, quien introdujo en la metrópoli el llamado bluebeat (cuyo nombre proviene del sello de ska de Ziggy Jackson, Blue Beat). Suckle ya tenía una reputación considerable entre la comunidad afrodescendiente gracias a sus fiestas con sistema de sonido (que solía celebrar en días de fiesta nacional) en el Porchester Hall, el Kilburn Gaumont State y otros lugares en el oeste y noroeste de Londres. También trajo consigo otra innovación jamaicana, el «encubrimiento», que consiste en rasgar el sello del disco para disimular la identidad de la grabación. Mick Eve, un músico activo en la escena londinense de fiestas nocturnas, recuerda una vez que Suckle despegó con vapor el sello de una copia prístina del disco My Baby Just Cares for Me, de Nina Simone."
  },
+ "También, según los que fueron, era mejor que el propio Paradise Garage.": {
+  "ch": 11,
+  "page": 433,
+  "sec": "Reade Street",
+  "para": "El almacén de dos plantas en el número 143 de Reade Street fue uno de los muchos clubs que emergieron del idealismo del Loft de David Mancuso. El dueño del lugar, Michael Brody, invitó a Levan para que pinchara allí. Ahí fue donde se sembraron las semillas del Paradise Garage. También, según los que fueron, era mejor que el propio Paradise Garage."
+ },
  "Tan pronto Herc comenzó a pinchar, cada hijoputa comenzó a robar los discos de mamá y papá».": {
   "ch": 9,
   "page": 343,
   "sec": "Kool Herc",
   "para": "Herc iba a ejercer una influencia masiva, de largo aliento. De repente, cada b-boy soñaba con disfrutar con el mismo tipo de adoración local; todos querían poder tener platos a mano y celebrar fiestas tan salvajes como las suyas. Todo parecía posible. Después de todo, solo desenterraba grabaciones viejas y pinchaba los mejores trozos. Como dijo Jazzy Jay, otro DJ inspirado en la leyenda de Herc: «Todos estaban en tu casa: eran los discos de tu madre y tu padre. Tan pronto Herc comenzó a pinchar, cada hijoputa comenzó a robar los discos de mamá y papá»."
  },
+ "Tienes que hacerlos pensar: “Esa es la canción que Tony pinchó en el Zanzibar”. Si no pasa eso, ¿quién eres?».": {
+  "ch": 11,
+  "page": 456,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "«El propósito de pinchar en KISS durante dos horas es captar a nuevos adeptos —confesó a Muzik en 1997—. Si no los puedes hechizar, no deberías tener el trabajo. Cualquiera puede tocar para un público y poner la lista de éxitos de la semana anterior y hacer que la gente se ponga a gritar. ¿Qué aporta eso? Te pagan unos doscientos dólares y te vas a tu casa. La gente no se acordará de ti; se acordará de las grabaciones. Tienes que hacerlos pensar: “Esa es la canción que Tony pinchó en el Zanzibar”. Si no pasa eso, ¿quién eres?»."
+ },
  "Time de los Chambers Brothers era como el himno del Salvation.": {
   "ch": 3,
   "page": 107,
   "sec": "Terry Noel en el Arthur",
   "para": "En cuanto a Terry Noel, con el tiempo dejó su carrera musical por el arte, y hoy se le puede visitar en su estudio en el centro de la ciudad. Sin embargo, su paso como DJ fue largo, desde el Arthur hasta L’Ordine, y luego el Salvation, el nuevo lugar de moda en Greenwich Village, donde continuó con sus experimentos, hasta el punto de mezclar con tres platos distintos. «Lo del Salvation tenía mucho que ver con los discos —dice—. Ahí fue cuando cambié a tres platos. Estaba muy metido en eso. El soul. Absolutamente. Time de los Chambers Brothers era como el himno del Salvation. Yo preparaba el camino hasta esa canción y todos sabían que llegaría de camino. Solía apagar las luces y escuchar el bum, bum, bum»."
+ },
+ "Todo era un matiz, un empujoncito, un guiño. El resto estaba en manos del bailarín.": {
+  "ch": 11,
+  "page": 446,
+  "sec": "Disco friki",
+  "para": "Con la fuerte presencia del reggae, Nueva York comenzó a absorber la influencia del dub jamaicano. Las líneas de bajo distorsionadas y los espacios abiertos amplios y exuberantes sugerían mucho con poco, y requerían una autoconfianza suprema en la capacidad propia como productor. Todo era un matiz, un empujoncito, un guiño. El resto estaba en manos del bailarín."
  },
  "Todo esto con tan solo dos platos y una pila de discos viejos de tus padres.": {
   "ch": 10,
@@ -1740,6 +1956,12 @@ window.ANOCHE_REFS = {
   "sec": "Duelos",
   "para": "»No podíamos ni escuchar nuestra propia mierda. ¡Uf! Comenzamos a buscar botones, a subirlo todo, los altavoces empezaron a fallar. Y entonces él pone The Mexican. ¿Alguna vez has escuchado The Mexican de Babe Ruth? Comienza a volumen bien bajo: bam-pum-pum. Unos dieciséis compases después, simplemente nos rendimos y apagamos los putos amplificadores. Apagamos todo. Y todavía no había comenzado la percusión. Cuando entró la batería, todas las paredes… como un ¡BRUUUUUM! Se acabó»."
  },
+ "Y cuando pusieron esa canción, todo el club abandonó el salón para ir a por comida. No quedó ni una sola persona en la pista».": {
+  "ch": 11,
+  "page": 443,
+  "sec": "El poder detrás del mito",
+  "para": "Uno de esos discos fue Heartbeat de Taana Gardner. Producido por Kenton Nix para West End Records, fue remezclado por Levan y estrenado en el Paradise Garage. Heartbeat era una canción rara, con un tempo caprichoso, ejecución vocal vertiginosa y un acompañamiento peculiarmente desafinado. «Cuando salió Heartbeat, no se tocaba hip-hop en la radio en ningún lado como pasa hoy —recuerda Danny Kravit—. No había música con tempo lento como esa. Y cuando pusieron esa canción, todo el club abandonó el salón para ir a por comida. No quedó ni una sola persona en la pista». Pero Levan perseveró, pinchándola hasta varias veces en una noche. Pronto las personas corrían a la pista cuando sonaba. «A final del mes, nadie se iba de la pista cuando ponían la canción —dice Krivit—. Y ahora, por supuesto, tenían que ir a Vynilmania a molestar a Charlie para conseguirla». Vynilmania llegó a vender 5000 copias de Heartbeat. Hasta el día de hoy es su disco más vendido."
+ },
  "Y de todas las personas involucradas en la creación del hip-hop, fueron los DJ los que lo pasaron peor cuando la música pasó al ámbito comercial.": {
   "ch": 10,
   "page": 407,
@@ -1788,6 +2010,12 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento de la remezcla",
   "para": "Por pura coincidencia, inspirados en las extensas improvisaciones del jazz y la desmesurada épica del rock progresivo, los productores de música pop habían comenzado a experimentar con pistas más largas, lo cual solía verse como una señal de mayor seriedad musical. Norman Whitfield, de la Motown, fue uno de esos productores: su trabajo tardío con los Temptations y Undisputed Youth muestra influencias claras de su deuda con el rock psicodélico. Frank Wilson, otro miembro de la línea de producción de Berry Gordy, llevó las nociones de Whitfield aún más lejos. Colaborando con el exvocalista de los Temptations, Eddie Kendricks, produjo Girl You Need A Change Of Mind, lanzada en 1973, del que se podría decir que fue la primera grabación de disco."
  },
+ "quien se convertiría en un remezclador estrella y en el primer DJ en firmar un contrato para un elepé con una discográfica principal por méritos propios.": {
+  "ch": 11,
+  "page": 429,
+  "sec": "De las cenizas del disco",
+  "para": "Después de Bambaataa y los años de la Zulu Nation en el Roxy, los sonidos estruendosos del hip-hop y el electro se vieron incubados, junto con los sonidos bailables latinos de la ciudad, en un club llamado Funhouse. Aquí se desarrolló una forma de culto a la personalidad que surgió en torno a la figura de un DJ latino, John Jellybean Benitez, quien se convertiría en un remezclador estrella y en el primer DJ en firmar un contrato para un elepé con una discográfica principal por méritos propios. Por otro lado, en Danceteria, Mark Kamins, Johnny Dynell y Anita Sarko ejercían una influencia considerable en la música de la ciudad al cruzarla con los sonidos del funk post-punk europeo y el new wave estadounidense (Kamins además condujo a Madonna a su primer contrato de grabación)."
+ },
  "sin embargo, había inventado lo que hoy se conoce como breakbeat: el uso del break de percusión de una grabación en vez de pinchar toda la canción.": {
   "ch": 9,
   "page": 336,
@@ -1799,6 +2027,12 @@ window.ANOCHE_REFS = {
   "page": 393,
   "sec": "El sampleado",
   "para": "En el hip-hop, la dependencia del sampleado llegó a su punto máximo a finales de los ochenta con las producciones de Public Enemy usando el wall-of-sound, y en los empeños por usar cualquier cosa aleatoria de La Soul, antes de que se volviera demasiado caro o arriesgado basar grabaciones en una alta cantidad de sampleados largos e identificables. El comentarista Nelson George señala un punto interesante: solo cuando el hip-hop comenzó a samplear música de blancos —en particular en el caso de Biz Markie, pero también en las demandas relacionadas con los elepés «Three Feet High And Rising» de La Soul y «It Take A Nation Of Millions To Hold Us Back» de Public Enemy— entonces la industria comenzó a percatarse de un problema."
+ },
+ "¡Recuerdo haber tenido sexo allí un par de veces!».": {
+  "ch": 11,
+  "page": 434,
+  "sec": "Reade Street",
+  "para": "«El ponche siempre estaba cargado —bromea la discotequera Yvon Leybold—. Alguien siempre pasaba un cigarrillo de marihuana. Alguien siempre pasaba una pipa de opio. Alguien siempre repartía el ácido. Era muy libre y muy abierto. Recuerdo ir allí y bailar en topless. Hacía mucho calor ahí dentro, pero era tan divertido que una quería quitarse la ropa. ¡Recuerdo haber tenido sexo allí un par de veces!»."
  },
  "«A mi estilo lo llamé la “Teoría de la Mezcla Rápida”": {
   "ch": 9,
@@ -1866,6 +2100,18 @@ window.ANOCHE_REFS = {
   "sec": "Treinta años de hip-hop",
   "para": "Más allá de la música, la vasta influencia cultural del hip-hop puede verse en las modas que ha generado y en la forma en que convirtió el inglés negro de Estados Unidos en vernáculo mundial. A mediados de los ochenta, Cornell West, uno de los muchos sociólogos intrigados por el auge del hip-hop, se preguntaba: «¿Dónde acabará el rap?». Su respuesta es reveladora: «Donde terminan los productos estadounidenses posmodernos: bien producido, regulado, distribuido, circulado y consumido»."
  },
+ "«Don’t Make Me Wait trata sobre el sexo, y todo el mundo puede identificarse con eso —dijo Levan al periodista de NME Paolo Hewitt": {
+  "ch": 11,
+  "page": 446,
+  "sec": "Disco friki",
+  "para": "«Don’t Make Me Wait trata sobre el sexo, y todo el mundo puede identificarse con eso —dijo Levan al periodista de NME Paolo Hewitt—. Era muy muy apasionada, muy ruda, también era tierna, pero luego era fría y entonces se volvía inclasificable. Lo tenía todo»."
+ },
+ "«El Garage es lo máximo en Estados Unidos, y yo soy su abuelo», reclamó Levan en 1985.": {
+  "ch": 11,
+  "page": 452,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "«El Garage es lo máximo en Estados Unidos, y yo soy su abuelo», reclamó Levan en 1985. Sin embargo, cuando uno denomina un género musical con el nombre de un club que abrió durante diez años y que era conocido por su eclecticismo salvaje, confrontará problemas con la definición en un santiamén."
+ },
  "«El beat-juggling consiste en tomar dos discos, y simplemente reestructurar los arreglos del ritmo».": {
   "ch": 10,
   "page": 418,
@@ -1914,6 +2160,18 @@ window.ANOCHE_REFS = {
   "sec": "Los punks del Bronx",
   "para": "«Era como estar en El corazón de las tinieblas —bromea Holman—. Voy al hotel y estoy a punto de llevarlos hasta el Bronx una noche de verano —McLaren y Rory Johnston de la RCA—, y ellos están vestidos como putos piratas con todo ese atuendo Vivienne Westwood. Pensé que nos iban a atracar o a pegar un tiro en cualquier momento. Al final llegamos y vamos de un lugar que está completamente desierto a masas y masas de chicos, solo adolescentes que corren de una esquina para otra, mirábamos las peleas que se desencadenaban en la multitud. Era una locura. Las botellas volaban por todas partes. Malcolm vestía como un pirata y nadie le hacía caso. Y ahora comienza a ver los efectos especiales de los DJ y a los b-boy, y comienza a ver todo el conjunto. Y entonces dice: “Vámonos de aquí. Pero tengo una idea”»."
  },
+ "«Era la pesadilla de las discográficas —bromea Danny Krivit": {
+  "ch": 11,
+  "page": 448,
+  "sec": "El tiempo no espera a nadie",
+  "para": "Larry Levan se comportaba en el estudio de forma muy parecida a como se comportaba en la cabina y en todas partes. Era otro espacio para seguir de fiesta. «Era la pesadilla de las discográficas —bromea Danny Krivit—. Básicamente, llegaba tarde y mientras estaba allí todo era socializar y consumir drogas. Al final, sí se ponía a mezclar, pero se distraía con mucha facilidad. Y la mezcla, en vez de tardar un día o algo así, duraba semanas»."
+ },
+ "«Era un momento en Nueva York donde se rajaban las gargantas por dinero —recuerda": {
+  "ch": 11,
+  "page": 431,
+  "sec": "Larry Levan y el Paradise Garage",
+  "para": "…trataban como a un invitado de honor, con un grado de cortesía y respeto prácticamente desconocido en clubs de hoy. «Uno se sentía especial —dice Danny Tenaglia, uno de los muchos DJ inspirados por sus primeras visitas al Paradise Garage—. Uno se sentía como si estuviera en una élite, con personas con las que compartías la misma sensibilidad musical tuya». He aquí un mundo privado, pura reivindicación del espíritu original de amorosa igualdad del disco. En marcado contraste con lo que se llevaba extramuros, el Paradise Garage representaba libertad, compasión y camaradería. Era tanto un centro comunitario como una discoteca. Dave Piccioni, dueño de Black Market Records, en Londres, quien entonces era DJ y vivía en Nueva York, era un cliente habitual del Paradise Garage a finales de los ochenta. «Era un momento en Nueva York donde se rajaban las gargantas por dinero —recuerda—. Todos sacaban la navaja y la clavaban en la espalda del otro. Era un todos contra todos. Era agresivo. Narcotráfico, sesenta mil personas vivían en la calle. Y entonces uno iba a este pequeño oasis donde la gente era en verdad educada y amistosa con los demás. Uno se sentía cómodo. Eran personas que compartían, y eso era tener la mente abierta. Estados Unidos es un lugar de mente estrecha. Lo que tenían en común no era tan solo ponerse hasta las cejas, como aquí; era mucho más que"
+ },
  "«Es la persona que más influyó en mí —dice Nicky Siano—.": {
   "ch": 6,
   "page": 249,
@@ -1926,6 +2184,12 @@ window.ANOCHE_REFS = {
   "sec": "El sonido de Filadelfia",
   "para": "En 1976, Tom Moulton tuvo la oportunidad de remezclar Love Is The Message. Su mezcla —una de las muchas que llevó a cabo para el álbum «Philadelphia Classics»— elevó la canción a otro nivel, pues la transformó en una fuga con el característico resabio a soul que imprimía el sello a sus producciones, plagada de cambios constantes durante once minutos y veintisiete segundos. La canción progresa desde su dramática apertura de un minuto de duración, y Moulton extendió la parte principal de la canción a más de cinco minutos, antes de deslizar al bailarín nuevamente a la pista con cuerdas que se desvanecen hasta elevarlo otra vez a la estratosfera al hilo de las improvisaciones finales del saxofón y el teclado. Era y todavía es una obra maestra del mejor soul. «Es probablemente lo mejor que haya hecho en la vida —dice—. Hubiera dado lo que fuera por mezclar Love Is The Message. Y todavía es una de mis canciones favoritas. Cuando llegaba a ciertos pasajes del tema, era como si me empujaran de un peñasco y no pudiera parar de caer. Quedar suspendido. Porque eso es lo que te hace esa canción. Es una de las canciones más brillantes que haya escuchado jamás, por su belleza»."
  },
+ "«Esa fue creada específicamente para el Paradise Garage», subraya con énfasis.": {
+  "ch": 11,
+  "page": 446,
+  "sec": "Disco friki",
+  "para": "«Todo el mundo estuvo bajo el hechizo de la grabación de los Peech Boys —dice Arthur Baker—. Cuando esas palmadas digitales comenzaron a sonar por todo el lugar… Guau, tío». Encendido por este nuevo sonido, Baker produjo Walking on Sunshine de Rocker’s Revenge. «Esa fue creada específicamente para el Paradise Garage», subraya con énfasis."
+ },
  "«Ese servicio causó sensación —dijo Wallichs—. Convertimos al disc jockey en un prescriptor, en un tipo importante, en el VIP de la industria.": {
   "ch": 2,
   "page": 47,
@@ -1937,6 +2201,12 @@ window.ANOCHE_REFS = {
   "page": 135,
   "sec": "Farmer Carl en el Catacombs",
   "para": "«Él era el que descubría los discos que luego se ponían en el Twisted Wheel», dice Ian Levine, solo uno de los muchos DJ que ven a Farmer Carl como un mentor. «Encontró este disco de Richard Temple titulado That Beating Rhythm en Mirwood Records. Nadie creía que existiera. Uno tenía que ir al Catacombs para escucharlo». Dean también introdujo Tired Of Being Lonely de los Sharpees, From The Teacher to The Preacher de Gene Chandler y Barbara Acklin y el clásico norteño de Doris Troy I’ll Do Anything (A Troy luego la invitaron a que cantara los coros para el disco «Dark Side of the Moon» de Pink Floyd). «Farmer Carl era el DJ al que todos consideraban un dios», declara Levine."
+ },
+ "«Fue como si se hubiera muerto un familiar», dice Charlie Grappone.": {
+  "ch": 11,
+  "page": 449,
+  "sec": "El tiempo no espera a nadie",
+  "para": "Al final de la era del Paradise Garage, Levine había caído en una crisis profunda en la que su trabajo como DJ perdió mucha importancia frente al consumo de drogas. El club había desarrollado una camarilla importante de heroinómanos, y Levan era parte de ella. «Pues sí que le daba a las drogas —dice Krivit—. Pero no parecía como si eso le controlara la vida. Al final, quizá entendiera que el Garage iba a cerrar. Creo que en ese punto se manifestaban las drogas cada vez más y él cada vez menos». Durante el último año, dependía mucho de los DJ sustitutos, David DePino, Joey Llanos y Victor Rosado. El club por fin cerró, víctima de la especulación inmobiliaria, el 26 de septiembre de 1987, después de una fiesta monumental de dos días en la que se estima pasaron unas 14 000 personas por las puertas del club a despedirse entre lágrimas. Aunque hacía mucho tiempo que se anticipaba el cierre, hubo, sin embargo, un efecto sombrío en el mundo de los clubs de Nueva York. «Fue como si se hubiera muerto un familiar», dice Charlie Grappone."
  },
  "«Fue una oportunidad que nunca tuve en Estados Unidos», dijo Brenda Holloway": {
   "ch": 4,
@@ -1986,17 +2256,41 @@ window.ANOCHE_REFS = {
   "sec": "Vicious Rap",
   "para": "Otra figura clave en los comienzos fue el empresario experimentado Paul Winley. Después de grabar a grupos de doo wop en los cincuenta, algunos de los cuales describe como «verdaderos matones», Winley encontró un ambiente familiar en el hip-hop. «La era del doo wop y la era del hip-hop, en sus inicios, eran la misma cosa. Eran muchachos. Niños»."
  },
+ "«La leyenda de Larry va más allá de la razón; se alimenta de sí misma hasta cierto punto», sugiere el crítico musical Vince Aletti.": {
+  "ch": 11,
+  "page": 439,
+  "sec": "El poder detrás del mito",
+  "para": "«La leyenda de Larry va más allá de la razón; se alimenta de sí misma hasta cierto punto», sugiere el crítico musical Vince Aletti. Dave Piccioni es igual de escéptico. «Odio esta mierda de que, solo porque uno muere, se crea toda esta mitología a su alrededor. Si estuviera vivo ahora, probablemente estaría pinchando lo mismo que Tony Humphries»."
+ },
+ "«La música del Garage era una forma de saltarse las reglas —dice DJ Danny Krivit": {
+  "ch": 11,
+  "page": 443,
+  "sec": "La música del Paradise Garage",
+  "para": "El club abrió en 1977, justo antes de que Fiebre del sábado noche condenara al disco a su encumbramiento y posterior caída en las fauces del mainstream. Después del colapso, los DJ tuvieron que esforzarse un poco más a la hora de encontrar grabaciones para alimentar sus pistas de baile eternamente hambrientas. Nadie lo hizo con más ingenio que Larry Levan, que tocaba todos los estilos y tempos y demostró que en el ocaso del disco había todo un mundo de posibilidades. El Paradise Garage tocaba rarezas de la Rough Trade tanto como los clásicos de Salsoul; curiosidades electrónicas poco comunes tanto como el soul, el rap y el funk; Yazoo tanto como Loleatta Holloway; Jan Wobble, Talking Heads, Marianne Faithfull e Ian Dury tanto como MFSB y Gwen Guthrie. El que combinara todo esto tan efectivamente es una prueba de la personalidad poderosa de Levan. «La música del Garage era una forma de saltarse las reglas —dice DJ Danny Krivit—. Tocaba lo que le daba la gana tocar. En realidad era cuestión de no tener límites»."
+ },
  "«La música disco era un mantra, una oración.": {
   "ch": 6,
   "page": 253,
   "sec": "El nacimiento del arte del DJ moderno",
   "para": "En una entrevista para el New York Post en 1975, Steve D’Acquisto afirmó: «La música disco era un mantra, una oración. Ya nadie va a la iglesia, y si escuchas canciones como Fight The Power, Ease Down On The Road y Bad Luck, estás recibiendo instrucción política y religiosa»."
  },
+ "«La música disco es una enfermedad. La llamo distrofia disco —despotricaba por las ondas radiofónicas": {
+  "ch": 11,
+  "page": 425,
+  "sec": "I’LL TAKE YOU TO PARADISE (TE LLEVARÉ AL PARAÍSO)",
+  "para": "En Chicago, el locutor de radio y DJ Steve Dahl odiaba tanto al disco que formó un «ejército para la destrucción del disco» y lo movilizó para atacarlo donde fuera posible. Sus seguidores se unieron en torno al lema sumamente homofóbico [en voz inglesa]. «Disco Sucks» y emprendió una cruzada contra el maricón malvado acosando a los DJ de clubs cada vez que ponían esta música. «La música disco es una enfermedad. La llamo distrofia disco —despotricaba por las ondas radiofónicas—. Las víctimas de este mal asesino caminan por ahí como zombis. Debemos hacer todo lo posible para detener la propagación de esta plaga»."
+ },
  "«La típica discoteca de Nueva York era joven, italiana y gay», escribió Vince Aletti": {
   "ch": 6,
   "page": 240,
   "sec": "El auge de las discotecas",
   "para": "Con o sin recesión, David Mancuso y Francis Grasso habían creado entre ambos una cultura de los DJ que florecía. «La típica discoteca de Nueva York era joven, italiana y gay», escribió Vince Aletti al referirse a los chicos guapos cuyos nombres acababan en «o», quienes se apoderaban de la vida nocturna de la ciudad."
+ },
+ "«Larry podía lograr que dos mil personas se sintieran como si estuvieran en una fiesta en su casa», dice Mel Cheren": {
+  "ch": 11,
+  "page": 451,
+  "sec": "El tiempo no espera a nadie",
+  "para": "«Larry podía lograr que dos mil personas se sintieran como si estuvieran en una fiesta en su casa», dice Mel Cheren, copropietario del Paradise Garage. «Eso era magia»."
  },
  "«Lo que sí les gustaba realmente eran las voces femeninas».": {
   "ch": 8,
@@ -2076,6 +2370,12 @@ window.ANOCHE_REFS = {
   "sec": "Tragedia",
   "para": "Con la clientela diezmada, el Saint cerró en abril de 1988, con la música de Hold On To My Love de Jimmy Ruffin y el movimiento final de la Novena Sinfonía de Beethoven (el club reabrió poco después sin el domo a finales de 1989). El Saint celebra todavía fiestas masivas cada trimestre, con espectáculos sexuales y un caudal de mal comportamiento. Cuando vendieron el edificio, los activistas gais sintieron que debería haber un monumento a la memoria del club y a sus protagonistas, pues ese había sido el lugar desde donde se proclamó la liberación gay al mundo entero y un lugar donde la libertad fue sofocada por una tragedia terrible. Rodger McFarlane, director ejecutivo de Gay Men’s Health Crisis, una organización benéfica para el sida de Nueva York, reflexionó sobre los recuerdos agridulces que evoca el Saint. «No sabíamos que nuestros pasos de baile estaban esculpiendo las inscripciones de nuestros epitafios»."
  },
+ "«No tienes idea de cuánto poder tienes allá arriba», le decía a Dynell": {
+  "ch": 11,
+  "page": 438,
+  "sec": "El Paradise Garage",
+  "para": "La vida de Levan giraba en torno al Paradise Garage. Cuando abrió hasta vivía allí, algo que molestaba mucho a Michael Brody. Durante el día, el círculo de amigos de Levan se reunía en King Street a pasar el rato, consumir drogas, jugar con ese prístino sistema de sonido y patinar en la pista de baile. Johnny Dynell recuerda recibir lecciones de disyoquear durante aquellas tardes lánguidas; Levan, consciente del linaje del que había emanado, estaba muy dispuesto a impartir las tradiciones del disco. «No tienes idea de cuánto poder tienes allá arriba», le decía a Dynell, señalando a la cabina del DJ."
+ },
  "«Nunca había existido un club como el Saint», dice Ian Levine": {
   "ch": 8,
   "page": 307,
@@ -2094,6 +2394,12 @@ window.ANOCHE_REFS = {
   "sec": "Larry Levan y Frankie Knuckles en el Continental Baths",
   "para": "Tras la salida de Levan, Knuckles se convirtió en el DJ residente del Continental Baths, y pinchaba allí hasta su cierre, cuando se fue a Chicago con mucho éxito y, como veremos, forjó la música house. Nunca olvidó el Continental Baths, sin embargo, como le dijo a Sheryl Garratt: «Pinchar allí cada noche, escuchar la música una y otra vez. Así fue como prácticamente me formé»."
  },
+ "«Podía pasar de ser un capullo durante siete horas a, de repente, conducirte a lo más alto y dejarte hecho mierda en tan solo quince minutos, ¡y eso te salvaba la noche!": {
+  "ch": 11,
+  "page": 436,
+  "sec": "El Paradise Garage",
+  "para": "David Morales, quien tuvo la suerte de actuar en el Paradise Garage durante sus primeros tientos profesionales, dice que los cambios de ánimo de Levan eran de una bipolaridad extrema. «Podía pasar de ser un capullo durante siete horas a, de repente, conducirte a lo más alto y dejarte hecho mierda en tan solo quince minutos, ¡y eso te salvaba la noche! De eso se trababa. Nadie podía hacer eso»."
+ },
  "«Quería ser el primer grupo electrónico negro —dice—.": {
   "ch": 10,
   "page": 388,
@@ -2111,6 +2417,18 @@ window.ANOCHE_REFS = {
   "page": 314,
   "sec": "Stock, Aitken y Waterman",
   "para": "Durante sus años como compositor, Waterman visitaba los clubs gais con un dictáfono, grababa los sonidos más recientes y se los proporcionaba a Mike Stock. Las primeras agrupaciones que produjeron eran supergais. Eran Divine, estrella de las películas indignantes de John Waters, una drag queen de 136 kilos cuyas cejas parecían los arcos de McDonalds. Un reto de gruñidos, su canción So You Think You’re a Man alcanzó la posición 16 (Reino Unido) en 1984. «Sabía que iba a ser un éxito porque era tan amanerada —admite Waterman en su autobiografía, I Wish I Was Me—. Si comenzó como un noventa por ciento afeminada, la cosa se disparó al ciento veinte por ciento para cuando terminamos». El trío Stock Aitken Waterman (SAW) siguió con un número uno a nivel mundial con la canción You Spin Me Round (Like A Record) de Dead Or Alive, un grupo gótico ligero de Liverpool, cuyo cantante de voz chillona era el andrógino de voz mordaz Pete Burns."
+ },
+ "«Se enamoró del lugar —recuerda Torrales— y quería traerlo a Jersey».": {
+  "ch": 11,
+  "page": 453,
+  "sec": "Tony Humphries y la música garaje",
+  "para": "A principios del siguiente año, Berger visitó el Paradise Garage y quedó maravillado. «Se enamoró del lugar —recuerda Torrales— y quería traerlo a Jersey». Inmediatamente, transformó la sala de baile del segundo piso en el mejor club nocturno que la ciudad haya visto jamás, con todo lo necesario y un sistema de sonido diseñado por Richard Long. La noche inaugural fue el 29 de agosto de 1979, con malabaristas, magos y chicas al estilo de Las Vegas. Berger hasta trajo leones y tigres rugiendo en jaulas para amenizar la velada. La música fue transmitida en directo por la estación WNJR y la crema de la realeza musical de Nueva Jersey apareció en el lugar, con los discos de Kool & The Gang, Tasha Thomas y los All Platinum colgando en la cabina. El jefe de los All Platinum acababa de montar un sello, Sugar Hill, y trajo un disco de promoción para que Torrales lo pinchara. «Se me acercó y me dijo: “Nadie más ha pinchado esto en la zona de Nueva York. Quiero que lo hagas tú”. Era Rappers’ Delight»."
+ },
+ "«Si pudieras ver mi colección, verías que me gusta todo tipo de música, pensarías que pertenece a cuatro DJ distintos —explica": {
+  "ch": 11,
+  "page": 445,
+  "sec": "Disco friki",
+  "para": "«Si pudieras ver mi colección, verías que me gusta todo tipo de música, pensarías que pertenece a cuatro DJ distintos —explica—. Y por esta razón, me vi tomando cosas de aquí, de allá (reggae, pop, disco, jazz, blues) y usando muchas cosas como base»."
  },
  "«Si uno no traía lo nuevo, pinchaba la misma mierda y se convertiría en una estampa para el recuerdo —argumenta": {
   "ch": 10,
@@ -2159,6 +2477,18 @@ window.ANOCHE_REFS = {
   "page": 399,
   "sec": "Los punks del Bronx",
   "para": "«Era fabuloso. Era un sentimiento tan fantástico —dice Johnny Dynell, uno de los DJ del centro que pinchaba ahí todo el tiempo, al recordar cómo el Roxy mezclaba las culturas y las razas—. Eso era lo mejor del lugar. Para mí era lo mejor; eran como mis dos mundos juntos. Realmente podía ver a los dos grupos de mis amigos en el mismo lugar. Eso era poco común». Dynell está seguro de que Blue fue capaz de lograr esa hazaña precisamente porque no compartía las presunciones comunes de los estadounidenses en cuanto a la raza. «Un estadounidense no podía hacer esto. Tenía que ser una persona inglesa»."
+ },
+ "«Uno no puede llevar la batería al espacio exterior, uno la lleva en la mente», dijo a David Toop en 1987.": {
+  "ch": 11,
+  "page": 447,
+  "sec": "Disco friki",
+  "para": "Russell era un místico de ojos locos que colaboró con todos desde Allen Ginsberg (a quien enseñó a tocar la guitarra) hasta Laurie Anderson y también Philip Glass (además de la leyenda de A&R de CBS, John Hammond). Sus entrevistas eran tan abstractas como su música, con comentarios que hacían que Phil Spector pareciera normal. «Uno no puede llevar la batería al espacio exterior, uno la lleva en la mente», dijo a David Toop en 1987. Un celista vanguardista con una obsesión por el eco, se le cita con frecuencia como el pionero del disco dub-style, pero esta música suele ser imposible de bailar. «No negaré que Arthur era un visionario absoluto —dice François, quien perfeccionó el genio de Russell con una forma más agradable—, pero no creo que él realmente supiera solucionar lo que creo. Cuando remezclé Go Band, realmente le di un giro a esa grabación. La simplifiqué al máximo. Pasé horas y horas con ella»."
+ },
+ "«Yo idolatraba a Larry —dice—. Todavía lo hago a día de hoy; era el mejor.": {
+  "ch": 11,
+  "page": 432,
+  "sec": "Larry Levan y el Paradise Garage",
+  "para": "Junior Vasquez forjó toda su carrera siguiendo el camino marcado por Levan: «Yo idolatraba a Larry —dice—. Todavía lo hago a día de hoy; era el mejor. Y sí, vivo en el pasado cuando se trata de eso, y quiero seguir luchando, deseando crear un sentimiento, ese salón, esa cabina». El Sound Factory de Junior era una réplica deliberadamente exacta del Paradise Garage, y en sus mejores momentos casi llegó a despertar los mismos sentimientos de comunidad. Cuando el Sound Factory abrió por primera vez, se colgó el letrero iluminado del Paradise Garage sobre la entrada (una estrategia más bien pretenciosa que rápidamente denunciaron los irritados fieles al Paradise Garage). El Shelter, luego llamado Vinyl, sede de las muy conocidas noches de Body & Soul [cuerpo y alma], era otro club fundado más o menos en su totalidad para preservar el recuerdo del Paradise Garage."
  },
  "«todo el público se fue con él.": {
   "ch": 6,

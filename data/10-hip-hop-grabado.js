@@ -91,7 +91,6 @@ ANOCHE.add([
       { a: 'Captain Sky', t: 'Super Sperm', y: 1978 },
       { a: 'Afrika Bambaataa & the Jazzy 5', t: 'Jazzy Sensation', y: 1981 },
       { a: 'Gwen McCrae', t: 'Funky Sensation', y: 1981 },
-      { a: 'Afrika Bambaataa & the Soulsonic Force', t: 'Looking for the Perfect Beat', y: 1982 },
     ],
     refs: [
       { q: 'Es la fuente del electro, de la raíz de la música de bajo de Miami, es una fuente reconocida para el origen del house y el tecno, y ejerció una monumental influencia en la manera en que se crearían las grabaciones de hip-hop.' },
