@@ -1,5 +1,11 @@
 // Generado por tools/refs.py — no editar a mano.
 window.ANOCHE_REFS = {
+ "(Rage fue donde por primera vez el Reino Unido escuchó Energy Flash de Beltram)": {
+  "ch": 16,
+  "page": 691,
+  "sec": "El jungle",
+  "para": "Con sus inequívocos referentes de soul, el dúo había alcanzado cierta atención disyoqueando en el sitio donde terminaba toda la primera escena del acid house, el Mendoza, en Brixton, que abría hasta altas horas. Para 1991, con seguidores de sus programas de radio «Phase 1 FM» y papeles destacados en Sunrise, Energy y muchas otras raves de la M25, abarrotaban con facilidad el Star Bar en el segundo piso del Heaven cada jueves, tocando el tecno duro que provenía de Bélgica y Alemania. Cuando los DJ principales Colin Faver y Trevor Fung perdieron el vuelo de regreso desde Los Ángeles, Fabio y Grooverider los sustituyeron en la pista principal y la montaron tan gorda que pronto recibían acetatos de los héroes de Detroit, May y Saunderson, así como discos de sello blanco de Joey Beltram y otras estrellas emergentes del hardcore (Rage fue donde por primera vez el Reino Unido escuchó Energy Flash de Beltram). Aceleraron las cosas a niveles increíbles, subiendo el tempo, incluso usando discos de 45 rpm en vez de 33. «Simplemente, era la mezcla más demente de la locura extrema», dice Fabio."
+ },
  "(las piezas se enmarcaron con la inscripción: «Remezclado por un DJ del northern soul»)": {
   "ch": 15,
   "page": 610,
@@ -35,6 +41,12 @@ window.ANOCHE_REFS = {
   "page": 368,
   "sec": "Rapear",
   "para": "A la larga, como ocurrió en Jamaica, la persona que pinchaba los discos fue eclipsada por la persona que pronunciaba las rimas. Pero por ahora, sobre todo porque era dueño del equipo de sonido y porque el rap todavía estaba en pañales, el DJ asumía todo el control. Herc tenía a Coke La Rock y a Clark Kent; Flash agrupó a sus Furious Five. Bambaataa juntó a varios grupos de rap, entre ellos los Funky Four (Plus One More), Cold Crush se formó en torno a Charlie Chase, Theodore se convertiría en el DJ de los Fantastic Five. Pero ya había artistas para los cuales el DJ era secundario: los Treacherous Three (incluido Kool Moe Dee), los Nigger Twins from Queens, Kurtis Blow…"
+ },
+ "A la larga, el garage basado en los MC se bautizó con el nombre de grime": {
+  "ch": 16,
+  "page": 707,
+  "sec": "El grime",
+  "para": "A la larga, el garage basado en los MC se bautizó con el nombre de grime, que proviene del estilo grimy de los raperos estadounidenses como Old Dirty Bastard de Wu Tang Clan. La alusión a lo mugriento se atribuye a que el sonido se aparta de sus raíces elegantes y se empeña en abordar temas «sucios» y criminales. Inspirado en el éxito de So Solid (y el inesperado dominio mundial de Eminem en 2001 también tuvo algo que ver), los chicos británicos montaron una explosión de rapeo al ritmo de canciones con los elementos mínimos del garage. Como de repente uno de cada dos jóvenes que usara sudadera con capucha era un MC, mucha de esta música era previsible y sosa, pero algunos de ellos —Dizzee Rascal, Wylie, Roll Deep, Skinnyman y Lady Sovereign, por ejemplo— lanzaron canciones reveladoras, poéticas y cortadas con algo de humor. Los DJ del garage original, afrontando la merma de su circuito de clubs debido a la violencia, tanto real como imaginaria, regresaron a las melodías soul y a los ritmos house que habían dejado atrás, y dejaron que los adolescentes británicos se embarcaran en la ola del grime."
  },
  "A la larga, el nombre pasó a referirse al lado más soul, más jazz, más góspel del house": {
   "ch": 11,
@@ -77,6 +89,12 @@ window.ANOCHE_REFS = {
   "page": 390,
   "sec": "Planet Rock",
   "para": "Otro aspecto clave del sampleado también salió a la luz: su capacidad para generar litigios. Cuando Rappers’ Delight había usado Good Times tan abiertamente, Nile Rogers y Bernard Edwards entendieron que podían reclamar la autoría con éxito. Al escuchar Planet Rock, Kraftwerk interpuso una demanda por reclamación de regalías que se mantuvo sin resolver durante muchos años. (Baker, de hecho, había anticipado problemas legales y había grabado una melodía alternativa para la canción. Cuando Tom Silverman, de Tommy Boy, decidió lanzar la grabación intacta, Baker aprovechó el incidente como base para la siguiente grabación de Bambaataa, Play At Your Own Risk [toca bajo tu cuenta y riesgo]."
+ },
+ "Al final llegarían a la tierra del champán, la cocaína, Moschino y muchas chicas en satén con patrones de leopardo.": {
+  "ch": 16,
+  "page": 698,
+  "sec": "El garage británico",
+  "para": "Después de que se desinflara el acid house, mientras los DJ hardcore viajaban a lejanas naves y raves legales y calurosas, aquellos a los que les gustaban más los estilos del house más afines al soul y a la canción tomaron sus discos de Strictly Rhythm y Emotive, plancharon sus pantalones y se desplazaron hacia ambientes más atractivos. Al final llegarían a la tierra del champán, la cocaína, Moschino y muchas chicas en satén con patrones de leopardo."
  },
  "Al llevar la música a esos extremos, plantea ella, el gabber se volvió tan «neerlandés como los tulipanes».": {
   "ch": 13,
@@ -216,6 +234,12 @@ window.ANOCHE_REFS = {
   "sec": "La liberación",
   "para": "El fundador de la industria discográfica francesa moderna, el recién fallecido Eddie Barclay (cuyo verdadero nombre de pila era Édouard Ruault), pasó la guerra trabajando como pianista en un club nocturno, y se la pasaba con una pandilla influyente de amantes del jazz. Barclay reclama haber abierto la primera discoteca del mundo, Eddie’s, después de la liberación en 1944. Dado que era un ávido coleccionista de discos, el primer importador de discos estadounidenses a gran escala y el primer productor francés de discos en vinilo (el vinilo permitía una amplificación más alta que los discos de laca de 78 rpm), este hecho parece muy probable: si alguien tenía fe en el poder de la música grabada era Barclay. Sin duda le encantaba la fiesta, también, pues tuvo un total de nueve esposas y celebraba fiestas en su villa de Saint-Tropez tan opulentas que parecía como si el resto de la Riviera francesa fuera un barrio obrero."
  },
+ "Big Apple, que Skream describió una vez como la «escuela del bajo».": {
+  "ch": 16,
+  "page": 709,
+  "sec": "El dubstep",
+  "para": "El dubstep derivó de muchos de los mismos elementos del garage británico, tanto como su hermano más bocazas, el grime, aunque su desarrollo se caracteriza por una escena genuinamente íntima y cooperadora, en contraste con el alarde vacío y exagerado de los MC de Londres. Esto se debe quizá a que muchos de los pioneros del dubstep —Skream, Benga, Hatcha, Artwork— estaban vinculados con la misma tienda de discos de Croydon, Big Apple, que Skream describió una vez como la «escuela del bajo»."
+ },
  "Billboard lo adoptó en 1949. Se trata del rhythm and blues [R&B].": {
   "ch": 2,
   "page": 47,
@@ -288,11 +312,23 @@ window.ANOCHE_REFS = {
   "sec": "El twist",
   "para": "Clark despojó al twist de todas sus connotaciones sexuales, de su esencia afrodescendiente y lo convirtió en un producto seguro para los adolescentes blancos suburbanos. Se grabó una nueva versión a cargo de un afrodescendiente de piel más clara llamado Chubby Checker (cuyo nombre era una pulla graciosa hacia Fats Domino) para un sello, Cameo Parkway, en el que resulta que Dick Clark tenía acciones. Clark promovió esta nueva versión de «The Twist» en «American Bandstand», donde Checker le explicó al público exactamente cómo se bailaba: «Solo imagínate que te estás secando el trasero con una toalla mientras sales de la ducha e intentas apagar un cigarrillo con los dos pies». Los bailarines blancos, reclamando que habían inventado el baile, demostraron cómo se daban los pasos. Checker pronto se encaramó al número 1 en la lista Hot 100."
  },
+ "Comenzamos a crear nuestro propio imperio con nuestra propia música, nuestros propios sellos y también con nuestra propia cultura».": {
+  "ch": 16,
+  "page": 689,
+  "sec": "El jungle",
+  "para": "El breakbeat acelerado fue la clave de esta explosión. Era un estilo fácil de trabajar, toda vez que los ritmos sampleados y en bucles son más manejables que programar una caja de ritmos. De igual modo a como el hip-hop se montó en la ola de los ritmos primarios de Funky Drummer, el jungle reciclaba sin parar el break de Amen Brother de los Winstons. Para los productores que se criaron con el hip-hop y el reggae, usar los breakbeats añadía un elemento funk, cierta dureza, una «negrura» al metrónomo del house y del tecno. Y los breakbeats al tempo del house extirparon el hip-hop de Estados Unidos y lo moldearon con un tempo que llevaba denominación de origen («hecho en Gran Bretaña»). Olvídate de intentar rapear con el acento equivocado, había un estilo realmente autóctono en el estilo del sistema de sonido, el bajo británico había cobrado fuerza. Como dijo Carl Cox sobre la avalancha de grabaciones hardcore en 1991 y 1992: «Era fantástico ver que teníamos nuestra propia dinámica funcionando aquí mismo, que no necesitábamos que Todd Terry creara discos para nosotros. Comenzamos a crear nuestro propio imperio con nuestra propia música, nuestros propios sellos y también con nuestra propia cultura»."
+ },
  "Como BT Express, Gaynor no valoró mucho la versión de Moulton.": {
   "ch": 7,
   "page": 268,
   "sec": "El nacimiento de la remezcla",
   "para": "«Tenía esta idea de hacer un popurrí, y los disc jockeys pagarían por él porque así podrían ir al baño —dice Moulton—. Duraría unos dieciocho minutos, una canción pasaba directamente a otra. Sería perfecto». Cuando salió el disco «Never Can Say Goodbye», una cara entera era una sola suite compuesta de canciones de dos minutos y medio —Never Can Say Goodbye, Honey Bee y Reach Out— extendidas y con transición. Cuando se lanzó como un sencillo, Never Can Say Goodbye se convirtió en el primer éxito identificable del disco en llegar a las listas. Como BT Express, Gaynor no valoró mucho la versión de Moulton. «Lo primero que salió de su boca (no lo olvidaré nunca) fue: “No canto mucho”. Me sentí muy dolido por eso»."
+ },
+ "Como Jazzie B, Beresford y su sistema de sonido Soul II Soul personificarían la creciente confianza de la música británica de origen afrodescendiente.": {
+  "ch": 16,
+  "page": 670,
+  "sec": "Soul II Soul",
+  "para": "Beresford Romeo nació en la industria, pues cinco de sus hermanos mayores eran todos carne de un sistema sonido, comenzando por el mayor, Johnson, quien tocaba ska y rocksteady para un sonido del norte de Londres titulado Count Barry’s en los sesenta. Como Jazzie B, Beresford y su sistema de sonido Soul II Soul personificarían la creciente confianza de la música británica de origen afrodescendiente."
  },
  "Como dijo Albert Goldman: «Sanctuary fue la primera discoteca gay sin inhibiciones de todo Estados Unidos».": {
   "ch": 6,
@@ -378,6 +414,12 @@ window.ANOCHE_REFS = {
   "sec": "El DJ versus los editores musicales",
   "para": "A fin de contrarrestar el poder de la ASCAP, en 1923 las cadenas de radio se agruparon y formaron la Asociación Nacional de Radiodifusores (NAB, por sus siglas en inglés). En 1939, con la esperanza de debilitar el monopolio de la ASCAP en la industria de los derechos de autor, la NAB creó su propia firma, la Música de Transmisión Incorporada (BMI, por sus siglas en inglés). Mientras la ASCAP aspiraba a mantener la preeminencia del cantautor, la BMI apostaba por fomentar una industria centrada en los discos y en las transmisiones. La mayoría de los artistas de renombre eran miembros de la ASCAP, así que los reclutas de la BMI eran casi todos músicos y cantautores más jóvenes, incluidos todos los músicos folk y «de raza» a quienes la ASCAP les negaba hacerse miembros. Con los contactos cercanos entre la BMI y la radio y una membresía más étnicamente variopinta, eran buenas noticias para el auge de la música negra."
  },
+ "Con líneas de bajo insistentes y ondulantes, y con una textura reggae inconfundible, he aquí el sonido soul verdaderamente británico": {
+  "ch": 16,
+  "page": 676,
+  "sec": "El Africa Center",
+  "para": "Fieles a la tradición de los sistemas de sonido, Soul II Soul creaba sus propios discos de acetato. Después de aliarse con el productor Nellee Hooper de los Wild Bunch de Bristol y las vocalistas Rose Windross, Do’reen y Caron Wheeler —personas habituales en la pista de baile—, las grabaciones de Soul II Soul les consiguieron un contrato y pronto dejaron de ser canciones exclusivas del Africa Center para convertirse en éxitos internacionales. Pocos años antes, el movimiento funk británico había visto a sus grupos como Hi Tension, Loose Ends y Central Line emular el funk suave al estilo estadounidense, en un esfuerzo por vender su música en el lugar que se originó. Ahora, con Fairplay, Feel Free y el gran éxito del momento Keep On Moving y Back To Life, número uno en las listas británicas, Soul II Soul había cambiado las reglas del juego por completo. Con líneas de bajo insistentes y ondulantes, y con una textura reggae inconfundible, he aquí el sonido soul verdaderamente británico, el reflejo de un gran guiso musical y la genuina variedad racial de las personas que disfrutaban de sus fiestas. La línea de bajo británica copó las listas. Mientras los músicos se contentaban con seguir las canciones gastadas de Estados Unidos, el DJ creaba música que era una muestra real de su circunstancia."
+ },
  "Con su club épico y su personalidad grandiosa, Larry Levan encarnó lo que es ser un DJ: tocar la música que uno ama para las personas que uno ama.": {
   "ch": 11,
   "page": 451,
@@ -425,6 +467,12 @@ window.ANOCHE_REFS = {
   "page": 531,
   "sec": "Un mercado de exportación",
   "para": "La reedición de May de We Call It Acieed de D-Mob era el himno del MI, tocado entre lanzamientos locales y otras canciones en boga de la explosión del acid house británico. Carl Craig recuerda los potentes sets de May en el lugar. «Tocaba las ediciones más locas de la música más salvaje. Cuando Derrick disyoqueaba, uno no sabía si pinchaba discos o manipulaba el equipo. La gente se volvía loca. Tocaba Big Fun tres o cuatro veces y cada vez me volaba la mente, y la de los demás también». Lamentablemente, el centro de Detroit no estaba preparado para apoyar un club que tocara hasta altas horas buena música bailable, pero que no sirviera alcohol. Y como su principal DJ solía estar fuera ganando mucho dinero en Europa, el auge de club se perdió pronto. El Music Institute cerró el 24 de noviembre de 1989. Los asistentes recuerdan que Derrick May grabó campanas de reloj sobre Strings Of Life y que cerró con Pacific State de 808 State."
+ },
+ "Cuando las grabaciones propicias alcanzaban los altavoces, se oía el grito: «Jungle! Jungle! Jungle!».": {
+  "ch": 16,
+  "page": 691,
+  "sec": "El jungle",
+  "para": "Cuando las grabaciones propicias alcanzaban los altavoces, se oía el grito: «Jungle! Jungle! Jungle!». Fabio recuerda a un cliente habitual, Danny Jungle, gritándole desde la mitad de la pista. Otros insisten en que el nombre provenía de fuera de la escena, y que era una etiqueta no exenta de cierto racismo. Algunos lo vinculan al «The Jungle», en Kingston, apodo de un lugar llamado Tivoli Gardens, y argumentan que este inhóspito patio jamaicano se hizo famoso por un grito sampleado por uno de sus habitantes —«alla da junglist»— en una pista de Rebel MC de 1991. Algunos apuntan a Paul Ibiza, quien imprimía la palabra «Junglizm» en las carátulas de sus discos y decía que sus piezas eran para fumar y relajarse «como si estuvieras en la jungla profunda», mientras que otros apuntan al colectivo hardcore Top Buzz que, presuntamente, propagó el concepto «jungle-tecno» para describir este estilo. No importa el origen del nombre, la música era una alternativa intensa al house, y Rage fue la punta de lanza hasta 1993, cuando la cosa se les fue de las manos y el promotor del evento lo canceló."
  },
  "Cuando regresó, dijo: “Ay, dios mío”».": {
   "ch": 13,
@@ -510,6 +558,12 @@ window.ANOCHE_REFS = {
   "sec": "Habilidad para pagar las facturas",
   "para": "Desde luego, este querubín de pie delante de una caja de botellas de leche en una fiesta callejera en 63 Park mezclando velozmente por vía de colocar la aguja llamó mucho la atención, pero se puliría como DJ por sus propios méritos con mucha más rapidez de lo que había planificado Flash. Llamándose a sí mismo Grand Wizard Theodore, el chico adquirió más que un nombre. Desarrolló el scratching, girando el disco hacia delante y hacia atrás mientras manipulaba el control cruzado de la mezcladora para producir un nuevo sonido de percusión brutal."
  },
+ "Desde aquí, el salto al jungle era inevitable.": {
+  "ch": 16,
+  "page": 681,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "Emocionados por cómo su estilo curtido en las fiestas había alcanzado a este público inesperado, se presentaron a los ravers con otro elemento de los sistemas de sonido: el toasting del reggae. Reclutaron un par de MC de un sonido de reggae llamado Unity: Demon Rocker y Flinty Badman (que había asistido a la misma escuela que PJ). Sin estar seguros de cómo los recibirían, llevaron al dúo al estudio y los pusieron a rimar sobre unos breaks a la velocidad del house. «No queríamos cohibirlos —dice Smiley—. No era algo como: “Oh, habla un poco más a la inglesa”. Hacían lo suyo muy bien. Era gente del reggae puro y duro metiéndole a todo trapo». Hooligan 69 de los Ragga Twins, con su introducción sampleada de Prince, enloqueció al público del Dungeon. Spliffhead, Whipe The Needle e Illegal Gunshot causaron el mismo efecto. Era un sonido portentoso. Con breaks rápidos y un estilo MC a lo ragga, Shut Up And Dance impusieron un nuevo estándar. Desde aquí, el salto al jungle era inevitable."
+ },
  "Después de desempaquetarlo todo, no sabía tocar ni una nota.": {
   "ch": 12,
   "page": 487,
@@ -533,6 +587,12 @@ window.ANOCHE_REFS = {
   "page": 174,
   "sec": "Los primeros sonidos",
   "para": "Los inmigrantes en Gran Bretaña se mantenían en contacto con su tierra natal, y pronto aparecieron los primeros sistemas de sonido jamaicano por las islas. Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom."
+ },
+ "Durante años, el Reino Unido fue el bibliotecario de Estados Unidos, catalogando su canon y rescatando sus discos olvidados.": {
+  "ch": 16,
+  "page": 712,
+  "sec": "Hecho en Gran Bretaña",
+  "para": "Durante años, el Reino Unido fue el bibliotecario de Estados Unidos, catalogando su canon y rescatando sus discos olvidados. Pero a principios de los ochenta, valiéndose de la cultura de los sistemas de sonido y potenciado por el acid house, Gran Bretaña por fin sentó las bases para un linaje propio de música bailable."
  },
  "Durante mucho tiempo, la palabra house se refería no a un estilo particular de música, sino a una actitud.": {
   "ch": 12,
@@ -648,6 +708,18 @@ window.ANOCHE_REFS = {
   "sec": "PREFACIO PARA LA EDICIÓN AMPLIADA Y REVISADA DE 2006",
   "para": "El artesanal oficio del DJ cumplió su primer centenario en 2006; tiene la misma edad que los copos de maíz. Para celebrar esta efeméride, hemos ampliado y revisado la primera edición, y lo hemos cebado a conciencia, con una nueva y elegante portada para la ocasión. El plan inicial era prolongar su vida en los anaqueles. Una vez comenzamos, sin embargo, el proyecto no dejó de crecer. Se convirtió en una oportunidad, no solo para poner las cosas al día, sino también para prestar más atención a la vertiente europea de la historia. En 1999, algunos críticos (bueno, en realidad, tan solo uno; gracias, Dave) nos preguntaban: «¿Y qué hay del tecno alemán? ¿Dónde está el disco italiano? ¿Dónde está Ibiza?». Intentamos argumentar que habíamos escrito la historia del DJ, no la de la música dance, y que la labor del DJ era un arte que se había consolidado ya en los años setenta. También nos referimos a una serie de libros sobre el acid house y otros fenómenos posteriores, que han abordado el asunto con más profundidad de la que ambicionaba nuestro planteamiento. Ahora, sin embargo, hemos colmado esos vacíos e incorporado más historias fascinantes, razón por la cual podemos presentar una edición ampliada y revisada más exhaustiva y contemporánea."
  },
+ "El bajo británico se cebó con la música de Estados Unidos —el funk, el hip-hop, el house y el tecno—, pero provenía originalmente de Jamaica.": {
+  "ch": 16,
+  "page": 664,
+  "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
+  "para": "El bajo británico se cebó con la música de Estados Unidos —el funk, el hip-hop, el house y el tecno—, pero provenía originalmente de Jamaica."
+ },
+ "El breakbeat acelerado fue la clave de esta explosión.": {
+  "ch": 16,
+  "page": 689,
+  "sec": "El jungle",
+  "para": "El breakbeat acelerado fue la clave de esta explosión. Era un estilo fácil de trabajar, toda vez que los ritmos sampleados y en bucles son más manejables que programar una caja de ritmos. De igual modo a como el hip-hop se montó en la ola de los ritmos primarios de Funky Drummer, el jungle reciclaba sin parar el break de Amen Brother de los Winstons. Para los productores que se criaron con el hip-hop y el reggae, usar los breakbeats añadía un elemento funk, cierta dureza, una «negrura» al metrónomo del house y del tecno. Y los breakbeats al tempo del house extirparon el hip-hop de Estados Unidos y lo moldearon con un tempo que llevaba denominación de origen («hecho en Gran Bretaña»). Olvídate de intentar rapear con el acento equivocado, había un estilo realmente autóctono en el estilo del sistema de sonido, el bajo británico había cobrado fuerza. Como dijo Carl Cox sobre la avalancha de grabaciones hardcore en 1991 y 1992: «Era fantástico ver que teníamos nuestra propia dinámica funcionando aquí mismo, que no necesitábamos que Todd Terry creara discos para nosotros. Comenzamos a crear nuestro propio imperio con nuestra propia música, nuestros propios sellos y también con nuestra propia cultura»."
+ },
  "El caso es que a la gente todavía le gustaba bailar, y uno en realidad no puede bailar con los discos psicodélicos que había por ahí.": {
   "ch": 3,
   "page": 114,
@@ -659,6 +731,12 @@ window.ANOCHE_REFS = {
   "page": 65,
   "sec": "NIGHT TRAIN (TREN NOCTURNO)",
   "para": "El concepto revolucionario de bailar al son de grabaciones que toca un disc jockey no nació en Nueva York, ni siquiera en Londres o París, sino en la ciudad de Leeds, al norte de Inglaterra. Allí, en un pequeño salón del local de una mutua, encontramos el primer ejemplo de un DJ de club. En 1943, un empresario joven y excéntrico decidió que el público podría pagar dinero para escuchar música grabada. ¿Por qué no? ¿Acaso no implicaría que el West Yorkshire en tiempos de guerra pudiera bailar al swing de las estrellas estadounidenses como Glenn Miller y Harry James?"
+ },
+ "El dark, o darkcore, fue la reacción a las canciones juguetonas que tanto les gustaban a los cheesy quavers": {
+  "ch": 16,
+  "page": 688,
+  "sec": "El jungle",
+  "para": "El dark, o darkcore, fue la reacción a las canciones juguetonas que tanto les gustaban a los cheesy quavers (jerga rimante no muy halagadora para los ravers). Apoyado por los DJ Grooverider, Jumping Jack Frost, Randall, Kenny Jen y Mickey Finn, se valía del miedo para disparar la adrenalina: sampleados de películas de horror, sonidos alarmantes y un tempo que siempre iba más rápido y, como siempre, el breakbeat. En torno a los comienzos de 1993, este sonido empezó a destacarse: en el Roller Express, en Edmonton, donde se montaban duelos entre sonidos sobre un cuadrilátero de boxeo, en las raves del este de Londres, como el Telepathy. A medida que la utopía del ácido se estrellaba —debido a redadas policiales, pastillas dudosas y los elementos criminales que tomaban las riendas—, muchos preferían este realismo urbano turbulento a la suavidad de los primeros años del éxtasis. Y el ánimo más oscuro coincidió con un torrente de música nueva."
  },
  "El digging se remonta a la noble función del DJ como promotor de discos y divulgador musical": {
   "ch": 10,
@@ -720,6 +798,12 @@ window.ANOCHE_REFS = {
   "sec": "Un género forjado a base de fracasos",
   "para": "Su nombre debe su origen al lugar donde se disfrutó, no donde se produjo (aunque esto también tendría sentido). El gentilicio northern [norteño] en northern soul no hace referencia a Detroit sino a Wigan; no a Chicago sino a Manchester, a Blackpool y a Cleethorpes."
  },
+ "El grime no es como el hip-hop, y tampoco es copiar el hip-hop, es hip-hop: su progenie británica.": {
+  "ch": 16,
+  "page": 712,
+  "sec": "Hecho en Gran Bretaña",
+  "para": "Siempre había habido unos pocos ejemplos convincentes entre aquellos británicos que adoptaron los estilos estadounidenses, desde Imagination hasta Loose Ends pasando por Ruthless Rap Assassins y los Stereo MC, pero cuando una generación de sistemas de sonido británicos abandonó las raíces del reggae para surcar su propio camino, liberaron a la música británica de la obligación de tener que emular lo estadounidense. El grime no es como el hip-hop, y tampoco es copiar el hip-hop, es hip-hop: su progenie británica. Como el jungle, el drum and bass, como el two-step, es música de los sistemas de sonido cruda y del gueto, y refleja el tiempo y el espacio de donde proviene. La línea de bajo británica, nacida de los sistemas de sonido, criada por los DJ y nutrida por el vinilo, ha triunfado. Y como son los fanáticos, los expertos y los coleccionistas los que mejor crean la nueva música bailable, después de los ochenta, la innovación en dicha materia cruzó el Atlántico, de forma definitiva, y sin billete de vuelta, de Estados Unidos rumbo al Reino Unido. Y el nuevo y todopoderoso productor por antonomasia era el DJ."
+ },
  "El hi-NRG fue la manera en que Levine mantuvo vivo su adorado northern soul.": {
   "ch": 8,
   "page": 310,
@@ -773,6 +857,12 @@ window.ANOCHE_REFS = {
   "page": 611,
   "sec": "Froggy en el Royalty",
   "para": "El jazz-funk se convirtió en un fenómeno juvenil enorme, pero todavía preservaba aura de secta. A medida que el disco cobraba presencia en el Reino Unido, fueron los DJ del jazz-funk quienes lograron imponer sus estilos y tendencias en todos los nuevos clubs nocturnos con alfombra y brillo que emergieron en el momento (en particular Robbie Vincent, cuya fama en la radio llegó a su punto álgido en 1983, con un programa de radio donde activaba el «botón del ritmo» de toda la nación). La caída del disco, que se sintió duramente en Estados Unidos, tuvo un aterrizaje menos forzoso en el Reino Unido gracias a la escena del jazz-funk, que llegaba a su punto culminante justo cuando su colega estadounidense fenecía, y que, pese a ello, siguió regularmente alimentando las listas con grandes éxitos durante toda la década de los ochenta. El jazz-funk británico de los suburbios permitió que el disco nunca desapareciera, se le añadió únicamente un toque de fusión, un perfil rubio y siguió su camino."
+ },
+ "El jungle se enorgullece de ser la primera forma musical genuinamente autóctona de música afrodescendiente británica": {
+  "ch": 16,
+  "page": 697,
+  "sec": "El jungle",
+  "para": "El jungle se enorgullece de ser la primera forma musical genuinamente autóctona de música afrodescendiente británica, y cantaba sus raíces con fuerza y claridad: sus líneas de bajo aluden a la camaradería de los sistemas de sonido del reggae, su tempo y energía remiten al movimiento rave, la producción casera de sus primeras producciones puede incluso remontarse al punk. Desde un mundo underground insolentemente multirracial, el jungle sintetizó todas estas vertientes de la Gran Bretaña moderna en una historia musical de las últimas dos décadas. También inyectó una dosis de confianza a sonidos procedentes de otras culturas, en tanto que los asiáticos nacidos en el Reino Unido como Talvin Singh y Nitin Sawhney fusionaron el hip-hop y el drum and bass con el tradicional bhangra panyabí para formar su propia segunda generación de música folclórica."
  },
  "El legado del popcorn explica por qué este país pequeño y peculiar fue el primero en el continente europeo en lograr el éxito comercial con el house y el tecno.": {
   "ch": 14,
@@ -882,6 +972,12 @@ window.ANOCHE_REFS = {
   "sec": "El poder de un DJ",
   "para": "La radio es un medio de transmisión único. Tiene el poder de alcanzar a millones de personas, pero con la intimidad necesaria, a un tiempo, para que cada uno sienta que es la persona más importante escuchando el aparato en aquel momento. A diferencia de la televisión, que invade el hogar e impone imágenes de un mundo exterior, la radio es de alguna manera parte del lugar que la escucha, y las voces y la música que llevan consigo forjan un gran sentido de comunidad. El sociólogo Marshall McLuhan la llamó «el tambor de la tribu». Arnold Passman, en su libro de 1971, The Deejays, sentenciaba: «El tubo de electrones lo cambió todo, porque llevó la humanidad de regreso a la comunicación hablada»."
  },
+ "El sonido de Bristol ralentizaba los breakbeats a un arrastre narcótico, influenciado por océanos de música dub, un poco de Burt Bacharach y un montón de humo de marihuana": {
+  "ch": 16,
+  "page": 673,
+  "sec": "Soul II Soul",
+  "para": "En Bristol, una próspera escena post-reggae, gracias a productores como Smith y Mighty, dio paso al loping, un estilo ambiente hip-hop que luego se llamó «trip hop». El sonido de Bristol ralentizaba los breakbeats a un arrastre narcótico, influenciado por océanos de música dub, un poco de Burt Bacharach y un montón de humo de marihuana, y fue traído al mundo por artistas como Portishead, Tricky y Massive Attack. Estos últimos dos son hijos de un sistema de sonido que duró en los ochenta, llamado Wild Bunch, un grupo multirracial de DJ y MC que fusionaban el rap, el reggae y el soul. Listas de reproducción tan amplias estaban a la orden del día gracias a una generación de DJ que buscaban una mezcla que definiera mejor a la afrodescendencia británica."
+ },
  "El sonido era único y, para mí, muy decadente».": {
   "ch": 14,
   "page": 568,
@@ -893,6 +989,12 @@ window.ANOCHE_REFS = {
   "page": 545,
   "sec": "El trance",
   "para": "En 1992, DJ Moneypenny, de Nueva York, quien se había mudado a Bélgica el año anterior, informó sobre cómo el tecno europeo evolucionaba. «Aquellos que tocan en los clubs más grandes de Amberes, Frankfurt y Ámsterdam están siendo testigos de cómo cae todo el sonido del tecno hardcore ante sus oídos —escribió—. El sonido que surge de sus cenizas es el trance. El trance ambiente, el acid trance, el trance puro, una involución de ese sonido del tecno que parece que está completamente fuera de control»."
+ },
+ "El tecno británico pionero de Warp vinculó esta tradición con las necesidades de un sistema de sonido.": {
+  "ch": 16,
+  "page": 683,
+  "sec": "El bleep and bass",
+  "para": "El tecno británico pionero de Warp vinculó esta tradición con las necesidades de un sistema de sonido. En su búsqueda por el mejor bajo posible, LFO (Low Frequency Oscillations) grababan una nota en la grabadora de cintas con los niveles muy altos, luego sampleaban la explosión sobrecargada que resultaba. En Testone, Sweet Exorcist tejió puras ondas sinusoidales para construir vibraciones subsónicas que sacuden literalmente el cuerpo. Las líneas de bajo múltiples se convirtieron en la norma, y cuando llegaba la hora de mezclar, los productores de las pistas pedían a los técnicos de sonido que apagaran todos los circuitos de protección para que el surco en el disco fuera lo más profundo y aterrador posible. Solían observar con regocijo mientras las líneas de bajo sobrecalentaban los cabezales hasta casi destruirlos. Una canción, Dextrous de Nightmares On Wax, era tan pesada que no se pudo pasar al vinilo hasta que la remezclaron con los controles a unos cuantos niveles más abajo. Los productores se reunían en un club llamado Kiki’s y veían qué canciones tenían la suficiente fuerza de resonancia para sacudir su gruesa barra de cristal."
  },
  "El tecno como un arte en vez de como un sonido funcional.": {
   "ch": 13,
@@ -948,6 +1050,12 @@ window.ANOCHE_REFS = {
   "sec": "El poder detrás del mito",
   "para": "Frankie Crocker no era un mero pirata de radio. Nacido en Buffalo, en el norte del estado de Nueva York (una ciudad que ha dado muchos DJ negros excelentes, entre ellos Eddie O’Jay y Gary Byrd), tuvo su primera oportunidad en la estación WZUM de Pittsburg y se trasladó rápidamente a la WWRL de Nueva York. Aquí, con su briosa ejecución y su voz aterciopelada, se hizo con muchas fans. Emanando de los altavoces como la miel, era el equivalente radiofónico de Barry White, y era conocido también con los sobrenombres de «Lover Man» [el amante], «Fast Frankie». [Frankie el rápido], «Chief Rocker» [el roquero jefe] y «Hollywood». Crocker se convirtió en uno de los primeros DJ en cruzar la barrera racial cuando se unió al equipo completamente blanco de los «Good Guys» [los chicos buenos] de la WMCA en 1969. Pero fue en la WBLS durante los setenta cuando se coronó como rey de reyes, al defender la fusión jazz de Grover Washington Jr y Miles Davis, y el soul socialmente consciente de Donny Hathaway y Marvin Gaye, así como al incorporar grupos blancos como los Bee Gees y Queen a sus listas de reproducción."
  },
+ "En 1954, Duke Vin y Count Suckle (Wilbert Campbell) se fueron de polizones en un barco bananero rumbo a Londres.": {
+  "ch": 16,
+  "page": 662,
+  "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
+  "para": "En 1954, Duke Vin y Count Suckle (Wilbert Campbell) se fueron de polizones en un barco bananero rumbo a Londres. Un año después, Vin fundó el primer sistema de sonido en las costas británicas, y Suckle convirtió una vieja sala de billar de Paddington en el Cue Club, que danzaba al ritmo del R&B y nuevas grabaciones de ska que llegaban de Jamaica. Allá en casa, los sistemas de sonido robaban la atención de las salas de baile por toda la isla. Y en las comunidades negras de Gran Bretaña —en St. Ames, Handsworth, St. Pauls, Chapeltown, Toxteh, en Brixton y Harlesden y Hackney— pronto se celebraban fiestas blue cada fin de semana."
+ },
  "En 1964, la revista Time declaró a San Francisco como la capital gay de Estados Unidos.": {
   "ch": 8,
   "page": 315,
@@ -996,6 +1104,12 @@ window.ANOCHE_REFS = {
   "sec": "Bélgica",
   "para": "Christian Bolland, de Amberes, dice que lo expulsaron de la escuela por haber introducido una máquina Roland 303 en clase y por programarla con unos auriculares bajo su escritorio. Después de transmitir varios temas en una estación pirata, consiguió un contrato de grabación con el sello de Gante R&S, y prácticamente vivía en la casa de los dueños del estudio, el matrimonio Renaat Vanderpapeliere y Sabine Maes. En 1987, a los diecisiete años, al crear un tema de una dureza inexpugnable, CJ Bolland encendió la llama del hardcore tecno."
  },
+ "En 2005, Skream aportó el primer éxito del dubstep: Midnight Request Line.": {
+  "ch": 16,
+  "page": 711,
+  "sec": "El dubstep",
+  "para": "En 2005, Skream aportó el primer éxito del dubstep: Midnight Request Line. Oscura, melódica y extrañamente pegajosa, sus teclados recuerdan el viento frío de una banda sonora de John Carpenter, salpicado por disparos de chicos asilvestrados, con un ritmo lánguido que no puede distar más de los gastados por sus predecesores (casualmente también se convirtió en un gran éxito para los MC de grime). En 2007, con el lanzamiento de la compilación para FabricLive de Caspa y Rusko, la primera con temas exclusivamente de dubstep, junto con una merecida nominación a un premio Mercury para el elepé clásico «Untrue» de Burial, el dubstep llegó a lo más alto."
+ },
  "En 2010, el complejo de apartamentos en el número 1520 de Sedgwick Avenue fue salvado al borde de la destrucción": {
   "ch": 9,
   "page": 344,
@@ -1026,6 +1140,12 @@ window.ANOCHE_REFS = {
   "sec": "Electrifyin’ Mojo",
   "para": "Oriundo de Little Rock (Arkansas), con una carrera que arrancó en Filipinas, Mojo llegó a la radio de Detroit en 1977. Su rechazo a hincar la rodilla ante las convenciones de la radio del momento hacía que su programa cambiara con frecuencia de estación. El apetito voraz de Mojo por música nueva e inusual era un punto de partida importante para los «tres de Belleville». Los nutría con música e incendiaba su gusto por la exploración musical. A la larga, estaría entre los primeros en transmitir sus grabaciones. Igualmente importante quizá para una sensibilidad futura del tecno estaba el personaje misterioso y desencarnado que cultivaba. Su foto publicitaria era apenas una silueta oscura, y no había duda de la autoridad seductora y espaciada de sus programas. En algún punto de cada noche, se las arreglaba para que la nave nodriza, al estilo P-Funk, aterrizara para instruir a sus radioyentes que encendieran y apagaran sus luces a fin de poder guiar a los afronautas cósmicos hasta sus casas."
  },
+ "En consecuencia, el Great Tribulation se convirtió en el Good Times.": {
+  "ch": 16,
+  "page": 670,
+  "sec": "Good Times",
+  "para": "Los sistemas de sonido serios comenzaron a tocar en el carnaval de Notting Hill cada año, que llevaba el bajo británico a un nuevo escenario público. Los disturbios de Notting Hill de 1976, motivados por las prácticas racistas de la policía, habían fortalecido la credibilidad del carnaval considerablemente, pues lo transformaron de una nostalgia por las islas impulsada por el calipso a un espacio regentado por los rastas incontrolables. Desde 1980, Norman y Joey procuraron tocar anualmente en Cambridge Gardens. Poco a poco, los discos de 12 pulgadas de Norman sustituyeron a los de Joey y su música reggae, y así se convirtieron en uno de los primeros sonidos del carnaval en tocar funk y soul. A la larga, Norman rebautizó el nombre del sonido para estar a la par: no solo representaba un paso musical, sino un cambio de identidad de jamaicano oprimido a británico afrodescendiente optimista. En consecuencia, el Great Tribulation se convirtió en el Good Times."
+ },
  "En dos o tres semanas vendimos cinco mil copias».": {
   "ch": 14,
   "page": 575,
@@ -1043,6 +1163,12 @@ window.ANOCHE_REFS = {
   "page": 391,
   "sec": "El sampleado",
   "para": "En efecto, la historia del sampleado es el relato de cómo la tecnología ha ido alcanzando al DJ, a fin y efecto de crear un equipo que haga el trabajo más rápido, más preciso y más fácil que el que el DJ llevaba largo tiempo haciendo. Después de la invención del instrumento musical computarizado Fairlight, que permitía reproducir una ínfima cantidad de sonido sampleado, llegó el EMU Emulator, usado por primera vez para una grabación de hip-hop en 1982 por Marley Marl, quien sampleó el ritmo de una caja de la batería accidentalmente mientras trabajaba en una remezcla. Como le dijo al escritor Harry Allen, se percató del potencial del aparato inmediatamente: «Podía tomar cualquier sonido de batería de mi grabación vieja, ponerla ahí y obtener ese sonido de batería experimentado». El baterista experimentado Max Roach se dio cuenta del potencial de samplear, al declarar: «El hip-hop vive en el mundo del sonido, no en el de la música, y por eso es tan revolucionario». Por el contrario, el inventor del Emulator, Dave Rossum, apenas tenía idea de lo importante que sería esta máquina. Cuando le preguntaron en los ochenta si el sampleado sería el «futuro de la industria del sonido», simplemente se rio."
+ },
+ "En el año 2000, el garage británico era el sonido nacional.": {
+  "ch": 16,
+  "page": 705,
+  "sec": "El garage británico",
+  "para": "En el año 2000, el garage británico era el sonido nacional. Los éxitos llegaban sin discusión y rápidos: Artful Dodger presentó al cantante Craig David en Re-Rewind y Fill Me In, quien alcanzó la primera posición en el Reino Unido; Shanks y Bigfoot también alcanzaron el primer puesto con Sweet Like Chocolate, y DJ Luck y MC Neat representaban a la facción más próxima al estilo de los MC del garage con A Little Bit Of Luck. Dreem Teem llevó el sonido de Londres al carnaval de Notting Hill con doce artistas, entre ellos Mystique, Craig David, Elizabeth Troy y Shola Ama. Trevor Nelson, representando a la cara tradicional de soul, solo llevó a dos. Y como para alardear del triunfo de lo nuevo, cuando Dreem Teem tocó la última grabación, Nelson salió y comenzó a llover a cántaros."
  },
  "En el proceso crearon un tipo de música en directo completamente nuevo; sin una guitarra a la vista.": {
   "ch": 9,
@@ -1128,11 +1254,29 @@ window.ANOCHE_REFS = {
   "sec": "Orígenes clandestinos",
   "para": "Antes de que el éxito comercial tergiversara la música hasta convertirla en una perversión de poliéster de sí misma y extirpara la escena del mundo underground gay de Nueva York para convertirla en pasto del mainstream estadounidense, el disco fue la música bailable más novedosa, más sexy, más redentora y más amorosa jamás conocida. Se apoyaba en el talento fenomenal de los músicos, solía ser poética y muy lírica, podría ser tan experimental y profunda como lo exigiera el guion, e hizo del funk un atributo irrenunciable. Hoy en día, el nombre disco se asocia con Fiebre del sábado noche, con los Bee Gees, Abba y los Village People, con compilaciones horterillas en CD y noches en clubs retro. En su propia época, sin embargo, para su familia original, era sinónimo de salvación."
  },
+ "En torno a 1991, el movimiento rave manifestó la primera de esas fracturas.": {
+  "ch": 16,
+  "page": 684,
+  "sec": "El hardcore",
+  "para": "En torno a 1991, el movimiento rave manifestó la primera de esas fracturas. La escena house, más elegante y más lenta, iba de camino a la comodidad del ámbito de los clubs, lo cual dejó a los ravers puros y duros a la deriva. Las compañías de fiestas rave como Raindance, Rezerection y Amnesia se aburguesaron y empezaron a operar con permisos, y comenzaron a organizar eventos hardcore con cierta asiduidad, y aparecieron las modas rave, entre ellas los guantes blancos, los inhaladores Vicks (para intensificar el efecto de las drogas), máscaras antipolvo y los palillos luminosos."
+ },
+ "En términos culturales, sin embargo, fue la variante del reggae llamada lover’s rock lo que aportó el toque británico más significativo.": {
+  "ch": 16,
+  "page": 665,
+  "sec": "La ruta Jamaica–Reino Unido",
+  "para": "Fue el dub, con sus mutaciones radicales, lo que tuvo una influencia más duradera en la música británica. En términos culturales, sin embargo, fue la variante del reggae llamada lover’s rock lo que aportó el toque británico más significativo. Completamente rechazado, sin embargo, en Jamaica hasta que estrellas como Gregory Isaacs y Dennis Brown se vincularon a él, este reggae británico comercial fue el sonido que finalmente rompió la tradición. El lover’s rock nació en el club Four Aces, en Dalston, cuando un joven emprendedor DJ, Lloyd Coxsone (Lloyd Blackwood), quien ponía unos pocos temas de soul en sus sets, vio que sería fácil convertir a las estudiantes de escuela entusiasmadas que cantaban dulcemente sobre las canciones del dub durante sus certámenes de talentos semanales en pequeñas estrellas de pop, y convenció al productor prominente Dennis Bovell para intentarlo. Fue un golpe maestro, pues las mujeres eran muchas más que los hombres a la hora de comprar sencillos de reggae, y ellas preferían naturalmente las baladas alegres sobre novios caprichosos a los lamentos justicieros repletos de profecías bíblicas y brutalidad policíaca. Caught You In A Lie de la quinceañera Louisa Mark para Safari fue la primera grabación —un éxito en 1975— seguida de decenas más. Aunque estas canciones eran tan dulces como las remezclas «con cuerdas» que había creado Trojan unos años antes, por fin miraban al futuro en vez de al pasado. El lover’s rock, con un pie en una pila de altavoces caribeños y el otro en una discoteca escolar de Streatham, le recordó a una generación de jóvenes…"
+ },
  "En un sentido estricto, estas cintas eran reediciones y no remezclas.": {
   "ch": 7,
   "page": 266,
   "sec": "El nacimiento de la remezcla",
   "para": "En un sentido estricto, estas cintas eran reediciones y no remezclas. Una reedición es una versión lograda mediante el corte y empalme de trozos de la canción original, casi siempre mediante una grabadora de cintas, una cuchilla de afeitar y algo de cinta adhesiva. Una remezcla supone un proceso en el que la grabación original de las diferentes pistas de una canción se usan para construir una nueva versión a partir de sus componentes. Si uno concibe la reedición como la creación de una versión a base de retazos, en la remezcla es cuando uno realmente separa las fibras sonoras individuales de una canción —separar la pista del bajo de la pista de la batería de la pista de la voz— y las recompone hasta lograr una nueva textura musical."
+ },
+ "En vez de que el éxtasis fortaleciera el impacto de la música, estas canciones estaban diseñadas para el consumo de drogas.": {
+  "ch": 16,
+  "page": 686,
+  "sec": "El hardcore",
+  "para": "En 1992 había discos que se producían específicamente para esa escena. Shades Of Rhythm, Bizarre Inc., Altern-8, los Shamen y los Prodigy se volvieron famosos al ofrecer espectáculos en tarima para los ravers, y disfrutaron de los públicos más numerosos que estas bandas recién formadas jamás hayan visto. Grabaciones con dibujos animados como Charly de los Prodigy y Sesame’s Treat de Smart E combinó canciones infantiles televisivas reconocidas con injertos salvajes de ritmos infernales. Los breakbeats se dispararon a 160 bpm, las canciones se convirtieron en un vuelo zumbón con picos euforizantes y voces a lo Minnie Mouse. Estas divas de helio eran un intento por preservar el impacto emocional de las voces house frente a unos tempos que aceleraban rápidamente. En vez de que el éxtasis fortaleciera el impacto de la música, estas canciones estaban diseñadas para el consumo de drogas."
  },
  "Encajaba tan bien con su frenesí inducido por el LSD, que la llamaron Ron Hardy’s Acid Track": {
   "ch": 12,
@@ -1212,6 +1356,12 @@ window.ANOCHE_REFS = {
   "sec": "Música mañanera",
   "para": "El hi-NRG suele caracterizarse como música para hacer ejercicio para juerguistas con bigote y consumidores de esteroides. Sin embargo, aquel género también fue de instrumental importancia a la hora de promocionar música con oficio y elaboradas texturas, llamada la «música mañanera» o «sensual» [sleaze] que empezaba a sonar cuando salía el sol. Nacida en los clubs que abrían hasta altas horas en Nueva York, era el alivio después del ajetreo sin pausa de toda la noche. Cuando llegaba la luz, el ritmo disminuía, y mientras el programa temprano de la madrugada se caracterizaba por su explícita carga sexual, el matinal daba paso al romance, el amor y el desamor. Era la belleza que seguía el ritmo."
  },
+ "Era la diferencia entre mirar hacia dentro y mirar hacia fuera. Ser exclusivo o ser inclusivo».": {
+  "ch": 16,
+  "page": 677,
+  "sec": "El Africa Center",
+  "para": "Nellee Hooper acabó produciendo a sus excolegas de Wild Bunch ahora transmutados en Massive Attack, y se aseguró prestigio mundial al trabajar con Björk y Madonna. Soul II Soul vendió más de diez millones de discos en todo el planeta y ganó dos premios Grammy. Jazzie dice que el momento de mayor orgullo fue cuando llevó su sistema de sonido a tocar en Jamaica. En retrospectiva, sin embargo, la mayor contribución del grupo fue dar forma y espíritu a la línea de bajo británica, lo cual otorgó a la música británica afrodescendiente la valentía para defenderse por sí misma. También demostraron a los británicos afrodescendientes que era posible integrarse en el corazón mismo de la nación sin abandonar su herencia cultural. Como afirma Jazzie en las notas de la carátula escritas por Lloyd Bradley en el elepé «Soul II Soul At The Africa Centre»: «En un sistema de sonido de reggae, operábamos de cara a la pared dando la espalda al público (así es como se hacía en ese mundo). Ahora mirábamos a la gente y la gente nos podía ver. Podíamos vernos las caras. Era la diferencia entre mirar hacia dentro y mirar hacia fuera. Ser exclusivo o ser inclusivo»."
+ },
  "Era la primera vez que los belgas veían su propia música en las listas nacionales.": {
   "ch": 14,
   "page": 576,
@@ -1254,6 +1404,12 @@ window.ANOCHE_REFS = {
   "sec": "Disco friki",
   "para": "Russell descubrió la música disco en una visita al Gallery de Nicky Siano a principios de los setenta y colaboró con varios pioneros de la escena, primero con el propio Siano en Kiss Me Again de Dinosaur, y luego con Steve D’Acquisto con Is It All Over My Face? de Loose Joints. «Tenía toda esta energía y la belleza de su música; tanta fuerza y ternura —alaba con entusiasmo D’Acquisto—. Era un pintor abstracto, la verdad». Aunque su trabajo pasó inadvertido en su momento, recientemente, fanáticos como DJ Gilles Peterson lo han rescatado."
  },
+ "Era una forma de apropiarse del garage, de tomar lo que era de ellos y hacerlo nuestro.": {
+  "ch": 16,
+  "page": 701,
+  "sec": "El garage británico",
+  "para": "El nuevo sonido británico se oponía completamente a los puristas que todavía se desmayaban por sus importaciones estadounidenses y no pensarían jamás en faltarles el respecto acelerando los tonos. Era una forma de apropiarse del garage, de tomar lo que era de ellos y hacerlo nuestro. Pronto, el sonido era lo suficientemente distinto como para desanimar a los eventos nocturnos establecidos de house y garage. «En 1993 no conseguíamos trabajo los sábados por la noche. ¿El Ministry? No, fuera. ¿La sala de house del Heaven? ¡No! ¿Feel Real? No. Y que conste que conocía a todo el mundo en esos clubs. Les decía: “Vamos, colega, danos una oportunidad”. No, no y no». Sin acceso a los espacios principales, el garage al estilo británico quedó relegado a las salas secundarias en las raves de jungle y a espacios de relleno en estaciones piratas."
+ },
  "Era uno de esos clubs raros donde se fraguaba una verdadera polinización cruzada: lo contrario a la decadencia selectiva de Studio 54.": {
   "ch": 10,
   "page": 399,
@@ -1277,6 +1433,12 @@ window.ANOCHE_REFS = {
   "page": 600,
   "sec": "George Powers en el Crackers",
   "para": "Aún más importante, el club también presidía el amanecer de la comunidad británica afrodescendiente. En el mismo centro de la ciudad, con clientela multirracial y con una banda sonora candente, el Crackers ofrecía a la generación de los jóvenes afrodescendientes nacidos en Londres lo que les faltaba. Salir del vecindario y dirigirse «arriba y al oeste» y bailar allí suponía la transición de hijo de inmigrantes a londinense moderno. No importaba la isla de donde provenían tus padres, no importaba que la policía te detuviera y te registrara, no importaba el grafiti del National Front que te ordenaba que regresaras al lugar ese que nunca habías visto. Eras afrodescendiente, eras británico, eras el futuro, ibas al Crackers."
+ },
+ "Es como si la Sugar Hill Gang pidiera a 50 Cent que solo rapeara canciones alegres.": {
+  "ch": 16,
+  "page": 707,
+  "sec": "El grime",
+  "para": "Se trataba de una brecha generacional, y se trataba del auge del MC. Por un lado estaban los DJ de treinta años o más, quienes se habían criado en los años de las raves o en las raíces del reggae; del otro estaban los adolescentes que tenían poca herencia musical más allá del reciente hiphop estadounidense, pero no ocultaban un abrumador deseo de ponerse al micrófono y expresarse. Sí, trajo violencia a los espacios, pues las letras sobre armas de fuego y pandillas atrajo el lado furioso y obsesionado con el culto a los bajos fondos a una cultura musical que antes era más alegre. Y sí, cambió la música completamente, en la medida en que un desfile de MC escupía rimas sobre ritmos mínimos y llevaron lo que había sido una escena basada en la pista de baile a centrar su atención en la tarima. Es como si la Sugar Hill Gang pidiera a 50 Cent que solo rapeara canciones alegres."
  },
  "Es el legado de un período corto (apenas entre 1976 y 1979) cuando parte de la música trascendió hacia una comercialidad sumamente rentable.": {
   "ch": 7,
@@ -1590,6 +1752,12 @@ window.ANOCHE_REFS = {
   "sec": "La jukebox o máquina de discos",
   "para": "Savile podrá haber sido el primer DJ de club, pero sus noches experimentales quedaban lejos de la primera vez en que la gente bailó al ritmo de unos discos. Irónicamente, la función del DJ existía, en formato autómata, antes de que este cobrara existencia. Su predecesor más evidente desde 1889 fue un aparato: la jukebox o máquina de discos."
  },
+ "Jazzie lo confirma: «La premisa de todo lo que hice partía de la convicción de querer convertir a mi sonido en el mejor del mundo».": {
+  "ch": 16,
+  "page": 673,
+  "sec": "Soul II Soul",
+  "para": "A medida que transcurría la infausta década con Thatcher al mando, Jazzie y sus colegas —Daddae Harvey, Q, Aitch B y Sparky D— prosperaron y abrieron hasta un par de tiendas Soul II Soul con una línea de ropa completa y un logotipo corporativo. Comenzaron a llamarse a sí mismos «rastas funk», y acentuaron sus bucles rasta rapándose los lados y la parte de atrás de la cabeza. El estilo se llamaba Filofax-Rasta, una moda sofisticada de afrocentrismo que dice todo sobre su ambición. Jazzie lo confirma: «La premisa de todo lo que hice partía de la convicción de querer convertir a mi sonido en el mejor del mundo»."
+ },
  "Jimmy Savile fue el primer DJ en convertirse en una superestrella.": {
   "ch": 3,
   "page": 71,
@@ -1698,6 +1866,12 @@ window.ANOCHE_REFS = {
   "sec": "El Hot Mix 5",
   "para": "«Todo el mundo los escuchaba, sobre todo cuando lo pasaban al mediodía. A las doce uno se pegaba a la radio. La gente hasta se saltaba la escuela para grabar las mezclas». En Importes Etc., entonces la principal tienda de música especialista en música bailable, había un tablón de anuncios que consignaban las canciones que se habían tocado en cada mezcla, para evitarle a la plantilla que los bombardeasen a preguntas sobre cada sesión."
  },
+ "La gente las dejó de llamar éxtasis, ahora eran solo «pastillas».": {
+  "ch": 16,
+  "page": 685,
+  "sec": "El hardcore",
+  "para": "De la mano de la música cambiante vino un cambio de drogas. A medida que la demanda por el éxtasis se disparaba, su calidad se desplomó. Era probable que las tabletas ahora fueran o MDEA, la prima cutre del éxtasis (como las infames «bolas de nieve»), o simplemente las llenaban de anfetamina. La gente las dejó de llamar éxtasis, ahora eran solo «pastillas». La prensa del mundo del baile se burlaba del hardcore como si fuera el nuevo heavy metal. Después de que los chicos a la moda se pasaran al esplendor glamuroso del vestido de lentejuelas y otras lindezas, la rave quedó relegada a los chicos de la clase trabajadora en los suburbios, presumiblemente aquellos con mayor necesidad de unas buenas dosis de escapismo. En el núcleo estaban los «loquillos» que se divertían con la experiencia del éxtasis y veían en la rave una misión. Martin James los describe en State Of Bass, su historia sobre el jungle: «La gente alardeaba sobre la cantidad de éxtasis que había consumido, en una forma que recordaba los chicos que juraban haberse tomado quince pintas en una noche. Viviendo al filo de lo imposible, para los ravers era cuestión de o todo o nada, cien por cien hardcore. La música reflejaba la radicalidad de los ritmos y los sonidos se volvían cada vez más excéntricos»."
+ },
  "La gente las llamaba raves.": {
   "ch": 15,
   "page": 619,
@@ -1715,6 +1889,12 @@ window.ANOCHE_REFS = {
   "page": 186,
   "sec": "El dub",
   "para": "La historia del dub gira en torno a King Tubby. Su nombre de pila era Osbourne Ruddock y nació en 1941. Tubby tenía un instinto casi sobrenatural para la electrónica, cultivado por años de experiencia construyendo equipos de sonido y reparando radios y televisores. Se dice que años más tarde, cuando no estaba satisfecho con el sonido de algo, se refugiaba en su mesa de trabajo armado de su soldador y reconstruía un circuito o dos al momento hasta que lo ajustaba a su gusto. Perfeccionista tímido y obseso, Tubby exigía niveles exagerados de pulcritud en su estudio (que tuvo mucho tiempo en su dormitorio). Solía ir al banco a cambiar billetes arrugados por dinero nuevo. Sin embargo, era muy generoso; compartía su conocimiento con los productores que llegaron después de él. De hecho, también se dice que incluso cuando ya era un productor superestrella todavía aceptaba tostadoras y secadores para repararlos."
+ },
+ "La historia del reggae a veces es tan británica como jamaicana, Gran Bretaña ha sido tan responsable de casi tantas innovaciones como la calurosa ínsula que la vio nacer.": {
+  "ch": 16,
+  "page": 664,
+  "sec": "La ruta Jamaica–Reino Unido",
+  "para": "La historia del reggae a veces es tan británica como jamaicana, Gran Bretaña ha sido tan responsable de casi tantas innovaciones como la calurosa ínsula que la vio nacer. Incluso antes de que Nicky Thomas cantara sobre reducir la tarifa del bus cuando hay nieve en el suelo, había algo exclusivamente británico sobre este sonido. Además de obtener derechos de los temas de ska para que los cabezas rapadas siguieran pisoteando, el sello Trojan de Lee Gopthal se hizo famoso al añadir cuerda y orquestación para crear versiones británicas de canciones jamaicanas, y al remezclar las grabaciones para satisfacer los parámetros técnicos exigentes de la BBC; técnicas que promovieron temas como Young Gifted And Black de Bob & Marcia y Wonderful World, Beautiful People de Jimmy Cliff a las mejores diez posiciones de las listas británicas. Años después, hasta Bob Marley blanqueó su música grabando por encima la guitarra, atento a cómo Chris Blackwell y su sello Island trabajaban desde Londres para convertirlo en una estrella internacional."
  },
  "La idea de que los londinenses gais pudieran preferir sus propias discotecas no iba a desaparecer.": {
   "ch": 3,
@@ -1794,17 +1974,35 @@ window.ANOCHE_REFS = {
   "sec": "Los 40 principales y la radio libre",
   "para": "La pionera de este estilo fue la KMPX de San Francisco, uno de los muchos intereses musicales del dueño del sello local y promotor Tom Donahue. Desde 1967, Donahue comenzó a hacer sonar pistas de álbumes, evitando éxitos de las listas y promocionando bandas desconocidas del emergente movimiento hippie, entre ellas los grupos sin contrato discográfico Jefferson Airplane y Grateful Dead. Como posdata, el DJ británico John Peel había estado poniendo a hurtadillas canciones de discos en una lista supuestamente británica que compilaba en una estación de San Bernardino. Y, en efecto, Peel había propuesto un formato muy similar al de Donahue por lo menos seis meses antes que el formato libre naciera en San Francisco, aunque la gerencia de la estación niega este dato. En la primavera de 1967 regresó a Inglaterra e introdujo las mismas ideas en su programa «Perfumed Garden» para la estación pirata Radio London."
  },
+ "La portada de Mixmag para agosto de 1992 mostraba a Liam Howlett de los Prodigy con una pistola en la sien, acusando a su grupo de haber matado la rave con su sencillo infantil Charly.": {
+  "ch": 16,
+  "page": 686,
+  "sec": "El hardcore",
+  "para": "Si no estabas preparado pasar noches sudorosas, sin camisa y metiéndote pepas (pastillas), no te resultaba muy difícil burlarte de la escena del tecno hardcore, la reacción era inevitable. La portada de Mixmag para agosto de 1992 mostraba a Liam Howlett de los Prodigy con una pistola en la sien, acusando a su grupo de haber matado la rave con su sencillo infantil Charly. El sello Warp, cuyas primeras grabaciones habían nutrido la escena, se distanció al cambiar de ambiente con su elelpé «Artificial Intelligence». Los amantes de una sensibilidad más cercana al estilo de Detroit y al estilo de tecno más austero que producían declararon su independencia en clubs puristas como Lost, de Steve Bicknell, o el Knowledge, de Colin Dale y Colin Faver."
+ },
  "La precisión del sistema de sonido que crearon juntos Rosner y Mancuso se ha convertido en el estándar aceptable para cualquier club nocturno del mundo.": {
   "ch": 6,
   "page": 221,
   "sec": "David Mancuso en el Loft",
   "para": "La precisión del sistema de sonido que crearon juntos Rosner y Mancuso se ha convertido en el estándar aceptable para cualquier club nocturno del mundo. «Es solo un tema de calidad —dice Rosner—. Soy un audiófilo, ¿sabes? Apliqué mis técnicas audiófilas (la alta fidelidad o hi-fi) al sonido comercial, cosa que no se había logrado hasta entonces. Los sistemas de sonido comerciales eran horrorosos. No había secretos: era cuestión de persuadir al dueño para que invirtiera el dinero, se arriesgara y comprara los componentes adecuados. Yo sabía dónde situar los altavoces. Sabía cuántos requería y cómo lograr que sonaran bien»."
  },
+ "La prensa echaba espuma sobre el «punk rock negro»": {
+  "ch": 16,
+  "page": 694,
+  "sec": "El jungle",
+  "para": "Para variar, la prensa musical no se percató de la existencia del jungle por mucho tiempo. Cuando la rave llenó su escena hardcore con voces de dibujos animados y temas televisivos para niños, los periodistas con gusto lo desdeñaron como un callejón sin salida. Veían muchas más oportunidades en el «tecno de ambiente» de Orb y el house «progresivo», una evolución sintética y cohibida del estilo clásico del house. Así que, esta vez, un nuevo género tuvo el espacio para desarrollarse en paz. Pero cuando el sello de Rob Playford, Moving Shadow, comenzó a lanzar postas distintivas como Renegade Snares de Onmi Trio y The Helicopter Tune de Deep Blue, el interés de los medios se tornó masivo. La prensa echaba espuma sobre el «punk rock negro» y tuvieron que admitir a regañadientes que el hardcore había producido un género nuevo y deslumbrante. Cuando Goldie firmó un contrato con London Records para su elepé «Timeless», el jungle ya era el sonido del momento."
+ },
  "La presentación de grabaciones ha dado paso a la interpretación.": {
   "ch": 1,
   "page": 13,
   "sec": "¿Presentar o interpretar?",
   "para": "Además del conocimiento musical, la búsqueda incesante y la colección que lo sustenta, la destreza del DJ estriba en compartir su música de forma efectiva. En su aspecto más básico, la labor del DJ es el acto de presentar una serie de grabaciones para el disfrute del público. Así que, en el nivel más elemental, el DJ es un presentador. Es lo que hacen los DJ de la radio: presentan la música y la intercalan con conversación, comedia y cualquier otro tipo de actuación. Sin embargo, el DJ del club ha abandonado en gran medida su función por algo más creativo en términos musicales. La presentación de grabaciones ha dado paso a la interpretación. El DJ de hoy usa los discos como bloques de construcción, los hilvana en una narrativa improvisada para crear un «set» (una sesión) que es de su autoría. Al enfatizar dramáticamente en las conexiones entre las canciones, al yuxtaponerlas o superponerlas a la perfección, el DJ del club moderno no necesariamente presenta grabaciones a discreción, sino que las combina para crear algo nuevo. Y esta concatenación de fragmentos, bien armada, puede ser mucho mejor que la suma de sus partes. En consecuencia, el DJ, que ahora ya no es un invitado más para desempolvar grabaciones de terceros, podría considerarse un verdadero artista."
+ },
+ "La primera grabación con este nuevo patrón fue Never Gonna Let You Go de Tina Moore.": {
+  "ch": 16,
+  "page": 704,
+  "sec": "El garage británico",
+  "para": "Ese mismo año, un cambio estilístico más cristalizó las cosas cuando salieron temas que abandonaron el patrón de bombo con el omnipresente acento en los cuatro tiempos del house, ganándose el apodo two-step, pues ahora se escuchaban solo dos golpes de bombo por cada compás. La primera grabación con este nuevo patrón fue Never Gonna Let You Go de Tina Moore. (A propósito, alguien tendría que explicar a los DJ de garage la diferencia entre un «4/4» [cuatro tiempos o cuentas en un compás] cosa que tiene toda la música bailable moderna, y un patrón de «cuatro notas por abajo» [cuatro golpes de bombo en un compás]). Pronto, con remezclas como Boy Mind de Brandy, el two-step ofrecía un empujón muy necesario al R&B, prestando su energía y ritmos a un género que cojeaba con los restos del hip-hop. Las discográficas principales se abalanzaron a por las remezclas de garage a fin de que los más anodinos vocalistas estadounidenses alcanzaran posiciones en las listas británicas."
  },
  "La primera vez que vi que el color en realidad no importaba».": {
   "ch": 15,
@@ -1847,6 +2045,12 @@ window.ANOCHE_REFS = {
   "page": 235,
   "sec": "Nicky Siano en el Gallery",
   "para": "Larry Levan llamaba al Gallery «su misa de los sábados». Casey compartía este entusiasmo."
+ },
+ "Las grabaciones de Shut Up And Dance cobraban fuerza por la posición poco habitual que disfrutaban: estaban en la escena rave, pero no provenían de allí.": {
+  "ch": 16,
+  "page": 681,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "Su sentido del humor también les fue beneficioso, pues Shut Up And Dance se mofaba gentilmente de la escena rave con grabaciones como £10 To Get In, y su secuela, £20 To Get In. En la introducción de la segunda, un cliente enojado protesta porque pensaba que la entrada costaba solo diez libras. «No, colega, esta es la remezcla», dice el portero. Su éxito más grande fue Raving I’m Raving, una grabación que finalmente (con un coste considerable) captó la atención de los monitores de sampleados de las discográficas, con un verso que se debatía entre apoyar el acid house o cuestionar el verdadero «éxtasis» emocional en el que se basaba: «¿Realmente me siento como me siento?» [«Do I really feel the way that I feel?»]. Las grabaciones de Shut Up And Dance cobraban fuerza por la posición poco habitual que disfrutaban: estaban en la escena rave, pero no provenían de allí."
  },
  "Las grabaciones de acid house —sintéticas, mutantes, fuera de este mundo— llegaron de la nada": {
   "ch": 12,
@@ -1962,6 +2166,12 @@ window.ANOCHE_REFS = {
   "sec": "Afrocósmicos italianos",
   "para": "Hasta aquí la leyenda. La mayor parte es cierta. El magnate se llama Giancarlo Tirotti. Se casó, en efecto, con una princesa rusa. Los DJ de Nueva York son Bob Day y Tom Sison. Tocaron en el Baia de 1974 a 1976. Usaban carátulas de discos como alfombrillas improvisadas. A medida que se lanzaban sencillos de 12 pulgadas se los agenciaban todos. La gente presumía que eran famosos en Nueva York. Lo verificamos. Nadie ha oído hablar de ellos jamás."
  },
+ "Lo único que le faltaba al jungle era una estrella": {
+  "ch": 16,
+  "page": 694,
+  "sec": "El jungle",
+  "para": "Lo único que le faltaba al jungle era una estrella, posición que ocupó Clifford Price, una cara mulata con dientes de oro brillantes, cuya energía —una mezcla de entusiasmo carismático y agresión intimidante— casaba perfectamente con esta música. Goldie era un b-boy de las Midlands cuyo grafiti fue el salvoconducto para infiltrarse en cualquier movida que quiso investigar. Quiso el destino que fuera cliente habitual de las fiestas de Soul II Soul, e incluso pasaba el tiempo con ellos en el estudio. Tras haberse perdido la era del acid house, aterrizó en Rage enfundado en un abrigo de cuero largo de gánster de Miami, solo para quedar sobrecogido por las sonrisas multirraciales del club. Casi inmediatamente, Goldie se centró en crear música y se juntó con los productores de Reinforced con el nombre de Rufige Cru, y luego lanzaba discos como su obra maestra del darkcore, Terminator, a los DJ, proclamando su grandeza musical desde el púlpito con enternecedoras y onanísticas muestras de confianza en su buen hacer."
+ },
  "Lo único que teníamos para compararlo era Kraftwerk.": {
   "ch": 13,
   "page": 509,
@@ -1991,6 +2201,12 @@ window.ANOCHE_REFS = {
   "page": 50,
   "sec": "La radio negra y el rhythm and blues",
   "para": "Los DJ eran empresarios autónomos. La estación les vendía el tiempo y ellos lo rellenaban con lo que pudieran atraer de patrocinadores y audiencia. Sin restricción alguna, cobraban directamente de los anunciantes así como de las discográficas. Para vendedores astutos como Benson (de quien se dice que cobraba a quienes invitaba a su casa en concepto de alojamiento y manutención), era la situación perfecta. Benson trataba la música que tocaba en su show como si fueran anuncios, con un número de espacios asignados a cada sello. No dejaba de poner los discos que le suministraban hasta que les traían otros para reemplazar."
+ },
+ "Los DJ siempre se habían emocionado por las importaciones, pero ahora tenían una forma de grabación novedosa y vanguardista: el sello blanco.": {
+  "ch": 16,
+  "page": 684,
+  "sec": "El bleep and bass",
+  "para": "Cuando Orbital creó Chime y esta se coló entre las mejores veinte en las listas de 1990, la era del bleep and bass había encontrado su himno. Y como las decenas de grabaciones que aparecían cada semana, Chime era una producción casera. La revolución del estudio casero había desencadenado una inundación musical, sobre todo porque los productores ya no dependían de los sellos de renombre. O fundaban sus propios sellos o renunciaban a la idea del todo y solo pagaban para imprimir sus canciones con solo el nombre y el título, cargando los discos para venderlos en las tiendas. Los DJ siempre se habían emocionado por las importaciones, pero ahora tenían una forma de grabación novedosa y vanguardista: el sello blanco."
  },
  "Los Dead lograron con el rock’n’roll lo que el DJ de discoteca lograría más tarde con la música dance: la retorcían al filo de lo imposible.": {
   "ch": 3,
@@ -2075,6 +2291,12 @@ window.ANOCHE_REFS = {
   "page": 98,
   "sec": "Los mods y el Swingin’ London",
   "para": "«Todos solían venir a escuchar a Guy —rememora Ronan O’Rahilly—, [ponía a] los Stones, los Beatles, Eric Clapton, todas las estrellas principales. La gente llegaba de todas partes del país los lunes por la noche, también de Francia y Holanda; así de bueno era». Los sets de Stevens en el Scene se convirtieron en materia prima para tanto The Who como los Small Faces, quienes basaron su música en los discos que pinchaba. El mánager de The Who trajo a la joven banda al lugar para impregnarlos de la energía y la autenticidad de la noche según Stevens."
+ },
+ "Los sistemas de sonido británicos (o «sonidos») eran ferozmente conservadores": {
+  "ch": 16,
+  "page": 666,
+  "sec": "La ruta Jamaica–Reino Unido",
+  "para": "Los sistemas de sonido británicos (o «sonidos») eran ferozmente conservadores; muchos de ellos eran tan leales a sus ancestros jamaicanos que ni siquiera se tomaban la molestia de pensar en nombres nuevos: Londres tenía su propio King Tubby, Duke Reid y Sir Coxsone International; que no eran copias baratas sino más bien homenajes. Dado el valor de este mercado de discos, la escena británica estaba más que servida de productores jamaicanos; y los mejores sonidos, como Fatman, Coxsone y Jah Shaka, recibían «especiales» de música dub tan emocionantes y exclusivos como los grandes cañones de Jamaica."
  },
  "Los teóricos escucharon formarse la grieta en los conceptos como autoría, derechos de autor, originalidad, virtuosismo musical": {
   "ch": 10,
@@ -2310,6 +2532,12 @@ window.ANOCHE_REFS = {
   "sec": "Ron Hardy en el Music Box",
   "para": "«Era como un ídolo. La primera vez que lo vi pinchar discos, era su cumpleaños, y solo ver a la gente literalmente llorando porque este hombre los tenía tan a tope, ver a gente desmayarse, me dije: “¡Oye, estas son las fiestas que me gustan!”. Nunca había ido a un lugar donde el DJ tenía tal control sobre las personas, al punto de que gritaban y bailaban, y hasta lloraban en ciertos momentos. Dependiendo de cuán colocados estuvieran, se desmayaban de puro entusiasmo. Allí lo que había era pura energía»."
  },
+ "Olvídate de intentar rapear con el acento equivocado, había un estilo realmente autóctono en el estilo del sistema de sonido, el bajo británico había cobrado fuerza.": {
+  "ch": 16,
+  "page": 689,
+  "sec": "El jungle",
+  "para": "El breakbeat acelerado fue la clave de esta explosión. Era un estilo fácil de trabajar, toda vez que los ritmos sampleados y en bucles son más manejables que programar una caja de ritmos. De igual modo a como el hip-hop se montó en la ola de los ritmos primarios de Funky Drummer, el jungle reciclaba sin parar el break de Amen Brother de los Winstons. Para los productores que se criaron con el hip-hop y el reggae, usar los breakbeats añadía un elemento funk, cierta dureza, una «negrura» al metrónomo del house y del tecno. Y los breakbeats al tempo del house extirparon el hip-hop de Estados Unidos y lo moldearon con un tempo que llevaba denominación de origen («hecho en Gran Bretaña»). Olvídate de intentar rapear con el acento equivocado, había un estilo realmente autóctono en el estilo del sistema de sonido, el bajo británico había cobrado fuerza. Como dijo Carl Cox sobre la avalancha de grabaciones hardcore en 1991 y 1992: «Era fantástico ver que teníamos nuestra propia dinámica funcionando aquí mismo, que no necesitábamos que Todd Terry creara discos para nosotros. Comenzamos a crear nuestro propio imperio con nuestra propia música, nuestros propios sellos y también con nuestra propia cultura»."
+ },
  "Otro compinche de Flash, Melle Mel (Melvin Glover), es el MC de los MC": {
   "ch": 9,
   "page": 367,
@@ -2418,6 +2646,12 @@ window.ANOCHE_REFS = {
   "sec": "SO MANY MEN, SO LITTLE TIME (TANTOS HOMBRES, TAN POCO TIEMPO)",
   "para": "Pero el hi-NRG todavía es disco; sus DJ originales fueron DJ de disco. El hi-NRG fue lo que tomó el relevo cuando el disco comercial se hundió y los Village People abandonaron la YMCA. Es la música que evolucionó en los clubs gais blancos de clase alta de Nueva York y alcanzó la madurez en Londres, Nueva York y San Francisco. Aunque esta historia está repleta de tragedias, sus raíces yacen en un profundo deseo de liberación, junto al surgimiento de la cultura y del orgullo gay."
  },
+ "Pero es difícil exagerar lo mucho que muchas personas odiaron esas grabaciones.": {
+  "ch": 16,
+  "page": 695,
+  "sec": "El jungle",
+  "para": "Con un sentido de la burocracia genuinamente británico, este cambio se enfrentó a la resistencia por parte de un grupo de ciudadanos preocupados que se autodenominaron El Comité Drum And Bass, dirigidos por Rebel MC (Michael West, exrapero de ska-pop en Double Trouble). Con miembros que supuestamente incluían a DJ Ray Keith, Goldie, Fabio, Grooverider, A Guy Called Gerald y otros pinchas de primera línea, el comité propuso boicots a los DJ e intentó que vetaran la canción de General Levy. Keith hasta le pidió a Dave Piccioni, dueño de Black Market, la tienda más importante del momento (y su lugar de trabajo), que no tuviera el disco en inventario. A lo que Piccioni respondió que, a menos que quisiera pagarle la hipoteca, él compraba lo que le daba la gana. Pero es difícil exagerar lo mucho que muchas personas odiaron esas grabaciones. DJ Rap confiesa que recibió amenazas de muerte por tocarlas. No les hizo caso y la cosa aún se puso más fea."
+ },
  "Pero fue el gran éxito del verano de 1989, Ride On Time de Blackbox, el sencillo que más vendió ese año en el Reino Unido, el que condujo a los británicos a una locura por el piano.": {
   "ch": 14,
   "page": 585,
@@ -2508,6 +2742,12 @@ window.ANOCHE_REFS = {
   "sec": "Nicky Siano en el Gallery",
   "para": "Podría decirse que el primer club comercial que logró una combinación perfecta fue el Gallery. Nicky Siano, un alborotador enérgico y bisexual de Brooklyn, se había mudado a Manhattan a la tierna edad de dieciséis años con su novia Robin. Era 1971 y ya había estado explorando la noche neoyorquina post-Stonewall durante casi un año. Cuando cumplió los diecisiete, ya era dueño de su propio club."
  },
+ "Por fin tenemos una identidad. Nosotros somos eso».": {
+  "ch": 16,
+  "page": 697,
+  "sec": "El jungle",
+  "para": "La importancia del jungle no tiene nada que ver con el chovinismo, sino que radica en el hecho de que, por fin, había una música bailable que se podía relacionar directamente con la crianza, la escena local y la experiencia dentro de su propio país. Gerald Simpson lo expresó perfectamente en All Crews: «Que fuera un producto británico no era importante, sino que era una cosa de nuestra casa… Es de nuestra generación. Somos los niños que vieron Grange Gill. Es nuestra era. Por fin tenemos una identidad. Nosotros somos eso»."
+ },
  "Por lo tanto, aunque el acid house comenzó como un subgénero musical, en Gran Bretaña se convirtió en un concepto más amplio": {
   "ch": 15,
   "page": 590,
@@ -2574,6 +2814,12 @@ window.ANOCHE_REFS = {
   "sec": "La primera cultura rave",
   "para": "Quince años antes de que la cultura rave cobrara existencia, el northern soul le brindó un prototipo casi perfecto. He aquí una dimensión en la que los muchachos de la clase trabajadora venían juntos en grandes cantidades y recorrían largas distancias hasta lugares oscuros para consumir drogas y bailar una música que a nadie más importaba. Una comunión en la que la solidaridad y la pertenencia al clan eran muy importantes. Durante mucho tiempo, la actitud de los sofisticados pimpollos del mundo de los clubs londinenses fue de ignorancia cuando no de desprecio, lo que le permitió desarrollarse prácticamente sin problemas y sin llamar la atención. Y, tal como sucediera con el movimiento rave (en el que el hardcore se distanció de la vertiente más comercial de la escena en un esfuerzo por preservar el espíritu de la música original), el northern soul terminó escindiéndose en un esquizoide cisma, en la medida en que los DJ más progresistas y abiertos de miras consideraban que sus gustos musicales chocaban con la férrea oposición de los tradicionalistas ultraortodoxos."
  },
+ "Quizá el Reino Unido sea tan Babilonia como Jamaica, pero se olvidaban de eso al ver a las Pan’s People bailar al ritmo de Stevie Wonder en «Top Of The Pops».": {
+  "ch": 16,
+  "page": 666,
+  "sec": "La ruta Jamaica–Reino Unido",
+  "para": "La red de exmiembros de los sonidos brindaba una base sólida para un aprendiz, y la mayoría de ellos aprendían el arte bajo la tutela de un tío o un hermano mayor. Sin embargo, había otras cuestiones que hicieron que los sonidos acabaran siendo sumamente limitados. Su música se quedó en Jamaica: pocos tocaban discos británicos, y considerar tocar cualquier cosa que no fuera un dub pesado con reggae tradicional o reggae roquero era una herejía. Las grabaciones pertenecían al sonido no a un seleccionador particular, así que no había mucho espacio para el individualismo, a tono con la cultura de los discos de acetato, se valoraba más la exclusividad que la frescura. Más enajenante quizá era que, como en sus grabaciones, la idea de la afrodescendencia se importaba completamente desde Trenchtown y se centraba en la militancia rastafari de pelo rasta y canciones de protesta «con mensaje». El que los sonidos británicos se escucharan bajo techo en una nube de humo de marihuana en vez de bajo las estrellas del Caribe volvió esta música politizada y seria aún más voluble y opresiva. Así que, cuando los chicos afrodescendientes nacidos en Gran Bretaña comenzaron a probar las delicias de los discos comerciales y la vitalidad de la escena del soul, era inevitable que desarrollaran un distanciamiento considerable. Quizá el Reino Unido sea tan Babilonia como Jamaica, pero se olvidaban de eso al ver a las Pan’s People bailar al ritmo de Stevie Wonder en «Top Of The Pops»."
+ },
  "Quizá la escena balear más extraña de todas es el movimiento afrocósmico de Italia.": {
   "ch": 14,
   "page": 578,
@@ -2591,6 +2837,12 @@ window.ANOCHE_REFS = {
   "page": 56,
   "sec": "Alan Freed y el rock’n’roll",
   "para": "El 7 de septiembre de 1954, Freed transmitió su primer show para la WINS de Nueva York. En pocas semanas se convirtió en la fuerza dominante de la radio de la región; atrajo un público gigantesco de diversidad racial para su música contundentemente negra (en Cleveland, su público era abrumadoramente afrodescendiente). Ray Reneri, quien trabajaba para Freed, aseguraba que si este pinchaba un disco, «al día siguiente vendía diez mil copias»."
+ },
+ "Recuerdo bailar al frente, mirando a todos lados y percatándome de que nadie sonreía. Ni una sola sonrisa. Pero a todos les gustaba.": {
+  "ch": 16,
+  "page": 688,
+  "sec": "El jungle",
+  "para": "«La noche entera era oscura —escribe Brian Belle-Fortune en su historia sobre el jungle, All Crews—. Recuerdo bailar al frente, mirando a todos lados y percatándome de que nadie sonreía. Ni una sola sonrisa. Pero a todos les gustaba. No era una mala atmósfera. Recuerdo estar fuera de mi cabeza y pensar que debo tratar de recordar esto. Ahora es diferente. Era pura disciplina militar. La gente se concentraba, no alzaba las manos al aire»."
  },
  "Robbie Leslie lo describía nítidamente como «la curva de campana de una noche de baile».": {
   "ch": 8,
@@ -2670,6 +2922,18 @@ window.ANOCHE_REFS = {
   "sec": "LOVE IS THE MESSAGE (EL AMOR ES EL MENSAJE)",
   "para": "Se trata de la revuelta de Stonewall, noche en la que el Nueva York gay tomó las calles y se rebeló contra el orden establecido. Pero se trató de un acto de rebelión distinto: diríase que fue más un alegre acto teatral que una revuelta armada. Era la culminación de décadas de opresión y de humillación. Instados por la lucha de los conciudadanos afroamericanos por los derechos civiles, e inspirada en el movimiento por la liberación de la mujer, Stonewall fue la revuelta fundacional con la que se certificó el nacimiento del orgullo gay."
  },
+ "Se trataba de una brecha generacional, y se trataba del auge del MC.": {
+  "ch": 16,
+  "page": 707,
+  "sec": "El grime",
+  "para": "Se trataba de una brecha generacional, y se trataba del auge del MC. Por un lado estaban los DJ de treinta años o más, quienes se habían criado en los años de las raves o en las raíces del reggae; del otro estaban los adolescentes que tenían poca herencia musical más allá del reciente hiphop estadounidense, pero no ocultaban un abrumador deseo de ponerse al micrófono y expresarse. Sí, trajo violencia a los espacios, pues las letras sobre armas de fuego y pandillas atrajo el lado furioso y obsesionado con el culto a los bajos fondos a una cultura musical que antes era más alegre. Y sí, cambió la música completamente, en la medida en que un desfile de MC escupía rimas sobre ritmos mínimos y llevaron lo que había sido una escena basada en la pista de baile a centrar su atención en la tarima. Es como si la Sugar Hill Gang pidiera a 50 Cent que solo rapeara canciones alegres."
+ },
+ "Sheffield, la cuna del acero inoxidable, un pueblo industrial que vivía al son de los latidos de la forja de estampación, producía música vanguardista desde hacía mucho tiempo.": {
+  "ch": 16,
+  "page": 682,
+  "sec": "El bleep and bass",
+  "para": "Sheffield, la cuna del acero inoxidable, un pueblo industrial que vivía al son de los latidos de la forja de estampación, producía música vanguardista desde hacía mucho tiempo. Desde mediados de los setenta, los jóvenes dadaístas Cabaret Voltaire tomaron la batuta, experimentando con cortes, repeticiones constantes en cintas, sonido sampleado y un asalto sin cuartel de sonido electrónico. Con estos pioneros del sonido industrial en el medio, cuando llegó el punk, las bandas de Sheffield no agarraron las guitarras, sino los sintetizadores y las cajas de ritmo. Por tanto, mientras que el resto del país soportaba un rock inepto, Sheffield albergaba y nutría una generación de futuristas electrónicos: Heaven 17, Clock DVA, Human League y ABC."
+ },
  "Sherman estaba tan confiado de que el house no vendería, que apostó su coche Corvette a favor del fracaso de On And On de Jesse Saunders.": {
   "ch": 12,
   "page": 492,
@@ -2699,6 +2963,12 @@ window.ANOCHE_REFS = {
   "page": 646,
   "sec": "Clink Street",
   "para": "La atmósfera de Hedonism encontró un hogar más permanente en algunas catacumbas húmedas dignas de Dickens, que ahora son el museo de las cárceles de Londres. Las fiestas semanales RIP, o Clink Street, como se conocieron universalmente, encarnaron una versión más mucho más dura y más multirracial de la epifanía del acid house del Shoom, a la vuelta de la esquina. En vez de un poder florido y un humo fresa, tenía luces estroboscópicas austeras y redes de camuflaje, y un público cuyo corazón radicaba en la robusta clase trabajadora del East End. Hedonism le debe su inspiración a Ibiza, y más a la red de sistemas de sonido underground. Si Shoom era un club jazz-funk que se había ido de viaje, Clink Street era el heredero acid house de la tradición de las «fiestas del blues» de los speakeasies ilegales del reggae."
+ },
+ "Si bien el grime disfrutó de un éxito limitado al llevar al hip-hop con acento británico al escenario mundial, fue el dubstep el que convirtió el bajo británico en una potencia mundial.": {
+  "ch": 16,
+  "page": 708,
+  "sec": "El dubstep",
+  "para": "Si bien el grime disfrutó de un éxito limitado al llevar al hip-hop con acento británico al escenario mundial, fue el dubstep el que convirtió el bajo británico en una potencia mundial. Es un dato irónico, pues cuando este último evolucionaba primero en los sótanos humeantes de Londres, parecía una música diseñada específicamente para consumirse bajo tierra: sus canciones se inclinaban por lo oscuro, tenían poca voz y solían quedarse en discos de acetato durante meses. Sin embargo, el dubstep se ha convertido en uno de los géneros de baile más exitosos en términos comerciales, pues su bamboleo del bajo subyace en la explosión de la música electrónica bailable (EDM, por sus siglas en inglés) en Estados Unidos."
  },
  "Si el Casino era el preferido de la concurrencia, el Mecca de Blackpool era el de los entendidos.": {
   "ch": 4,
@@ -2742,6 +3012,12 @@ window.ANOCHE_REFS = {
   "sec": "Los discípulos de DJ Francis",
   "para": "Si eres DJ hoy en día, Francis Grasso es tu antepasado; el que revolucionó el concepto del oficio. Los disc jockeys antes que él habían sido esclavos de los discos. Después de él, solo se arrodillarían ante el ritmo."
  },
+ "Si eres británico, hay una línea de bajo que es parte de ti.": {
+  "ch": 16,
+  "page": 663,
+  "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
+  "para": "Si eres británico, hay una línea de bajo que es parte de ti. Es el ritmo fuerte y subyacente que levanta las calles durante esas preciosas semanas de verano, el pulso sobrecargado que sirve de banda sonora para la liberación del país. El resto del año, regresa a las entrañas de la tierra y uno lo puede escuchar filtrándose desde cárceles y radios piratas, desde sótanos y coches oscuros. Podría ser el lejano eco rompetechos de una fiesta okupa en Hackney, o la resaca de una noche de drum and bass, o el chasquido que lame las suelas de un MC de grime. El bajo británico es la nota que te hace moverte en el Rampage en Carnival, en Orbital en Glastonbury, o que te pone los párpados pesados en el Jah Shaka, en alguna sala comunitaria lejana."
+ },
  "Si para preparar el tejido social de Nueva York para la llegada del disco necesitó de muchos factores, para preparar la pista de baile bastó con un disc jockey.": {
   "ch": 6,
   "page": 198,
@@ -2753,6 +3029,12 @@ window.ANOCHE_REFS = {
   "page": 441,
   "sec": "El poder detrás del mito",
   "para": "«Solía llevarse los discos de los platos de Larry —recuerda entre risas el promotor de discos Bobby Shaw—. Si tocaban una grabación tuya en el Paradise Garage un viernes o un sábado por la noche, había una muy buena oportunidad de que saliera en antena en la WBLS»."
+ },
+ "Si uno elimina los temas de hardcore «feliz», lo que queda es lo «oscuro».": {
+  "ch": 16,
+  "page": 688,
+  "sec": "El jungle",
+  "para": "Del hardcore house nacieron el breakbeat, que se caracteriza por la deconstrucción de sus ritmos; el tecno, apuntando a un sentido de la pureza al estilo Detroit; y la rave, caracterizado por su afinidad caricaturesca o por el hecho de que tenía «bandas» como los Prodigy, que podían brincar por todo el escenario y gesticular toda suerte de locuras. Pero la división fundamental tiene que ver con el ánimo. Si uno elimina los temas de hardcore «feliz», lo que queda es lo «oscuro»."
  },
  "Si uno era un adolescente afrodescendiente buscando apartarse de la cultura que Estados Unidos esperaba que uno disfrutara, aquí estaba: código Morse desde Marte.": {
   "ch": 13,
@@ -2778,6 +3060,12 @@ window.ANOCHE_REFS = {
   "sec": "El electro",
   "para": "Sin embargo, no nos quedamos con los pantalones cortos de satén."
  },
+ "Sobre estas líneas de bajo «revientalápidas» danzaban los bleeps agudos y ácidos.": {
+  "ch": 16,
+  "page": 683,
+  "sec": "El bleep and bass",
+  "para": "Sobre estas líneas de bajo «revientalápidas» danzaban los bleeps agudos y ácidos. Como el dub reggae, que también pone el énfasis en los extremos de las frecuencias, quedaba claro que esta música está diseñada para altavoces gruesos y temibles. Steve Beckett de Warp dice que el estilo proviene originalmente de un sistema de sonido de Leeds llamado Ital Rockers. Le dijo a Simon Reynolds: «Cortaba veinte o treinta pistas en acetato, y celebraban fiestas de sistemas de sonido debajo de este hotel. Sin luces, doscientas personas, y tocaban reggae, luego hip-hop y después estas canciones de bleep and bass. Y solían hacer toasting por encima de todo»."
+ },
  "Socavó la dependencia de la música en directo y sentó las bases para que el DJ tomara el mando.": {
   "ch": 3,
   "page": 74,
@@ -2801,6 +3089,12 @@ window.ANOCHE_REFS = {
   "page": 466,
   "sec": "Frankie Knuckles en el Warehouse",
   "para": "Son estos experimentos los que vertebran las raíces de la música house. En la medida en que se copiaban estas ideas y técnicas, por lo general, de formas mucho más sencillas y por DJ mucho menos diestros que usaban un equipo mucho más básico, nació la estética house."
+ },
+ "Soportaba las burlas que le lanzaban en el Grove: «Ya me entiendes: chico soul, chico gay. Es la asociación que establecían».": {
+  "ch": 16,
+  "page": 668,
+  "sec": "Good Times",
+  "para": "Norman era un chico del soul, y no tardó en aparecer con pantalones holgados y un suéter de mohair. En vez de preocuparse por «desatar los siete sellos», iba al Crackers y bailaba al ritmo de Running Away de Roy Ayers. Recorrió ampliamente los clubs de soul blancos de todo el sur y probó un poco de la escena norteña siguiendo a su querido equipo, el Tottenham Hotspurs F. C. En 1979, gracias a los viajes de ida y vuelta a Nueva York de Freddie Laker a noventa y nueve libras, incluso pudo asistir a una fiesta callejera de disco-funk en Brownsville mientras se quedaba con familiares en Brooklyn. Soportaba las burlas que le lanzaban en el Grove: «Ya me entiendes: chico soul, chico gay. Es la asociación que establecían». Finalmente, Norman convenció a su hermano para que le dejara poner soul en su cumpleaños con el sonido de Joey, Great Tribulation. «Le dije: “Será una fiesta de soul. Dondequiera que voy todo es reggae, reggae y más reggae, y ahora, en mi propia casa, no”. Aparecieron unas doscientas personas, la mayoría jóvenes del West End, vestidos con las ropas más elegantes. Era como tener un club del West End en casa de tu madre. Estaba poniendo soul, funk, disco, todo: básicamente toda mi colección en ese momento. Nuestro público se movía. Y todos estos chicos reggae decían: “¿Qué mierda de música es esta?”»."
  },
  "Sorprendentemente, Heard reclama haber grabado las tres canciones el mismo día.": {
   "ch": 12,
@@ -2849,6 +3143,12 @@ window.ANOCHE_REFS = {
   "page": 467,
   "sec": "Ron Hardy en el Music Box",
   "para": "Porque, en efecto, el Warehouse no fue el primer lugar de Chicago en escuchar el disco underground. En un club gay llamado Den One, un joven DJ se encargaba de las noches de disco afrodescendiente duro por lo menos dos años antes de la llegada de Frankie. Para 1977 se había ido de la ciudad para trabajar en California, lo cual dejó un vacío en el mundo de los clubs que luego llenaría Knuckles. Pero a finales de 1982, regresó para tocar en el Music Box y volver a tomar por asalto la Ciudad de los Vientos. Su nombre era Ron Hardy, y para muchos en Chicago era, nada más y nada menos, que el mejor DJ del mundo."
+ },
+ "Su nuevo nombre lo decía todo: Shut Up And Dance [cállate y baila].": {
+  "ch": 16,
+  "page": 679,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "«Queríamos ser capaces de bailarla; no tan solo asentir con la cabeza», dice Smiley. Eran bailarines profesionales (PJ también trabajaba como doble de acción y Smiley era ebanista) y el cambio en el tono era su forma instintiva de aumentar la energía de las fiestas. Como dice PJ: «Siempre queríamos poner la gente a bailar. En un sistema de sonido, se trata de fomentar la vibra, de pasarlo bien. Así que el tempo cambiaba como parte de eso». Su nuevo nombre lo decía todo: Shut Up And Dance [cállate y baila]."
  },
  "Su tiempo en el Tubs fue el prototipo para el legendario Paradise Garage.": {
   "ch": 6,
@@ -3060,11 +3360,23 @@ window.ANOCHE_REFS = {
   "sec": "David Mancuso en el Loft",
   "para": "Además de controlar con sigilo quién venía a las fiestas, Mancuso prestaba atención a la música. Entendía que las dinámicas de sonido que él proyectaba eran tan importantes como los discos que pinchaba. «Quiero escuchar la música. Una vez uno escucha el sistema de sonido significa que hay fatiga auditiva. Uno quiere escuchar la música, no el sistema»."
  },
+ "Uno respiraba y sentía el impacto de cientos de personas bailando al quinientos por cien.": {
+  "ch": 16,
+  "page": 702,
+  "sec": "El garage británico",
+  "para": "A medida que el club se llenaba, se mudó al pub Frog And Nightgow, en Old Kent Road, y luego en 1995 a los Arches, en Southwark. Aquí, los DJ que formarían el Dreem Teem —Timmi Magic, Mikee B y Spoony—, así como Matt Lamont y Karl Brown, quienes ahora creaban temas juntos como Tuff Jam, se iban turnando. Spoony (Jonathan Joseph), quien había conocido a los demás miembros de Dreem Teem en la estación pirata London Underground, recuerda la emoción en el Arches: «Era electrizante. Uno la podía sentir. Podías tocar el ambiente, guardarlo en una botella. Uno respiraba y sentía el impacto de cientos de personas bailando al quinientos por cien. Nadie miraba alrededor para ver quién estaba allí, solo bailaban sin parar. Y como DJ, eso es todo lo que uno puede pedir». Una noche simbólica, contrataron a Tony Humphries para que pinchara, como para demostrar cuán lejos se había movido el garage británico del suave soul-house estadounidense. Fue un fracaso."
+ },
  "Unos dieciséis compases después, simplemente nos rendimos y apagamos los putos amplificadores.": {
   "ch": 10,
   "page": 376,
   "sec": "Duelos",
   "para": "»No podíamos ni escuchar nuestra propia mierda. ¡Uf! Comenzamos a buscar botones, a subirlo todo, los altavoces empezaron a fallar. Y entonces él pone The Mexican. ¿Alguna vez has escuchado The Mexican de Babe Ruth? Comienza a volumen bien bajo: bam-pum-pum. Unos dieciséis compases después, simplemente nos rendimos y apagamos los putos amplificadores. Apagamos todo. Y todavía no había comenzado la percusión. Cuando entró la batería, todas las paredes… como un ¡BRUUUUUM! Se acabó»."
+ },
+ "Y así nació la escena dominical.": {
+  "ch": 16,
+  "page": 702,
+  "sec": "El garage británico",
+  "para": "Y así nació la escena dominical. Cuando el promotor Timmy Ram Jam inauguró su pub que abría hasta altas horas llamado Elephant And Castle, unas cuadras más abajo del Ministry of Sound, la hora de apertura a las seis de la mañana tenía el propósito de captar a los fiesteros de la noche del sábado cuya energía no los había abandonado todavía (o estaba escondida en la chaqueta en forma de polvo). Con MC Creed de anfitrión con un estilo tranquilo, los residentes eran Mickey Simms, Matt Jam Lamont (un exdibujante de Luton que se convirtió en DJ después que de lo echaran) y luego Karl Tuff Enuff Brown, cuyas raíces estaban en el reggae y el electro, y que había colaborado como técnico en el grupo de breakbeat pop de Rebel MC, Double Trouble. De nuevo aceleraron el tempo, al tiempo que esta música temblorosa y de gran impacto mantenía la pista en movimiento cuando la mayoría de sus pobladores habían estado despiertos toda la noche. «Su sonido era mucho más voluble. Era un público mayor, con muchas chicas, muchos gánsteres y mucho brandi», recuerda Timmi Magic. La fiesta continuaba hasta bien entrada la tarde, cuando muchos iban a relajarse al Kennington Park."
  },
  "Y cuando pusieron esa canción, todo el club abandonó el salón para ir a por comida. No quedó ni una sola persona en la pista».": {
   "ch": 11,
@@ -3084,11 +3396,23 @@ window.ANOCHE_REFS = {
   "sec": "Future y Spectrum",
   "para": "Hasta los aficionados a los clubs más experimentados se quedaron perplejos con la energía que ahora se liberaba. Fabio recuerda entrar en el Spectrum con un par de amigos. «Decían: “¿Qué rayos pasa aquí?”. Veíamos a todos con camisetas de carita feliz, ojos grandes, con los dientes cerrados y simplemente flotando en otro planeta. Mis amigos se fueron y me dejaron allí. Me dijeron: “Es como entrar en el infierno. Regresamos a Brixton”». Pero Fabio se enganchó, sobre todo con la rutina de entrada teatral de Oakenfold, que duraba cinco minutos. «Recuerdo levantar la vista, estaba Paul Oakenfold y todo este humo, y él estaba como un puto dios allá arriba. Y dije: “Dios mío, esto es absolutamente fabuloso”»."
  },
+ "Y el nuevo y todopoderoso productor por antonomasia era el DJ.": {
+  "ch": 16,
+  "page": 712,
+  "sec": "Hecho en Gran Bretaña",
+  "para": "Siempre había habido unos pocos ejemplos convincentes entre aquellos británicos que adoptaron los estilos estadounidenses, desde Imagination hasta Loose Ends pasando por Ruthless Rap Assassins y los Stereo MC, pero cuando una generación de sistemas de sonido británicos abandonó las raíces del reggae para surcar su propio camino, liberaron a la música británica de la obligación de tener que emular lo estadounidense. El grime no es como el hip-hop, y tampoco es copiar el hip-hop, es hip-hop: su progenie británica. Como el jungle, el drum and bass, como el two-step, es música de los sistemas de sonido cruda y del gueto, y refleja el tiempo y el espacio de donde proviene. La línea de bajo británica, nacida de los sistemas de sonido, criada por los DJ y nutrida por el vinilo, ha triunfado. Y como son los fanáticos, los expertos y los coleccionistas los que mejor crean la nueva música bailable, después de los ochenta, la innovación en dicha materia cruzó el Atlántico, de forma definitiva, y sin billete de vuelta, de Estados Unidos rumbo al Reino Unido. Y el nuevo y todopoderoso productor por antonomasia era el DJ."
+ },
  "Y en realidad creo que fue el fin. Después de eso, se volvió demasiado grande».": {
   "ch": 15,
   "page": 645,
   "sec": "Hedonism",
   "para": "Hedonism marcó el inicio de lo que se convertiría en la cultura rave. No obstante, para Leslie Lawrence (del grupo pionero del house británico Bang The Party), en común con otros que habían estado en la escena balear y la escena del house desde sus comienzos, fue cuando el movimiento alcanzó su punto culminante. «Creo que para cuando llegó el Hedonism fue la guinda del pastel. Se dice que fue la conjunción de todos los elementos después de una loca explosión. Se suponía que era lo máximo. Y en realidad creo que fue el fin. Después de eso, se volvió demasiado grande»."
+ },
+ "Y eso, para mí, es la canción definitoria».": {
+  "ch": 16,
+  "page": 700,
+  "sec": "El garage británico",
+  "para": "El punto de inflexión tuvo lugar cuando Grant Nelson, cuya estética se forjó durante el tiempo en que fue un productor de hardcore, tomó una canción de Strictly Rhythm, Blue For You de Logic, y la remezcló para su propio sello, Nice N Ripe, creando una canción perfecta para las pistas de baile de los DJ. «Era exactamente la misma canción, pero con sonidos distintos, los sonidos británicos que uno esperaría en una pista de jungle o drum and bass. Aunque todavía tiraba bastante hacia el house, era mucho más brillante y más pesada en la pista de baile. Y eso, para mí, es la canción definitoria»."
  },
  "Y fue desde aquí donde surgirían muchos de los profetas del acid house, casi todos renegados chicos del soul.": {
   "ch": 15,
@@ -3150,6 +3474,18 @@ window.ANOCHE_REFS = {
   "sec": "El trance de Goa",
   "para": "Goa tenía hachís barato, toneladas de drogas psicodélicas y una escena de baile al aire libre próspera durante los ochenta, a base de mucho del new beat industrial y la música hi-NRG que Alemania había disfrutado antes del tecno. Había una fuerte afinidad con el estilo crusty británico, y se consideraba a Goa como un lugar donde promover el viaje espiritual del movimiento rave como consecuencia de la Ley de Justicia Criminal de Gran Bretaña. En los años posteriores al acid house, las vibraciones de Goa se esparcieron por todo el mundo en olas fluorescentes de yoga gracias a la gran diáspora de mochileros, y el complejo turístico ganó una reputación como la versión Lonely Planet de Ibiza. Cuando las restricciones que prohibían viajar a la India se levantaron en 1988, miles de jóvenes israelíes emprendieron el viaje, y los clubs y productores de Tel Aviv, que dominan hoy esta música, adoptaron al por mayor los estilos del trance de Goa y el psy-trance."
  },
+ "el dubstep se forjó en las pistas dobladas de las caras B de los discos de garage británico.": {
+  "ch": 16,
+  "page": 709,
+  "sec": "El dubstep",
+  "para": "Aunque luego se caracterizó por su bajo voluminoso, caídas estrepitosas y su peculiar uso del teclado, el dubstep se forjó en las pistas dobladas de las caras B de los discos de garage británico. Fundamental en este proceso fue el productor Zed Bias, alias Dave Jones, cuyas exploraciones con los breakbeats resultaron influyentes no solo durante los primeros años del dubstep, sino también en el broken beat, uno de sus géneros precursores. Junto con Zed Bias estaba El-B, un productor de garage cuyas líneas de bajo modulantes aportaron la hoja de ruta desde Battersea, dominio del So Solid Crew, hacia Croydon, un primer ejemplo de este fenómeno es su remezcla de Neighborhood de Bias, que retenía el marco rítmico del garage británico, pero desmontaba el resto del vehículo hasta dejar solo la carrocería, con algo de potencia en el bajo. Esquelético y raro, era como un GPS de rave enviando señales a los suburbios. «En aquel momento, intentar imitar a El-B y a Benga era como intentar imitar a Chewbacca —le dijo el pionero del dubstep Skream (Oliver Jones) a The Quietus—, y así es como conseguimos nuestro sonido»."
+ },
+ "el jungle reciclaba sin parar el break de Amen Brother de los Winstons.": {
+  "ch": 16,
+  "page": 689,
+  "sec": "El jungle",
+  "para": "El breakbeat acelerado fue la clave de esta explosión. Era un estilo fácil de trabajar, toda vez que los ritmos sampleados y en bucles son más manejables que programar una caja de ritmos. De igual modo a como el hip-hop se montó en la ola de los ritmos primarios de Funky Drummer, el jungle reciclaba sin parar el break de Amen Brother de los Winstons. Para los productores que se criaron con el hip-hop y el reggae, usar los breakbeats añadía un elemento funk, cierta dureza, una «negrura» al metrónomo del house y del tecno. Y los breakbeats al tempo del house extirparon el hip-hop de Estados Unidos y lo moldearon con un tempo que llevaba denominación de origen («hecho en Gran Bretaña»). Olvídate de intentar rapear con el acento equivocado, había un estilo realmente autóctono en el estilo del sistema de sonido, el bajo británico había cobrado fuerza. Como dijo Carl Cox sobre la avalancha de grabaciones hardcore en 1991 y 1992: «Era fantástico ver que teníamos nuestra propia dinámica funcionando aquí mismo, que no necesitábamos que Todd Terry creara discos para nosotros. Comenzamos a crear nuestro propio imperio con nuestra propia música, nuestros propios sellos y también con nuestra propia cultura»."
+ },
  "el sonido «hoover belga», un dron al acecho como una bomba de neutrones persiguiendo un autobús.": {
   "ch": 13,
   "page": 537,
@@ -3161,6 +3497,12 @@ window.ANOCHE_REFS = {
   "page": 549,
   "sec": "El trance de Goa",
   "para": "Otra escena completamente independiente había cultivado el trance de forma paralela. Centrada en las playas de Anjuna y Vagator en Goa, antigua colonia portuguesa en el suroeste de la India, el trance de Goa o trance psicodélico evolucionó directamente del house progresivo. Ejemplificado en temas como Go de Moby o Papua New Guinea de Future Sound Of London, y en el trabajo de William Orbit, el house progresivo era el house creado como el tecno, con melodías construidas de capas de sonidos sintéticos orquestados a la perfección; su nombre es una mofa de la revista Mixmag para referirse al rock progresivo grandilocuente de principios de los setenta. Pronto se colaron mandalas psicodélicos fenomenales y sampleados étnicos y etéreos, como Loop Guru y Banco de Gaia, bandas con gamelanes y flautas de nariz. Los resultados eran perfectos para los que observaban los amaneceres descalzos en las playas de Goa, dirigidos por presentaciones de Juno Reactor y Man With No Name. El sello londinense Dragonfly del exbajista de Killing Joke, Youth, fue una fuerza vital, y la escena de la fiesta la dirigía un DJ llamado Goa Gil, un hippie de San Francisco."
+ },
+ "el verdadero sonido de Gran Bretaña, que todavía fluía desde las profundidades del mundo pirata, era el jungle.": {
+  "ch": 16,
+  "page": 697,
+  "sec": "El jungle",
+  "para": "Cuando los medios del mundo declararon 1996 el año de la «Cool Britannia», se concentraron en el pop británico. Sin embargo, mientras que las estrellas de este género, como Oasis, no lograban calar hondo en Estados Unidos con sus acordes recalentados de los Beatles, el verdadero sonido de Gran Bretaña, que todavía fluía desde las profundidades del mundo pirata, era el jungle. Aunque la movida de los clubs poco a poco perdió mucho de su glamur, no hay duda de la influencia constante del jungle/drum and bass. En efecto, liderado por los DJ paulistas Marky y Patife, este estilo británico incluso tomó por asalto, de todos los lugares posibles, la tierra del ritmo, Brasil."
  },
  "en Italia la música se canalizaba directamente desde las lunas de Júpiter.": {
   "ch": 14,
@@ -3294,6 +3636,12 @@ window.ANOCHE_REFS = {
   "sec": "Hip-hop grabado",
   "para": "El propio Flash admite haber rechazado varias ofertas iniciales para grabar, pensando que la música creada a partir de las grabaciones de otras personas no era lo suficientemente comercial. «A mí me preguntaron antes que a nadie. Y pensé: “¿Quién querría escuchar un disco que yo ponía regrabado con la voz de un MC por encima?”»."
  },
+ "«Abandonamos la escena radical cuando se convirtió en lover’s rock, cuando los británicos comenzaron a crear su propia música —dice Jazzie B de Soul II Soul—.": {
+  "ch": 16,
+  "page": 667,
+  "sec": "La ruta Jamaica–Reino Unido",
+  "para": "«Abandonamos la escena radical cuando se convirtió en lover’s rock, cuando los británicos comenzaron a crear su propia música —dice Jazzie B de Soul II Soul—. Había chicas en esas fiestas, cuando nunca había chicas en estas cosas». Las únicas mujeres de la escena reggae tradicional eran duras como piedras. «Te topabas con ellas y no era inusual que te apuñalaran a la mínima. Y te cortaban ellas, no sus novios». Pero el lover’s rock, repleto de voces de niñas, lo cambió todo drásticamente. «Aportaba esa calma y afabilidad a la música de nuevo. Además, era un estilo de música inglés, y los chicos fieles al reggae tradicional no podían soportarlo, porque no era jamaicano»."
+ },
  "«Agarraban el dinero y huían con él —insiste Farley": {
   "ch": 12,
   "page": 494,
@@ -3323,6 +3671,12 @@ window.ANOCHE_REFS = {
   "page": 276,
   "sec": "Sellos independientes",
   "para": "Como ocurrió con los géneros de baile que siguieron, al principio, el disco era algo que solo reportaba beneficios a los sellos independientes. Muchos de sus empleados, como Carol Chapman en Salsoul, de todos modos eran clientes habituales de lugares como el Loft, y entendían tanto lo que ocurría como también cuál era la mejor manera de capitalizarlo. Una fuerza locomotora iba ganando velocidad en las narices de los sellos principales. Como comentó John Brody, empleado de promoción de Casablanca Records en aquel momento: «Antes del disco había una tarta. Warner, Columbia y RCA eran sus dueños, y ninguna otra discográfica tenía acceso ni a un pedazo»."
+ },
+ "«Aportaba esa calma y afabilidad a la música de nuevo. Además, era un estilo de música inglés, y los chicos fieles al reggae tradicional no podían soportarlo, porque no era jamaicano».": {
+  "ch": 16,
+  "page": 667,
+  "sec": "La ruta Jamaica–Reino Unido",
+  "para": "«Abandonamos la escena radical cuando se convirtió en lover’s rock, cuando los británicos comenzaron a crear su propia música —dice Jazzie B de Soul II Soul—. Había chicas en esas fiestas, cuando nunca había chicas en estas cosas». Las únicas mujeres de la escena reggae tradicional eran duras como piedras. «Te topabas con ellas y no era inusual que te apuñalaran a la mínima. Y te cortaban ellas, no sus novios». Pero el lover’s rock, repleto de voces de niñas, lo cambió todo drásticamente. «Aportaba esa calma y afabilidad a la música de nuevo. Además, era un estilo de música inglés, y los chicos fieles al reggae tradicional no podían soportarlo, porque no era jamaicano»."
  },
  "«Bangsy sacó Iron Leg de Mickey & The Soul Generation, puso el disco y dijo: “¡A la mierda! ¡Si eso es acid house, esto es acid jazz!”».": {
   "ch": 15,
@@ -3360,6 +3714,18 @@ window.ANOCHE_REFS = {
   "sec": "El acid house",
   "para": "En efecto, la producción vanguardista de Chicago tenía quizá más elementos en común con el sonido de Detroit que al final se conocería como tecno. Como le dijo el pionero del tecno Juan Atkins a Lawrence: «Chicago produjo su propia versión del tecno un par de años después, pero no lo llamaron tecno porque ya teníamos ese término, así que lo llamaron acid house»."
  },
+ "«Comencé combinando mi pasión musical por la fusión en el jazz con el hardcore, explorando cómo cambiaban los tempos, cómo podíamos experimentar con los sonidos», le dijo Bukem a Kodwo Eshun.": {
+  "ch": 16,
+  "page": 696,
+  "sec": "El jungle",
+  "para": "«Comencé combinando mi pasión musical por la fusión en el jazz con el hardcore, explorando cómo cambiaban los tempos, cómo podíamos experimentar con los sonidos», le dijo Bukem a Kodwo Eshun. La distinción era lo suficientemente importante como para justificar semejante ocurrencia con un nuevo nombre definitivo, drum and bass, aunque esta variante no estaba exenta de implicaciones: el mundo del ragga todavía ejercía una influencia fundamental sobre el jungle, mientas que el drum and bass parecía atraer a un buen grupo de estudiantes intelectualoides blancos; sin duda, muchos se ofendieron cuando se apeló a esas connotaciones clasistas."
+ },
+ "«Comenzamos a tocar mucho de las primerísimas grabaciones de house porque, para nosotros, tenía la misma crudeza que el reggae», dice Beedle.": {
+  "ch": 16,
+  "page": 673,
+  "sec": "Soul II Soul",
+  "para": "La historia de Soul II Soul encontró ecos por todo el país mientras más y más sonidos se alejaban de sus orígenes reggae. Influenciado por el hip-hop, Mastermind, de Harlesden, se convirtió en un equipo de ocho, compuesto por MC y DJ, y con la friolera de seis platos. En Hackney, Trevor Nelson, nueva espada en la escena, fundó Madhatters: nombre concebido para desanimar a los amantes del reggae. El sonido Shock, donde DJ Ashley Beedle aprendió su arte, fue el primero en tocar house en el Carnival, y pasó a ser el motor de las famosas fiestas de Clink Street. «Comenzamos a tocar mucho de las primerísimas grabaciones de house porque, para nosotros, tenía la misma crudeza que el reggae», dice Beedle."
+ },
  "«Como el Titanic pudriéndose bajo el agua», solía decir Derrick.": {
   "ch": 13,
   "page": 501,
@@ -3371,6 +3737,12 @@ window.ANOCHE_REFS = {
   "page": 537,
   "sec": "Bélgica",
   "para": "Renaat era en muchos sentidos un proselitista y concebía el tecno como la anunciación de un nuevo internacionalismo. «Como no hay palabras, libera la imaginación —le dijo a Simon Reynolds en Details—. Uno se puede escapar de cualquier cosa». Este heavy metal electrónico se antojaría irresistible a los aficionados a los clubs por todo el planeta, e igualmente irresistible para los productores de dormitorio, todos ávidos por introducir un sonido nuevo al fondo genético sonoro. Nos adentrábamos en el vértice giratorio del hardcore."
+ },
+ "«Convertimos todo el puto lugar en un gueto, hombre —dice Fabio—.": {
+  "ch": 16,
+  "page": 692,
+  "sec": "El jungle",
+  "para": "«Convertimos todo el puto lugar en un gueto, hombre —dice Fabio—. El público de la vieja escuela se fue y Rage pasó de ser un evento nocturno superficial, con muchas chicas y mucha gente bien vestida, a un rollo totalmente de gueto. Era muy de gueto. Y eso se colaba en el ambiente de la noche, hasta el punto de que uno no sabía si te iban a matar allí o no»."
  },
  "«Creo que yo era el mejor DJ del mundo hasta que escuché pinchar a Walter Gibbons»": {
   "ch": 6,
@@ -3450,6 +3822,12 @@ window.ANOCHE_REFS = {
   "sec": "El fin del principio",
   "para": "Cuando el sueño hippie se tambaleó hasta detenerse, parecía que las discotecas sufrirían el mismo destino. El Electric Circus se fue a la quiebra y el Arthur giró el último disco el 21 de junio de 1969. Con el titular «LAS DISCOTECAS BAILAN EL GO-GO HASTA EL OLVIDO MIENTRAS LA JUVENTUD BUSCA RITMOS Y SONIDOS NUEVOS», la revista Variety predijo la era del auge de los clubs nocturnos. «El cierre del Arthur indicaba que los días de la discoteca estaban contados», profetizó."
  },
+ "«El dubstep en una “música mestiza” —dice el escritor Joe Muggs—.": {
+  "ch": 16,
+  "page": 708,
+  "sec": "El dubstep",
+  "para": "El futuro triunfo del dubstep estaba asegurado en su ADN vigoroso, pues reunía muchas vertientes del bajo británico; aludía a (y se nutría de) treinta años de cultura de baile británica. «El dubstep en una “música mestiza” —dice el escritor Joe Muggs—. Contenía dentro de sí al garage, al jungle, al house, al soul, al dub, al tecno, al drum and bass, la electrónica, y más. Eso permitió que se conectara viralmente con estos sonidos. Además, aunque la gente sí iba a las raves y aunque no era una escena sosa o aburrida, era música para escuchar»."
+ },
  "«El hip-hop vive en el mundo del sonido, no en el de la música, y por eso es tan revolucionario».": {
   "ch": 10,
   "page": 391,
@@ -3486,6 +3864,12 @@ window.ANOCHE_REFS = {
   "sec": "Un mercado de exportación",
   "para": "«Levántate, Estados Unidos, Estás Muerto» era el sutil título para una mesa de debate en el New Music Seminar de 1989. Lanzando el ataque, el jefe de Factory Records, Tony Wilson, planteaba que el house y el tecno no habrían florecido sin Gran Bretaña. Los Happy Mondays lo apoyaron con vítores, así como el artista pop Keith Allen. Encandilado, Marshall Jefferson se fue de la reunión, y Derrick May llamó «cabrón» a Allen. Hoy, sin embargo, May admite que está de acuerdo en gran parte. «El trampolín era Detroit; la piscina a la que saltaba sería Inglaterra: la cuna de la cultura pop, el pozo séptico de esa mierda»."
  },
+ "«El verdadero garage británico consiste en elementos básicos: cierta medida de soul y sobre todo una buena dosis de ritmo», declaró Windross cuando ya el barco comenzaba a hacer aguas.": {
+  "ch": 16,
+  "page": 706,
+  "sec": "El grime",
+  "para": "Expresar las preferencias personales es una cosa, como diría cualquier DJ, pero imponer el criterio propio en medio de una escena en constante evolución puede ser desastroso. Acusaron a Tuff Jam de esnob y a Dreem Teem de territorialistas, a medida que los chicos adoraban precisamente los elementos que los DJ más viejos rechazaban. Pero en vez de retirarse con elegancia, la vieja guardia hizo exactamente lo que hicieron los DJ del drum and bass cuando vieron que los elementos del ragga amenazaban su música: formaron un comité. Fundado en el otoño de 1999, el Comité del Garage Británico incluía a los DJ Jason Kaye, Dominic Spreadlove y MC Creed, con Norris Da Boss Windross como presidente y Spoony de portavoz. Se fundó principalmente como reacción a un éxito violento de un MC, Bound 4 Da Reload de Oxide y Neutrino, dos miembros del colectivo numeroso de Battersea, So Solid Crew, que Dreem Teem y Windross rehusaban tocar. El comité abogó por obtener más reconocimiento en las listas de reproducción en las emisoras de radio, establecer una ceremonia de premios e incluir listas especiales de garage en las revistas de baile. Pero dado que el garage era tan exitoso, sus planes parecían inclinarse por prevenir el cambio. «El verdadero garage británico consiste en elementos básicos: cierta medida de soul y sobre todo una buena dosis de ritmo», declaró Windross cuando ya el barco comenzaba a hacer aguas."
+ },
  "«El único ritmo que los alemanes entienden es el ritmo marcial de la marcha».": {
   "ch": 13,
   "page": 536,
@@ -3497,6 +3881,12 @@ window.ANOCHE_REFS = {
   "page": 384,
   "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
   "para": "«Empleé tres platos, dos mezcladoras y entre diez y quince tomas para que quedara bien —recuerda Flash—. Tardé unas tres horas. Tenía que hacerlo en directo. Y cada vez que me equivocaba, simplemente rehusaba cortar. Solo comenzaba desde el principio»."
+ },
+ "«En 1991, la gente o quería música dura o quería esa otra cosa».": {
+  "ch": 16,
+  "page": 698,
+  "sec": "El garage británico",
+  "para": "«En 1991, la gente o quería música dura o quería esa otra cosa». Timmi Magic, uno de los miembros del trío Dreem Teem DJ, recuerda el nacimiento de lo que se convertiría en «esa otra cosa». «Hubo una división definitiva, en la que uno estaba con Ce Ce Peniston o estaba con Charly y los Prodigy. O te gustaba el hardcore o te gustaba la cosa más estadounidense. Yo tomé esta última senda»."
  },
  "«En Bélgica, si el ritmo es rápido, no bailarán. Quieren escuchar el ritmo, el sonido rompedor».": {
   "ch": 14,
@@ -3594,6 +3984,12 @@ window.ANOCHE_REFS = {
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "Cuando no podía tocarla más (en función de la versión que des por buena, o se la robaron de su caja de discos o pertenecía a Wayne Williams, quien le prohibió tocarla), Saunders juró recrearla. Como le dijo a Jonathan Fleming: «Estaba tan encabronado porque ya no tenía mi canción temática y no podía lograr que el público enloqueciera como solía hacer cuando la ponía. Así que me dije: “Voy a hacer una para mí”»."
  },
+ "«Estoy seguro de que me concibieron en una fiesta de blue —farfulla Smiley—. Es la vida misma, esto del sonido. Uno lo tiene que vivir».": {
+  "ch": 16,
+  "page": 678,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "En 1982, PJ (Philip Johnson), Smiley (Carl Hymans) y DJ Hype (Kevin Ford) juntaron el equipo suficiente para celebrar su primera fiesta en la nave de una iglesia cerca de la rotonda de Lea Bridge, en Stoke Newington. «Uno debía tener un sistema de sonido. En aquel entonces, con una grabadora no era suficiente. Uno tenía que estar equipado si la gente te iba a escuchar, tomarte en serio». Pinchando reggae, dub y un poco de soul con un solo plato, siguieron de cerca las tradiciones de las fiestas de blue con las que habían crecido: «Estoy seguro de que me concibieron en una fiesta de blue —farfulla Smiley—. Es la vida misma, esto del sonido. Uno lo tiene que vivir»."
+ },
  "«Farmer Carl era el DJ al que todos consideraban un dios», declara Levine.": {
   "ch": 4,
   "page": 135,
@@ -3611,6 +4007,12 @@ window.ANOCHE_REFS = {
   "page": 449,
   "sec": "El tiempo no espera a nadie",
   "para": "Al final de la era del Paradise Garage, Levine había caído en una crisis profunda en la que su trabajo como DJ perdió mucha importancia frente al consumo de drogas. El club había desarrollado una camarilla importante de heroinómanos, y Levan era parte de ella. «Pues sí que le daba a las drogas —dice Krivit—. Pero no parecía como si eso le controlara la vida. Al final, quizá entendiera que el Garage iba a cerrar. Creo que en ese punto se manifestaban las drogas cada vez más y él cada vez menos». Durante el último año, dependía mucho de los DJ sustitutos, David DePino, Joey Llanos y Victor Rosado. El club por fin cerró, víctima de la especulación inmobiliaria, el 26 de septiembre de 1987, después de una fiesta monumental de dos días en la que se estima pasaron unas 14 000 personas por las puertas del club a despedirse entre lágrimas. Aunque hacía mucho tiempo que se anticipaba el cierre, hubo, sin embargo, un efecto sombrío en el mundo de los clubs de Nueva York. «Fue como si se hubiera muerto un familiar», dice Charlie Grappone."
+ },
+ "«Fue una escuela para mí —concurre DJ Andy C—.": {
+  "ch": 16,
+  "page": 693,
+  "sec": "El jungle",
+  "para": "«Fue una escuela para mí —concurre DJ Andy C—. Uno se exponía a todos estos estilos inclasificables de música y solía escuchar mezclas demenciales, sobre todo a las diez de la mañana. Algunas semanas no paraba y seguía hasta la una de la tarde. Definitivamente, era algo vocacional»."
  },
  "«Fue una oportunidad que nunca tuve en Estados Unidos», dijo Brenda Holloway": {
   "ch": 4,
@@ -3678,11 +4080,35 @@ window.ANOCHE_REFS = {
   "sec": "Afrika Bambaataa",
   "para": "«La Zulu Nation no es una banda. Es una organización de individuos en busca de éxito, paz, conocimiento, sabiduría, entendimiento y de una forma honrada de vida. Los miembros zulúes deben buscar la manera de sobrevivir positivamente en esta sociedad. Las actividades negativas son acciones que pertenecen a los desalmados. La naturaleza animal es la naturaleza negativa. Los zulúes tienen que ser civilizados». Así se leen los Principios Universales de la Zulu Nation, partes uno y dos."
  },
+ "«La cosa era bien dura en nuestra época —dice—. O eras reggae o eras soul. No había paños calientes.": {
+  "ch": 16,
+  "page": 670,
+  "sec": "Soul II Soul",
+  "para": "«Aprendí mucho por pasar tanto tiempo con mis hermanos: cargando cajas, recibiendo pellizcos en la parte de atrás de una camioneta Transit, haciendo surf encima del equipo». La primera actuación remunerada de Jazzie fue tocando lover’s rock en una fiesta escolar durante el fin de semana del Jubileo de la Reina en 1977 con su amigo Philip Daddae Harvey. Cargaron su equipo, que habían tomado prestado del sonido de su hermano, en el autobús. Por aquel entonces, con el nombre Jah Rico, tenían un solo plato BSR —al estilo reggae—, pero Jazzie pronto construyó una caja, en su clase de carpintería de la escuela, para los dos platos que necesitaría cuando ampliara su lista de reproducción. «La cosa era bien dura en nuestra época —dice—. O eras reggae o eras soul. No había paños calientes. Todos intentábamos aprender sobre el rastafarianismo, pero a mí me gustaba el jazz, porque hay algo mordaz en él. Por eso me llamaron Jazzie»."
+ },
+ "«La energía en el Rage era irreal —escribió Goldie en su autobiografía—.": {
+  "ch": 16,
+  "page": 690,
+  "sec": "El jungle",
+  "para": "«La energía en el Rage era irreal —escribió Goldie en su autobiografía—. La adrenalina recorría todo el lugar. Todavía fulguraban los últimos destellos de la rave, pero este era un sonido nuevo, una fusión loca de lo viejo y lo nuevo»."
+ },
  "«La era del doo wop y la era del hip-hop, en sus inicios, eran la misma cosa. Eran muchachos. Niños».": {
   "ch": 10,
   "page": 385,
   "sec": "Vicious Rap",
   "para": "Otra figura clave en los comienzos fue el empresario experimentado Paul Winley. Después de grabar a grupos de doo wop en los cincuenta, algunos de los cuales describe como «verdaderos matones», Winley encontró un ambiente familiar en el hip-hop. «La era del doo wop y la era del hip-hop, en sus inicios, eran la misma cosa. Eran muchachos. Niños»."
+ },
+ "«La escena a la que creíamos que pertenecíamos no quería saber de nosotros —dice PJ—.": {
+  "ch": 16,
+  "page": 680,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "Pero al hip-hop no le interesaba: «La escena a la que creíamos que pertenecíamos no quería saber de nosotros —dice PJ—. Y esta otra escena nos recibió con los brazos abiertos. Les dijimos: “Pero es que somos esto”. Y ellos decían: “No, no lo sois. Ven para acá, hermano”». Repeticiones constantes de breakbeat superrápidas rociadas de sampleados pop flagrantes (Suzanne Vega, Eurythmics) era exactamente lo que los ravers que habitaban las cuevas del ácido del East End querían escuchar, y estas grabaciones fueron tildadas de hardcore house. Había experimentos similares —el hip house estadounidense de Todd Terry, Fast Eddie y Tyree Cooper, así como los experimentos del tecno de Frankie Bones y CJ Bolland—, pero ninguno capturó la esencia de las fiestas blue de Hackney, oscuras, humeantes y propulsadas por las drogas, como lo hizo Shut Up And Dance."
+ },
+ "«La escena blue fue la escena de clubs original —insiste Fabio—.": {
+  "ch": 16,
+  "page": 663,
+  "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
+  "para": "«La escena blue fue la escena de clubs original —insiste Fabio—. Son sistemas de sonido enormes, con MC, todo el énfasis estaba en el volumen del sonido. Solíamos visitar los clubs regularmente y el sonido era muy malo, y los DJ soltaban mucha mierda toda la noche. Los sistemas de sonido eran geniales. No ganábamos dinero con ello; se trataba estrictamente de colarse en una propiedad y celebrar una fiesta hasta la una de la tarde»."
  },
  "«La escena de escuela secundaria era asombrosa —dice Derrick": {
   "ch": 13,
@@ -3708,6 +4134,12 @@ window.ANOCHE_REFS = {
   "sec": "El poder detrás del mito",
   "para": "«La leyenda de Larry va más allá de la razón; se alimenta de sí misma hasta cierto punto», sugiere el crítico musical Vince Aletti. Dave Piccioni es igual de escéptico. «Odio esta mierda de que, solo porque uno muere, se crea toda esta mitología a su alrededor. Si estuviera vivo ahora, probablemente estaría pinchando lo mismo que Tony Humphries»."
  },
+ "«La mayoría de los DJ estadounidenses tocaban la mezcla de la voz, pero nosotros girábamos el disco y tocábamos la mezcla de la pista y acelerábamos un poco el tono».": {
+  "ch": 16,
+  "page": 700,
+  "sec": "El garage británico",
+  "para": "Si la separación original con el hardcore tenía que ver con que la música se inclinaba en una dirección demasiado estadounidense, el siguiente paso era regresar al bajo británico. Algunos DJ comenzaron a favorecer grabaciones con agudos más nítidos, una percusión más intrincada y líneas de bajo más fuertes: la misma dinámica con la que se impulsaba el drum and bass. También hubo, como Timmi lo explica, una aceleración del tempo. «La mayoría de los DJ estadounidenses tocaban la mezcla de la voz, pero nosotros girábamos el disco y tocábamos la mezcla de la pista y acelerábamos un poco el tono». Al poner la pista sin voz, se evitaba el efecto de voz de ardilla que resulta de acelerar la voz, además de que daba espacio para que un MC se cascara sus rimas."
+ },
  "«La música del Garage era una forma de saltarse las reglas —dice DJ Danny Krivit": {
   "ch": 11,
   "page": 443,
@@ -3731,6 +4163,12 @@ window.ANOCHE_REFS = {
   "page": 525,
   "sec": "El tecno definido",
   "para": "Al ser preguntados por aspectos concretos de su música, Cosgrove les arrancó una memorable apostilla a los tres de Belleville. Derrick May fue quien se soltó con esta cita tan repetida: «La música es justo como Detroit, un craso error. Es como si George Clinton y Kraftwerk se quedaran atrapados en un ascensor». Kevin Saunderson explicó cómo, en una ocasión, lo despidieron de una estación de radio por «estar demasiado adelantado a su tiempo», y Juan Atkins le dijo a Cosgrove: «Berry Gordy creó el sonido Motown según los mismos principios del sistema de correas de transmisión de la Ford. Hoy, esas fábricas no funcionan de esa manera: usan robots y ordenadores para construir los coches. A mí me interesan más los robots de la Ford que la música de Berry Gordy»."
+ },
+ "«La noche de los domingos se convirtió en la noche de los sábados —dice Spoony—.": {
+  "ch": 16,
+  "page": 703,
+  "sec": "El garage británico",
+  "para": "…el desembarco de mujeres del garage británico en el Observer en 2000, al tiempo que la escena llegaba a su punto culminante con el evento nocturno sumamente exitoso Twice as Nice en el Coliseum, en Vauxhall. «Y qué chicas eran. De todas las formas, edades, colores, todas unidas por su rechazo a la vestimenta innecesaria. Las faldas y los tops más cortos posibles eran el uniforme, junto con los tacones glamurosos. Se retorcían el pelo hasta formar obras de arte. Hablaban entre ellas en los baños: “¡Qué guapas estás, chica!”». Spoony recuerda la presencia femenina como una fuerza reclutadora poderosa: «Al principio, a la gente no necesariamente le gustaba o no entendía la música, pero, Jesús, nunca había visto tantas mujeres en un solo lugar». Pronto hubo una fiebre de domingo por la noche. «La noche de los domingos se convirtió en la noche de los sábados —dice Spoony—. Me tomaba los lunes libres, limpiaba el coche los sábados, me recortaba el pelo lo más tarde posible el sábado para que se viera como nuevo el domingo. Si uno iba luciendo su personaje, había alguna probabilidad de que consiguieras algo». El garage hasta logró tener su propia Ibiza mientras las principales compañías de promociones, Twice as Nice y Garage, abrieron un espacio en Chipre, en el pueblo de Aiya"
  },
  "«La pista se vaciaba —dice Noel—. La gente nos abucheaba. Nos lanzaban botellas y latas».": {
   "ch": 15,
@@ -3762,6 +4200,12 @@ window.ANOCHE_REFS = {
   "sec": "El tiempo no espera a nadie",
   "para": "«Larry podía lograr que dos mil personas se sintieran como si estuvieran en una fiesta en su casa», dice Mel Cheren, copropietario del Paradise Garage. «Eso era magia»."
  },
+ "«Lo que los hizo grandes fue que no les importaba una mierda lo que hacían —dice Rhythm Doctor—.": {
+  "ch": 16,
+  "page": 681,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "Crudas, robustas, sin pulir, pero cargadas de energía, era la clara influencia del bajo británico. «Lo que los hizo grandes fue que no les importaba una mierda lo que hacían —dice Rhythm Doctor—. Por lo general no estaban ni sincronizados, iban a lo loco, sueltos, pero no les importaba»."
+ },
  "«Lo que sí les gustaba realmente eran las voces femeninas».": {
   "ch": 8,
   "page": 305,
@@ -3791,6 +4235,12 @@ window.ANOCHE_REFS = {
   "page": 327,
   "sec": "Tragedia",
   "para": "Patrick Cowley murió el 12 de noviembre de 1982. Sylvester estaba actuando en el Heaven de Londres. En una escena emotiva, anunció la muerte de su amigo y colaborador antes de interpretar Do You Wanna Funk? Por desgracia, Sylvester también murió de sida seis años después, el 18 de septiembre de 1988. Casi todos los de Megatone y Moby Dick también murieron. «Mató a nuestros clientes, mató a nuestros artistas, mató a nuestros fundadores —recuerda John Hedges—. Fue como un banco de niebla que nos envolvió durante tres o cuatro años, y de repente no quedaba nadie»."
+ },
+ "«Me crie en Brixton, siempre había música a mi alrededor. Una noche de sábado cualquiera podría haber cinco o seis fiestas.": {
+  "ch": 16,
+  "page": 661,
+  "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
+  "para": "«Me crie en Brixton, siempre había música a mi alrededor. Una noche de sábado cualquiera podría haber cinco o seis fiestas. Se celebraban en las casas de la gente o montaban un sistema de sonido en edificios abandonados. Cobraban dos libras en la puerta, solían tener puesta una barra pequeña, el asunto era entrar y comprar bebidas. Estaba el sujeto que oficiaba de anfitrión de la noche —el MC— y el sujeto que ponía la música; tenía una historia, y molaba."
  },
  "«Me dije: “Coño, pude haber sido el primero”.": {
   "ch": 10,
@@ -3839,6 +4289,12 @@ window.ANOCHE_REFS = {
   "page": 67,
   "sec": "NIGHT TRAIN (TREN NOCTURNO)",
   "para": "La importancia de esta noche no se perdió con el fracaso de Savile. De un plan de dudosa honorabilidad para añadir algo a su paga por enfermedad había nacido una nueva y prometedora forma de entretenimiento. «No creo que fuera un artista —aclara—. Lo que sí hacía era crear un ambiente. Un artista canta, baila, cuenta chistes, hace malabares. Yo no hacía nada de eso. Solo creaba ambiente». Aun en ese salón pequeño, con no más de veinte personas presentes, sintió el entusiasmo de ser el DJ de un público en vivo, la misma sensación que disfrutan los DJ de clubs desde entonces. «Mientras ponía los discos, me quedaba ahí, y sentí este asombroso… poder no es la palabra correcta; control tampoco lo es. Percibía este efecto asombroso. Lo que estaba haciendo entonces provocaba que doce personas reaccionaran a ese estímulo. Podía hacer que bailaran rápido. O lento. O que pararan, o que comenzaran a bailar. Todo esto se antojaba irresistiblemente embriagador»."
+ },
+ "«No era muy bueno como DJ, pero tenía un buen público —recuerda Norman—.": {
+  "ch": 16,
+  "page": 674,
+  "sec": "El Africa Center",
+  "para": "«No era muy bueno como DJ, pero tenía un buen público —recuerda Norman—. Pero, sobre todo, era blanco. Su público diluía las cosas, las hacía más aceptables socialmente. Jazzie era listo: “Rodéate de gente blanca y no vendrán a tumbarte la fiesta”»."
  },
  "«No era que no les gustara el house —dice Terry Farley—, es que no lo necesitaban.": {
   "ch": 15,
@@ -3900,6 +4356,12 @@ window.ANOCHE_REFS = {
   "sec": "El Paradise Garage",
   "para": "La vida de Levan giraba en torno al Paradise Garage. Cuando abrió hasta vivía allí, algo que molestaba mucho a Michael Brody. Durante el día, el círculo de amigos de Levan se reunía en King Street a pasar el rato, consumir drogas, jugar con ese prístino sistema de sonido y patinar en la pista de baile. Johnny Dynell recuerda recibir lecciones de disyoquear durante aquellas tardes lánguidas; Levan, consciente del linaje del que había emanado, estaba muy dispuesto a impartir las tradiciones del disco. «No tienes idea de cuánto poder tienes allá arriba», le decía a Dynell, señalando a la cabina del DJ."
  },
+ "«No éramos un grupo rave, éramos un grupo de hip-hop veloz —declaró para Melody Maker—. Tocábamos hip-hop de una manera en que Public Enemy jamás se hubiera atrevido».": {
+  "ch": 16,
+  "page": 679,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "«Pero todavía queríamos ir más allá —dice Smiley—. Así que aceleramos mucho nuestro material cuando comenzamos a crear música adecuadamente». Más allá de las fiestas, sin embargo, su hip-hop a toda máquina no tenía adeptos. «Nadie quería saber nada de eso. Ningún sello de los grandes, ni los independientes. Todos decían: “Es demasiado rápido; no va con la norma”. Pues dijimos: “Iros a la mierda, lo haremos nosotros mismos”». En 1989 estaban pasando por todas las tiendas de discos de Londres con copias recién impresas de «5,6,7,8» en la parte de atrás del Ford Escort de PJ. A la semana, imprimieron más, y el hermano menor de Smiley insistía sin cesar que tenían que ir al Dungeon, el epicentro del house en Hackney, donde los ravers se volverían locos con el disco. Hasta ese punto, según ellos, su música no tenía nada que ver con el house. «No éramos un grupo rave, éramos un grupo de hip-hop veloz —declaró para Melody Maker—. Tocábamos hip-hop de una manera en que Public Enemy jamás se hubiera atrevido»."
+ },
  "«Nunca fue mi intención convertirme en el padre de un estilo musical": {
   "ch": 14,
   "page": 571,
@@ -3929,6 +4391,12 @@ window.ANOCHE_REFS = {
   "page": 251,
   "sec": "David Rodriguez en el Ginza",
   "para": "«Para mí, esta comunión en la pista es una congregación espiritual», declaró Rodriguez en una entrevista a mitad de los setenta, explorando un tema que se ha vuelto recurrente para muchos DJ. «Hay cientos de personas en un salón cuyo vínculo es la música. No hay tensión alguna entre gais y heteros: el denominador común es la música. Me puedo colocar (en el sentido literal) solo con la música. A veces elijo estos discos de manera que me permiten contar una historia completa en una noche. ¿Sabes lo que se siente al escuchar que todo un salón suspira cuando comienza una canción? ¡Es como un aplauso para mí!»."
+ },
+ "«Paul nos dio esperanza —dice, encumbrándolo por encima de sus antecesores, incluido Norman Jay—.": {
+  "ch": 16,
+  "page": 672,
+  "sec": "Soul II Soul",
+  "para": "El momento de inspiración de Jazzie llegó cuando vio a Paul Trouble Anderson —a quien conocía como una figura prominente del Crackers— pinchando soul en un blue de Haringey con un sonido llamado Galaxy Soul Shuttle (que pertenecía al diablo de la música folk Winston Silcott). «Paul nos dio esperanza —dice, encumbrándolo por encima de sus antecesores, incluido Norman Jay—. La diferencia entre Trouble y todos los demás es esta: Paul estaba en el gueto, estaba en la escena negra, mientras que los demás intentaban salirse de ahí. Para nosotros, él era más importante por esa razón»."
  },
  "«Pero yo sabía algo que los demás no sabían —dice Oakenfold—, y eso era el éxtasis.": {
   "ch": 15,
@@ -3966,6 +4434,12 @@ window.ANOCHE_REFS = {
   "sec": "Planet Rock",
   "para": "«Quería ser el primer grupo electrónico negro —dice—. Una cosa loca mecánica y con funk sin banda, solo instrumentos electrónicos. Cuando la terminé, quería dar con el nexo entre el mercado afroamericano y el mercado del punk rock. Quería dar con el punto de encuentro entre ambas músicas. A mí siempre me había gustado Trans Europe Express, y después de que Kraftwerk lanzara Number, me dije: “¿Será posible combinar las dos con algo con mucho funk y bajo y un ritmo duro?”»."
  },
+ "«Queríamos ser capaces de bailarla; no tan solo asentir con la cabeza», dice Smiley.": {
+  "ch": 16,
+  "page": 679,
+  "sec": "El sonido Shut Up And Dance",
+  "para": "«Queríamos ser capaces de bailarla; no tan solo asentir con la cabeza», dice Smiley. Eran bailarines profesionales (PJ también trabajaba como doble de acción y Smiley era ebanista) y el cambio en el tono era su forma instintiva de aumentar la energía de las fiestas. Como dice PJ: «Siempre queríamos poner la gente a bailar. En un sistema de sonido, se trata de fomentar la vibra, de pasarlo bien. Así que el tempo cambiaba como parte de eso». Su nuevo nombre lo decía todo: Shut Up And Dance [cállate y baila]."
+ },
  "«Quien haya decretado la muerte del disco olvidó decírselo a quince mil bailarines con conciencia tribal».": {
   "ch": 15,
   "page": 612,
@@ -3977,6 +4451,12 @@ window.ANOCHE_REFS = {
   "page": 105,
   "sec": "Terry Noel en el Arthur",
   "para": "«Quiero emoción», ladraba Noel, recordando sus días como DJ. «Quiero que se sientan como nunca se han sentido en la vida. Veía las bocas de la gente en la pista diciendo “¡Uau! ¿Qué es esto?”. Es como esas películas dramáticas de hoy en las que uno escucha el disparo detrás de uno. Era lo mismo conmigo. Lo único que yo lo hacía en los sesenta»."
+ },
+ "«Rage fue un experimento total —admite Fabio—. No teníamos ni puta idea.": {
+  "ch": 16,
+  "page": 690,
+  "sec": "El jungle",
+  "para": "«Rage fue un experimento total —admite Fabio—. No teníamos ni puta idea. Lo que decíamos era: “Funcionó, vamos a hacer esto”. Nunca solíamos tocar así en otros lugares. En todos lados todavía tocábamos las cosas más soul. Pero en aquel club enorme donde teníamos carta blanca, era la casa de Fabio y Grooverider, e hicimos lo que nos dio la puta gana»."
  },
  "«Recuerdo pensar muchas veces: “Esto requiere mucho esfuerzo; ¡espero que nadie me dispare!”».": {
   "ch": 15,
@@ -3990,11 +4470,23 @@ window.ANOCHE_REFS = {
   "sec": "Stock, Aitken y Waterman",
   "para": "Durante sus años como compositor, Waterman visitaba los clubs gais con un dictáfono, grababa los sonidos más recientes y se los proporcionaba a Mike Stock. Las primeras agrupaciones que produjeron eran supergais. Eran Divine, estrella de las películas indignantes de John Waters, una drag queen de 136 kilos cuyas cejas parecían los arcos de McDonalds. Un reto de gruñidos, su canción So You Think You’re a Man alcanzó la posición 16 (Reino Unido) en 1984. «Sabía que iba a ser un éxito porque era tan amanerada —admite Waterman en su autobiografía, I Wish I Was Me—. Si comenzó como un noventa por ciento afeminada, la cosa se disparó al ciento veinte por ciento para cuando terminamos». El trío Stock Aitken Waterman (SAW) siguió con un número uno a nivel mundial con la canción You Spin Me Round (Like A Record) de Dead Or Alive, un grupo gótico ligero de Liverpool, cuyo cantante de voz chillona era el andrógino de voz mordaz Pete Burns."
  },
+ "«Salíamos a buscar casas vacías —recuerda Cleveland—.": {
+  "ch": 16,
+  "page": 669,
+  "sec": "Good Times",
+  "para": "Norman continuó con la idea del blues soul, así como su amigo Cleveland Anderson. «Salíamos a buscar casas vacías —recuerda Cleveland—. Luego regresábamos a una, forzábamos la ventana, cambiábamos las cerraduras, nos asegurábamos de que hubiera electricidad. En esos días, uno era tan descarado que llegaba a las diez de la mañana a descargar unos altavoces enormes y los vecinos no preguntaban nada. Recorríamos toda la zona e invitábamos a las chicas bonitas con folletos, y cuando daban las diez de la noche, ¡PUM!»."
+ },
  "«Se enamoró del lugar —recuerda Torrales— y quería traerlo a Jersey».": {
   "ch": 11,
   "page": 453,
   "sec": "Tony Humphries y la música garaje",
   "para": "A principios del siguiente año, Berger visitó el Paradise Garage y quedó maravillado. «Se enamoró del lugar —recuerda Torrales— y quería traerlo a Jersey». Inmediatamente, transformó la sala de baile del segundo piso en el mejor club nocturno que la ciudad haya visto jamás, con todo lo necesario y un sistema de sonido diseñado por Richard Long. La noche inaugural fue el 29 de agosto de 1979, con malabaristas, magos y chicas al estilo de Las Vegas. Berger hasta trajo leones y tigres rugiendo en jaulas para amenizar la velada. La música fue transmitida en directo por la estación WNJR y la crema de la realeza musical de Nueva Jersey apareció en el lugar, con los discos de Kool & The Gang, Tasha Thomas y los All Platinum colgando en la cabina. El jefe de los All Platinum acababa de montar un sello, Sugar Hill, y trajo un disco de promoción para que Torrales lo pinchara. «Se me acercó y me dijo: “Nadie más ha pinchado esto en la zona de Nueva York. Quiero que lo hagas tú”. Era Rappers’ Delight»."
+ },
+ "«Ser parte de un sonido era lo máximo —dice Norman Jay—. Era casi como estar en una pandilla.": {
+  "ch": 16,
+  "page": 668,
+  "sec": "Good Times",
+  "para": "«Ser parte de un sonido era lo máximo —dice Norman Jay—. Era casi como estar en una pandilla. A mi hermano Joey le gustaba construir sistemas de sonido. Todos los chicos de mi vecindario estaban en eso». Al principio Jay, ahora un DJ veterano de Londres y un pilar de carnaval de Notting Hill, no vio nada que le interesara en ello. «Ya había probado la vida del West End, así que no quería ir a una maldita iglesia para que me echaran a las diez y media. Nunca me gustó la cultura esa del choque entre sonidos. Mi hermano, como era rastafari, la vivía como una tradición, pero no lo era para mí»."
  },
  "«Si el tecno belga nos da ostinatos; el tecno alemán, ruido; el tecno británico, los breakbeats; entonces Detroit suplía la profundidad cerebral pura": {
   "ch": 13,
@@ -4008,6 +4500,12 @@ window.ANOCHE_REFS = {
   "sec": "Afrocósmicos italianos",
   "para": "Baldelli era un científico. Sus sets se basaban más en la observación obsesiva. Se encerraba en su casa, donde seguramente probaba cientos de grabaciones distintas para ver cuál mezclaba mejor con su nuevo tema. Gianni Zufo, dueño de la tienda de discos Disco Più, en Rimini, en realidad sí le envió una copia de todo. «Si había un disco, ya fuera de jazz, rock o pop, le enviaba una copia». Zufo pronto aprendió que lo que Baldelli quería sobre todas las cosas era lo caprichoso y lo no querido. Mozart era igual de obsesivo, pero mucho más impulsivo. Zufo lo recuerda (bajo los efectos del ácido) tocando canciones tan pronto se las daban."
  },
+ "«Si no estás bailando, hazte a un lado y deja espacio», solía gritar Jazzie": {
+  "ch": 16,
+  "page": 675,
+  "sec": "El Africa Center",
+  "para": "«Cambiamos las reglas de juego. Cuando nos presentamos en el norte de la ciudad, nos trajimos a todo el mundo. Y nadie lo podía creer». El Africa Centre en el Convent Garden era un regalo al pueblo africano por parte de la Sociedad Cristiana de Auxilio. Como tal, disfrutaba de un estatus peculiar que permitía que la fiesta no llamara la atención de las autoridades durante la mayor parte de su existencia. Los domingos por la noche, entre 1986 y 1988, la pequeña bodega del centro estaba repleta de un público multirracial brincando al son de Soul II Soul: «Una cara feliz y un bajo potente para una raza sonriente». El viejo orden del soul, en el que el público se quedaba de pie mirando a un puñado de grandes bailarines se había acabado; aquí todo el mundo se meneaba. «Si no estás bailando, hazte a un lado y deja espacio», solía gritar Jazzie, mientras Cross The Tracks de Maceo & The Macks o Just Kissed By My Baby de los Meters retumbaban por todo el salón."
+ },
  "«Si pudieras ver mi colección, verías que me gusta todo tipo de música, pensarías que pertenece a cuatro DJ distintos —explica": {
   "ch": 11,
   "page": 445,
@@ -4020,11 +4518,23 @@ window.ANOCHE_REFS = {
   "sec": "Excavadores de discos",
   "para": "El coleccionista Keb Darge se llevó consigo la locura adquisitiva de su primera pasión, el northern soul, a la escena funk. «Si uno no traía lo nuevo, pinchaba la misma mierda y se convertiría en una estampa para el recuerdo —argumenta—. Es exactamente como con el northern soul. Necesitan discos nuevos, descubrimientos nuevos». El mercado de discos de funk de 45 rpm se ha disparado gracias a las hazañas excavadoras de los DJ/coleccionistas Shadow y Darge. En 2004, un coleccionista de Essex pagó la exorbitante suma de 4293 dólares por What Goes Around Come Around de Arthur Monday, un disco de funk de 45 rpm sumamente raro (pero más bien discreto)."
  },
+ "«Simplemente, era la mezcla más demente de la locura extrema», dice Fabio.": {
+  "ch": 16,
+  "page": 691,
+  "sec": "El jungle",
+  "para": "Con sus inequívocos referentes de soul, el dúo había alcanzado cierta atención disyoqueando en el sitio donde terminaba toda la primera escena del acid house, el Mendoza, en Brixton, que abría hasta altas horas. Para 1991, con seguidores de sus programas de radio «Phase 1 FM» y papeles destacados en Sunrise, Energy y muchas otras raves de la M25, abarrotaban con facilidad el Star Bar en el segundo piso del Heaven cada jueves, tocando el tecno duro que provenía de Bélgica y Alemania. Cuando los DJ principales Colin Faver y Trevor Fung perdieron el vuelo de regreso desde Los Ángeles, Fabio y Grooverider los sustituyeron en la pista principal y la montaron tan gorda que pronto recibían acetatos de los héroes de Detroit, May y Saunderson, así como discos de sello blanco de Joey Beltram y otras estrellas emergentes del hardcore (Rage fue donde por primera vez el Reino Unido escuchó Energy Flash de Beltram). Aceleraron las cosas a niveles increíbles, subiendo el tempo, incluso usando discos de 45 rpm en vez de 33. «Simplemente, era la mezcla más demente de la locura extrema», dice Fabio."
+ },
  "«Sin duda éramos la oveja negra de la escena gay», ríe Moore.": {
   "ch": 15,
   "page": 621,
   "sec": "El Londres gay",
   "para": "Ian Levine llamaba a Pyramid la «noche de los locos». Había mucha mezcla, con mucha gente hétero, con muchos disfraces y personajes. «Sin duda éramos la oveja negra de la escena gay», ríe Moore. Como el club neoyorquino del mismo nombre, Pyramid confirió al travestismo un lenguaje más irónico y artistoide. El promotor Steve Swindells recuerda los espectáculos salvajes que vio allí. «Era tan distinto al travestismo estúpido de siempre. Personas como Matthew Glamorre en un traje de seis metros con gente saltando desde dentro de este. Fat Tony solía hacer toda una rutina de Bollywood, gesticulando deliberadamente mal, con Princess Julia como hombre. Muy gracioso, bien alternativo»."
+ },
+ "«Sin ese club ni esa estación de radio todavía estaríamos en una tiendecita de discos con algunos amigos pasando el rato».": {
+  "ch": 16,
+  "page": 710,
+  "sec": "El dubstep",
+  "para": "Otro componente clave en el desarrollo del dubstep fue Rinse FM, una estación pirata del sur de Londres en la que Hatcha tenía un programa. Siguiendo el ejemplo exitoso de una pionera emisora pirata, Kiss FM, en el camino a la respetabilidad legal, Rinse comenzó a emitir tan temprano como en 1994, pero cuando Sarah Soulja Lockhart se unió a ellos la década siguiente, fueron la visión y el empuje de ella y de su compañero Geeneus lo que los catapultó hacia la legalidad con una licencia comunitaria de FM desde 2010. Este dúo también estaba detrás del evento nocturno FWD>>, el crisol del dubstep, convirtiéndolos en una fuerza vital para el auge del género. Como explica Artwork en una entrevista para RBMA: «Sin ese club ni esa estación de radio todavía estaríamos en una tiendecita de discos con algunos amigos pasando el rato»."
  },
  "«Soy la persona que diseñó la forma moderna de pasar la noche —declaró—. Soy la primera y única Reina de la Noche».": {
   "ch": 3,
@@ -4092,6 +4602,12 @@ window.ANOCHE_REFS = {
   "sec": "El transforming y el beat-juggling",
   "para": "«Trajeron estos estilos raros y formas de ejecutar el scratching que nadie había utilizado antes —explica Q-Bert—. Cuando el transforming se hizo público, puso todo el mundo del scratching patas arriba»."
  },
+ "«Un bajo del peso de un furgón me pasa por encima.": {
+  "ch": 16,
+  "page": 687,
+  "sec": "El jungle",
+  "para": "«Un bajo del peso de un furgón me pasa por encima. El sonido retumba y surte su efecto máximo. El bajo deslizante que te domina, ataca tus sentidos con su abrumadora intensidad, rodando como un trueno. De delante atrás es una ola de sonido». Nada de lo que se ha escrito sobre el jungle tiene la pasión de Junglist, una novela de Two Fingers y James T. Kirk (Andrew Green y Eddi Otchere). «Yo estaba allí cuando la rave se excedió de velocidad —dice el narrador, un DJ que ha abandonado la escena house, harto de la “falsa conciencia” del éxtasis—. El house era mierda de clase media. Tan aburrida y predecible —se queja, pues ya no lo engaña el escapismo de esa música—. El jungle es más fiel a las verdaderas raíces humanas. Elimina la falsedad, te ofrece los momentos más altos y los más bajos, la luz y la oscuridad»."
+ },
  "«Un estadounidense no podía hacer esto. Tenía que ser una persona inglesa».": {
   "ch": 10,
   "page": 399,
@@ -4115,6 +4631,12 @@ window.ANOCHE_REFS = {
   "page": 593,
   "sec": "El nacimiento de la mezcla británica",
   "para": "«Uno no puede mezclar Chick Corea con Jeff Lorber —señala el pionero del northern soul Colin Curtis—. Aquí lo que había era la individualidad de diferentes sonidos y diferentes grabaciones. No había necesidad de mezclarlas. Estábamos acostumbrados al contraste, a los espacios, a las voces…»."
+ },
+ "«Y qué chicas eran.": {
+  "ch": 16,
+  "page": 703,
+  "sec": "El garage británico",
+  "para": "El garage británico creció a pasos agigantados y acogió por el camino a refugiados desafectos de la escena del drum and bass, cuyos cada vez más insufribles niveles de testosterona enrarecían el ambiente, y a las mujeres discotequeras que se habían adueñado prácticamente de esos espacios. Miranda Sawyer escribió sobre el desembarco de mujeres del garage británico en el Observer en 2000, al tiempo que la escena llegaba a su punto culminante con el evento nocturno sumamente exitoso Twice as Nice en el Coliseum, en Vauxhall. «Y qué chicas eran. De todas las formas, edades, colores, todas unidas por su rechazo a la vestimenta innecesaria. Las faldas y los tops más cortos posibles eran el uniforme, junto con los tacones glamurosos. Se retorcían el pelo hasta formar obras de arte. Hablaban entre ellas en los baños: “¡Qué guapas estás, chica!”». Spoony recuerda la presencia femenina como una fuerza reclutadora poderosa: «Al principio, a la gente no necesariamente le gustaba o no entendía la música, pero, Jesús, nunca había visto tantas mujeres en un solo lugar». Pronto hubo una fiebre de domingo por la noche. «La noche de los domingos se convirtió en la noche de los sábados —dice Spoony—. Me tomaba los lunes libres, limpiaba el coche los sábados, me recortaba el pelo lo más tarde posible el sábado para que se viera como nuevo el domingo. Si uno iba luciendo su personaje, había alguna probabilidad de que consiguieras algo». El garage hasta logró tener su propia Ibiza mientras las principales compañías de promociones, Twice as Nice y Garage, abrieron un espacio en Chipre, en el…"
  },
  "«Ya no había barreras que nos detuvieran. El viejo elitismo era historia. Las paredes se derrumbaban».": {
   "ch": 15,
@@ -4199,6 +4721,12 @@ window.ANOCHE_REFS = {
   "page": 363,
   "sec": "Habilidad para pagar las facturas",
   "para": "¿Así que tu madre inventó el scratching?"
+ },
+ "¿De dónde proviene este gen malvado que distingue la música británica?": {
+  "ch": 16,
+  "page": 664,
+  "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
+  "para": "¿De dónde proviene este gen malvado que distingue la música británica?"
  },
  "¿Por qué no, sugieren, llamarla la «Ciudad del Tecno»?": {
   "ch": 13,
