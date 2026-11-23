@@ -36,6 +36,12 @@ window.ANOCHE_REFS = {
   "sec": "El fin del principio",
   "para": "Una vez el DJ sale de la radio y entra en la pista de baile, la profesión cambia radicalmente. Dejó de ser un simple seleccionador de discos y un creador de tendencias; ahora disfrutaba de la reacción del público en su haber. Ahora que la relación entre la música y el público era interactiva, el público pasó a ser parte del evento; en cierto sentido, el público era el evento, y el DJ, el responsable de controlar su placer."
  },
+ "Al escuchar Planet Rock, Kraftwerk interpuso una demanda por reclamación de regalías que se mantuvo sin resolver durante muchos años.": {
+  "ch": 10,
+  "page": 390,
+  "sec": "Planet Rock",
+  "para": "Otro aspecto clave del sampleado también salió a la luz: su capacidad para generar litigios. Cuando Rappers’ Delight había usado Good Times tan abiertamente, Nile Rogers y Bernard Edwards entendieron que podían reclamar la autoría con éxito. Al escuchar Planet Rock, Kraftwerk interpuso una demanda por reclamación de regalías que se mantuvo sin resolver durante muchos años. (Baker, de hecho, había anticipado problemas legales y había grabado una melodía alternativa para la canción. Cuando Tom Silverman, de Tommy Boy, decidió lanzar la grabación intacta, Baker aprovechó el incidente como base para la siguiente grabación de Bambaataa, Play At Your Own Risk [toca bajo tu cuenta y riesgo]."
+ },
  "Alan Freed no fue la primera persona, negra o blanca, en pinchar R&B por la radio, pero sin duda fue la más prominente.": {
   "ch": 2,
   "page": 57,
@@ -72,6 +78,12 @@ window.ANOCHE_REFS = {
   "sec": "Afrika Bambaataa",
   "para": "El empresario de Harlem Paul Winley lazó una serie de recopilaciones de breakbeat llamada «Super Disco Breaks» (es decir, álbumes de canciones que contenían un break excitante). Eran grabaciones notorias por su pobre calidad, masterizadas directamente de las grabaciones de su colección. Otros, como el exchófer Bootleg Lenny Roberts, ofrecía un producto de mejor calidad. En la tienda de discos Music Factory en Time Square, Stanley Platzer (conocido como Fat Stanley, Rey de los Ritmos) guardaba un cuaderno donde registraba para Lenny todas las grabaciones que pedían los clientes. Bajo el sello de Lenny, Street Beat Records, se lanzó la serie de discos «Ultimate Breaks And Beats» que con el tiempo llegó a alcanzar los veinte volúmenes. Muchos otros siguieron esta vía para satisfacer la demanda por temas que por entonces conformaban una gama que iba desde lo inasequible hasta lo imposible de encontrar."
  },
+ "Baker y Bambaataa demostraron que los elementos sampleados no necesariamente tienen que conservarse intactos": {
+  "ch": 10,
+  "page": 389,
+  "sec": "Planet Rock",
+  "para": "Y lo que separó a Planet Rock de sus antecesores del hip-hop era que era más que un popurrí de éxitos del pop. Baker y Bambaataa demostraron que los elementos sampleados no necesariamente tienen que conservarse intactos: podían chocar uno con el otro y tejerse hasta formar un nuevo tapiz intrincado de sonido. Hoy en día, esta idea se aprovecha al máximo, en tanto que los productores crean grabaciones de una multitud de pequeños sampleados, que suelen distorsionarse y disfrazarse lo mejor posible. Este proceso al parecer comenzó con Planet Rock, una grabación en la que la capacidad pionera del DJ para crear música nueva de la vieja se evidenciaba claramente."
+ },
  "Barclay reclama haber abierto la primera discoteca del mundo, Eddie’s, después de la liberación en 1944.": {
   "ch": 3,
   "page": 79,
@@ -95,6 +107,12 @@ window.ANOCHE_REFS = {
   "page": 258,
   "sec": "Disco de alta sociedad en Le Jardin",
   "para": "Bob Casey señala la apertura de Le Jardin como el momento en que el disco dejó de ser un movimiento underground. «Diana Ross estuvo en la inauguración. Ese dato llegó a los periódicos y, de repente, discoteca se tornó aceptable y popular, y salió del mundo de las catacumbas»."
+ },
+ "Básicamente, toda esta mierda viene de nuestro deseo de impresionar a las chicas».": {
+  "ch": 10,
+  "page": 374,
+  "sec": "Duelos",
+  "para": "«Era una cuestión territorial —insiste Charlie Chase—. Era como un gato que marcaba territorio: solo les dejo saber a la gente que esta zona es mía. Básicamente, toda esta mierda viene de nuestro deseo de impresionar a las chicas»."
  },
  "Cada noche contaba una nueva historia, narrada por el DJ.": {
   "ch": 8,
@@ -168,6 +186,12 @@ window.ANOCHE_REFS = {
   "sec": "El mensaje es el amor",
   "para": "«Escogía una canción que no solo era un éxito, sino una canción que era propicia para estas personas en particular; y también emitía un mensaje», cuenta Danny Krivit, otro cliente habitual del Loft y también DJ desde niño. «Aquí se entretejía una historia. Con, digamos, Nicky Siano en el Gallery, sería una historia de voces. Con David era una historia de estados de ánimo. Por lo general, David siempre era todo amor, y siempre intentaba quedarse con eso»."
  },
+ "Con cuatro fonógrafos, podemos componer e interpretar un cuarteto con los sonidos de un motor explosivo, del viento, del latido del corazón y de un deslizamiento de tierra».": {
+  "ch": 10,
+  "page": 411,
+  "sec": "Turntablism: crear con los platos",
+  "para": "«Con un fonógrafo, ahora es posible controlar cualquiera de estos sonidos y darles ritmo dentro o fuera del alcance de la imaginación. Con cuatro fonógrafos, podemos componer e interpretar un cuarteto con los sonidos de un motor explosivo, del viento, del latido del corazón y de un deslizamiento de tierra»."
+ },
  "Con el nombre U-Roy, Ewart Beckford condujo el rol del diyey a nuevos horizontes.": {
   "ch": 5,
   "page": 179,
@@ -185,6 +209,12 @@ window.ANOCHE_REFS = {
   "page": 38,
   "sec": "El DJ versus los editores musicales",
   "para": "A fin de contrarrestar el poder de la ASCAP, en 1923 las cadenas de radio se agruparon y formaron la Asociación Nacional de Radiodifusores (NAB, por sus siglas en inglés). En 1939, con la esperanza de debilitar el monopolio de la ASCAP en la industria de los derechos de autor, la NAB creó su propia firma, la Música de Transmisión Incorporada (BMI, por sus siglas en inglés). Mientras la ASCAP aspiraba a mantener la preeminencia del cantautor, la BMI apostaba por fomentar una industria centrada en los discos y en las transmisiones. La mayoría de los artistas de renombre eran miembros de la ASCAP, así que los reclutas de la BMI eran casi todos músicos y cantautores más jóvenes, incluidos todos los músicos folk y «de raza» a quienes la ASCAP les negaba hacerse miembros. Con los contactos cercanos entre la BMI y la radio y una membresía más étnicamente variopinta, eran buenas noticias para el auge de la música negra."
+ },
+ "Con todo, de alguna forma, los DJ sobrevivieron.": {
+  "ch": 10,
+  "page": 408,
+  "sec": "El fin de la vieja escuela",
+  "para": "Con todo, de alguna forma, los DJ sobrevivieron."
  },
  "Contar con los raperos más impresionantes era una nueva forma para que el DJ se destacara.": {
   "ch": 9,
@@ -222,6 +252,12 @@ window.ANOCHE_REFS = {
   "sec": "Francis Grasso: el primer DJ moderno",
   "para": "DJ Francis pinchaba música; los disc jockeys antes que él solo ponían discos en los platos."
  },
+ "De forma quizá más lamentable, el hip-hop ha olvidado que originalmente se trataba de divertirse.": {
+  "ch": 10,
+  "page": 371,
+  "sec": "PLANET ROCK (EL PLANETA ROCK)",
+  "para": "De forma quizá más lamentable, el hip-hop ha olvidado que originalmente se trataba de divertirse. Después de años con la temática de la «realidad del gueto», en la que los raperos no paran de hablar del crimen y la política, la cultura ha perdido el norte de su propósito original: su carácter de celebración. A uno le podría parecer extraño que un gánster gruñón, pistola en mano, le pida al público de un concierto que levante las manos («y las mueva como si no les importara» [como dice el estribillo en inglés]), pero lo único que hace es presentar una forma antigua de los días cuando el hip-hop desplegaba una sonrisa."
+ },
  "De repente, todo el mundo recordó que era música de maricones, que «era una mierda».": {
   "ch": 7,
   "page": 255,
@@ -239,6 +275,12 @@ window.ANOCHE_REFS = {
   "page": 174,
   "sec": "Los primeros sonidos",
   "para": "Los inmigrantes en Gran Bretaña se mantenían en contacto con su tierra natal, y pronto aparecieron los primeros sistemas de sonido jamaicano por las islas. Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom."
+ },
+ "Durante una buena temporada mis vecinos pensaron que era un narcotraficante».": {
+  "ch": 10,
+  "page": 379,
+  "sec": "Hip-hop grabado",
+  "para": "«Esos eran nuestros mejores vehículos de promoción —apunta con sorna Charlie Chase—. Estaba el servicio de taxi O. J. y luego estaba el servicio de taxi Community Cab, que fueron los primeros taxis en emplear coches de lujo». (Los coches de O. J. quedaron inmortalizados en varias canciones, incluida Rappers’ Delight). «Si ellos sabían que tú eras DJ, venían y te compraban cintas. Y luego las tocaban en sus coches. La gente les preguntaba: “Eh, ¿quién es ese de la cinta?”, y el taxista les decía: “Es Charlie Chase”, o les daba tu número». Charlie vendía sus cintas desde su apartamento en un bajo. «Siempre me estaban incordiando por la ventana. Se acodaban ahí mientras me hacía con el material y les vendía cintas. Durante una buena temporada mis vecinos pensaron que era un narcotraficante»."
  },
  "El 26 de abril de 1977, aquí fue donde llegó el disco.": {
   "ch": 7,
@@ -306,6 +348,12 @@ window.ANOCHE_REFS = {
   "sec": "NIGHT TRAIN (TREN NOCTURNO)",
   "para": "El concepto revolucionario de bailar al son de grabaciones que toca un disc jockey no nació en Nueva York, ni siquiera en Londres o París, sino en la ciudad de Leeds, al norte de Inglaterra. Allí, en un pequeño salón del local de una mutua, encontramos el primer ejemplo de un DJ de club. En 1943, un empresario joven y excéntrico decidió que el público podría pagar dinero para escuchar música grabada. ¿Por qué no? ¿Acaso no implicaría que el West Yorkshire en tiempos de guerra pudiera bailar al swing de las estrellas estadounidenses como Glenn Miller y Harry James?"
  },
+ "El digging se remonta a la noble función del DJ como promotor de discos y divulgador musical": {
+  "ch": 10,
+  "page": 422,
+  "sec": "Excavadores de discos",
+  "para": "El digging se remonta a la noble función del DJ como promotor de discos y divulgador musical, mediante el rescate de canciones olvidadas por artistas nunca escuchados o productores olvidados hace mucho, al ponerlos en una mezcla o en una compilación para que esta música muerta reviva. Las «excavaciones» pueden incluso servir para resucitar la carrera de un artista, como le ocurrió a David Axelrod, o puede arrojar luz sobre elepés olvidados, como hizo el sello Finders Keepers con «L’Enfant Assassin Des Mouches», de Claude Vennier, o como hizo Motel con la reedición de «You Think You Really Know Me» de Gary Wilson, producido por su cuenta (y tan ricamente)."
+ },
  "El disc jockey aquí era un sujeto jamaicano de nombre Count Suckle, quien introdujo en la metrópoli el llamado bluebeat": {
   "ch": 3,
   "page": 85,
@@ -353,6 +401,18 @@ window.ANOCHE_REFS = {
   "page": 296,
   "sec": "SO MANY MEN, SO LITTLE TIME (TANTOS HOMBRES, TAN POCO TIEMPO)",
   "para": "Y su influencia fue gigantesca. El hi-NRG se convirtió en la lengua franca de las pistas de baile gais y blancas de todo el planeta, y luego absorbido por el mainstream sin titubeos. Esta es la música de la que se apropiaron los productores británicos Stock, Aitken y Waterman, quienes vendieron su sonido descaradamente gay como pop adolescente con actos pueriles como Bananarama, Kylie Minogue, Dead Or Alive y Mel & Kim, entre muchos otros. Aunque el R&B le ha robado el poder en muchos países, todavía es el estilo dominante de baile pop en el resto."
+ },
+ "El hip-hop se opone a esa argumentación al defender su rol como conservacionista": {
+  "ch": 10,
+  "page": 392,
+  "sec": "El sampleado",
+  "para": "Se ha debatido por mucho tiempo la validez del sampleado, con la abierta oposición de los músicos, quienes lo desprecian por no ser creativo. El hip-hop se opone a esa argumentación al defender su rol como conservacionista, aludiendo al interés que genera en artistas más viejos y olvidados. Como los raperos Stetsasonic rimaron en Taking All That Jazz (1988): «Lo cierto es / James Brown era un fósil / Hasta que Eric y Rak sacaron I Got Soul / El rap recupera el viejo R&B / Y de no haberlo recuperado / La gente lo hubiera olvidado»."
+ },
+ "El hip-hop suele presentarse como una fuerza mítica antidisco que surgió de la nada, cuando lo cierto es que está indisolublemente vinculado al disco, tiene una deuda sustancial con el reggae jamaicano y, quizá de forma más chocante, le debe parte de su éxito práctico al punk rock.": {
+  "ch": 10,
+  "page": 370,
+  "sec": "PLANET ROCK (EL PLANETA ROCK)",
+  "para": "En la práctica, el hip-hop apenas dedica tiempo a su primera generación de artistas. Su definición de «la vieja escuela» apenas se remonta más allá de 1982, y aunque figuras como Herc y Flash se veneran como ancestros, son irrelevantes al lado del nuevo descubrimiento de talento joven de las esquinas callejeras. Por razones similares, se han llevado a cabo revisiones fundamentales en el relato de los orígenes musicales del género. El hip-hop suele presentarse como una fuerza mítica antidisco que surgió de la nada, cuando lo cierto es que está indisolublemente vinculado al disco, tiene una deuda sustancial con el reggae jamaicano y, quizá de forma más chocante, le debe parte de su éxito práctico al punk rock."
  },
  "El hip-hop tiene con el reggae una deuda enorme.": {
   "ch": 5,
@@ -498,6 +558,12 @@ window.ANOCHE_REFS = {
   "sec": "El Casino de Wigan frente al Mecca de Blackpool",
   "para": "En 1978, Billboard declaró que el Casino de Wigan era la mejor discoteca del mundo, apenas un año después de otorgarse esta distinción al Paradise Garage de Nueva York. Para muchos, el Casino de Wigan es sinónimo del northern soul. Abierto al público entre 1973 y 1981, en su apogeo era la expresión más importante y más representativa en el ámbito nacional de una escena regional sólida. El número de sus miembros era enorme (100 000 en su mejor momento) y atraía una ingente cantidad de clientes semana tras semana. Sin duda era muy popular. Sin embargo, los reclamos de que en realidad era el mejor de los clubs de northern soul hay que tomarlos con pinzas. No era el más influyente, y lo cierto es que no era el más atrevido y, en sus últimos años, mientras proveía una procesión de grabaciones que eran incluso harto ridículas, cuyo único mérito era el enérgico ritmo norteño, se quedaba algo corto en sus reclamos por la corona del norte. El escritor John McCready lo ha comparado con el actual Ministry of Sound e insta a los historiadores a que no exageren su importancia solo porque atrapaba la mayor cantidad de gente. Aun así, el Casino de Wigan guarda un lugar especial en la memoria de miles, e incluso hoy para muchos representa el verdadero club de northern soul: era el Corazón del Soul."
  },
+ "En 1982, Malcolm McLaren declaró: «Me parece que el punk está más vivo en Harlem, en algunos aspectos, de lo que lo está en Bracknell».": {
+  "ch": 10,
+  "page": 395,
+  "sec": "Los punks del Bronx",
+  "para": "En 1982, Malcolm McLaren declaró: «Me parece que el punk está más vivo en Harlem, en algunos aspectos, de lo que lo está en Bracknell»."
+ },
  "En 2010, el complejo de apartamentos en el número 1520 de Sedgwick Avenue fue salvado al borde de la destrucción": {
   "ch": 9,
   "page": 344,
@@ -509,6 +575,18 @@ window.ANOCHE_REFS = {
   "page": 53,
   "sec": "Hablar el jive",
   "para": "Cuando Yuri Gagarin completó el primer vuelo espacial pilotado por un ser humano en 1961, Jocko le envió un telegrama. Decía: «Felicidades. Me alegra que hayas podido llegar. Ahora no me siento tan solo aquí». Jocko y otros locos similares demostraron que el DJ de radio podría ser un artista creativo por méritos propios, no solo un comediante o acompañante, sino un vocalista, un poeta. En Jamaica, los DJ de sistemas de sonido emularon esta forma de hablar, llamada jive, casi de inmediato y se convirtieron en disc jockeys superestrellas como toasters o MC. En Nueva York, veinte años más tarde, surgió el rapero, descendiente de ambas tradiciones."
+ },
+ "En efecto, en contubernio con el pretencioso mundo artístico de Manhattan, fue el punk lo que atrajo la atención mundial al hip-hop.": {
+  "ch": 10,
+  "page": 394,
+  "sec": "El hip-hop llega al centro",
+  "para": "Un estilo de música que raramente se vincula con el hip-hop fuera del análisis cultural es el punk. Y, sin embargo, el punk y el hip-hop comparten mucho más que la máxima del «háztelo-tú-mismo» y una actitud rebelde. En efecto, en contubernio con el pretencioso mundo artístico de Manhattan, fue el punk lo que atrajo la atención mundial al hip-hop. El exestudiante de arte Johnny Dynell, que entonces comenzaba su carrera como DJ en la discoteca artística punk, el Mudd Club de Manhattan, recuerda la primera vez que vio pinchar a Flash. Cambió su visión del arte del DJ para siempre."
+ },
+ "En efecto, la historia del sampleado es el relato de cómo la tecnología ha ido alcanzando al DJ": {
+  "ch": 10,
+  "page": 391,
+  "sec": "El sampleado",
+  "para": "En efecto, la historia del sampleado es el relato de cómo la tecnología ha ido alcanzando al DJ, a fin y efecto de crear un equipo que haga el trabajo más rápido, más preciso y más fácil que el que el DJ llevaba largo tiempo haciendo. Después de la invención del instrumento musical computarizado Fairlight, que permitía reproducir una ínfima cantidad de sonido sampleado, llegó el EMU Emulator, usado por primera vez para una grabación de hip-hop en 1982 por Marley Marl, quien sampleó el ritmo de una caja de la batería accidentalmente mientras trabajaba en una remezcla. Como le dijo al escritor Harry Allen, se percató del potencial del aparato inmediatamente: «Podía tomar cualquier sonido de batería de mi grabación vieja, ponerla ahí y obtener ese sonido de batería experimentado». El baterista experimentado Max Roach se dio cuenta del potencial de samplear, al declarar: «El hip-hop vive en el mundo del sonido, no en el de la música, y por eso es tan revolucionario». Por el contrario, el inventor del Emulator, Dave Rossum, apenas tenía idea de lo importante que sería esta máquina. Cuando le preguntaron en los ochenta si el sampleado sería el «futuro de la industria del sonido», simplemente se rio."
  },
  "En el proceso crearon un tipo de música en directo completamente nuevo; sin una guitarra a la vista.": {
   "ch": 9,
@@ -594,6 +672,12 @@ window.ANOCHE_REFS = {
   "sec": "Hablar el jive",
   "para": "La idea del «negro blanco», sin embargo, aún rezumaba racismo. George recuerda la increíble historia de Vernon Winslow, un exprofesor universitario de diseño con un conocimiento exhaustivo del jazz, a quien le denegaron un trabajo como locutor en la WJMR de Nueva Orleans solo porque era negro. Después de lo que parecía ser una entrevista exitosa, a Winslow, cuyo tono de piel era bastante claro, se le preguntó: «¿De paso, eres un puto negro?». Después de que le negaran una posición en antena solo por su raza, contrataron a Winslow para un trabajo extraordinario. Entrenaría a un DJ blanco para que sonara como un negro. Winslow tenía que enseñar a un colega blanco —ahora bautizado como Poppa Stoppa— la jerga local más reciente, y le enseñó frases como: «Mira el diente de oro, tesoro» y «Aquí te pillo, aquí te mato». El show fue en un éxito rotundo. Una noche, frustrado por su posición entre bambalinas, Winslow se las arregló para tomar el micrófono a escondidas en una ocasión. Lo despidieron inmediatamente. La WJMR se quedó con el nombre Poppa Stoppa y continuó usando a un hombre blanco, Clarence Hamman, como la voz de Poppa. (Sin embargo, Winslow se pudo vengar al convertirse en Doctor Daddy-O para la WEZZ de Nueva Orleans, donde se convirtió en uno de los mejores diez DJ de la nación)."
  },
+ "Era el fin de la vieja escuela.": {
+  "ch": 10,
+  "page": 406,
+  "sec": "El fin de la vieja escuela",
+  "para": "Pero mientras la música se asentaba, el trasfondo sociocultural cambiaba. Muchas de las nuevas estrellas provenían de la clase media suburbana, así que el foco de atención se desplazó del centro de la ciudad. Los clubs como el Roxy cerraron o cambiaron de promotor, y pronto eran puestos fronterizos violentos del gueto en vez de un punto de intercambio cultural. La economía de la administración Reagan comenzó a golpear duro, y el crack convirtió los vecindarios del Bronx en zonas de guerra. Las cosas no eran tan divertidas como antes. Era el fin de la vieja escuela."
+ },
  "Era la belleza que seguía el ritmo.": {
   "ch": 8,
   "page": 322,
@@ -606,11 +690,23 @@ window.ANOCHE_REFS = {
   "sec": "Los primeros sonidos",
   "para": "Otros usaban la simple intimidación para tomar ventaja. La pandilla de Duke Reid era famosa por usar métodos drásticos; una historia cuenta cómo reventaron a tiros el sistema de sonido de un rival solo porque tenía una mejor selección musical. Era muy común sabotear los bailes rivales comenzando peleas o lanzando piedras al público."
  },
+ "Era puro Marcel Duchamp».": {
+  "ch": 10,
+  "page": 395,
+  "sec": "El hip-hop llega al centro",
+  "para": "Sus estudios en la escuela de arte le permitían comprender las implicaciones conceptuales de lo que había visto. «Ponían las mismas grabaciones que ponía yo, como James Brown, pero lo que ellos hacían era valerse de dos copias e ir hacia delante y hacia atrás y confeccionando algo nuevo con ellas. A mí, que vengo del mundo del arte, me pareció genial. Pensé que tenía que contarle a Andy [Warhol] cómo era esto. Era increíble. Era puro Marcel Duchamp». Dynell estaba tan emocionado que intentó juntar a Flash con Alan Vega de la banda punk Suicide, pensando que la música de Vega, como la de Flash, fomentaba la repetición. Este ambicioso intento de polinización cruzada causó poco entusiasmo entre los interpelados. La colisión entre el punk y el hip-hop tendría que esperar un par de años más."
+ },
  "Era un claro ejemplo del poder que podía amasar un DJ, y también de los límites a los que el sistema llegaría para subyugar a esos individuos.": {
   "ch": 2,
   "page": 61,
   "sec": "Payola",
   "para": "En 1973, su archirrival Dick Clark finalmente admitió que Freed «fue el hombre que hizo posible el rock’n’roll» y que «le debemos mucho». Antes de Alan Freed, el R&B era desconocido para la mayoría de las personas de raza blanca. El rock’n’roll no solo revolucionó la música —en tanto que los artistas afrodescendientes ya no tenían que dulcificar su estilo para lograr el éxito generalizado—, sino que también tuvo un impacto social profundo al confrontar a muchos con su primera experiencia de la cultura afroamericana. Freed pagó muy caro el precio de semejante reconocimiento. Era un claro ejemplo del poder que podía amasar un DJ, y también de los límites a los que el sistema llegaría para subyugar a esos individuos."
+ },
+ "Era uno de esos clubs raros donde se fraguaba una verdadera polinización cruzada: lo contrario a la decadencia selectiva de Studio 54.": {
+  "ch": 10,
+  "page": 399,
+  "sec": "Los punks del Bronx",
+  "para": "Cada viernes desde el 18 de junio de 1982 hasta finales de 1983, las noches de Wheels Of Steel de Kool Lady Blue juntaron a los b-boy del Bronx con los punks de pelos punzantes, a músicos new wave como Blondie y Talking Heads, y la alta alcurnia del mundo artístico del centro, incluido Andy Warhol. Era uno de esos clubs raros donde se fraguaba una verdadera polinización cruzada: lo contrario a la decadencia selectiva de Studio 54."
  },
  "Eran dioses griegos con inveteradas adicciones.": {
   "ch": 8,
@@ -623,6 +719,12 @@ window.ANOCHE_REFS = {
   "page": 253,
   "sec": "SHE WORKS HARD FOR THE MONEY (ELLA TRABAJA DURO PARA GANARSE EL DINERO)",
   "para": "El disco que impulsó los musicales del West End, el disco que obligaba a los estudiantes borrachos a lucir pelucas afro y zapatos de plataforma, el disco que llevaba a todo el mundo a la pista de baile después de un millón de bodas tiene muy poco que ver con las raíces del disco y, sin duda, con el corpus musical y espiritual que da forma a esta corriente. Es el legado de un período corto (apenas entre 1976 y 1979) cuando parte de la música trascendió hacia una comercialidad sumamente rentable."
+ },
+ "Es la fuente del electro, de la raíz de la música de bajo de Miami, es una fuente reconocida para el origen del house y el tecno, y ejerció una monumental influencia en la manera en que se crearían las grabaciones de hip-hop.": {
+  "ch": 10,
+  "page": 386,
+  "sec": "Planet Rock",
+  "para": "Del trío fundador del hip-hop, solo Kool Herc no tuvo nunca la oportunidad de transferir sus destrezas al vinilo. Afrika Bambaataa, después de un par de falsas salidas con Winley Records y un éxito menor con Jazzy Sensation (basada en Funky Sensation de Gwen McCrae), estaba a punto de romper con una de las grabaciones más influyentes de la historia. Su famoso eclecticismo cristalizaría en Planet Rock (1982), que encendió la mecha de no uno sino varios géneros de música bailable. Es la fuente del electro, de la raíz de la música de bajo de Miami, es una fuente reconocida para el origen del house y el tecno, y ejerció una monumental influencia en la manera en que se crearían las grabaciones de hip-hop."
  },
  "Es una conspiración para “mestizar” a Estados Unidos": {
   "ch": 2,
@@ -641,6 +743,12 @@ window.ANOCHE_REFS = {
   "page": 314,
   "sec": "Stock, Aitken y Waterman",
   "para": "En 1984, High Energy de Evelyn Thomas, producido por Ian Levine, llegó a las listas comerciales y alcanzó la quinta posición (Reino Unido). Ese mismo año, el antiguo DJ del club Midlands, DJ Pete Waterman, junto con los músicos de estudio Mike Stock y Matt Aitken, formaron una sociedad de compositores que llevaría al sonido del hi-NRG a una comercialidad estratosférica. Waterman pegaría con más de cien canciones en el Top 40 del Reino Unido, entre ellas quince números uno británicos, y vendió treinta y cinco millones de discos a nivel mundial."
+ },
+ "Eso era el hip-hop en ese tiempo».": {
+  "ch": 10,
+  "page": 373,
+  "sec": "Metiéndole en el parque",
+  "para": "»Por eso es que uno quería ir. Uno quería ser parte de ese mundo, escuchar ese sonido, solo estar en una nube de humo de PCP, toda esa energía, solo el mal olor de la respiración, algunos macarras que podían robarte. Digo que toda esa mierda era parte de la fiesta. Era todo un universo. Eso era el hip-hop en ese tiempo»."
  },
  "Esta cultura alternativa se convertiría en pocos años en el northern soul.": {
   "ch": 3,
@@ -666,11 +774,23 @@ window.ANOCHE_REFS = {
   "sec": "Batiendo marcas",
   "para": "«Los mejores DJ de discoteca eran estrellas desconocidas que descubrían álbumes ignorados previamente, importaciones foráneas, cortes de discos y sencillos raros con el poder de lograr que el público grite y tocarlos de forma solapada, sin parar, para que bailaran hasta el desmayo —escribió Vince Aletti—. Como los DJ están más cercanos a los cambios de último minuto en los gustos musicales de las personas, son los primeros en reflejar estos cambios en la música que tocan meses antes de las listas comerciales de las revistas y casi todas las estaciones de radio». Este artículo, publicado en Rolling Stone el 13 de septiembre de 1973, fue la primera historia de lo que más adelante se conoció como el disco."
  },
+ "Este fue el primer tema de éxito creado exclusivamente con grabaciones y a los platos, sin músicos de sesión.": {
+  "ch": 10,
+  "page": 384,
+  "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
+  "para": "Desde la perspectiva de un DJ, sin embargo, Adventures Of Grandmaster Flash On The Wheels Of Steel, de 1981, sigue siendo una grabación mucho más importante. Siete minutos extáticos de mezcla rápida que recuperan las canciones de más éxito de ese período. Este fue el primer tema de éxito creado exclusivamente con grabaciones y a los platos, sin músicos de sesión."
+ },
  "Este modo de samplear y relanzar la secuencia, sin perder el ritmo, es la base fundamental del hip-hop": {
   "ch": 9,
   "page": 350,
   "sec": "Grandmaster Flash",
   "para": "Al enseñarse a sí mismo a revolotear entre sus dos platos a velocidad temeraria, encontrar la entrada de la parte escogida de un disco en segundos, y tocar y repetir y recombinar unos compases determinados, Flash adquirió la capacidad de reestructurar una canción completamente a su antojo. Este modo de samplear y relanzar la secuencia, sin perder el ritmo, es la base fundamental del hip-hop (así como la de otros géneros con breakbeat, como el drum and bass, el breaks, el big beat, el trip hop). Prefigura las técnicas de cortar y pegar para crear música que se convirtieron en la convención tan pronto se desarrolló la tecnología del sampleado digital."
+ },
+ "Este, más que cualquier otro tema, fue lo que popularizó el scratching en todo el mundo.": {
+  "ch": 10,
+  "page": 413,
+  "sec": "D. ST y Rockit",
+  "para": "Este, más que cualquier otro tema, fue lo que popularizó el scratching en todo el mundo. Con la ayuda de un excelente videoclip de Godley & Cream con piernas robóticas muy sexy, ayudó a romper la política de facto de MTV que prohibía «la música negra» y fue un éxito muy visto, aunque apenas alcanzara el número 71 (en el Reino Unido llegó a la octava posición)."
  },
  "Flowers y Pete Jones merecen el crédito por desarrollar las mismas técnicas al mismo tiempo y, sobre todo, por impartirlas a una parte más amplia de Nueva York, incluido el Bronx.": {
   "ch": 9,
@@ -738,6 +858,18 @@ window.ANOCHE_REFS = {
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Hasta que la industria musical adoptó tardíamente el formato MP3, el disco de 12 pulgadas fue el único formato de música grabada que se impuso por la demanda del consumidor y no gracias a los ardides de los responsables de marketing de las discográficas."
  },
+ "Hay tantas cosas que se pueden hacer con los platos; sin duda es un instrumento».": {
+  "ch": 10,
+  "page": 409,
+  "sec": "Turntablism: crear con los platos",
+  "para": "Rob Swift de los X-Men (hoy, debido a los superhéroes, los X-ecutioners), otro «giraplatos» prominente, conviene: «Con los platos uno puede crear sus propios ritmos y sonidos. En otras palabras, los platos pueden adaptar o imitar el violín, la batería, la guitarra y el bajo. Los platos pueden asumir el sonido de casi cualquier instrumento. De los platos se pueden sacar tonos altos, tonos bajos, notas. Si uno manipula la velocidad de cierta manera, puede crear sonidos lentos o sonidos rápidos. Hay tantas cosas que se pueden hacer con los platos; sin duda es un instrumento»."
+ },
+ "Hay un tema de acompañamiento que llevo buscando que es mi objetivo principal, de mi vida, y espero no encontrarlo nunca.": {
+  "ch": 10,
+  "page": 421,
+  "sec": "Excavadores de discos",
+  "para": "Aun sin estas motivaciones, hay algo intensamente adictivo en la búsqueda de vinilos raros. «Uno busca constantemente la mejor grabación de la historia, la mejor que uno haya escuchado jamás —dice el coleccionista de northern soul Guy Hennigan—. Pero no quieres encontrarlo, porque una vez la tengas, ya no es la mejor grabación del mundo. —Ríe—. Hay un tema de acompañamiento que llevo buscando que es mi objetivo principal, de mi vida, y espero no encontrarlo nunca. Pero espero que nadie tampoco lo haga. Si alguien lo consigue, me pondré rabioso»."
+ },
  "Herc tenía la ventaja inicial y el volumen, Flash tenía sus técnicas, pero Afrika Bambaataa tenía los discos.": {
   "ch": 9,
   "page": 356,
@@ -749,6 +881,12 @@ window.ANOCHE_REFS = {
   "page": 6,
   "sec": "YOU SHOULD BE DANCING (DEBERÍAS ESTAR BAILANDO)",
   "para": "Hoy (sin ánimo de ofender a sacerdotes y ministros, que dan lo mejor de sí) es el disc jockey o DJ quien cumple esta función. Es el DJ quien preside nuestros ritos extáticos. Como el médico brujo, sabemos que, en el fondo, es un sujeto normal —vamos, míralo—, pero destierra la cotidianidad de nuestras vidas conjurando el latido de los tambores sagrados y las santificadas líneas de bajo; obrándose el milagro para recibirlo como a un dios, o por lo menos un intermediario con lo sagrado, el demiurgo que puede invocar al Creador y mediar para que nos devuelva las llamadas."
+ },
+ "Iba hasta allá arriba y era la única chica blanca en el club, y eso era salvaje, y pensé: “Dios mío, tengo que traer todo esto al centro”».": {
+  "ch": 10,
+  "page": 397,
+  "sec": "Los punks del Bronx",
+  "para": "«Me dije: “¿Qué hostias es esto?”. Estaba completamente sobrecogida —dice Blue—. Solo sabía que, sin importar lo que fuera, quería involucrarme en el tema». Se presentó ante los chicos del Bronx después del espectáculo y, en las semanas siguientes, esta chica punky británica comenzó a pulular por el norte de la ciudad yendo a un club llamado Disco Fever. «Era el club de hip-hop. Nadie abajo en el centro tenía idea de qué rayos pasaba allá arriba, y eso era brutal. Flash era el DJ, Melle Mele era el MC, y había todos estos otros MC allí. Todos los de la Sugar Hill Gang estaban allí. Iba hasta allá arriba y era la única chica blanca en el club, y eso era salvaje, y pensé: “Dios mío, tengo que traer todo esto al centro”»."
  },
  "Inspirado por su primer peregrinaje al Twisted Wheel, acuñó el término northern soul en una columna para Blue & Soul de 1970.": {
   "ch": 4,
@@ -809,6 +947,12 @@ window.ANOCHE_REFS = {
   "page": 62,
   "sec": "Los 40 principales y la radio libre",
   "para": "La radio comercial en Estados Unidos siempre daba más prioridad a la publicidad que al entretenimiento. Los índices de audiencia lo eran todo, y todo lo que aumentara las estadísticas de audiencia era bienvenido con entusiasmo. Como resultado, desde los sesenta, estas nociones «científicas» de los 40 principales se habían exagerado hasta el extremo. Las listas discográficas se redujeron a apenas veinticinco éxitos, y los más populares de estos «rotaban rápidamente» y se reproducían con tanta frecuencia como uno cada hora. Las estaciones de radio estaban «formateadas», por lo cual se limitaban a un género muy específico (por ejemplo, monográficos sobre álbumes de rock, 40 principales, música contemporánea para adultos, pop urbano), y solo después de una investigación exhaustiva se añadían discos nuevos a las listas de reproducción. La función de seleccionar grabaciones ahora quedaba usurpada por un nuevo funcionario: el director de programación, quien solía ser poco más que un investigador del mercado al servicio del departamento de ventas publicitarias."
+ },
+ "La fórmula «hip-hop = disco + gueto» no está muy lejos de la realidad.": {
+  "ch": 10,
+  "page": 405,
+  "sec": "El hip-hop y el disco",
+  "para": "Por lo tanto, lejos de rechazar el disco como algunos han sugerido, los DJ del Bronx lo reformularon. Hay que entender el hip-hop como una ramificación de la primera ola del disco que creció en paralelo a este: una suerte de versión de la revolución del baile provocada por el disco adaptada a los gustos del Bronx. La fórmula «hip-hop = disco + gueto» no está muy lejos de la realidad."
  },
  "La historia del dub gira en torno a King Tubby.": {
   "ch": 5,
@@ -900,6 +1044,12 @@ window.ANOCHE_REFS = {
   "sec": "Nueva York",
   "para": "Coquelin pidió al director de orquesta de la alta sociedad Slim Hyatt que le consiguiera un DJ, y este lo hizo con diligencia. Así, el primer DJ de discoteca de Nueva York fue el mayordomo de Hyatt, un sujeto afrodescendiente de cara larga llamado Peter Duchin. Coquelin lo formó en las artes francesas de girar platos. Le Club abrió en la Nochevieja de 1960. Los sesenta habían comenzado."
  },
+ "Lejos de ser veteranos de la escena, eran un grupo fabricado por la astuta Sylvia Robinson.": {
+  "ch": 10,
+  "page": 382,
+  "sec": "Rappers’ Delight",
+  "para": "Lejos de ser veteranos de la escena, eran un grupo fabricado por la astuta Sylvia Robinson. Ella afirmaba haberlos fichado después de verlos actuar en la fiesta de cumpleaños de su sobrina en el Harlem World. Otros recuerdan a los miembros de la banda Wonder Mile como amigo de su hijo y a Big Bank Hank como portero del Sparkle, uno de los clubs de Kool Herc; el resto del tiempo trabajaba en una pizzería de Englewood, Nueva Jersey, donde residía Robinson."
+ },
  "Levine estaba allí, y Levine era el barómetro del gusto.": {
   "ch": 4,
   "page": 142,
@@ -917,6 +1067,12 @@ window.ANOCHE_REFS = {
   "page": 117,
   "sec": "El fin del principio",
   "para": "Lo cierto es que era tan solo el principio."
+ },
+ "Lo llamamos “scratching”».": {
+  "ch": 10,
+  "page": 415,
+  "sec": "«Buffalo Gals»",
+  "para": "«La actuación del Supreme Team puede requerir alguna explicación, pero cabe señalar aquí que son DJ de la ciudad de Nueva York que han desarrollado una técnica usando el tocadiscos como instrumento, con lo cual han sustituido las cuerdas de la guitarra por la aguja del gramófono, al moverlo manualmente hacia delante y hacia atrás en la superficie del disco. Lo llamamos “scratching”»."
  },
  "Lo que el northern soul trajo al DJ fue la obsesión.": {
   "ch": 4,
@@ -954,11 +1110,29 @@ window.ANOCHE_REFS = {
   "sec": "San Francisco y La Prueba del Ácido",
   "para": "Los Dead lograron con el rock’n’roll lo que el DJ de discoteca lograría más tarde con la música dance: la retorcían al filo de lo imposible. Como relata Tom Wolfe en The Electric Kool-Aid Acid Test: «No se trataba de novatos psicodélicos que pintaban dibujos bonitos, sino que eran unos verdaderos exploradores». Sus «canciones» se convirtieron en elaboradas sesiones de experimentación que se desarrollaban allí, al momento, a la medida de las necesidades de los bailarines, cuyos cuerpos (y, a menudo, cuya ropa) dejaba su morada y se abandonaban a la deriva a merced de la memoria extática. «En el Avalon o en el Fillmore —escribió Joel Selvin en Summer of Love—, los Grateful Dead tocaban siempre y cuando se sintieran bien, siempre y cuando pusieran a la gente a bailar, y cuando la mayoría del público entraba en comunión con ellos, eso podía durar mucho tiempo»."
  },
+ "Los atuendos de mafiosos de Cold Crush debutaron en uno de los duelos más famosos de la historia": {
+  "ch": 10,
+  "page": 377,
+  "sec": "Duelos",
+  "para": "Los atuendos de mafiosos de Cold Crush debutaron en uno de los duelos más famosos de la historia: los Cold Crush Brothers vs. Theodore & the Fantastic Romantic Five, en invierno de 1981, en Harlem World. Era una duelo especialmente reñido, por el hecho de que dos de los MC de los Fantastic Five habían sido discípulos del MC de Cold Crush, Grandmaster Caz."
+ },
  "Los dos militantes del Stafford eran Guy Hennigan y Keb Darge, quienes trajeron rigor estético a sus sets": {
   "ch": 4,
   "page": 154,
   "sec": "Stafford",
   "para": "Los dos militantes del Stafford eran Guy Hennigan y Keb Darge, quienes trajeron rigor estético a sus sets y preparaban una serie apabullante de discos nuevos de 45 rpm. Contaban con el apoyo considerable de las unidades de relanzamiento Charly y Kent (donde trabajaba el fanático del northern soul Ady Croasdell), que les daban acceso a material sin lanzar de los sellos Scepter, Wand, Brinswick y Sound Stage 7, con canciones como You Are The Dream de Roscoe Shelton y I’m A Lover de Chuck Carter."
+ },
+ "Los duelos son una de las nociones más románticas del hip-hop.": {
+  "ch": 10,
+  "page": 374,
+  "sec": "Duelos",
+  "para": "Los duelos son una de las nociones más románticas del hip-hop. Sí ocurrían con frecuencia, pero no tenían costumbres tribales elaboradas, solo acuerdos entre quién luchaba, cuándo y por cuánto tiempo. Los duelos nunca tuvieron el propósito de resolver otras disputas más allá de la rivalidad entre los artistas; en general, eran solo una forma de dar más emoción a todos los involucrados en el evento. El perdedor no cedía su equipo automáticamente (aunque tonto era el DJ que montaba en un parque del Bronx sin un grupo de gorilas que le protegieran el sistema): el ganador simplemente ganaba más respeto, y más público para su próximo espectáculo."
+ },
+ "Los elementos esenciales del arte de un DJ de hip-hop se destilaron hasta que se convirtieron en una forma de arte independiente, separada del todo de su función original en la pista de baile.": {
+  "ch": 10,
+  "page": 408,
+  "sec": "Turntablism: crear con los platos",
+  "para": "Las destrezas de los DJ de hip-hop eran tan vistosas que podían explotarse como un fin en sí mismas, y mientras los raperos y las DAT eclipsaban la atención hacia el DJ, esto fue exactamente lo que ocurrió. Los elementos esenciales del arte de un DJ de hip-hop se destilaron hasta que se convirtieron en una forma de arte independiente, separada del todo de su función original en la pista de baile."
  },
  "Los fanáticos del Casino llevaban chapas con el lema: «LEVINE MUST GO»": {
   "ch": 4,
@@ -990,6 +1164,18 @@ window.ANOCHE_REFS = {
   "sec": "Los mods y el Swingin’ London",
   "para": "«Todos solían venir a escuchar a Guy —rememora Ronan O’Rahilly—, [ponía a] los Stones, los Beatles, Eric Clapton, todas las estrellas principales. La gente llegaba de todas partes del país los lunes por la noche, también de Francia y Holanda; así de bueno era». Los sets de Stevens en el Scene se convirtieron en materia prima para tanto The Who como los Small Faces, quienes basaron su música en los discos que pinchaba. El mánager de The Who trajo a la joven banda al lugar para impregnarlos de la energía y la autenticidad de la noche según Stevens."
  },
+ "Los teóricos escucharon formarse la grieta en los conceptos como autoría, derechos de autor, originalidad, virtuosismo musical": {
+  "ch": 10,
+  "page": 385,
+  "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
+  "para": "Para quienes lo escucharon en aquella época fue un momento revolucionario en la historia de la música: una grabación compuesta de nada más que otras grabaciones, una grabación hecha por un DJ, un collage posmoderno de textos existentes, la prueba fehaciente llena de scratching de que los platos podían ser instrumentos reales. Los teóricos escucharon formarse la grieta en los conceptos como autoría, derechos de autor, originalidad, virtuosismo musical: Adventures Of Grandmaster Flash On The Wheels Of Steel fue la primera vez que el hip-hop era capturado en una grabación en lugar de traducido; las posibilidades para la creación musical se habían multipicado exponencialmente."
+ },
+ "MM: «Claro, ¿y quién lo compraría?": {
+  "ch": 10,
+  "page": 379,
+  "sec": "Hip-hop grabado",
+  "para": "MM: «Claro, ¿y quién lo compraría?"
+ },
  "Machuki también comenzó la práctica de añadir pequeños clics y otros efectos": {
   "ch": 5,
   "page": 178,
@@ -1014,6 +1200,24 @@ window.ANOCHE_REFS = {
   "sec": "El salón de baile imaginario",
   "para": "Martin Block fue la primera estrella entre los disc jockeys; uno entre un puñado de personajes exitosos que sentaron las bases para el rápido auge del DJ en la posguerra. Comenzó como vendedor, anunciando varios tipos de productos y pinchando discos en el ínterin desde un camión con un altavoz que recorría arriba y abajo todo Broadway, hasta que la policía y los dueños de las tiendas lo silenciaron."
  },
+ "Me dijo: “Estás tocando tresillos. Tocas muchos tresillos”.": {
+  "ch": 10,
+  "page": 414,
+  "sec": "D. ST y Rockit",
+  "para": "Sin embargo, D. ST nunca fue aceptado del todo como un artista hasta que el veterano productor Quincy Jones lo fue a visitar. «Se sentó en una silla, la giró y se sentó frente a mí: “Adelante, toca”. Así como así. Cuando terminé, se levantó y me dio un abrazo de oso, entonces fue oficial para mí. Me dijo: “Eso que haces, cabrón, está genial, es increíble”. Me dijo: “Estás tocando tresillos. Tocas muchos tresillos”. Hablaba de música. Y le dije: “Sí, toco tresillos”»."
+ },
+ "Me fui a casa la noche en que cortamos la pista y me llevé la cinta a casa, y le dije a mi esposa de entonces: “Acabamos de hacer historia”».": {
+  "ch": 10,
+  "page": 387,
+  "sec": "Planet Rock",
+  "para": "Arthur Baker, el productor de la grabación, reconoció la importancia de Planet Rock inmediatamente. «Oh, lo sabía —insiste—. Lo sabía desde antes de mezclarla. Lo sabía desde antes de que le añadieran el rap. Me fui a casa la noche en que cortamos la pista y me llevé la cinta a casa, y le dije a mi esposa de entonces: “Acabamos de hacer historia”»."
+ },
+ "Me sentí tan avergonzado que tuve que irme. Mi sistema no le llegaba ni a la suela de los zapatos».": {
+  "ch": 10,
+  "page": 375,
+  "sec": "Duelos",
+  "para": "«Y decía: “Grandmaster Flash está en la casa”, por el micrófono, y cortaba los altos y bajos de su sistema y solo tocaba el rango medio. “Flash”, decía, “para ser un disc jockey de verdad tienes que tener una cosa… ¡altos!”. Entonces Herc encendía sus altos y el hi-hat sonaba al rojo vivo. “Y sobre todo, Flash”, decía, “tienes que tener… ¡bajo!”. Pues cuando entraba el bajo de Herc, todo el lugar retumbaba. Me sentí tan avergonzado que tuve que irme. Mi sistema no le llegaba ni a la suela de los zapatos»."
+ },
  "Mientras Christopher Street bulle con la lucha por la emancipación de la comunidad gay, el DJ está ocupado reescribiendo la manera en que escuchamos las grabaciones en los clubs nocturnos.": {
   "ch": 6,
   "page": 193,
@@ -1025,6 +1229,12 @@ window.ANOCHE_REFS = {
   "page": 272,
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Mientras que Tom Moulton fue el pionero de la remezcla, Gibbons, un DJ, fue quien realmente demostró su potencial máximo. Las primeras remezclas de Moulton no cambiaron radicalmente la naturaleza sonora de las canciones, sino que tenían que ver con extender las mejores partes y eliminar las más débiles. Gibbons fue mucho más drástico en su enfoque, pues desmantelaba las canciones casi hasta sus elementos más primitivos y los reconstruía en capas complejas e imbricadas de sonido. Como su estilo de DJ, salvaje y tribal, sus remezclas destacaban en la esencia rítmica de la pista. A Walter Gibbons le encantaba la percusión."
+ },
+ "Miro a estos muchachos y pienso: “Nosotros empezamos esa mierda”.": {
+  "ch": 10,
+  "page": 419,
+  "sec": "El transforming y el beat-juggling",
+  "para": "«Me encanta ir a estos nuevos duelos entre DJ y ver a estos muchachos, ¡porque la cosa se pone fuera de control! —dice entusiasmado—. Ver en carne propia que has inspirado un género, todo un movimiento… Miro a estos muchachos y pienso: “Nosotros empezamos esa mierda”. Es increíble lo que estos tipos aprendieron de nosotros, y parece que no tiene fin»."
  },
  "Muchos de estos clubs habían encontrado en el concepto la inspiración del Loft, en particular su política de aceptar solo a miembros (pero no su onda igualitaria de inspiración hippie).": {
   "ch": 8,
@@ -1055,6 +1265,12 @@ window.ANOCHE_REFS = {
   "page": 37,
   "sec": "El DJ versus el músico",
   "para": "La AFM insistió en que la música tenía que ser controlada por músicos afiliados, así que durante muchos años a los DJ de las estaciones más grandes se les daba tocadiscos para que tocaran sus grabaciones según lo indicado. Más tarde, el 1 de agosto de 1942, los músicos estadounidenses sorprendentemente se fueron a la huelga por el asunto de la música grabada. La AFM ordenó una prohibición de grabar discos a sus miembros, que solo se levantaría cuando las discográficas acordaran el pago de mayores regalías a sus artistas para compensar por el lucro cesante que traía causa de la audición de discos en la radio. También añadieron algunas demandas con el objetivo de erradicar el uso de rocolas en los clubs nocturnos. Luego de más de un año en el que prácticamente no se grabaron discos nuevos, las discográficas cedieron. En el Reino Unido, el Sindicato de Músicos y las discográficas libraron una batalla parecida contra el disc jockey, pero esta tenía que ver más con el desempeño público de los discos que con sus transmisiones de radio."
+ },
+ "Nadie había conectado antes estos tres elementos».": {
+  "ch": 10,
+  "page": 403,
+  "sec": "Los punks del Bronx",
+  "para": "»Quería hacer saber a la gente que esta era una cultura multidisciplinaria en la que, como había leído en algún lugar, confluían el baile, la pintura y la música. Esa era la razón por la que quería que se filmara esta película, para dejar constancia esto del arte grafitero, de su enfoque, de sus ramificaciones; estaba vinculada a una forma de música y a una forma de baile. Nadie había conectado antes estos tres elementos»."
  },
  "No se construyó el monumento. Hoy, el edificio es un banco.": {
   "ch": 8,
@@ -1158,6 +1374,12 @@ window.ANOCHE_REFS = {
   "sec": "SO MANY MEN, SO LITTLE TIME (TANTOS HOMBRES, TAN POCO TIEMPO)",
   "para": "Pero el hi-NRG todavía es disco; sus DJ originales fueron DJ de disco. El hi-NRG fue lo que tomó el relevo cuando el disco comercial se hundió y los Village People abandonaron la YMCA. Es la música que evolucionó en los clubs gais blancos de clase alta de Nueva York y alcanzó la madurez en Londres, Nueva York y San Francisco. Aunque esta historia está repleta de tragedias, sus raíces yacen en un profundo deseo de liberación, junto al surgimiento de la cultura y del orgullo gay."
  },
+ "Pero la agudeza comercial extraordinaria de Sylvia triunfó, y así nació la apuesta contestataria que perviviría en el rap.": {
+  "ch": 10,
+  "page": 383,
+  "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
+  "para": "Su canción más famosa sin duda es The Message de 1982, que llegó al número 4 en las listas de R&B (número 8 en el Reino Unido), como el primer rap con carga sociopolítica del hip-hop. Una grabación sumamente inspiradora, sus combativas letras eran una innovación de Sylvia Robinson que la banda, armada con una poderosa falta de compromiso social, rechazó con insistencia. Pero la agudeza comercial extraordinaria de Sylvia triunfó, y así nació la apuesta contestataria que perviviría en el rap. Al éxito de la canción seguiría toda una retahíla de «raps con mensaje»."
+ },
  "Pero las personas listas ya habían dado con algo mejor: el DJ de club.": {
   "ch": 2,
   "page": 64,
@@ -1169,6 +1391,12 @@ window.ANOCHE_REFS = {
   "page": 270,
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Pero lo cierto es que el sencillo de 12 pulgadas llegó por accidente. Moulton fue a que le imprimieran una mezcla a un vinilo, pero a su maestro ingeniero, José Rodriguez, se le habían acabado las placas en blanco necesarias para cortar el disco maestro. «José me dijo que se le habían acabado las placas de 7 pulgadas y que tendría que usar una de 12. Le dije: “Bah, eso es ridículo”. Así que él dijo: “Tengo una idea: ensancharemos las ranuras para que suene más alto”. Y, por supuesto, por poco me muero cuando lo escuché». Este disco, el primer sencillo de 12 pulgadas, era So Much For Love de Moment Of Truth. Fue algo que Moulton creó para un grupo muy selecto de sus amigos DJ, y aunque Roulette lo lanzó luego en formato de 7 pulgadas, en formato más grande nunca estuvo disponible comercialmente."
+ },
+ "Pero ¿quiénes eran la Sugar Hill Gang? El disco vendía miles de copias diarias, pero el Bronx nunca los había visto agarrar un micrófono.": {
+  "ch": 10,
+  "page": 381,
+  "sec": "Rappers’ Delight",
+  "para": "Pero ¿quiénes eran la Sugar Hill Gang? El disco vendía miles de copias diarias, pero el Bronx nunca los había visto agarrar un micrófono."
  },
  "Pete fue la principal inspiración para Flash. ¿Por qué? Porque, a diferencia de Herc, mantenía un ritmo uniforme.": {
   "ch": 9,
@@ -1200,6 +1428,12 @@ window.ANOCHE_REFS = {
   "sec": "El ángulo posmoderno",
   "para": "Porque su arte proviene de la combinación del arte de otros, porque su actuación se compone de las actuaciones de otros músicos, el DJ es el epítome del artista posmoderno. Sencillamente, pinchar es un ejercicio de combinatoria. El DJ usa grabaciones para crear un collage musical, de la misma forma en que Quentin Tarantino podría crear una película nueva con tan solo un montón de escenas copiadas de películas viejas o Phillip Johnson podría construir un rascacielos con la forma de un reloj de pie. Esto es en esencia el modus operandi del posmodernismo: recortar ideas y formas y combinarlas de manera creativa."
  },
+ "Que no quepa duda, Bambaataa era tan punk como cualquiera en Nueva York.": {
+  "ch": 10,
+  "page": 403,
+  "sec": "Los punks del Bronx",
+  "para": "También consiguió que los DJ actuaran en eventos en galerías de arte. Gracias a Freddy, Bambaataa ya pinchaba para los vanguardistas del arte del centro desde 1980, antes incluso de las noches de Holman y Blue en el Negril y en el Roxy. De los DJ del Bronx, Bam era el que tenía las conexiones más estrechas con el mundo de los clubs del centro (además de ser miembro de muchos de los bancos de discos, sus listas de reproducción se publicaron en varios boletines de música bailable), y Freddy lo trajo para que pinchara en el Club 57 de St. Mark’s Place, en el Fun Gallery y en el Mudd Club, el after-hours donde se daba cita al caer la noche lo más excéntrico del afterpunk. Como era tan extravagante como cualquier otro de la new wave, tanto su estilo estrafalario de vestir (atuendo P-funk con atrezo de chamán) como por sus gustos musicales, Bam ansiaba tocar en esos lugares. En efecto, pronto comenzó a pintarse el pelo de verde y naranja y a dejarse crestas en el pelo (al poco tiempo se juntaría con John Lydon de los Sex Pistols para el sencillo World Destruction). Que no quepa duda, Bambaataa era tan punk como cualquiera en Nueva York."
+ },
  "Quien se oponía vehementemente a los bancos de discos era Bob Casey.": {
   "ch": 7,
   "page": 279,
@@ -1224,6 +1458,12 @@ window.ANOCHE_REFS = {
   "sec": "Música mañanera",
   "para": "Los verdaderos devotos de la música, hastiados por la rígida programación de la noche, solían aguantar hasta las seis de la mañana solo para escuchar los sets matinales de los DJ. Muchos de los primeros DJ de hiNRG provenían de la misma época de Francis Grasso y David Mancuso, y la denominada sensualidad puede concebirse como su intento de arrebatar el control de la pista de baile a la dictadura de las drogas. En todo caso, mientras la noche avanzaba y se cansaban las extremidades poco a poco —quizá con la ayuda de barbitúricos o Quaalude—, así se tranquilizaba la pista de baile. Robbie Leslie lo describía nítidamente como «la curva de campana de una noche de baile»."
  },
+ "Rockit otorgó a D. ST el honor de ser el primer DJ en ganar un Grammy.": {
+  "ch": 10,
+  "page": 413,
+  "sec": "D. ST y Rockit",
+  "para": "Y la contribución de D. ST fue fundamental para la canción. Aportaba algo más que meros adornos: sus scratchings eran debidamente rítmicos a la par que melódicos (notas). Basándose en las ideas que había utilizado en su propio sencillo Grand Mixer Cuts It Up, su scratching en Rockit era una serie de manipulaciones culminantes de una parte de la grabación de Fab 5 Freddy, Une Sale Histoire (Change The Beat). Mientras teje con pericia la línea de bajo con la melodía, la percusión urgente e insistente del vinilo de D. ST era la esencia de la grabación. Considerada como la Mejor Actuación Instrumental R&B de 1983, Rockit otorgó a D. ST el honor de ser el primer DJ en ganar un Grammy."
+ },
  "Rosner construyó su primer sistema de sonido para las casetas de Canada-A-Go-Go y Carnival-A-Go-Go en la Exposición Universal de 1964 y 1965.": {
   "ch": 6,
   "page": 216,
@@ -1242,11 +1482,23 @@ window.ANOCHE_REFS = {
   "sec": "El poder promocional del DJ",
   "para": "Aletti se percató del cambio que estas contrataciones trajeron a muchas discográficas. «Era realmente interesante ver que esto pasaba, porque estaban intentando negociar con algunos personajes bastante extravagantes, a quienes aún no sabían cómo tratar». Esta nueva cepa de empleados de promoción conformaría una línea de comunicación crítica entre los DJ y la industria discográfica. Se llamaban a sí mismos los Homo Promos."
  },
+ "Se necesitaría reunir a un puñado de empresarios independientes (y, preferiblemente, de la peor calaña) para evaluar las posibilidades comerciales de trasladar el hip-hop a una grabación.": {
+  "ch": 10,
+  "page": 380,
+  "sec": "Hip-hop grabado",
+  "para": "Se necesitaría reunir a un puñado de empresarios independientes (y, preferiblemente, de la peor calaña) para evaluar las posibilidades comerciales de trasladar el hip-hop a una grabación. Todos tenían experiencia juntando el dinero y la música desde los cincuenta; muchos detestaban el disco, lo cual los había dejado fuera de lo que hasta entonces era el género más lucrativo para los sellos independientes; y no fueron pocos los que vieron en el hip-hop cierta analogía con las formas anteriores, en particular con las armonías callejeras del doo wop que antaño te acompañaban por las esquinas."
+ },
  "Se puede describir el doblaje como «una placa de rayos X musicales».": {
   "ch": 5,
   "page": 185,
   "sec": "El dub",
   "para": "Se puede describir el doblaje como «una placa de rayos X musicales». Una mezcla de dub es, en resumidas cuentas, la mezcla de un tema con el bajo más alto. El «dob dub laje» segrega la canción en sus componentes principales, y añade y sustrae cada ingrediente de sonido hasta que se crea una nueva composición. Al añadir espacio a una pista, lo que queda tiene mucho más impacto. Al reforzar la línea de bajo hasta que se convierte en una presencia retumbante y colosal, eliminando todo de la canción salvo la percusión, enviando un fragmento de voz a un eco reverberante, estirando un ritmo con una dilatación interminable, el dub puede convertir una composición musical de anodina aridez en un paisaje montañoso con relieve."
+ },
+ "Se siente como si uno hiciera algo noble».": {
+  "ch": 10,
+  "page": 422,
+  "sec": "Excavadores de discos",
+  "para": "DJ Shadow lo considera arqueología industrial. «A veces, buscando entre discos en un lugar único en mi país o por todo el mundo, hay una electricidad que me invade. Se siente como si uno hiciera algo noble». ¿Quién sabe qué música asombrosa está enterrada, olvidada para siempre? ¿Quién sino un DJ para recuperarla? «Había sótanos con ratas por todos lados, agua colándose del río Michigan y uno está con el agua hasta las rodillas, sentado ahí, pensando: “Mierda, esta es la única oportunidad para sentarme aquí y rescatar algo”»."
  },
  "Se tardaría una década, pero el disco sería vengado.": {
   "ch": 7,
@@ -1368,6 +1620,12 @@ window.ANOCHE_REFS = {
   "sec": "Larry Levan y Frankie Knuckles en el Continental Baths",
   "para": "El 1973, Levan se convirtió en el DJ principal del club, con Frankie de antesala en las noches más tranquilas. Levan se fue en 1974 para abrir su propio club con su socio, el técnico de sonido Richard Long. Su tiempo en el Tubs fue el prototipo para el legendario Paradise Garage. Aunque en el Garage fue donde se convirtió en una estrella, Levan nunca olvidó que sus raíces están en los primeros años temerarios del disco."
  },
+ "Superó al género de mayor venta de la historia de Estados Unidos —el country— en 1999": {
+  "ch": 10,
+  "page": 423,
+  "sec": "Treinta años de hip-hop",
+  "para": "En la actualidad hay que tener presente que el hip-hop ha sido durante mucho tiempo la fuerza dominante de la música. Superó al género de mayor venta de la historia de Estados Unidos —el country— en 1999, con ventas por encima de ochenta millones de CD, cintas y elepés. Es una música decididamente internacional, y se puede escuchar rap en prácticamente todas las lenguas. Nigeria produce canciones muy buenas; en Nueva Zelanda, el rap maorí es una fuerza emergente. Una vez salió de Estados Unidos, el hip-hop encontró el eco más fuerte en Francia, donde el garbo lírico ondulante del francés logró crear un derivado algo distinto. Criado en los guetos de les banlieues de los alrededores de París, los chicos franceses de ascendencia africana como MC Solaar y Nique Ta Mère, de nombre tan florido (Jode a Tu Madre) han demostrado lo que se puede hacer con un saco de ritmos y una cabeza llena de ira."
+ },
  "Sus orígenes radican en la era del disco, cuando los DJ aprendieron a transferir el tipo de mezcla que habían iniciado —la extensión de las introducciones y las pausas— a una cinta y, a la larga, al vinilo.": {
   "ch": 7,
   "page": 263,
@@ -1398,11 +1656,29 @@ window.ANOCHE_REFS = {
   "sec": "Terry Noel en el Arthur",
   "para": "En cuanto a Terry Noel, con el tiempo dejó su carrera musical por el arte, y hoy se le puede visitar en su estudio en el centro de la ciudad. Sin embargo, su paso como DJ fue largo, desde el Arthur hasta L’Ordine, y luego el Salvation, el nuevo lugar de moda en Greenwich Village, donde continuó con sus experimentos, hasta el punto de mezclar con tres platos distintos. «Lo del Salvation tenía mucho que ver con los discos —dice—. Ahí fue cuando cambié a tres platos. Estaba muy metido en eso. El soul. Absolutamente. Time de los Chambers Brothers era como el himno del Salvation. Yo preparaba el camino hasta esa canción y todos sabían que llegaría de camino. Solía apagar las luces y escuchar el bum, bum, bum»."
  },
+ "Todo esto con tan solo dos platos y una pila de discos viejos de tus padres.": {
+  "ch": 10,
+  "page": 424,
+  "sec": "Treinta años de hip-hop",
+  "para": "Todo esto con tan solo dos platos y una pila de discos viejos de tus padres."
+ },
+ "Todos pensaban que era una forma artística moribunda».": {
+  "ch": 10,
+  "page": 393,
+  "sec": "El hip-hop llega al centro",
+  "para": "Evidentemente, la transubstanciación del hip-hop en vinilo fue lo que permitió que se convirtiera en un género de música aceptado, pero, según algunos, las grabaciones fueron lo único que lo salvaron de la extinción. En el Bronx, alrededor de 1979, después de un interés culminante tres años atrás, comenzó lo que Jazzy Jay llamó «la sequía», época en la que el interés comunitario por la música parecía morir. El público de las fiestas se desvanecía con tal rapidez que hasta los mismos DJ se habían convencido de que el hip-hop tenía los días contados. Se daba esta merma cuando el mundo no lo había escuchado todavía. «Si no estabas en el hip-hop, no te acordarás de la sequía —dice Jay—. Pues para 1979, la cosa comenzaba a decaer. Todos pensaban que era una forma artística moribunda». Con la dominación del disco comercial, los públicos daban la espalda al hip-hop cada vez más para preferir ritmos más glamurosos. «Todos comenzaban a regresar el R&B y a la escena de clubs disco. Todo el mundo se volvía sofisticado. Habían roto con el hip-hop: “Ah, esa mierda es de críos, no queremos saber más de ella”»."
+ },
  "Tom The Great Sebastian reinó hasta la llegada en los cincuenta de los llamados «Tres Grandes»": {
   "ch": 5,
   "page": 174,
   "sec": "Los primeros sonidos",
   "para": "Tom The Great Sebastian reinó hasta la llegada en los cincuenta de los llamados «Tres Grandes»: el Downbeat de Sir Coxcone Dodd, el Trojan de Duke Reid y el Giant de King Edward. A medida que los sistemas de sonido inyectaban las canciones estadounidenses más recientes en la sangre de la isla, el R&B jamaicano nació en respuesta y, a continuación, el ska, el rocksteady y el reggae."
+ },
+ "Tras la vieja escuela, los DJ que lograron labrarse una reputación alcanzaron la fama como productores y no como pinchadiscos": {
+  "ch": 10,
+  "page": 407,
+  "sec": "El fin de la vieja escuela",
+  "para": "Tras la vieja escuela, los DJ que lograron labrarse una reputación alcanzaron la fama como productores y no como pinchadiscos, aunque esto último fuera la fuente de su destreza. Desde Eric B y Marley Marl, pasando por Pete Rock, Large Professor y Premier, hasta Dr. Dre, the RZA y Prince Paul, solo por mentar a algunos: todos eran artistas conocidos primordialmente por su trabajo en el estudio. El hip-hop se movió decididamente al terreno de los conciertos y se convirtió en una actuación de espectáculo más que en un género para la pista de baile. Mantenía un circuito de clubs underground próspero, pero hay muy pocos DJ que hayan alcanzado la fama debido a su forma de pinchar en los clubs (las excepciones notables son Funkmaster Flex y quizá Stretch Armstrong). Pinchar en los conciertos elevó el estatus del DJ al mismo nivel que el músico, pero redujo su aportación a una exhibición de cuarenta minutos. Y, a la larga, llegó la temida DAT [cinta de audio digital, por sus siglas en inglés] con la que había que lidiar: cintas digitales a prueba de errores que prácticamente reemplazaron a los DJ en las presentaciones en directo."
  },
  "Tras su muerte en 2011, se descubrió que Savile, famoso en Gran Bretaña desde los sesenta como disc jockey de radio y figura de la televisión, era un monstruoso pederasta en serie": {
   "ch": 3,
@@ -1415,6 +1691,18 @@ window.ANOCHE_REFS = {
   "page": 188,
   "sec": "El dub",
   "para": "Para 1975, a King Tubby se le daba todo el crédito de la discográfica por las pistas que reconfiguraba, no solo como ingeniero o remezclador. Los que realmente conocen la música jamaicana lo reconocen como uno de sus verdaderos fundadores. Trágicamente, lo mataron a tiros en 1989, apenas cuatro años después de abrir su estudio con tecnología de vanguardia. Y, sorprendentemente, a pesar de su enorme contribución a la música, la prensa ni siquiera se hizo eco de la muerte de King Tubby."
+ },
+ "Tuvimos que pincharla cuatro o cinco veces porque el público se volvía loco».": {
+  "ch": 10,
+  "page": 390,
+  "sec": "Planet Rock",
+  "para": "En cuanto a la canción en sí, Bambaataa recuerda la increíble reacción que generó: «Era más rápida que cualquier grabación de rap, pero el público bailaba como loco y no paraba de disfrutarla, sobre todo cuando pasaba a la cara B con la parte instrumental: era una cosa completamente distinta para el público. Habían escuchado grabaciones de tecno-pop, pero esta era la primera con fondo, ritmo, el bajo muy duro, todo eso». La pinchó por primera vez en el Boy’s Club de Soundview Section en el Bronx, «una fiesta para iniciados. Tuvimos que pincharla cuatro o cinco veces porque el público se volvía loco»."
+ },
+ "Un juez federal, con el mandamiento «No robarás», sentó el precedente con un fallo contra Biz": {
+  "ch": 10,
+  "page": 392,
+  "sec": "El sampleado",
+  "para": "El sampleado ahora es una parte aceptada de la música, y los sellos discográficos tienen departamentos enteros para vender permisos de sampleado. Durante muchos años, sin embargo, generó una confusión considerable, dado que todos intentaron evitar dar carta de naturaleza a una práctica de facto normalizada. Esta situación la resolvió parcialmente un fallo jurídico importantísimo en 1992 contra el rapero Biz Markie por samplear Alone Again Naturally de Gilbert O’Sullivan para su disco «I Need A Haircut». Un juez federal, con el mandamiento «No robarás», sentó el precedente con un fallo contra Biz y, en vez obligar a la discográfica (Cold Chillin’, de Warner Bros) a que pagara regalías a O’Sullivan, exigió que se retirara el sampleado ofensivo de la grabación y el secuestro inmediato de todos los discos que lo contuvieran."
  },
  "Una cosa comenzó a quedar muy clara: estos clubs nuevos no solo tenían el poder de poner canciones nuevas a los aficionados en sus pistas de baile, también eran capaces de crear éxitos comerciales.": {
   "ch": 6,
@@ -1446,11 +1734,29 @@ window.ANOCHE_REFS = {
   "sec": "David Mancuso en el Loft",
   "para": "Además de controlar con sigilo quién venía a las fiestas, Mancuso prestaba atención a la música. Entendía que las dinámicas de sonido que él proyectaba eran tan importantes como los discos que pinchaba. «Quiero escuchar la música. Una vez uno escucha el sistema de sonido significa que hay fatiga auditiva. Uno quiere escuchar la música, no el sistema»."
  },
+ "Unos dieciséis compases después, simplemente nos rendimos y apagamos los putos amplificadores.": {
+  "ch": 10,
+  "page": 376,
+  "sec": "Duelos",
+  "para": "»No podíamos ni escuchar nuestra propia mierda. ¡Uf! Comenzamos a buscar botones, a subirlo todo, los altavoces empezaron a fallar. Y entonces él pone The Mexican. ¿Alguna vez has escuchado The Mexican de Babe Ruth? Comienza a volumen bien bajo: bam-pum-pum. Unos dieciséis compases después, simplemente nos rendimos y apagamos los putos amplificadores. Apagamos todo. Y todavía no había comenzado la percusión. Cuando entró la batería, todas las paredes… como un ¡BRUUUUUM! Se acabó»."
+ },
+ "Y de todas las personas involucradas en la creación del hip-hop, fueron los DJ los que lo pasaron peor cuando la música pasó al ámbito comercial.": {
+  "ch": 10,
+  "page": 407,
+  "sec": "El fin de la vieja escuela",
+  "para": "A pesar de estos cambios, los DJ siguieron con el arte que conocían. Y de todas las personas involucradas en la creación del hip-hop, fueron los DJ los que lo pasaron peor cuando la música pasó al ámbito comercial. Una vez había grabaciones que producir y estrellas que crear, la atención se concentraba firmemente en el visible y carismático MC subido la tarima, no en el individuo detrás de los platos. Los MC no precisaban de un DJ para crear grabaciones, solo de un estudio y un productor. La mayoría de las grabaciones de la primera ola del rap se crearon con músicos de sesión en vez de platos, y muy pronto había tecnologías de sampleado fáciles de usar, lo cual implicaba que cualquiera podía enlazar un sampleado y recrear los efectos de mezcla rápida de los DJ."
+ },
  "Y les dije: “Pues ya era hora de que viniera alguien lo suficientemente inteligente para poner esa mierda en un disco.": {
   "ch": 9,
   "page": 370,
   "sec": "Rapear",
   "para": "Sal Abbatielo del Disco Fever recuerda la primera vez que escuchó Rapper’s Delight: «Estaba en mi oficina y escuché la grabación y dije: “¿Quién está rapeando?”. Y me dicen: “No, eso es un disco”. Y les dije: “Pues ya era hora de que viniera alguien lo suficientemente inteligente para poner esa mierda en un disco. Ahora no me romperán todos mis micrófonos”»."
+ },
+ "Y él les dijo: “Mira, chaval, no me preguntes a mí, pregúntale a él, él escribió la puta canción”».": {
+  "ch": 10,
+  "page": 414,
+  "sec": "D. ST y Rockit",
+  "para": "«Había problemas con la canción, y ellos le preguntaban a Herbie (creo que, de todos modos, Herbie estaba algo enfadado ese día), pero le decían: “Eh, Herbie, ¿y esta parte qué?”. Y él les dijo: “Mira, chaval, no me preguntes a mí, pregúntale a él, él escribió la puta canción”»."
  },
  "Y, desde luego, tras el éxito de U-Roy, aparecieron Big Youth, I-Roy, Dillinger y cientos de diyeis más que robaban el protagonismo a los cantantes.": {
   "ch": 5,
@@ -1488,11 +1794,23 @@ window.ANOCHE_REFS = {
   "sec": "Kool Herc",
   "para": "Inmediatamente, Herc comenzó a incluir sin falta secuencias de breaks en su música durante el curso de la noche, y empezó a comprar dos copias de cada grabación para que pudiera repetir el mismo break de forma consecutiva. Todavía pinchaba canciones completas, incluidas muchas de James Brown, y los números más recientes del disco. Pero siempre tenía un grupo de grabaciones que preparaba especialmente para los oídos de los b-boy. Hasta tenía un nombre para esta parte de la noche: «“El carrusel”. Verás, si uno lo escuchaba, se tenía que montar [hop on]. No regresabas, solo ibas hacia delante». Su estilo era muy distinto al de los DJ de hip-hop de hoy, en el sentido de que casi siempre ponía todos los treinta segundos, más o menos, de un break en vez de dividirlo en unidades más pequeñas de tiempo; sin embargo, había inventado lo que hoy se conoce como breakbeat: el uso del break de percusión de una grabación en vez de pinchar toda la canción."
  },
+ "solo cuando el hip-hop comenzó a samplear música de blancos": {
+  "ch": 10,
+  "page": 393,
+  "sec": "El sampleado",
+  "para": "En el hip-hop, la dependencia del sampleado llegó a su punto máximo a finales de los ochenta con las producciones de Public Enemy usando el wall-of-sound, y en los empeños por usar cualquier cosa aleatoria de La Soul, antes de que se volviera demasiado caro o arriesgado basar grabaciones en una alta cantidad de sampleados largos e identificables. El comentarista Nelson George señala un punto interesante: solo cuando el hip-hop comenzó a samplear música de blancos —en particular en el caso de Biz Markie, pero también en las demandas relacionadas con los elepés «Three Feet High And Rising» de La Soul y «It Take A Nation Of Millions To Hold Us Back» de Public Enemy— entonces la industria comenzó a percatarse de un problema."
+ },
  "«A mi estilo lo llamé la “Teoría de la Mezcla Rápida”": {
   "ch": 9,
   "page": 350,
   "sec": "Grandmaster Flash",
   "para": "«A mi estilo lo llamé la “Teoría de la Mezcla Rápida”, que consiste en tomar una sección de música y cortarla a tiempo, de forma seguida, en treinta segundos o menos. Se trataba básicamente de tomar un pasaje particular de música y reestructurar el arreglo frotando el disco para atrás y para delante o cortando el disco, o dándole un “giro inverso” al disco. Su “Teoría del Reloj” para apoyar el proceso consistía en marcar el disco con una línea en el sello, como la manecilla de un reloj para indicar dónde comenzaba un pasaje seleccionado. Esto le permitía retroceder con velocidad a la parte de la canción que quería repetir."
+ },
+ "«A mí me preguntaron antes que a nadie. Y pensé: “¿Quién querría escuchar un disco que yo ponía regrabado con la voz de un MC por encima?”».": {
+  "ch": 10,
+  "page": 379,
+  "sec": "Hip-hop grabado",
+  "para": "El propio Flash admite haber rechazado varias ofertas iniciales para grabar, pensando que la música creada a partir de las grabaciones de otras personas no era lo suficientemente comercial. «A mí me preguntaron antes que a nadie. Y pensé: “¿Quién querría escuchar un disco que yo ponía regrabado con la voz de un MC por encima?”»."
  },
  "«Alan Freed era amable con demasiadas personas afrodescendientes, así que acabaron con él.": {
   "ch": 2,
@@ -1542,11 +1860,29 @@ window.ANOCHE_REFS = {
   "sec": "Los discípulos de DJ Francis",
   "para": "A pesar de tener solo dieciséis años cuando comenzó a trabajar como DJ, Cappello pronto se forjó una reputación como un pinchadiscos consumado: primero en el Haven, luego con D’Acquisto y Grasso cuando regresaron al Sanctuary. «Desde mi punto de vista, Michael Cappello era el mejor DJ que jamás haya hecho este trabajo —afirma D’Acquisto—. Podía escuchar a Michael hora tras hora, noche tras noche, y nunca me aburría. Siempre fue ingenioso, un genio; era absolutamente astuto»."
  },
+ "«Donde terminan los productos estadounidenses posmodernos: bien producido, regulado, distribuido, circulado y consumido».": {
+  "ch": 10,
+  "page": 423,
+  "sec": "Treinta años de hip-hop",
+  "para": "Más allá de la música, la vasta influencia cultural del hip-hop puede verse en las modas que ha generado y en la forma en que convirtió el inglés negro de Estados Unidos en vernáculo mundial. A mediados de los ochenta, Cornell West, uno de los muchos sociólogos intrigados por el auge del hip-hop, se preguntaba: «¿Dónde acabará el rap?». Su respuesta es reveladora: «Donde terminan los productos estadounidenses posmodernos: bien producido, regulado, distribuido, circulado y consumido»."
+ },
+ "«El beat-juggling consiste en tomar dos discos, y simplemente reestructurar los arreglos del ritmo».": {
+  "ch": 10,
+  "page": 418,
+  "sec": "El transforming y el beat-juggling",
+  "para": "Roc Raida, otro de los X-Men/X-ecutioners, lo explica con suma sencillez: «El beat-juggling consiste en tomar dos discos, y simplemente reestructurar los arreglos del ritmo». Enciende su Technics con platos dorados (su premio como campeón mundial de DMC en 1995) y lo demuestra. Con un ajetreo de movimientos cortos y rápidos, juguetea con dos discos de breakbeat. El resultado es un patrón endiabladamente complejo de percusión improvisada; parece que coloca cada ritmo exactamente donde quiere. Y si eso no es suficiente, acelera el patrón a una secuencia balística de funk muy sincopado con dos o más ritmos. Los sonidos, por supuesto, no se parecen en nada a las grabaciones originales. Sin duda alguna, ese es un acto de creatividad musical."
+ },
  "«El cierre del Arthur indicaba que los días de la discoteca estaban contados», profetizó.": {
   "ch": 3,
   "page": 117,
   "sec": "El fin del principio",
   "para": "Cuando el sueño hippie se tambaleó hasta detenerse, parecía que las discotecas sufrirían el mismo destino. El Electric Circus se fue a la quiebra y el Arthur giró el último disco el 21 de junio de 1969. Con el titular «LAS DISCOTECAS BAILAN EL GO-GO HASTA EL OLVIDO MIENTRAS LA JUVENTUD BUSCA RITMOS Y SONIDOS NUEVOS», la revista Variety predijo la era del auge de los clubs nocturnos. «El cierre del Arthur indicaba que los días de la discoteca estaban contados», profetizó."
+ },
+ "«El hip-hop vive en el mundo del sonido, no en el de la música, y por eso es tan revolucionario».": {
+  "ch": 10,
+  "page": 391,
+  "sec": "El sampleado",
+  "para": "En efecto, la historia del sampleado es el relato de cómo la tecnología ha ido alcanzando al DJ, a fin y efecto de crear un equipo que haga el trabajo más rápido, más preciso y más fácil que el que el DJ llevaba largo tiempo haciendo. Después de la invención del instrumento musical computarizado Fairlight, que permitía reproducir una ínfima cantidad de sonido sampleado, llegó el EMU Emulator, usado por primera vez para una grabación de hip-hop en 1982 por Marley Marl, quien sampleó el ritmo de una caja de la batería accidentalmente mientras trabajaba en una remezcla. Como le dijo al escritor Harry Allen, se percató del potencial del aparato inmediatamente: «Podía tomar cualquier sonido de batería de mi grabación vieja, ponerla ahí y obtener ese sonido de batería experimentado». El baterista experimentado Max Roach se dio cuenta del potencial de samplear, al declarar: «El hip-hop vive en el mundo del sonido, no en el de la música, y por eso es tan revolucionario». Por el contrario, el inventor del Emulator, Dave Rossum, apenas tenía idea de lo importante que sería esta máquina. Cuando le preguntaron en los ochenta si el sampleado sería el «futuro de la industria del sonido», simplemente se rio."
  },
  "«El tema I Love Music de los O’Jays realmente abrió las puertas a nuevos sencillos», dice Kev Roberts.": {
   "ch": 4,
@@ -1554,11 +1890,29 @@ window.ANOCHE_REFS = {
   "sec": "La pugna por el alma del soul",
   "para": "«El tema I Love Music de los O’Jays realmente abrió las puertas a nuevos sencillos», dice Kev Roberts. «Sentó el camino para cosas como Heaven Must Be Missing An Angel, que fue un coloso del northern soul, y como Young Hearts Run Free, otra canción perfecta para al público norteño». Levine había recibido el disco de los O’Jays de parte de Roberts para que lo pusiera, porque había dejado el Wigan por una disputa con Russ Winstanley y le estaba dando un uso acertado a las 59 libras esterlinas que costaba cada trayecto de Freddie Laker a Nueva York para buscar discos. De alguna manera, logró conseguir un disco de prueba de manos del disc jockey neoyorquino Tony Gioe, quien, a su vez, lo había conseguido directamente de Kenny Gamble, el productor."
  },
+ "«Empleé tres platos, dos mezcladoras y entre diez y quince tomas para que quedara bien —recuerda Flash": {
+  "ch": 10,
+  "page": 384,
+  "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
+  "para": "«Empleé tres platos, dos mezcladoras y entre diez y quince tomas para que quedara bien —recuerda Flash—. Tardé unas tres horas. Tenía que hacerlo en directo. Y cada vez que me equivocaba, simplemente rehusaba cortar. Solo comenzaba desde el principio»."
+ },
  "«En esencia, uno tiene un pie en la pista de baile y otro en la cabina».": {
   "ch": 1,
   "page": 18,
   "sec": "El arte de ser DJ",
   "para": "David Mancuso, padre putativo del disco, siempre ha sostenido, a capa y espada, que ningún DJ es mejor que su público. Su idea del DJ es que este es intérprete y oyente a un tiempo. En su visión, el DJ debe ser «una persona modesta, que desconecta el ego y respeta la música, y está ahí para que siga su curso: para participar». En las mejores noches, dice, el DJ se siente como un conducto de las emociones que lo rodean: completa el ciclo entre los bailarines y la música. «Es una situación única en la que la gente forma parte de la escenografía de la música que suene en ese momento». En esta relación, el DJ es tan parte del público como los bailarines. «En esencia, uno tiene un pie en la pista de baile y otro en la cabina»."
+ },
+ "«Era articulado sin tener que abrir la boca.": {
+  "ch": 10,
+  "page": 413,
+  "sec": "Grand Wizard Theodore",
+  "para": "«Era articulado sin tener que abrir la boca. Era físicamente articulado, con sus gestos, con su habilidad para ser tan preciso, para sincronizar. La manera en que se movía físicamente… era una expresión. Quizá pueda antojarse esotérico para muchos, pero yo entendía lo que estaba haciendo. Soy DJ y esa era una lengua que yo dominaba»."
+ },
+ "«Era como estar en El corazón de las tinieblas —bromea Holman": {
+  "ch": 10,
+  "page": 396,
+  "sec": "Los punks del Bronx",
+  "para": "«Era como estar en El corazón de las tinieblas —bromea Holman—. Voy al hotel y estoy a punto de llevarlos hasta el Bronx una noche de verano —McLaren y Rory Johnston de la RCA—, y ellos están vestidos como putos piratas con todo ese atuendo Vivienne Westwood. Pensé que nos iban a atracar o a pegar un tiro en cualquier momento. Al final llegamos y vamos de un lugar que está completamente desierto a masas y masas de chicos, solo adolescentes que corren de una esquina para otra, mirábamos las peleas que se desencadenaban en la multitud. Era una locura. Las botellas volaban por todas partes. Malcolm vestía como un pirata y nadie le hacía caso. Y ahora comienza a ver los efectos especiales de los DJ y a los b-boy, y comienza a ver todo el conjunto. Y entonces dice: “Vámonos de aquí. Pero tengo una idea”»."
  },
  "«Es la persona que más influyó en mí —dice Nicky Siano—.": {
   "ch": 6,
@@ -1590,6 +1944,12 @@ window.ANOCHE_REFS = {
   "sec": "El Torch",
   "para": "«Fue una oportunidad que nunca tuve en Estados Unidos», dijo Brenda Holloway en «25 Years Of The Wigan Casino» para Granada TV. «Fue como una segunda oportunidad. Cuando llegué aquí, era una estrella»."
  },
+ "«Había un anuncio en el Village Voice: “Hombre con caja de ritmos, veinte dólares por sesión”.": {
+  "ch": 10,
+  "page": 388,
+  "sec": "Planet Rock",
+  "para": "Fue probablemente la primera grabación de hip-hop en usar una caja de ritmos (una Roland TR808), hecho que marca un punto de partida para un género que deriva del hip-hop conocido como «electro», y fue una inspiración clara para los ejercicios de beatbox de Run DMC: un estilo que los consagró como los líderes indiscutibles de la segunda ola del hip-hop. Baker, que no tenía experiencia con una caja de ritmos, recuerda haber contratado a un programador mediante un anuncio en el periódico. «Había un anuncio en el Village Voice: “Hombre con caja de ritmos, veinte dólares por sesión”. Ni siquiera recuerdo el nombre del tipo. Así que lo conseguí por veinte dólares y le dije: “Programa esto”». Con su ritmo sólido, que facilitaba la mezcla, Planet Rock no podía fallar a la hora de apelar a los DJ."
+ },
  "«Jack Cooper fue el pionero, pero Al Benson fue el padrino», dijo Stamz": {
   "ch": 2,
   "page": 49,
@@ -1602,11 +1962,29 @@ window.ANOCHE_REFS = {
   "sec": "Sellos independientes",
   "para": "Cuando estos sellos independientes comenzaron a disfrutar de las primeras ganancias por la música disco, las majors tenían la mirada puesta en otros mercados. Después de intentar impulsar al reggae y, más tarde, al punk como el próximo fenómeno musical, se conformaron con Peter Frampton. La prensa tampoco se había percatado de lo que ocurría. Como señala el crítico de música Andrew Kopkind en el Village Voice: «John Rockwell todavía escribía análisis hegelianos sobre los Sex Pistols en el Sunday Times mientras dos tercios de la ciudad escuchaba a Donna Summer»."
  },
+ "«Juntamos todas nuestras cosas. Parecían los muros de Jericó», sentenció Bam": {
+  "ch": 10,
+  "page": 376,
+  "sec": "Duelos",
+  "para": "Los duelos no siempre eran un mero uno contra uno. Fab 5 Freddy recuerda un duelo entre siete sistemas distintos en una armería de Brooklyn. Bambaataa recuerda una vez en la escuela secundaria James Monroe, cuando un DJ de Bronxdale llamado Disco King Mario pidió auxilio para batallar con Flash. Mario terminó haciéndolo con el Grandmaster con su propio equipo, más amplificadores y altavoces de Bambaataa, más otro sistema propiedad de DJ Tex. «Juntamos todas nuestras cosas. Parecían los muros de Jericó», sentenció Bam, rememorando aquella conflagración de proporciones épicas. Charlie Chase, exmúsico, tenía más experiencia en la tarima que la mayoría y con las destrezas líricas de Grandmaster Caz, los Cold Cash Brothers se armaron de su maestría artística y teatral como ofensiva principal."
+ },
+ "«Kool Herc solía destruir a los demás —recuerda Jazzy Jay": {
+  "ch": 10,
+  "page": 375,
+  "sec": "Duelos",
+  "para": "«Kool Herc solía destruir a los demás —recuerda Jazzy Jay, el DJ campeón de la Zulu Nation—. Herc era lo máximo porque tenía las grabaciones y su sistema no tenía igual»."
+ },
  "«La Zulu Nation no es una banda.": {
   "ch": 9,
   "page": 352,
   "sec": "Afrika Bambaataa",
   "para": "«La Zulu Nation no es una banda. Es una organización de individuos en busca de éxito, paz, conocimiento, sabiduría, entendimiento y de una forma honrada de vida. Los miembros zulúes deben buscar la manera de sobrevivir positivamente en esta sociedad. Las actividades negativas son acciones que pertenecen a los desalmados. La naturaleza animal es la naturaleza negativa. Los zulúes tienen que ser civilizados». Así se leen los Principios Universales de la Zulu Nation, partes uno y dos."
+ },
+ "«La era del doo wop y la era del hip-hop, en sus inicios, eran la misma cosa. Eran muchachos. Niños».": {
+  "ch": 10,
+  "page": 385,
+  "sec": "Vicious Rap",
+  "para": "Otra figura clave en los comienzos fue el empresario experimentado Paul Winley. Después de grabar a grupos de doo wop en los cincuenta, algunos de los cuales describe como «verdaderos matones», Winley encontró un ambiente familiar en el hip-hop. «La era del doo wop y la era del hip-hop, en sus inicios, eran la misma cosa. Eran muchachos. Niños»."
  },
  "«La música disco era un mantra, una oración.": {
   "ch": 6,
@@ -1626,11 +2004,23 @@ window.ANOCHE_REFS = {
   "sec": "Bobby DJ en el Ice Palace",
   "para": "Aunque el hi-NRG fue un género que no se codificó formalmente hasta 1984, la escena gay blanca de Nueva York ya comenzaba a distinguirse musicalmente. Otro club predominantemente blanco era Barefoot Boy, donde Tony Smith (un afrodescendiente) era el residente. Recuerda cómo a mitad de los setenta, a pesar de una lista de reproducción bastante amplia, no se ponían los temas con mucho funk. «Lo único que no podía pinchar realmente era la música urbana negra. Pude salirme con la mía al poner Doin’ It To Death de los JB, pero no lo pude lograr con Give It Up Turnit Loose o Sex Machine». Smith también destaca otra característica del gusto del público que sería fundamental para el sonido hi-NRG: «Lo que sí les gustaba realmente eran las voces femeninas». A medida que se aproximaba la curva hacia los ochenta, esta variedad particular del disco se impondría con mucha fuerza."
  },
+ "«Manipular el sonido usando solo las manos es como un milagro —insiste DJ Q-Bert": {
+  "ch": 10,
+  "page": 409,
+  "sec": "Turntablism: crear con los platos",
+  "para": "«Manipular el sonido usando solo las manos es como un milagro —insiste DJ Q-Bert, del grupo Invisibl Skratch Piklz, de San Francisco, uno de los DJ de scratching más famosos hoy—. El origen del scratching es que el plato giratorio es un instrumento musical: uno descifra todos estos compases y ritmos y patrones y notas»."
+ },
  "«Mató a nuestros clientes, mató a nuestros artistas, mató a nuestros fundadores —recuerda John Hedges—.": {
   "ch": 8,
   "page": 327,
   "sec": "Tragedia",
   "para": "Patrick Cowley murió el 12 de noviembre de 1982. Sylvester estaba actuando en el Heaven de Londres. En una escena emotiva, anunció la muerte de su amigo y colaborador antes de interpretar Do You Wanna Funk? Por desgracia, Sylvester también murió de sida seis años después, el 18 de septiembre de 1988. Casi todos los de Megatone y Moby Dick también murieron. «Mató a nuestros clientes, mató a nuestros artistas, mató a nuestros fundadores —recuerda John Hedges—. Fue como un banco de niebla que nos envolvió durante tres o cuatro años, y de repente no quedaba nadie»."
+ },
+ "«Me dije: “Coño, pude haber sido el primero”.": {
+  "ch": 10,
+  "page": 383,
+  "sec": "Rappers’ Delight",
+  "para": "«Me dije: “Coño, pude haber sido el primero”. No sabía que ese cañón estaba tan cargado. Que estallaría así. Fue un disco enorme para ellos». Juró entonces convertir esa furia en acción. «Está bien, con todo y eso. Porque vamos a venir después… Teníamos el talento, y ellos, no»."
  },
  "«Mucha de mi música tiene que ver con el bajo», dice.": {
   "ch": 9,
@@ -1661,6 +2051,12 @@ window.ANOCHE_REFS = {
   "page": 176,
   "sec": "Los primeros sonidos",
   "para": "Otro gánster era Prince Buster, un exboxeador cuyo nombre de pila era Cecil Bustamante Campbell. Buster luego se convertiría en uno de los vocalistas y productores más famosos de la isla, pero comenzó como jefe de seguridad en los bailes de Coxsone. Su pelotón de matones y su reputación como tipo duro le vino bien a la hora de rechazar los esfuerzos destructivos de Duke Reid, sobre todo cuando el propio Buster estaba sobradamente preparado para recurrir al sabotaje; durante la primera noche al servicio de Coxsone, Buster destrozó la aguja de Duke. Posteriormente, Buster fue fundamental para el auge del ska, y cuando fundó su propio sistema de sonido, Voice Of The People, pronto emergió con ese estilo para convertirse en el más poderoso de los comienzos de los sesenta; para entonces los sonidos dominaban el mundo del entretenimiento jamaicano. Como recuerda en el libro de Stephen Davis, Reggae Bloodlines: «No había radio en aquellos días, y el sistema de sonido lo era todo. Para escuchar un disco nuevo, miles acudían a los bailes»."
+ },
+ "«No hay mucha diferencia entre crear un disco y ser un DJ, cortando los ritmos y demás».": {
+  "ch": 10,
+  "page": 391,
+  "sec": "El sampleado",
+  "para": "La explosión del hip-hop grabado trajo la estética de copiar y pegar de los DJ al estudio de producción y supuso un gran paso en la marcha triunfal hacia la conquista de la silla del productor. Como dijo uno de los primeros productores de rap, Marley Marl, en 1988: «No hay mucha diferencia entre crear un disco y ser un DJ, cortando los ritmos y demás». El sampleado acabaría desempeñando una función muy importante: todos lo usan en la actualidad, desde los productores de baile en su casa hasta las principales bandas de rock. Crear grabaciones de esta manera no es otra cosa que usar con astucia los aspectos electrónicos del estudio para exagerar lo que un buen DJ logra con sus platos."
  },
  "«No hubo Stonewall en esta ciudad porque estábamos muy adelantados»": {
   "ch": 8,
@@ -1698,6 +2094,12 @@ window.ANOCHE_REFS = {
   "sec": "Larry Levan y Frankie Knuckles en el Continental Baths",
   "para": "Tras la salida de Levan, Knuckles se convirtió en el DJ residente del Continental Baths, y pinchaba allí hasta su cierre, cuando se fue a Chicago con mucho éxito y, como veremos, forjó la música house. Nunca olvidó el Continental Baths, sin embargo, como le dijo a Sheryl Garratt: «Pinchar allí cada noche, escuchar la música una y otra vez. Así fue como prácticamente me formé»."
  },
+ "«Quería ser el primer grupo electrónico negro —dice—.": {
+  "ch": 10,
+  "page": 388,
+  "sec": "Planet Rock",
+  "para": "«Quería ser el primer grupo electrónico negro —dice—. Una cosa loca mecánica y con funk sin banda, solo instrumentos electrónicos. Cuando la terminé, quería dar con el nexo entre el mercado afroamericano y el mercado del punk rock. Quería dar con el punto de encuentro entre ambas músicas. A mí siempre me había gustado Trans Europe Express, y después de que Kraftwerk lanzara Number, me dije: “¿Será posible combinar las dos con algo con mucho funk y bajo y un ritmo duro?”»."
+ },
  "«Quiero emoción», ladraba Noel, recordando sus días como DJ.": {
   "ch": 3,
   "page": 105,
@@ -1709,6 +2111,12 @@ window.ANOCHE_REFS = {
   "page": 314,
   "sec": "Stock, Aitken y Waterman",
   "para": "Durante sus años como compositor, Waterman visitaba los clubs gais con un dictáfono, grababa los sonidos más recientes y se los proporcionaba a Mike Stock. Las primeras agrupaciones que produjeron eran supergais. Eran Divine, estrella de las películas indignantes de John Waters, una drag queen de 136 kilos cuyas cejas parecían los arcos de McDonalds. Un reto de gruñidos, su canción So You Think You’re a Man alcanzó la posición 16 (Reino Unido) en 1984. «Sabía que iba a ser un éxito porque era tan amanerada —admite Waterman en su autobiografía, I Wish I Was Me—. Si comenzó como un noventa por ciento afeminada, la cosa se disparó al ciento veinte por ciento para cuando terminamos». El trío Stock Aitken Waterman (SAW) siguió con un número uno a nivel mundial con la canción You Spin Me Round (Like A Record) de Dead Or Alive, un grupo gótico ligero de Liverpool, cuyo cantante de voz chillona era el andrógino de voz mordaz Pete Burns."
+ },
+ "«Si uno no traía lo nuevo, pinchaba la misma mierda y se convertiría en una estampa para el recuerdo —argumenta": {
+  "ch": 10,
+  "page": 421,
+  "sec": "Excavadores de discos",
+  "para": "El coleccionista Keb Darge se llevó consigo la locura adquisitiva de su primera pasión, el northern soul, a la escena funk. «Si uno no traía lo nuevo, pinchaba la misma mierda y se convertiría en una estampa para el recuerdo —argumenta—. Es exactamente como con el northern soul. Necesitan discos nuevos, descubrimientos nuevos». El mercado de discos de funk de 45 rpm se ha disparado gracias a las hazañas excavadoras de los DJ/coleccionistas Shadow y Darge. En 2004, un coleccionista de Essex pagó la exorbitante suma de 4293 dólares por What Goes Around Come Around de Arthur Monday, un disco de funk de 45 rpm sumamente raro (pero más bien discreto)."
  },
  "«Soy la persona que diseñó la forma moderna de pasar la noche —declaró—. Soy la primera y única Reina de la Noche».": {
   "ch": 3,
@@ -1722,11 +2130,35 @@ window.ANOCHE_REFS = {
   "sec": "Tee Scott en el Better Days",
   "para": "Danny Tenaglia, que luego se convertiría en uno de los DJ estrella de los noventa, por aquel entonces era un joven frecuentador de clubs a tientas. Recuerda el Better Days como el primer lugar donde encontró personas bailando el estilo vogue, y recuerda que quedó impresionado con las avanzadas técnicas de mezclar de Scott, que incluía estos solapamientos largos, o «combinaciones» [blends]: tocar dos discos simultáneamente por un período extenso. «Tee Scott era sin duda distinto de los otros DJ —dice Tenaglia—. Intentaba cosas como estos solapamientos largos. Para esa época era mucho más difícil; la gente no tiene idea de lo complicado que resulta mezclar aquellos discos con baterías en directo. Y los mantenía por mucho más tiempo que otros DJ. Escuchar durante la visita siguiente la misma mezcla implicaba que era algo que había diseñado a propósito, pero además merecía la pena repetirla»."
  },
+ "«Tengo el gen del coleccionista en la sangre. Supongo que es un trastorno obsesivo-compulsivo de alguna clase —admite": {
+  "ch": 10,
+  "page": 420,
+  "sec": "Excavadores de discos",
+  "para": "De niño coleccionaba cómics. «Tengo el gen del coleccionista en la sangre. Supongo que es un trastorno obsesivo-compulsivo de alguna clase —admite—. Pero tengo el temor de que algún día ya no pueda traer discos por la puerta. Las tiendas de discos usados están cerrando, ¿sabes? Así que quiero asegurarme de que no me pillen tocando el último disco y no tener ningún disco nuevo para poner»."
+ },
+ "«Tocar música era más importante que nuestras vidas —bromea Charlie Chase": {
+  "ch": 10,
+  "page": 372,
+  "sec": "Metiéndole en el parque",
+  "para": "Al tiempo que la popularidad del hip-hop crecía, la nueva generación de DJ del norte de la ciudad seguía estas tradiciones y organizaba sus propios eventos, celebrando fiestas gratuitas en los parques durante el verano como promoción para actuaciones de pago en escuelas, clubs y centros comunitarios. En los parques, la música duraba desde la tarde hasta altas horas de la madrugada, y la policía hacía la vista gorda, pues consideraba que estos eventos alejaban a los mequetrefes adolescentes del peligro. Si no tenían acceso a una fuente de energía eléctrica, los DJ y sus agrupaciones rompían la base de un poste de luz y conectaban el sistema de sonido de forma casera, a riesgo de electrocutarse. «Tocar música era más importante que nuestras vidas —bromea Charlie Chase, confirmando que esta práctica peligrosa ocurría muy a menudo—. Nos importaba una mierda, queríamos tocar música»."
+ },
  "«Todo el mundo tocaba los mismos discos en esa época —recuerda Siano—. El truco era cómo los combinabas.": {
   "ch": 6,
   "page": 236,
   "sec": "Nicky Siano en el Gallery",
   "para": "«Todo el mundo tocaba los mismos discos en esa época —recuerda Siano—. El truco era cómo los combinabas. Mi estilo era vincular las canciones de relleno y dejar que fueran intensificándose y luego soltaba las buenas y la cosa despegaba, una hora de canciones buenas, hasta que la gente gritara tanto que no pudiera soportarlo más»."
+ },
+ "«Trajeron estos estilos raros y formas de ejecutar el scratching que nadie había utilizado antes —explica Q-Bert": {
+  "ch": 10,
+  "page": 417,
+  "sec": "El transforming y el beat-juggling",
+  "para": "«Trajeron estos estilos raros y formas de ejecutar el scratching que nadie había utilizado antes —explica Q-Bert—. Cuando el transforming se hizo público, puso todo el mundo del scratching patas arriba»."
+ },
+ "«Un estadounidense no podía hacer esto. Tenía que ser una persona inglesa».": {
+  "ch": 10,
+  "page": 399,
+  "sec": "Los punks del Bronx",
+  "para": "«Era fabuloso. Era un sentimiento tan fantástico —dice Johnny Dynell, uno de los DJ del centro que pinchaba ahí todo el tiempo, al recordar cómo el Roxy mezclaba las culturas y las razas—. Eso era lo mejor del lugar. Para mí era lo mejor; eran como mis dos mundos juntos. Realmente podía ver a los dos grupos de mis amigos en el mismo lugar. Eso era poco común». Dynell está seguro de que Blue fue capaz de lograr esa hazaña precisamente porque no compartía las presunciones comunes de los estadounidenses en cuanto a la raza. «Un estadounidense no podía hacer esto. Tenía que ser una persona inglesa»."
  },
  "«todo el público se fue con él.": {
   "ch": 6,
