@@ -126,11 +126,29 @@ window.ANOCHE_REFS = {
   "sec": "El significado de house",
   "para": "«Los chicos venían buscando música disco más antigua. Decían: “Quiero música de la que tocan en el Warehouse”, y eso suponía referirse a la música disco. Así pues, vimos que si poníamos carteles que decían “Como se escucha en el Warehouse”, muchos de estos discos volaban de los estantes. Al final se abrevió el nombre del club a solo “The House”. Esa fue la consagración del término»."
  },
+ "Así que el eclecticismo que se manifiesta con más fama en Ibiza, en realidad es de origen belga.": {
+  "ch": 14,
+  "page": 572,
+  "sec": "El new beat",
+  "para": "Y la influencia de Maury se extiende mucho más allá de las raíces del new beat: también tocó en Ibiza, impartiendo su estilo a un joven Alfredo Fiorito. Es Maury a quien Alfredo designa como su mayor inspiración. Así que el eclecticismo que se manifiesta con más fama en Ibiza, en realidad es de origen belga."
+ },
+ "Así que este sonido (el sonido de la voz)— se convirtió en música para mí».": {
+  "ch": 14,
+  "page": 583,
+  "sec": "Afrocósmicos italianos",
+  "para": "Desde una cabina en forma de casco espacial con dos manos alrededor, comenzó a tocar algunas grabaciones a la velocidad equivocada, subiendo el tono de canciones de reggae como Zungguzungguguzungguzeng de Yellowman a 45 rpm, mientas ralentizaba otras como Enola Gay de OMD a 33, convirtiendo el pop electrónico en un funk drogado de piernas pesadas. En el Music Box de Chicago, Frequency 7 de Visage tocada a +8 sonaba como una canción tecno. En el Cosmic, tocada a 33, flotaba ominosa y metálica, la banda sonora de un thriller. Ojeando una lista de artistas que tocaban en el Cosmic, parece una catástrofe musical. Los pocos nombres fáciles de reconocer incluyen a Mike Oldfield, Peter Gabriel, Tony Orlando, los Monks, XTC, el teclista de Genesis Tony Banks y Plastic Bertrand. Sin embargo, independientemente de cuán chocante se antojara escuchar una canción como Biko de Peter Gabriel a 45 —como música folk inuit—, de alguna forma funcionaba. Baldelli hasta tocaba pistas de voz a la velocidad equivocada. «Con las voces, estas parecían la de Mickey Mouse. Pero no nos importaba. Los italianos no podían entender lo que decían. Así que este sonido (el sonido de la voz)— se convirtió en música para mí»."
+ },
  "Así que por qué no crear música nueva y llamarla house. Es básicamente lo que hicimos».": {
   "ch": 12,
   "page": 485,
   "sec": "La prisa por grabar",
   "para": "Los DJ se daban prisa para recrear exclusivas raras. Como explica Chip E: «Había un montón de grabaciones y ediciones que uno no podía conseguir en ningún otro lado, así que las emulábamos. Y la gente estaba familiarizada con la línea de bajo, por lo que, al emularla, casi te asegurabas un éxito». Chip sabía que discos como esos se venderían bien. «Yo, Farley, Steve Hurley y Jesse Saunders pensamos: “¿Sabes qué? Lo único que tenemos que hacer es grabar y ponerle house y se va a vender como rosquillas”. Así que por qué no crear música nueva y llamarla house. Es básicamente lo que hicimos»."
+ },
+ "Así que tenían que bailar lento, ¿sabes?», dice riéndose.": {
+  "ch": 14,
+  "page": 583,
+  "sec": "Afrocósmicos italianos",
+  "para": "El Cosmic abrió en abril de 1979. Aquí, Baldelli comenzó a pinchar sus temas más raros al principio de la noche. «Dejaba de tocar la música bailable (se estaba muriendo) y comencé a tocar la música de la que te hablé. Y el ritmo era muy lento, de 90 a 105 golpes por minuto como máximo». Aunque niega que el público colocado hasta las cejas influyera en este cambio, admite que los narcóticos lo ayudaron a que fuera exitoso. «Mucha gente fumaba y mucha gente consumía heroína. Así que tenían que bailar lento, ¿sabes?», dice riéndose."
  },
  "Así, Later for Gator de Willis Jackson se convirtió en Coxsone Hop, el buque insignia de su sistema de sonido.": {
   "ch": 5,
@@ -138,11 +156,23 @@ window.ANOCHE_REFS = {
   "sec": "Los primeros sonidos",
   "para": "La competencia era feroz y se empleaba casi cualquier táctica —justa o marrullera— para «tumbar» al rival y seducir al público a favor de uno en la pista de baile. El fortalecimiento de la potencia del sistema de sonido propio era un método; tener las mejores canciones era igualmente válido, y viajar a Estados Unidos para comprar discos se convirtió en una práctica esencial. King Edwards recuerda que «comenzó a montarse en los aviones como si viajara en autobús» en busca de «especiales»: canciones exclusivas para seducir al público. Además, Coxsone Dodd comenzó a tachar los títulos de los discos y a renombrarlos para desviar la atención de la competencia. Así, Later for Gator de Willis Jackson se convirtió en Coxsone Hop, el buque insignia de su sistema de sonido. Es el primer caso documentado de esta práctica de los DJ, consagrada por el tiempo, y cuyo origen engarza directamente desde Jamaica hasta la escena del northern soul en el Reino Unido y el mundo del hip-hop en Nueva York."
  },
+ "Aun cuando apoyaba al new beat, el Boccaccio se convertiría en la cantera donde se cincelaría el tecno europeo.": {
+  "ch": 14,
+  "page": 578,
+  "sec": "El new beat",
+  "para": "Aunque el new beat sonaba apasionantemente nuevo en aquel entonces, ahora la mayoría de las grabaciones suenan justo como lo que eran: canciones para lucrarse rápidamente. Pero el new beat aseguró que el house fuera bien recibido en Bélgica (la mayoría de los aficionados a los clubs de Bélgica pensaban que solo era new beat rápido). Pero más importante aún, sentó las bases para la revolución del tecno hardcore que se asomaba. Aun cuando apoyaba al new beat, el Boccaccio se convertiría en la cantera donde se cincelaría el tecno europeo."
+ },
  "Aunque cada uno tomó un conjunto muy distinto de cromosomas de la madre, todos nacieron de las caderas anchas del disco.": {
   "ch": 11,
   "page": 428,
   "sec": "De las cenizas del disco",
   "para": "Los otros avances cruciales fueron de naturaleza tecnológica. La revolución digital trajo consigo una reducción sustancial en el tamaño y el precio de los equipos, el salto de DJ a productor se tornaba cada vez más corto. Y en la primera mitad de los ochenta, ansiosos por nutrir sus pistas de baile con algo nuevo, una generación de jóvenes DJ dieron el salto. Algunos demostraron ser tan innovadores, tanto detrás de los platos como en el estudio, que incluso se les atribuyó haber inspirado la creación de géneros musicales completamente nuevos. La concentración en los elementos más rápidos y camp del disco creó el hi-NRG; los intentos de Chicago por preservar el disco nos trajeron el house; en Detroit, la adopción entusiasta de instrumentos electrónicos forjó el tecno, con un futurismo similar en Chicago que cristalizó en el acid house. Aunque cada uno tomó un conjunto muy distinto de cromosomas de la madre, todos nacieron de las caderas anchas del disco. A medida que la era del DJ/productor comenzaba formalmente, la música bailable se adentraba en uno de sus períodos más fértiles."
+ },
+ "Aunque uno sabía lo que iba a poner, era brillante».": {
+  "ch": 14,
+  "page": 561,
+  "sec": "Alfredo en el Amnesia",
+  "para": "Trevor Fung llega a plantear que, aunque Alfredo solía repetirse, la forma en que concatenaba su música era tan carismática que uno no podía evitar quedarse perplejo. «La música del Amnesia la tengo grabada en la cabeza. Es como si conociera a Alfredo de los pies a la cabeza. La conozco de memoria. Sé lo que tocará después de esta canción, sé la que pondrá después de esa. Pero funcionaba. Aunque uno sabía lo que iba a poner, era brillante»."
  },
  "Bajo el sello de Lenny, Street Beat Records, se lanzó la serie de discos «Ultimate Breaks And Beats» que con el tiempo llegó a alcanzar los veinte volúmenes.": {
   "ch": 9,
@@ -264,6 +294,12 @@ window.ANOCHE_REFS = {
   "sec": "París durante la guerra",
   "para": "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa [del francés discothèque]. Formada sobre la palabra francesa para biblioteca [bibliothèque], significa literalmente «un depósito de discos». Supuestamente, sus orígenes se remontan al puerto mediterráneo de Marsella, donde los marineros solían dejar sus discos en los almacenes de los cafés durante el tiempo que estaban en altamar. Cuando se les concedían permisos para ir a tierra, solían regresar a su bar favorito a escuchar los discos en el fonógrafo ubicado en una esquina del establecimiento. El director de cine Roger Vadim reclama haber acuñado el término, pero no hay una etimología definitiva (la división que prestaba discos de la Biblioteca Nacional de Francia se llamaba La Phonothèque [La fonoteca]). Un punto interesante es que no se trataba necesariamente de un lugar: mon discothèque puede significar «mi colección de discos». La connotación apuntaba más a un lugar íntimo y privado que a una sala de baile para orquestas, a las que en Francia se las llamaba le dancing."
  },
+ "Como si señalara el fin de una era, en 1989 los espacios al aire libre del Ku y del Amnesia se vieron forzados a añadir techos.": {
+  "ch": 14,
+  "page": 562,
+  "sec": "Ibiza al descubierto",
+  "para": "Después de la fiebre del acid house en Gran Bretaña, había un interés por experimentar la nueva atmósfera fiestera durante las vacaciones. Naturalmente, Ibiza fue de las primeras en la lista de destinos. En junio de 1990, el promotor Charlie Chester llevó a 500 aficionados a los clubs y DJ británicos para allá (todo recogido en el cortometraje A Short Film About Chilling); otros siguieron la ruta, lo cual selló el destino de la isla. Aunque de alguna forma mantuvo la esencia de su magia, a medida en que la cantidad de turistas aumentaba, el mundo de los clubs en Ibiza jamás sería el mismo. Como si señalara el fin de una era, en 1989 los espacios al aire libre del Ku y del Amnesia se vieron forzados a añadir techos."
+ },
  "Como tal, igual que el reggae, el hiphop es una música cuya prioridad absoluta es el DJ.": {
   "ch": 9,
   "page": 331,
@@ -354,6 +390,12 @@ window.ANOCHE_REFS = {
   "sec": "WRECK UP A VERSION (SÁCATE UNA VERSIÓN DE LA NADA)",
   "para": "Antes de ser diezmada por Europa, los arahuacos llamaban a esta fértil isla Xaymaca, que significa «Tierra de Manantiales». Cuando era la capital pirata de los siete mares, su ciudad principal, Port Royal, era el lugar más malvado del planeta. Cuando era una plantación azucarera colonial sustentada por los músculos africanos cautivos, los dueños de esclavos podían recibir una multa si un ser humano de su propiedad era sorprendido tocando un tambor. Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey."
  },
+ "Cuando uno las toca más lento, el bajo se fortalece».": {
+  "ch": 14,
+  "page": 574,
+  "sec": "El new beat",
+  "para": "Sin importar quién lo hizo primero, este paso encendió el new beat. Tocar discos a 33 en vez de 45 logró que una pléyade entera de temas nuevos encajara en el nuevo estado de ánimo que todos perseguían. «Se tocaban las grabaciones más por el sentimiento que por el ritmo: por el efecto —explica Beysens—. Cuando uno las toca más lento, el bajo se fortalece». Los DJ saquearon sus colecciones con el dedo puesto en el botón de la velocidad y encontraron todo tipo de sorpresas. Los industrialistas de Essex, Nitzer, Ebb les dieron Join In The Chant y Let Your Body Learn, estaba Bryllyant de Boytronic, Dead Eye Opened de Several Heads y The Great Divide de Portion Control. Liaisons Dangereuses también ralentizó canciones pioneras del house de Chicago, entre ellas Dub Love de Master C&J y Risque Madness de Risque 3. Hasta Soft Cell sucumbió ante el new beat, con la ralentización de Tainted Love a un deslizamiento magnífico."
+ },
  "Cuanto más se pareciera al sonido de una banda real o a algo del pasado, entonces más me inclinaba hacia esa dirección».": {
   "ch": 11,
   "page": 457,
@@ -371,6 +413,12 @@ window.ANOCHE_REFS = {
   "page": 313,
   "sec": "El nu-energy y el hard dance",
   "para": "Curiosamente, esta es una de las pocas áreas del house que tuvo contribuciones importantes de mujeres, con participaciones clave de Anne Savage, Lisa Pin-Up y Lisa Lashes, Mrs. Wood, Rachel Auburn y Madam Friction."
+ },
+ "Curiosamente, este disco se iba a titular Balearic Beats Vol. 2": {
+  "ch": 14,
+  "page": 577,
+  "sec": "El new beat",
+  "para": "Los encargados de A & R británicos volaron a Bélgica inmediatamente, desesperados por encontrar el siguiente acid house. FFRR lanzó a toda prisa New Beat: Take 1, una recopilación de las actuaciones de Antler y Subway. Curiosamente, este disco se iba a titular Balearic Beats Vol. 2, y con Nitzer Ebb y los Residents en el volumen 1 parecía curiosamente apropiado."
  },
  "DJ Francis pinchaba música; los disc jockeys antes que él solo ponían discos en los platos.": {
   "ch": 6,
@@ -395,6 +443,12 @@ window.ANOCHE_REFS = {
   "page": 481,
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "A medida que la cultura del house fue apoderándose de esta ciudad, el objetivo de los DJ era subyugar a los bailarines con estados de furia hipnótica propiciados por la percusión, mediante un sinfín de pistas de ritmos retumbantes para conducir a la pista de baile hacia el orgasmo de una gran canción cantada. Este estilo exigía un suministro constante de pistas de percusión repetitivas y sencillas. La gente había visto cuán básica puede ser una pista. El equipo de los estudios se había vuelto pequeño y asequible. De repente, todos en Chicago eran productores y promovían ansiosamente las cintas por debajo de las narices de los DJ."
+ },
+ "Definió lo que debería ser un buen DJ: alguien que te conduce por caminos nuevos sin comprometer demasiado».": {
+  "ch": 14,
+  "page": 569,
+  "sec": "El new beat",
+  "para": "Los orígenes del género radican entre principios y mediados de los ochenta, en una escena de clubs de un eclecticismo balear extremo. Fat Ronny (Ronny Harmsen) no era para nada gordo, pero era un tremendo DJ. Usando una abundancia de canciones de relleno raras, oscuras y hasta extrañas, creó un estilo tan distinto que se le honró con su propio nombre, «música-AB», por su club de Amberes, el Ancienne Belgique. «Sus sets eclécticos eran una revelación para mí; tenía un oído increíble —dice entusiasmado Paul Ward, quien adelantó la misión de Ronny en su programa de radio «Liaisons Dangereuses»—. Definió lo que debería ser un buen DJ: alguien que te conduce por caminos nuevos sin comprometer demasiado». Aunque conformaba sets de una vasta variedad de música, lo genial de Ronny consistía en generar un humor muy particular; eso es lo que inspiró el new beat. Como explica Ward, el hilo que tejió mediante la música-AB era una ópera dramática algo amenazante: «Creó esta especie de atmósfera fílmica oscura»."
  },
  "Desarrolló el scratching, girando el disco hacia delante y hacia atrás mientras manipulaba el control cruzado de la mezcladora para producir un nuevo sonido de percusión brutal.": {
   "ch": 9,
@@ -443,6 +497,12 @@ window.ANOCHE_REFS = {
   "page": 379,
   "sec": "Hip-hop grabado",
   "para": "«Esos eran nuestros mejores vehículos de promoción —apunta con sorna Charlie Chase—. Estaba el servicio de taxi O. J. y luego estaba el servicio de taxi Community Cab, que fueron los primeros taxis en emplear coches de lujo». (Los coches de O. J. quedaron inmortalizados en varias canciones, incluida Rappers’ Delight). «Si ellos sabían que tú eras DJ, venían y te compraban cintas. Y luego las tocaban en sus coches. La gente les preguntaba: “Eh, ¿quién es ese de la cinta?”, y el taxista les decía: “Es Charlie Chase”, o les daba tu número». Charlie vendía sus cintas desde su apartamento en un bajo. «Siempre me estaban incordiando por la ventana. Se acodaban ahí mientras me hacía con el material y les vendía cintas. Durante una buena temporada mis vecinos pensaron que era un narcotraficante»."
+ },
+ "Edwin Starr, Jackie Mittoo, Prince Buster y los Temptations: eso es el popcorn.": {
+  "ch": 14,
+  "page": 566,
+  "sec": "Bélgica",
+  "para": "Es preciso señalar que el popcorn también ofreció a los DJ belgas un gusto duradero por la música de tempo más bajo. El soul del popcorn es más lento que el norteño. Imagínense una sesión norteña temprana antes de que la atrapara una manía por la dexedrina, con la música que tocaba Roger Eagle en el Twisted Wheel en vez de las canciones machaconas de los últimos días del Casino de Wigan. Edwin Starr, Jackie Mittoo, Prince Buster y los Temptations: eso es el popcorn. Impulsados por nada más siniestro que la cerveza (Tuborg en botella era la bebida favorita), los fanáticos bailaban un jive lento y en parejas que prescindía de las acrobacias en favor de los cortes angulares. Con pistas de baile desaceleradas con porte de ballet, los DJ solían bajar el tono de las canciones, lo cual aportaba un sentimiento ligero y narcotizante a la música. Como veremos, esta técnica sigue siendo una marca de la casa de los belgas."
  },
  "El 26 de abril de 1977, aquí fue donde llegó el disco.": {
   "ch": 7,
@@ -546,6 +606,12 @@ window.ANOCHE_REFS = {
   "sec": "El dub",
   "para": "El dub trajo consigo un nuevo universo de sonidos. Es la primera cristalización completa del remix de baile. El dub abrió tantas posibilidades que se considera un género aparte. Las técnicas que brinda son tan poderosas y aplicables a otras músicas que ahora se usan a lo largo y ancho de todo el espectro de la música popular. Y como una música creada expresamente para el uso del sistema de sonido, el doblaje debe su existencia mayormente al DJ."
  },
+ "El día después, quinientas, y cuatro días después había mil personas en el club. Así como así».": {
+  "ch": 14,
+  "page": 559,
+  "sec": "Alfredo en el Amnesia",
+  "para": "Finalmente, en 1984, consiguió ser el residente del Amnesia. Pero la temporada fue un desastre. Alfredo afirma que durante cuatro largas horas no había más que tres personas en el club en un momento dado, y estos pocos valientes solían ser sus amigos. Todo cambió más tarde, en una noche de agosto, cuando estaba cerrando. «Mis amigos del trabajo me pidieron que tocara para ellos en lo que esperábamos para que nos pagaran». Al escuchar que el Amnesia seguía abierto más tarde de lo habitual, algunas personas entraron después de que el Ku cerrara. «De cincuenta a sesenta personas. Al día siguiente eran trescientas. El día después, quinientas, y cuatro días después había mil personas en el club. Así como así». El Amnesia captó el mensaje y se convirtió en el primer club principal en abrir hasta altas horas; abría a las tres de la madrugada y solía seguir hasta la hora de comer."
+ },
  "El dúo, ambos negros y gais, eran el yin y el yang perfecto": {
   "ch": 11,
   "page": 433,
@@ -557,6 +623,12 @@ window.ANOCHE_REFS = {
   "page": 293,
   "sec": "Eurodisco",
   "para": "Su siguiente producción, I Feel Love, con su robotizado ritmo electrónico, su machacón fraseo rítmico en la percusión y el estilo autoerótico de las interpretaciones de Summer, eran una propuesta futurista, una visión de Fritz Lang para la pista de baile. Los puristas de la música afroamericana acusaron a Moroder de blanquear el sonido negro. El escritor estadounidense Nelson George dijo que era «perfecto para gente que no tenía sentido del ritmo». Y, sin embargo, bajo todas sus secuencias nerviosamente electrónicas, como Kraftwerk, había algo de funk. Moroder y Bellotte se convirtieron en los productores de mayor demanda de Europa. Impulsaron una avalancha de grabaciones, muchas de las cuales eran perfectas para gente sin sentido del ritmo. Si este era el apogeo comercial del disco, también señaló el principio de su decadencia. La experimentación musical que caracterizaba los lanzamientos independientes de principios de los setenta quedó aparcada a un lado para favorecer fórmulas ya probadas en la medida en que los sellos buscaban sacarle el jugo al disco conocido hasta exprimirlo del todo. En pocos años se estrelló y la fórmula alquímica se quemó."
+ },
+ "El espíritu balear es la expresión de una voluntad para probar cualquier cosa al servicio de la pista de baile.": {
+  "ch": 14,
+  "page": 553,
+  "sec": "BRYLLYANT",
+  "para": "El espíritu balear es la expresión de una voluntad para probar cualquier cosa al servicio de la pista de baile. A un lado queda el esnobismo musical, la credibilidad de un artista es irrelevante. A un lado quedan las divisiones entre los distintos géneros y la obsesión con lo nuevo, hasta se puede ignorar a veces la velocidad correcta de una grabación. Las reglas establecidas para el arte del DJ no se aplican. Lo que importa es el poder y la belleza de cada canción en el contexto en que se ubique. Designada así por el archipiélago mediterráneo que contiene a Ibiza, y refiriéndose originalmente a la música de DJ Alfredo, de Ibiza, el «balear» supone una apertura musical, una actitud en la que todo es posible. Solía nacer de la necesidad —la necesidad de alargar una cantidad limitada de discos para llenar las largas noches de verano—, pero enseñó una lección importante para cualquier DJ que tratara la música con demasiada reverencia."
  },
  "El gentilicio northern [norteño] en northern soul no hace referencia a Detroit sino a Wigan; no a Chicago sino a Manchester, a Blackpool y a Cleethorpes.": {
   "ch": 4,
@@ -611,6 +683,12 @@ window.ANOCHE_REFS = {
   "page": 76,
   "sec": "París durante la guerra",
   "para": "Fueron los nazis quienes propulsaron el primer boom de los discos. Para el Tercer Reich, el jazz estadounidense, con su herencia negra y judía, tenía todos los indicios de una amenaza cultural. «Son estilos de baile que la sana opinión pública llama “música de malditos negros”, en los que predominan ritmos provocativos y se abusa violentamente de la melodía», declaraban los locutores del Estado mientras lo censuraban de las ondas radiofónicas alemanas. Cuando Estados Unidos entró en la guerra, Goebbels emitió más decretos que censuraban los «ritmos de negros que bailan con el vientre». El jazz, que ya era la música de una juventud rebelde, se convirtió en nada menos que la banda sonora de la resistencia."
+ },
+ "El legado del popcorn explica por qué este país pequeño y peculiar fue el primero en el continente europeo en lograr el éxito comercial con el house y el tecno.": {
+  "ch": 14,
+  "page": 566,
+  "sec": "Bélgica",
+  "para": "El popcorn es mucho más que pop descartable, como sugiere el nombre. Este tipo de música era un guiso abundante de soul, doo-woop, jazz moderno, ska y música latina, con alguna nota exótica. Como el northern soul, era una escena retro que tuvo lugar desde finales de los sesenta hasta mediados de los setenta, apoyada en las visitas a Estados Unidos y en la búsqueda de discos viejos y raros. También como el soul norteño, el popcorn abrió el camino para más innovaciones en la pista de baile, con un legado de DJ, clubs y una cultura de obsesión musical para las formas posteriores. El legado del popcorn explica por qué este país pequeño y peculiar fue el primero en el continente europeo en lograr el éxito comercial con el house y el tecno."
  },
  "El más grande de todos era Douglas Jocko Henderson, mejor conocido como «The Ace from Outer Space».": {
   "ch": 2,
@@ -702,6 +780,12 @@ window.ANOCHE_REFS = {
   "sec": "El poder de un DJ",
   "para": "La radio es un medio de transmisión único. Tiene el poder de alcanzar a millones de personas, pero con la intimidad necesaria, a un tiempo, para que cada uno sienta que es la persona más importante escuchando el aparato en aquel momento. A diferencia de la televisión, que invade el hogar e impone imágenes de un mundo exterior, la radio es de alguna manera parte del lugar que la escucha, y las voces y la música que llevan consigo forjan un gran sentido de comunidad. El sociólogo Marshall McLuhan la llamó «el tambor de la tribu». Arnold Passman, en su libro de 1971, The Deejays, sentenciaba: «El tubo de electrones lo cambió todo, porque llevó la humanidad de regreso a la comunicación hablada»."
  },
+ "El sonido era único y, para mí, muy decadente».": {
+  "ch": 14,
+  "page": 568,
+  "sec": "Bélgica",
+  "para": "El nombre del género proviene del Club Popcorn, un café rural entre Gante y Amberes que desde septiembre de 1969 toca música soul los domingos por la tarde. Eddy de Clercq, quien luego fue de instrumental importancia para traer el house a los Países Bajos, recuerda llegar allí a eso de las tres de la tarde, en la hora punta. «Las calles se llenaban de vehículos aparcados y clientes bien vestidos que se dirigían a esta finca en mitad de la nada. Estaba tan abarrotado que apenas había espacio para moverse. El ambiente era tan excitante que cuando sonaba una canción popular, la gente comenzaba a vitorear y a derramar cerveza por todos lados. A veces, la gente se lanzaba encima del público o comenzaba a desvestirse al ritmo de la música. El sonido era único y, para mí, muy decadente»."
+ },
  "El sonido que surge de sus cenizas es el trance.": {
   "ch": 13,
   "page": 545,
@@ -731,6 +815,12 @@ window.ANOCHE_REFS = {
   "page": 93,
   "sec": "El Peppermint Lounge",
   "para": "La popularidad del twist desató una serie de bailes con la misma forma libre: el frug, el mashed potato, el poni, el hully gully, el monkey. Al cabo de pocos años, las pistas de baile habían otorgado popularidad a los eslóganes «freak-out» [pierde el control] y «flower power» [poder de las flores] de la era hippie, así como a las volteretas acrobáticas y las piruetas del northern soul. El twist había lanzado una bomba nuclear sobre el sector conservador del mundo del baile y erradicado los muy rígidos rituales de la pista de baile. Con esta hazaña se sentó la base para un nuevo tipo de club nocturno. Era hora de que la discoteca llegara a la edad adulta."
+ },
+ "El éxtasis comenzó a llegar a la isla en algún momento del principio de los ochenta, por cortesía de la secta religiosa de Bhagwan Shree Rajneesh": {
+  "ch": 14,
+  "page": 557,
+  "sec": "Ibiza",
+  "para": "El éxtasis comenzó a llegar a la isla en algún momento del principio de los ochenta, por cortesía de la secta religiosa de Bhagwan Shree Rajneesh, famosa por el amor libre y por los noventa y tres coches Rolls Royce personalizados de su líder. Rajneesh había descubierto el éxtasis a través de un psicoanalista cerca de su base estadounidense en Oregón, donde había estado experimentando con la droga en las terapias individuales y de pareja. Como no era ilegal aún, la secta la empleaba en las sesiones de «Quién soy» para fomentar los vínculos emocionales."
  },
  "Ella miró el cartel y le dijo: «Se refiere a música como la que pinchas en el Warehouse».": {
   "ch": 12,
@@ -780,6 +870,12 @@ window.ANOCHE_REFS = {
   "sec": "Los punks del Bronx",
   "para": "En 1982, Malcolm McLaren declaró: «Me parece que el punk está más vivo en Harlem, en algunos aspectos, de lo que lo está en Bracknell»."
  },
+ "En 1986, una sola canción convirtió el new beat en un género tangible.": {
+  "ch": 14,
+  "page": 573,
+  "sec": "El new beat",
+  "para": "En 1986, una sola canción convirtió el new beat en un género tangible. Flesh era un tema industrial bailable del grupo belga A Split Second, quienes se consideraban exponentes de la EMB. La grabación era una pieza metálica de inquietante agresividad en la instrumentación y ominosos sintetizadores en tono menor a 135 bpm. Sin embargo, si uno lo toca a 33 en vez de 45 revoluciones por minuto (con el control del rango pitch a +8), se convierte en una opiácea tonadilla a 105 bpm, con el bombo a tierra en las negras acentuando el segundo y el cuarto tiempo del compás. Ahora hay ritmos prolongados y explosiones subsónicas donde antes solo había velocidad."
+ },
  "En 1987, a los diecisiete años, al crear un tema de una dureza inexpugnable, CJ Bolland encendió la llama del hardcore tecno.": {
   "ch": 13,
   "page": 536,
@@ -815,6 +911,12 @@ window.ANOCHE_REFS = {
   "page": 503,
   "sec": "Electrifyin’ Mojo",
   "para": "Oriundo de Little Rock (Arkansas), con una carrera que arrancó en Filipinas, Mojo llegó a la radio de Detroit en 1977. Su rechazo a hincar la rodilla ante las convenciones de la radio del momento hacía que su programa cambiara con frecuencia de estación. El apetito voraz de Mojo por música nueva e inusual era un punto de partida importante para los «tres de Belleville». Los nutría con música e incendiaba su gusto por la exploración musical. A la larga, estaría entre los primeros en transmitir sus grabaciones. Igualmente importante quizá para una sensibilidad futura del tecno estaba el personaje misterioso y desencarnado que cultivaba. Su foto publicitaria era apenas una silueta oscura, y no había duda de la autoridad seductora y espaciada de sus programas. En algún punto de cada noche, se las arreglaba para que la nave nodriza, al estilo P-Funk, aterrizara para instruir a sus radioyentes que encendieran y apagaran sus luces a fin de poder guiar a los afronautas cósmicos hasta sus casas."
+ },
+ "En dos o tres semanas vendimos cinco mil copias».": {
+  "ch": 14,
+  "page": 575,
+  "sec": "El new beat",
+  "para": "En 1986 aparecieron las primeras canciones nuevas del new beat, Hiroshima de Nux Nemo, una versión del clásico sombrío de Snowy Red del Ancienne Belgique Euroshima (Wardance) y Not Afraid To Dance, una producción de Morton, Sherman y Bellucci con el nombre de Fruit Of Life. Originalmente era una canción mucho más compleja. Beelen recuerda cómo los DJ de la escena les dijeron que quitaran todos los breaks y los efectos, dejándola solo con los elementos básicos de ritmo. «Ahí estuve dándole durante seis minutos y medio. —Beelen sonríe—. Pues bien, si la quieren, se la daremos de esa forma. En dos o tres semanas vendimos cinco mil copias»."
  },
  "En efecto, en contubernio con el pretencioso mundo artístico de Manhattan, fue el punk lo que atrajo la atención mundial al hip-hop.": {
   "ch": 10,
@@ -972,6 +1074,12 @@ window.ANOCHE_REFS = {
   "sec": "Música mañanera",
   "para": "El hi-NRG suele caracterizarse como música para hacer ejercicio para juerguistas con bigote y consumidores de esteroides. Sin embargo, aquel género también fue de instrumental importancia a la hora de promocionar música con oficio y elaboradas texturas, llamada la «música mañanera» o «sensual» [sleaze] que empezaba a sonar cuando salía el sol. Nacida en los clubs que abrían hasta altas horas en Nueva York, era el alivio después del ajetreo sin pausa de toda la noche. Cuando llegaba la luz, el ritmo disminuía, y mientras el programa temprano de la madrugada se caracterizaba por su explícita carga sexual, el matinal daba paso al romance, el amor y el desamor. Era la belleza que seguía el ritmo."
  },
+ "Era la primera vez que los belgas veían su propia música en las listas nacionales.": {
+  "ch": 14,
+  "page": 576,
+  "sec": "El new beat",
+  "para": "El experimento era de tal calibre, que esta música nueva traspasó el ámbito comercial casi inmediatamente. Era la primera vez que los belgas veían su propia música en las listas nacionales. Los Erotic Dissidents gozaron de gran éxito con Move Your Ass And Feel The Beat; Euroshima de Nux Nemo llegó al primer puesto. De repente el auge comercial iba acompañado de un descenso en creatividad dado que todo el mundo creaba grabaciones de new beat. El portero del Boccaccio, Luc Devrieze, se convirtió en la otra mitad del dúo L&O con DJ Olivier Peters. El diseñador de moda Walter Van Beirendonck grabó una canción. El cantante melódico Rocco Granata hizo que su éxito belga de 1959 Marina se remezclara en un nuevo éxito del new beat. (Imagínese a Max Bygraves remezclado por Paul Oakenfold). El camarero del club Confetti, en Amberes, se convirtió en el líder del grupo del mismo nombre, cuya canción The Sound Of C fue otro éxito más."
+ },
  "Era mucho más valiente».": {
   "ch": 12,
   "page": 471,
@@ -1127,6 +1235,18 @@ window.ANOCHE_REFS = {
   "page": 539,
   "sec": "Reino Unido",
   "para": "El tecno se convirtió en el sonido básico de los crusties, o «viajeros new age», en la medida en que el anarcopunk se adentró en la música bailable y adoptó el ideal de las raves como forma de seguir la tradición de los festivales gratuitos. Los sistemas de sonido tecno móviles se volvieron artefactos inseparables de la parafernalia crusty, como un perro con su amo, con los clubs Club Dop y Whirl-Y-Gig como ofertas más estables en Londres. Estos vándalos sonoros estarían en primera línea durante la batalla del Gobierno contra la cultura del baile."
+ },
+ "Estoy en Encuentros en la tercera fase": {
+  "ch": 14,
+  "page": 576,
+  "sec": "El new beat",
+  "para": "«La primera vez que fui al Boccaccio dije: “¡A la mierda!”. Estoy en Encuentros en la tercera fase —exclamó Geert Sermons, dueño de la tienda de discos Doctor Vynil, en Bruselas—. Había luces láser por todos lados, combinadas con los sonidos que uno escuchaba, uno sentía que estaba en la luz y en el sonido. La vida nunca ha sido la misma desde entonces»."
+ },
+ "Estoy seguro de que la gente puede escucharlas ahora y decir: “Bueno, otra canción de U2”, pero yo puedo escucharlas y todavía se me pone la piel de gallina».": {
+  "ch": 14,
+  "page": 564,
+  "sec": "Ibiza al descubierto",
+  "para": "Escuchar The Right Thing de Simply Red en medio de un set de deep house en el sofocante Mediterráneo puede ser mágico: todo lo contrario de escucharla en Magic FM o en un taxi en Peckham. Como ocurre con todo buen arte, el DJ también forma parte de un contexto. Fuera del mismo, el sonido balear puede antojarse como el que amenizaría una boda cursi; bien tocado, puede lograr que uno escuche canciones con oídos frescos. «Alfredo solía tocar un par de canciones de U2, I Still Haven’t Found What I’m Looking For y With Or Without You —recuerda Johnny Walker—. Y escucharlas a las siete de la mañana, con el sol saliendo, en un club al aire libre, completamente drogado…, ¡guau!, simplemente suenan fabulosas. Estoy seguro de que la gente puede escucharlas ahora y decir: “Bueno, otra canción de U2”, pero yo puedo escucharlas y todavía se me pone la piel de gallina»."
  },
  "Están muy ocupados saliendo de fiesta».": {
   "ch": 13,
@@ -1452,6 +1572,12 @@ window.ANOCHE_REFS = {
   "sec": "Jamaica sin igual",
   "para": "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual. Más aún, fue el primer lugar en donde una grabación ya no se veía como un producto acabado. Por el contrario, en el estudio se convirtió en la progenitora de una serie de versiones similares pero distintas de material para un sinfín de remezclas o, como decían ellos, dubs. De esta manera nació el concepto de la remezcla, varios años antes de que la misma idea se les ocurriera a los DJ de disco y de hip-hop."
  },
+ "La música-AB es el sonido balear de Bélgica, una versión más gótica de la aventura ibicenca.": {
+  "ch": 14,
+  "page": 571,
+  "sec": "El new beat",
+  "para": "Tristemente, a mitad de los ochenta, hacia el final de su reino, Ronny sucumbió a su hábito de heroína y ahora su vida se reduce a entrar y salir de la cárcel. Pero la música que recopiló tuvo un impacto importante, y se fusionó hasta convertirse en el new beat. La música-AB es el sonido balear de Bélgica, una versión más gótica de la aventura ibicenca. Es una liberación musical ubicada bajo nubes negras y llovizna en vez del sol optimista, donde las guitarras de flamenco fueron sustituidas por patrones de batería angulares y sintetizadores retumbantes."
+ },
  "La noticia de esta joya oculta incluso llegó al mundillo cerrado del Bronx, donde los DJ que formulaban el hip-hop la convirtieron en un himno.": {
   "ch": 6,
   "page": 229,
@@ -1463,6 +1589,12 @@ window.ANOCHE_REFS = {
   "page": 160,
   "sec": "Copias falsas y piratas",
   "para": "La nueva obsesión con las rarezas abonó un terreno fértil para las copias falsas y piratas. Simon Soussan, quien había descubierto el disco de Frank Wilson, reforzaba sus listas de ventas con títulos ficticios, exigiendo a sus clientes que incluyeran más opciones con sus pedidos. Uno de esos pedidos imaginarios era «Reaching For The Best» de Bob Relf (este era un artista que había tenido un éxito modesto con una canción titulada Blowing My Mind To Pieces). Al fortalecer el estatus de su lista con un disco tan «raro», Soussan obtuvo varias ofertas. Ninguna, por supuesto, recibió la nueva grabación de Relf, aunque Soussan liquidó todo su inventario vendiendo a todo el mundo discos de segunda opción. En un giro gracioso de esta historia, Ian Levine robó el título de Soussan y escribió una canción real con él. Fue su primera producción, Reaching For The Best de The Exciters, y llegó al número 31 en las listas pop del Reino Unido en 1975."
+ },
+ "La otra contribución de Ibiza es la promoción del concepto de chill-out o relajación.": {
+  "ch": 14,
+  "page": 561,
+  "sec": "José Padilla en Café del Mar",
+  "para": "Los cafés ponían la banda sonora a un duro día de tomar el sol y retozar por los bares antes de ir al club, marcaban la transición hacia otra noche de hedonismo. La otra contribución de Ibiza es la promoción del concepto de chill-out o relajación."
  },
  "La palabra garage es con diferencia el término más mutilado de toda la historia de la música.": {
   "ch": 11,
@@ -1499,6 +1631,12 @@ window.ANOCHE_REFS = {
   "page": 148,
   "sec": "La pugna por el alma del soul",
   "para": "La respuesta de Levine, mucho más polémica, fue mirar al presente en busca de sonidos frescos, añadiendo temas del soul moderno, discos de 12 pulgadas y canciones de jazz-funk al repertorio. A los ojos de muchos suponía una burla. Esta era una cultura que idolatraba lo viejo, lo polvoriento y lo anónimo. Un DJ de northern soul rompía las reglas del oficio si se atrevía a adulterar el sonido fuerte y pinchar discos genuinamente nuevos (y fáciles de conseguir). Mientras Levine exhibía su amplitud de miras, se encontró abriendo una profunda brecha entre los feligreses."
+ },
+ "La revolución del acid house que engendró la cultura del baile actual fue provocada por la música que él pinchaba y por la atmósfera que él creaba en su pista de baile.": {
+  "ch": 14,
+  "page": 558,
+  "sec": "Alfredo en el Amnesia",
+  "para": "Alfredo Fiorito es una leyenda, no solo en Ibiza, sino por todo el mundo de los clubs. La revolución del acid house que engendró la cultura del baile actual fue provocada por la música que él pinchaba y por la atmósfera que él creaba en su pista de baile. Su logro fue unificar una mezcla salvaje de sonidos al fusionar el house de Chicago con una sensibilidad pop inequívocamente europea. La prensa británica rápidamente lo denominó «los ritmos baleares». Cuando se combinaba con los efectos combustibles del éxtasis, se antojaría imparable."
  },
  "La revolución por el cambio».": {
   "ch": 13,
@@ -1608,6 +1746,12 @@ window.ANOCHE_REFS = {
   "sec": "Lo que realmente hace un DJ",
   "para": "Lo que hace un DJ es esto: sabe de música. El DJ conoce la música mejor que tú, mejor que tus amigos, mejor que cualquiera en la pista de baile o en la tienda de discos. Algunos DJ conocen su género preferido mejor que nadie más en el planeta. Claro, cualquiera puede poner un disco, pero la mayoría de la gente solo tiene canciones que todos han escuchado, canciones que ya aburren al personal. Un buen DJ lanza a la sala momentos musicales tan nuevos y tan frescos que se antoja irrelevante el que la música sea grabada, y tan poderosos que fácilmente desbancará a tus favoritos de todos los tiempos (y aquí algo «fresco» puede significar una canción vieja rescatada de la más absoluta oscuridad tan fácilmente como una pista producida ayer). El verdadero trabajo del DJ no es agazaparse detrás de los platos por un par de horas, con un aire furtivo a la espera de cupones para bebida; el verdadero tiempo y esfuerzo se empeña en una vida entera examinando la música para decidir si es buena, mala o «¡Ay, Dios mío, escucha esto!». La labor de un DJ es canalizar el vasto océano de música grabada en una sola noche inolvidable."
  },
+ "Lo verificamos. Nadie ha oído hablar de ellos jamás.": {
+  "ch": 14,
+  "page": 581,
+  "sec": "Afrocósmicos italianos",
+  "para": "Hasta aquí la leyenda. La mayor parte es cierta. El magnate se llama Giancarlo Tirotti. Se casó, en efecto, con una princesa rusa. Los DJ de Nueva York son Bob Day y Tom Sison. Tocaron en el Baia de 1974 a 1976. Usaban carátulas de discos como alfombrillas improvisadas. A medida que se lanzaban sencillos de 12 pulgadas se los agenciaban todos. La gente presumía que eran famosos en Nueva York. Lo verificamos. Nadie ha oído hablar de ellos jamás."
+ },
  "Lo único que teníamos para compararlo era Kraftwerk.": {
   "ch": 13,
   "page": 509,
@@ -1692,6 +1836,12 @@ window.ANOCHE_REFS = {
   "sec": "La pugna por el alma del soul",
   "para": "«Eran como dos hinchadas de equipos de fútbol: los del Manchester City y los del Manchester United —recuerda—. En ese momento poníamos toda esta música disco moderna: los Doctor Buzzard’s Original Savannah Band, Tavares, “Car Wash”, “Jaws” de Lalo Schifrin. Y ellos ponían todo lo que tuviera un rito pesado y fuerte. Todos esos fanáticos de Wigan con sus camisetas y pantalones bombachos gritaban: “¡Vete a la mierda! ¡Bájate! ¡Pon stompers!”». Se había creado una campaña para acabar con Levine. Los fanáticos del Casino llevaban chapas con el lema: «LEVINE MUST GO» [Levine se tiene que ir]. Un sábado, dos fanáticos hasta caminaron por el Mecca con una pancarta enorme con el mismo lema."
  },
+ "Los jóvenes se apostaban en las laderas de la colina, escuchando la música mientras fluía por el aire nocturno.": {
+  "ch": 14,
+  "page": 579,
+  "sec": "Afrocósmicos italianos",
+  "para": "Pero dejaron en su lugar a dos DJ incluso más asombrosos, dos aprendices a quienes los estadounidenses habían enseñado sus secretos. Estos dos jóvenes italianos eran tan talentosos, estaban tan completamente inmersos en la música, que no importaba que los estadounidenses se hubieran ido. Juntos trajeron una música a Baia que era más espectacular que la anterior. El club ahora es una leyenda. La gente llegó a saber de Baia aunque no tuvieran el dinero para entrar. Los jóvenes se apostaban en las laderas de la colina, escuchando la música mientras fluía por el aire nocturno. Se juntaban en coches, fumaban marihuana y se inyectaban heroína, pasaban la noche al ritmo de esta música que no existía en ninguna otra parte."
+ },
  "Los músicos se referían a la transmisión de música grabada como «el pecado mortal de DeForest».": {
   "ch": 2,
   "page": 36,
@@ -1721,6 +1871,12 @@ window.ANOCHE_REFS = {
   "page": 385,
   "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
   "para": "Para quienes lo escucharon en aquella época fue un momento revolucionario en la historia de la música: una grabación compuesta de nada más que otras grabaciones, una grabación hecha por un DJ, un collage posmoderno de textos existentes, la prueba fehaciente llena de scratching de que los platos podían ser instrumentos reales. Los teóricos escucharon formarse la grieta en los conceptos como autoría, derechos de autor, originalidad, virtuosismo musical: Adventures Of Grandmaster Flash On The Wheels Of Steel fue la primera vez que el hip-hop era capturado en una grabación en lugar de traducido; las posibilidades para la creación musical se habían multipicado exponencialmente."
+ },
+ "Luego todo el mundo tenía sexo con todo el mundo, si es que no lo habían hecho ya».": {
+  "ch": 14,
+  "page": 554,
+  "sec": "Ibiza",
+  "para": "No siempre se reducía exclusivamente al sexo y a las drogas. El famoso hotelero de Ibiza Tony Pike recuerda cuán tranquila y reservada solía ser la isla allá en los setenta. «Después de la cena, la costumbre era pedir otro plato, girarlo y cortar rayas de coca. La mayoría de los huéspedes lo hacían. Luego todo el mundo tenía sexo con todo el mundo, si es que no lo habían hecho ya»."
  },
  "MM: «Claro, ¿y quién lo compraría?": {
   "ch": 10,
@@ -1763,6 +1919,12 @@ window.ANOCHE_REFS = {
   "page": 414,
   "sec": "D. ST y Rockit",
   "para": "Sin embargo, D. ST nunca fue aceptado del todo como un artista hasta que el veterano productor Quincy Jones lo fue a visitar. «Se sentó en una silla, la giró y se sentó frente a mí: “Adelante, toca”. Así como así. Cuando terminé, se levantó y me dio un abrazo de oso, entonces fue oficial para mí. Me dijo: “Eso que haces, cabrón, está genial, es increíble”. Me dijo: “Estás tocando tresillos. Tocas muchos tresillos”. Hablaba de música. Y le dije: “Sí, toco tresillos”»."
+ },
+ "Me encantaba el ambiente de esos días; era sucio, decadente, extraño e incómodo».": {
+  "ch": 14,
+  "page": 571,
+  "sec": "El new beat",
+  "para": "«Nunca fue mi intención convertirme en el padre de un estilo musical —dijo Fat Ronny a la revista In & Out de Amberes cuando le preguntaron sobre el new beat—. Yo toco música, no creo música. Selecciono la música e intento crear un ambiente». El estado de ánimo que invocaba distaba mucho de lo convencional. Confesó cómo le gustaba colar un tema ocasional tan extraño que era imposible bailarlo, solo para que la pista se vaciara y comenzara otra vez desde cero. «Siempre había raritos que seguían bailando ese tema imposible de bailar que yo pinchaba. Me encantaba el ambiente de esos días; era sucio, decadente, extraño e incómodo»."
  },
  "Me fui a casa la noche en que cortamos la pista y me llevé la cinta a casa, y le dije a mi esposa de entonces: “Acabamos de hacer historia”».": {
   "ch": 10,
@@ -2010,6 +2172,12 @@ window.ANOCHE_REFS = {
   "sec": "SO MANY MEN, SO LITTLE TIME (TANTOS HOMBRES, TAN POCO TIEMPO)",
   "para": "Pero el hi-NRG todavía es disco; sus DJ originales fueron DJ de disco. El hi-NRG fue lo que tomó el relevo cuando el disco comercial se hundió y los Village People abandonaron la YMCA. Es la música que evolucionó en los clubs gais blancos de clase alta de Nueva York y alcanzó la madurez en Londres, Nueva York y San Francisco. Aunque esta historia está repleta de tragedias, sus raíces yacen en un profundo deseo de liberación, junto al surgimiento de la cultura y del orgullo gay."
  },
+ "Pero fue el gran éxito del verano de 1989, Ride On Time de Blackbox, el sencillo que más vendió ese año en el Reino Unido, el que condujo a los británicos a una locura por el piano.": {
+  "ch": 14,
+  "page": 585,
+  "sec": "Afrocósmicos italianos",
+  "para": "Por supuesto, las primeras grabaciones del italohouse son las que todo el mundo recuerda, grandes monstruos de piano dinámico con divas a todo volumen y un cosquilleo de marfil que hacía que Les Dawson sonara como André Previn. Estas canciones no solo llenaron muchas noches de house en el Reino Unido, sino que también sirvieron como modelo para las primeras incursiones británicas en el hardcore. La casa productora de Gianfranco Bortolotti, Media —un verdadero Motown en miniatura— lanzó el primer disco de house con Bauhaus, inspirada en M/A/R/R/S, seguida de una ola de éxitos, entre ellos Touch Me de 49ers y Helyom Halib de Capella. Pero fue el gran éxito del verano de 1989, Ride On Time de Blackbox, el sencillo que más vendió ese año en el Reino Unido, el que condujo a los británicos a una locura por el piano. Para cuando Italia estaba creando este tipo de música, el movimiento afrocósmico era un recuerdo borroso."
+ },
  "Pero la agudeza comercial extraordinaria de Sylvia triunfó, y así nació la apuesta contestataria que perviviría en el rap.": {
   "ch": 10,
   "page": 383,
@@ -2027,6 +2195,18 @@ window.ANOCHE_REFS = {
   "page": 270,
   "sec": "El nacimiento del sencillo de 12 pulgadas",
   "para": "Pero lo cierto es que el sencillo de 12 pulgadas llegó por accidente. Moulton fue a que le imprimieran una mezcla a un vinilo, pero a su maestro ingeniero, José Rodriguez, se le habían acabado las placas en blanco necesarias para cortar el disco maestro. «José me dijo que se le habían acabado las placas de 7 pulgadas y que tendría que usar una de 12. Le dije: “Bah, eso es ridículo”. Así que él dijo: “Tengo una idea: ensancharemos las ranuras para que suene más alto”. Y, por supuesto, por poco me muero cuando lo escuché». Este disco, el primer sencillo de 12 pulgadas, era So Much For Love de Moment Of Truth. Fue algo que Moulton creó para un grupo muy selecto de sus amigos DJ, y aunque Roulette lo lanzó luego en formato de 7 pulgadas, en formato más grande nunca estuvo disponible comercialmente."
+ },
+ "Pero nadie nos da tanta libertad para portarnos mal».": {
+  "ch": 14,
+  "page": 563,
+  "sec": "Ibiza al descubierto",
+  "para": "En 1996, la BBC Radio One comenzó a acampar en Ibiza durante los veranos, y transmitía en vivo durante fines de semana completos en una sola emisión. Las revistas de clubs DJ, Muzik y Mixmag comenzaron a publicar noticias semanales independientes para la isla. Se decía que ahora el tráfico de drogas anual valía unos 200 millones de libras esterlinas. El vicecónsul británico de la isla, Michael Birkett, estaba tan horrorizado con el comportamiento de los turistas británicos que renunció en 1998, y su imagen quedó aún más manchada por el programa «Ibiza Uncovered» de Sky TV en 2000, que se concentró en las depravaciones corporales del temido West End de San Antonio. Para 2003, el turismo había aumentado a la friolera de 1,1 millones de visitantes al año. Ben Turner, entonces editor de Muzik, resumió su atractivo en un artículo periodístico para el Guardian sobre la laxitud de la policía de Ibiza. «Lo hemos intentado en otros lugares como Portugal y Chipre. Pero nadie nos da tanta libertad para portarnos mal»."
+ },
+ "Pero no tenían idea de lo excepcionales que eran: fueron de los primeros DJ en mezclar discos en Europa.": {
+  "ch": 14,
+  "page": 579,
+  "sec": "Afrocósmicos italianos",
+  "para": "Se dice que el Baia era el sueño de un magnate que se casó con una princesa rusa. Tras ver las luces de Nueva York, regresó a Rimini con un plan para construir el club más fabuloso de Europa, incluso regresó con dos DJ neoyorquinos para que pincharan. Y qué buenos DJ eran. Guapos, gais y colmados de las mismas grabaciones mágicas que él había escuchado en Estados Unidos. No solo eso, sino que también podían deslizarse de una canción a otra suavemente, como una cascada continua. Era un talento espectacular: sin paradas, sin brechas. Pronto se convirtió en la comidilla de toda Italia. La gente hacía todo lo posible por visitar el hermoso club y escuchar a estos disc jockeys maravillosos. Les enorgullecía que Italia tuviera lo que Estados Unidos tenía. Pero no tenían idea de lo excepcionales que eran: fueron de los primeros DJ en mezclar discos en Europa."
  },
  "Pero si a Ron Hardy no le gustaba, hubiera sido el fin del acid house».": {
   "ch": 12,
@@ -2106,6 +2286,12 @@ window.ANOCHE_REFS = {
   "sec": "Explotación",
   "para": "Era una práctica común comprar temas directamente con un contrato mínimo sin mencionar regalías ni publicación. Los jefes de los sellos exhortaban a los productores para que se asesoraran y recomendaban a un abogado, pero no les explicaban que se trataba de su propio abogado. Pregunta a cualquiera de los pioneros del house si recibieron en algún momento un cheque por regalías, y lo más seguro es que se meen de risa. Los jóvenes eran demasiado ingenuos como para protestar, pues, en efecto, estaban demasiado contentos con recibir un pago único de unos cientos a unos miles de dólares por un tema, sin imaginar que una vez el ingreso por los derechos comenzara a correr, era probable que el tema ahora valiera unas cincuenta veces su valor original. Para ser justos, aun cuando se enteraron de cómo se supone que funcionaba la industria, muchos siguieron vendiendo música a Trax y a DJ International contentos por recibir dinero rápido por un tema rápido. «Éramos jóvenes y estos tipos controlaban las chequeras», cuenta Chip E suspirando."
  },
+ "Puse D Mob y había tres mil personas con los brazos arriba».": {
+  "ch": 14,
+  "page": 576,
+  "sec": "El new beat",
+  "para": "«Lo recordaré para el resto de mi vida —dice DJ Eric B con un suspiro, refiriéndose a su debut en el club en agosto de 1988—. Había más de cinco mil personas allí, y miles fuera. Era una verdadera locura. Había tanta gente que las ventanas de la entrada se rompieron por la presión. Puse D Mob y había tres mil personas con los brazos arriba»."
+ },
  "Que no quepa duda, Bambaataa era tan punk como cualquiera en Nueva York.": {
   "ch": 10,
   "page": 403,
@@ -2123,6 +2309,12 @@ window.ANOCHE_REFS = {
   "page": 120,
   "sec": "La primera cultura rave",
   "para": "Quince años antes de que la cultura rave cobrara existencia, el northern soul le brindó un prototipo casi perfecto. He aquí una dimensión en la que los muchachos de la clase trabajadora venían juntos en grandes cantidades y recorrían largas distancias hasta lugares oscuros para consumir drogas y bailar una música que a nadie más importaba. Una comunión en la que la solidaridad y la pertenencia al clan eran muy importantes. Durante mucho tiempo, la actitud de los sofisticados pimpollos del mundo de los clubs londinenses fue de ignorancia cuando no de desprecio, lo que le permitió desarrollarse prácticamente sin problemas y sin llamar la atención. Y, tal como sucediera con el movimiento rave (en el que el hardcore se distanció de la vertiente más comercial de la escena en un esfuerzo por preservar el espíritu de la música original), el northern soul terminó escindiéndose en un esquizoide cisma, en la medida en que los DJ más progresistas y abiertos de miras consideraban que sus gustos musicales chocaban con la férrea oposición de los tradicionalistas ultraortodoxos."
+ },
+ "Quizá la escena balear más extraña de todas es el movimiento afrocósmico de Italia.": {
+  "ch": 14,
+  "page": 578,
+  "sec": "Afrocósmicos italianos",
+  "para": "Quizá la escena balear más extraña de todas es el movimiento afrocósmico de Italia. En el ocaso del disco, en un circuito de clubs en el acaudalado patio de recreo que es la costa del Adriático, dos DJ respondieron a las pistas de baile influidas por las drogas con una de las músicas más surrealistas de la historia. Usamos el término afrocósmico, acuñado en 2001 por Louise Oldfield en la revista 7, pues no hay dos italianos que se pongan de acuerdo con un nombre para la escena. La música afrocósmica tomó la noción balear de recontextualizar la música hasta extremos impensables. El alucinante Krautrock combinado con batucadas brasileñas tranquilizadas, un afrorritmo ralentizado resultaba en Orchestral Manoeuvres in the Dark a 33 revoluciones por minuto; toda la historia de la música revuelta en una sopa eléctrica."
  },
  "Quizá la expresión más extraña del sentimiento antidisco provino de Turquía": {
   "ch": 11,
@@ -2430,6 +2622,12 @@ window.ANOCHE_REFS = {
   "sec": "Ron Hardy en el Music Box",
   "para": "Esta apertura sexual produciría transformaciones drásticas en los chicos heteros más rudos que se aventuraban hasta el lugar. Había poca o ninguna homofobia. «Si no soportas estar entre gais, pues no podías ir de fiesta en la ciudad de Chicago —recuerda Cedric—. Te preguntaban: “¿Eres hijo o hijastro?”. Es decir, ¿eres gay o no? Si eras hijastro, quería decir que eras hetero, pero te aceptábamos». Durante un tiempo fue una moda actuar como un gay aunque no lo fueras. Cedric recuerda personas que experimentaban con su bisexualidad en un intento para acercarse al verdadero significado de la música house."
  },
+ "Tenemos que tocar Talk Talk, tenemos que tocar new beat belga, tenemos que tocar rock, tenemos que tocar reggae porque tenemos que rellenar un espacio de muchas horas».": {
+  "ch": 14,
+  "page": 558,
+  "sec": "Alfredo en el Amnesia",
+  "para": "José Padilla, el famoso DJ chill-out de Ibiza, coincide en que el sonido de Ibiza tiene tanto que ver con la conveniencia como con los polvos mágicos de Tanit: «No había mucha opción. No es porque en Ibiza nos guste tocar de esa forma. Tenemos que tocar Talk Talk, tenemos que tocar new beat belga, tenemos que tocar rock, tenemos que tocar reggae porque tenemos que rellenar un espacio de muchas horas»."
+ },
  "Tenía más sentido para los oídos de la industria escuchar esta música de las manos de europeos blancos.": {
   "ch": 13,
   "page": 531,
@@ -2508,6 +2706,12 @@ window.ANOCHE_REFS = {
   "sec": "El sampleado",
   "para": "El sampleado ahora es una parte aceptada de la música, y los sellos discográficos tienen departamentos enteros para vender permisos de sampleado. Durante muchos años, sin embargo, generó una confusión considerable, dado que todos intentaron evitar dar carta de naturaleza a una práctica de facto normalizada. Esta situación la resolvió parcialmente un fallo jurídico importantísimo en 1992 contra el rapero Biz Markie por samplear Alone Again Naturally de Gilbert O’Sullivan para su disco «I Need A Haircut». Un juez federal, con el mandamiento «No robarás», sentó el precedente con un fallo contra Biz y, en vez obligar a la discográfica (Cold Chillin’, de Warner Bros) a que pagara regalías a O’Sullivan, exigió que se retirara el sampleado ofensivo de la grabación y el secuestro inmediato de todos los discos que lo contuvieran."
  },
+ "Una constante ha sido la tolerancia de los ibicencos por los recién llegados.": {
+  "ch": 14,
+  "page": 554,
+  "sec": "Ibiza",
+  "para": "Una constante ha sido la tolerancia de los ibicencos por los recién llegados. Durante muchos siglos, Ibiza ofreció refugio del continente europeo para todos, desde los romanos hasta los árabes, los vándalos y los catalanes. Los judíos que escapaban de la persecución, los estadounidenses que huían del servicio militar, las estrellas de pop en busca de una fiesta sin protagonismo, así como religiones y sectas desde lo banal a toda suerte de chifladuras, todos han naufragado en sus costas. Antes de su desarrollo como complejo turístico, Ibiza dependía mucho de las salinas que la convirtieron en la «Isla Blanca» para generar ingresos. Su aliciente para muchos pobladores era precisamente su situación tan remota y aislada (el aeropuerto apenas se construyó en 1967). Los beatniks siguieron la ruta a la ilustración por ahí, las estrellas de cine como Errol Flynn, Terry Thomas y Ursula Andress eran visitantes habituales, y durante la dictadura de Franco en el continente español, las noticias se propagaban rápido entre la comunidad gay de que era un lugar donde los hombres podían caminar agarrados de la mano sin miedo a que los agredieran. En 1960, los hoteles de la isla notificaron apenas 30 000 visitantes; para 1973, la cifra había alcanzado el medio millón."
+ },
  "Una cosa comenzó a quedar muy clara: estos clubs nuevos no solo tenían el poder de poner canciones nuevas a los aficionados en sus pistas de baile, también eran capaces de crear éxitos comerciales.": {
   "ch": 6,
   "page": 231,
@@ -2580,6 +2784,12 @@ window.ANOCHE_REFS = {
   "sec": "La prisa por grabar",
   "para": "El secreto radicaba en lo sencillo de los temas. «Nuestro sonido es tan distinto porque podemos crear una línea de bajo y una pista de ritmo y podemos vender diez mil copias de eso solo en la ciudad —le dijo Farley a Sheryl Garratt, de The Face, en 1986—. Lo único que necesitas es sentir la música. Hay personas que van a la universidad a estudiar música y no pueden crear ni siquiera una base rítmica, menos aún una grabación exitosa. Es extraño. Y parece que es una pérdida de tiempo aprender todo eso, porque ahora un chico puede agarrar un ordenador, tener suerte con él y escribir un éxito»."
  },
+ "Y pensé: “Pero ¿qué es esto?”».": {
+  "ch": 14,
+  "page": 562,
+  "sec": "José Padilla en Café del Mar",
+  "para": "La inspiración de Padilla estriba en la alta tolerancia de las pistas de baile ibicencas por la música extraña, en particular la noche en que escuchó Music For A Found Harmonium de la Penguin Cafe Orchestra en una discoteca. Esta canción casi sin ritmo suena más como una chirimía asmática que como una canción de baile. «Paco, un DJ de Valencia, la tocó. Fue el principio del éxtasis, y fue la primera vez que vi personas bailando al estilo acid-house con ese tema. Y pensé: “Pero ¿qué es esto?”»."
+ },
  "Y él les dijo: “Mira, chaval, no me preguntes a mí, pregúntale a él, él escribió la puta canción”».": {
   "ch": 10,
   "page": 414,
@@ -2622,11 +2832,23 @@ window.ANOCHE_REFS = {
   "sec": "El trance de Goa",
   "para": "Otra escena completamente independiente había cultivado el trance de forma paralela. Centrada en las playas de Anjuna y Vagator en Goa, antigua colonia portuguesa en el suroeste de la India, el trance de Goa o trance psicodélico evolucionó directamente del house progresivo. Ejemplificado en temas como Go de Moby o Papua New Guinea de Future Sound Of London, y en el trabajo de William Orbit, el house progresivo era el house creado como el tecno, con melodías construidas de capas de sonidos sintéticos orquestados a la perfección; su nombre es una mofa de la revista Mixmag para referirse al rock progresivo grandilocuente de principios de los setenta. Pronto se colaron mandalas psicodélicos fenomenales y sampleados étnicos y etéreos, como Loop Guru y Banco de Gaia, bandas con gamelanes y flautas de nariz. Los resultados eran perfectos para los que observaban los amaneceres descalzos en las playas de Goa, dirigidos por presentaciones de Juno Reactor y Man With No Name. El sello londinense Dragonfly del exbajista de Killing Joke, Youth, fue una fuerza vital, y la escena de la fiesta la dirigía un DJ llamado Goa Gil, un hippie de San Francisco."
  },
+ "en Italia la música se canalizaba directamente desde las lunas de Júpiter.": {
+  "ch": 14,
+  "page": 580,
+  "sec": "Afrocósmicos italianos",
+  "para": "¿Su sonido? Fuera de este mundo. Dislocado. Irreal. Cósmico. Era como si su música tuviera una historia distinta a la que uno conoce, como si hubieran comprado discos en un planeta paralelo. Funk con sabor a dub, efectos electrónicos con mucho jazz, redobles de batería espaciales, una rareza deformadora y asertiva, todo movido sin detenerse en líneas de bajo pesadas y perezosas. Se prestaba poca atención a las canciones individuales; uno perdía la noción del tiempo dado que los elementos cambiaban y se fundían, entrabas en los túneles del ecualizador y la sincronización escalonada, las canciones cambiaban de cara con cada una y viceversa. Todo se combinaba como la música de las películas, como si se tuviera en cuenta cada cambio diminuto en el sonido. Salvajemente ecléctica, pero no soleada como Ibiza ni gótica como Bélgica, en Italia la música se canalizaba directamente desde las lunas de Júpiter."
+ },
  "fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio.": {
   "ch": 4,
   "page": 135,
   "sec": "Farmer Carl en el Catacombs",
   "para": "Aunque la escena todavía estaba en sus años de formación, ya lograba ejercer una influencia en la industria musical en general: fue el naciente movimiento del norte el que engendró los primeros éxitos de las listas al provenir de los clubs y no de la radio. Cuando Just A Little Misunderstanding de los Contours 45 (grabada originalmente en 1965 y coescrita por Stevie Wonder) se coló en las listas en enero de 1970, anunció una nueva era para la música bailable en el Reino Unido. Le siguió pronto I’m Gonna Run From You de Tami Lynn, del sello Mojo Records, distribuida por la Polydor de John Abbey, que alcanzó el número cuatro en mayo de 1971. Como este último era dueño y fundador de Blue & Soul, estaba en una posición privilegiada para ver las posibilidades de la música. La confirmación de este nuevo fenómeno se produjo cuando Hey Girl Don’t Bother Me de las Tams, una grabación cuya fama se debe a la influencia de Farmer Carl, llegó al número uno (en Reino Unido) en 1971."
+ },
+ "la escena de clubs de Ibiza se basa en raíces hippies, sus gustos musicales se basan en el rock psicodélico.": {
+  "ch": 14,
+  "page": 555,
+  "sec": "Ibiza",
+  "para": "Escuchada al fresco en una fiesta en la cima de una colina o en una discoteca al aire libre, con un bajo generoso y los altos burbujeando hasta el cielo nocturno, la música de Ibiza siempre ha sido ligera y liberada. Aunque ha habido otros tipos de música en la isla, como el jazz llevado allí por el renegado GI Bad Jack Hand (tan malo era que terminó en una cárcel de Barcelona condenado por asesinato), la escena de clubs de Ibiza se basa en raíces hippies, sus gustos musicales se basan en el rock psicodélico. Tanto el Ku (ahora el Privilege) como el Amnesia comenzaron como espacios hippies: el primero, un antiguo restaurante llamado San Rafael; el segundo, una simple finca. Después de que Pink Floyd grabara la banda sonora para la película de Barbet Schroeder, More, en la isla en 1969, llegó un influjo mayor de peregrinos de la contracultura a San Juan y a San Carlos."
  },
  "la línea de bajo de Acid Tracks se conservará para siempre en las entrañas de esa máquina».": {
   "ch": 12,
@@ -2712,6 +2934,12 @@ window.ANOCHE_REFS = {
   "sec": "Explotación",
   "para": "Quizá de forma aún más dañina, sin embargo, Trax y DJ International al parecer invertieron muy poca energía en desarrollar las carreras de esos jóvenes artistas y se concentraron, en cambio, en vender rápido contratos de derechos en el extranjero, cuyas ganancias se mantuvieron en secreto para la mayoría de los productores. Se suele argumentar que ahuyentaron el interés por parte de las majors en la música de Chicago. «Agarraban el dinero y huían con él —insiste Farley—, en vez de invertir en la carrera artística de estos jóvenes valores»."
  },
+ "«Al escuchar esas mezclas cósmicas, uno piensa: “¿Reglas? Pues no hay reglas”.": {
+  "ch": 14,
+  "page": 586,
+  "sec": "Afrocósmicos italianos",
+  "para": "La actitud balear abre los oídos de un DJ: a otros géneros, a otras épocas, a otros países. Para el distribuidor de discos Mark Seven, el espíritu balear provocaba lo mejor del arte del DJ. «Significaba que los DJ no se limitaban solo a ir a la tienda de discos y comprar lo que salía esa semana. La gente en realidad se esforzaba por añadir algo nuevo al ruedo que fuera suyo: un mensaje desde su corazón». La música afrocósmica ejemplificaba este concepto. Seven apostilla: «Al escuchar esas mezclas cósmicas, uno piensa: “¿Reglas? Pues no hay reglas”. Lo que creas que te puede funcionar, funcionará»."
+ },
  "«Alan Freed era amable con demasiadas personas afrodescendientes, así que acabaron con él.": {
   "ch": 2,
   "page": 61,
@@ -2771,6 +2999,12 @@ window.ANOCHE_REFS = {
   "page": 244,
   "sec": "Walter Gibbons en el Galaxy 21",
   "para": "«Creo que yo era el mejor DJ del mundo hasta que escuché pinchar a Walter Gibbons», le dijo Jellybean Benitez, un joven DJ nacido en el Bronx y destinado a la fama, a Steven Harvey. «Todo lo que hacen los demás ahora ya lo hacía él en aquel entonces. Sincronizaba discos (tocar dos discos al mismo tiempo para lograr un efecto de ensanchamiento) y los redoblaba para que hubiera una pequeña repetición. Ejecutaba cortes rápidos y tremendos en los discos, muy parecido a lo que hacen los b-boy. Los ponía tan rápido que uno no podía escuchar el plato disminuir o acelerar la velocidad. Efectuaba pequeñas ediciones grabadas en casetes y la gente se volvía loca»."
+ },
+ "«Creó esta especie de atmósfera fílmica oscura».": {
+  "ch": 14,
+  "page": 569,
+  "sec": "El new beat",
+  "para": "Los orígenes del género radican entre principios y mediados de los ochenta, en una escena de clubs de un eclecticismo balear extremo. Fat Ronny (Ronny Harmsen) no era para nada gordo, pero era un tremendo DJ. Usando una abundancia de canciones de relleno raras, oscuras y hasta extrañas, creó un estilo tan distinto que se le honró con su propio nombre, «música-AB», por su club de Amberes, el Ancienne Belgique. «Sus sets eclécticos eran una revelación para mí; tenía un oído increíble —dice entusiasmado Paul Ward, quien adelantó la misión de Ronny en su programa de radio «Liaisons Dangereuses»—. Definió lo que debería ser un buen DJ: alguien que te conduce por caminos nuevos sin comprometer demasiado». Aunque conformaba sets de una vasta variedad de música, lo genial de Ronny consistía en generar un humor muy particular; eso es lo que inspiró el new beat. Como explica Ward, el hilo que tejió mediante la música-AB era una ópera dramática algo amenazante: «Creó esta especie de atmósfera fílmica oscura»."
  },
  "«Cuando pinchaba un disco, este se pinchaba en todos lados», alardea.": {
   "ch": 6,
@@ -2832,6 +3066,12 @@ window.ANOCHE_REFS = {
   "sec": "El sampleado",
   "para": "En efecto, la historia del sampleado es el relato de cómo la tecnología ha ido alcanzando al DJ, a fin y efecto de crear un equipo que haga el trabajo más rápido, más preciso y más fácil que el que el DJ llevaba largo tiempo haciendo. Después de la invención del instrumento musical computarizado Fairlight, que permitía reproducir una ínfima cantidad de sonido sampleado, llegó el EMU Emulator, usado por primera vez para una grabación de hip-hop en 1982 por Marley Marl, quien sampleó el ritmo de una caja de la batería accidentalmente mientras trabajaba en una remezcla. Como le dijo al escritor Harry Allen, se percató del potencial del aparato inmediatamente: «Podía tomar cualquier sonido de batería de mi grabación vieja, ponerla ahí y obtener ese sonido de batería experimentado». El baterista experimentado Max Roach se dio cuenta del potencial de samplear, al declarar: «El hip-hop vive en el mundo del sonido, no en el de la música, y por eso es tan revolucionario». Por el contrario, el inventor del Emulator, Dave Rossum, apenas tenía idea de lo importante que sería esta máquina. Cuando le preguntaron en los ochenta si el sampleado sería el «futuro de la industria del sonido», simplemente se rio."
  },
+ "«El new beat es una reacción al disco. Carece completamente de soul: es una música estéril creada para bailar y nada más»": {
+  "ch": 14,
+  "page": 569,
+  "sec": "El new beat",
+  "para": "«El new beat es una reacción al disco. Carece completamente de soul: es una música estéril creada para bailar y nada más», explicó el productor y jefe del sello de new beat Maurice Engelen para NME en 1991. Era la música bailable sin el soul, sin el funk, en efecto, sin muchos de sus componentes: un despojo musical que solo dejaba el ritmo y una enorme y agitada palpitación del bajo. En otros países, el new beat quedó sumergido sobre todo por la avalancha de la música house, pero en Bélgica llegó hasta las listas y catapultó un orgullo fiero por la música de la nación, sembrando las bases para el éxito global del tecno."
+ },
  "«El sintetizador era el catalizador principal.": {
   "ch": 13,
   "page": 508,
@@ -2862,11 +3102,23 @@ window.ANOCHE_REFS = {
   "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
   "para": "«Empleé tres platos, dos mezcladoras y entre diez y quince tomas para que quedara bien —recuerda Flash—. Tardé unas tres horas. Tenía que hacerlo en directo. Y cada vez que me equivocaba, simplemente rehusaba cortar. Solo comenzaba desde el principio»."
  },
+ "«En Bélgica, si el ritmo es rápido, no bailarán. Quieren escuchar el ritmo, el sonido rompedor».": {
+  "ch": 14,
+  "page": 569,
+  "sec": "El new beat",
+  "para": "Cuando Matthew Collin escribió esto en septiembre en el reportaje sobre la escena para i-D, el new beat se concibió como un fuerte rival por la supremacía de la pista de baile. Es una suerte de sonido house belga a tempo lento, que llevó el ánimo oscuro y electrónico de la música industrial europea y, al reducir el tempo, le confirió un aura de minimalismo cuasi cinematográfico. Los aficionados belgas consideraban que una velocidad de 120 bpm en una grabación les rompería el cuello. Como dijo DJMarc Grouls a Collin: «En Bélgica, si el ritmo es rápido, no bailarán. Quieren escuchar el ritmo, el sonido rompedor»."
+ },
  "«En esencia, uno tiene un pie en la pista de baile y otro en la cabina».": {
   "ch": 1,
   "page": 18,
   "sec": "El arte de ser DJ",
   "para": "David Mancuso, padre putativo del disco, siempre ha sostenido, a capa y espada, que ningún DJ es mejor que su público. Su idea del DJ es que este es intérprete y oyente a un tiempo. En su visión, el DJ debe ser «una persona modesta, que desconecta el ego y respeta la música, y está ahí para que siga su curso: para participar». En las mejores noches, dice, el DJ se siente como un conducto de las emociones que lo rodean: completa el ciclo entre los bailarines y la música. «Es una situación única en la que la gente forma parte de la escenografía de la música que suene en ese momento». En esta relación, el DJ es tan parte del público como los bailarines. «En esencia, uno tiene un pie en la pista de baile y otro en la cabina»."
+ },
+ "«Entrar en el club Boccaccio en Gante era como caer en una versión dislocada de la vida a cámara lenta.": {
+  "ch": 14,
+  "page": 568,
+  "sec": "El new beat",
+  "para": "«Entrar en el club Boccaccio en Gante era como caer en una versión dislocada de la vida a cámara lenta. Dos mil quinientos bailarines de pie, con la espalda rígida, los brazos moviéndose de forma robótica a media velocidad al son de una despedazada banda sonora underground de puro eurobeat. El tempo es tan lento que las vibraciones están a punto de pararte el corazón. El bombo explota en cascadas de reverberaciones digitales, el sonido electrónico ondula sensualmente y cualquier rastro perdido de la voz se reduce a un rugido. Bajo, “¿cuán bajo puedes llegar?”. “Aún más bajo”, dicen los bailarines. Para la música que ellos llaman el new beat [nuevo ritmo], bajarán todo lo que quieras»."
  },
  "«Era articulado sin tener que abrir la boca.": {
   "ch": 10,
@@ -2934,6 +3186,12 @@ window.ANOCHE_REFS = {
   "sec": "Farmer Carl en el Catacombs",
   "para": "«Él era el que descubría los discos que luego se ponían en el Twisted Wheel», dice Ian Levine, solo uno de los muchos DJ que ven a Farmer Carl como un mentor. «Encontró este disco de Richard Temple titulado That Beating Rhythm en Mirwood Records. Nadie creía que existiera. Uno tenía que ir al Catacombs para escucharlo». Dean también introdujo Tired Of Being Lonely de los Sharpees, From The Teacher to The Preacher de Gene Chandler y Barbara Acklin y el clásico norteño de Doris Troy I’ll Do Anything (A Troy luego la invitaron a que cantara los coros para el disco «Dark Side of the Moon» de Pink Floyd). «Farmer Carl era el DJ al que todos consideraban un dios», declara Levine."
  },
+ "«Francamente, son de las mezclas de DJ más ASOMBROSAS que haya escuchado».": {
+  "ch": 14,
+  "page": 586,
+  "sec": "Afrocósmicos italianos",
+  "para": "Hasta hace poco la escena afrocósmica era poco conocida fuera de Italia. Resulta, cuando menos, interesante especular y barruntar qué grabaciones pudieran haberse creado en estas Galápagos de la música si sus DJ hubieran impreso su espíritu en el vinilo. De forma más fructífera, sin embargo, hay que considerar cómo internet posibilita redescubrir estas cápsulas del tiempo, repletas de joyas. Con atesoradas mezclas de DJ intercambiadas digitalmente en minutos, y el rastreo y compra de discos oscuros desde el sofá, la comunicación en el siglo XXI supone que una escena como esta puede emerger de las neblinas de la historia y energizar poderosamente a los DJ de hoy. Y lo maravilloso de estos estilos baleares es que la rareza de la música impide ponerle fecha a buena parte de ella. En Faith Fanzine, el productor y DJ Daniel Wang recuerda las primeras mezclas del Cosmic Club que pudo conseguir: «Francamente, son de las mezclas de DJ más ASOMBROSAS que haya escuchado»."
+ },
  "«Fue como si se hubiera muerto un familiar», dice Charlie Grappone.": {
   "ch": 11,
   "page": 449,
@@ -2946,11 +3204,23 @@ window.ANOCHE_REFS = {
   "sec": "El Torch",
   "para": "«Fue una oportunidad que nunca tuve en Estados Unidos», dijo Brenda Holloway en «25 Years Of The Wigan Casino» para Granada TV. «Fue como una segunda oportunidad. Cuando llegué aquí, era una estrella»."
  },
+ "«Fuimos allí cada noche durante una semana —dice Walker sonriente—. No podíamos parar».": {
+  "ch": 14,
+  "page": 561,
+  "sec": "Alfredo en el Amnesia",
+  "para": "Para cuando llegó la temporada de 1987, el éxtasis cobraba presencia en las pistas de baile ibicencas. Junto con los ritmos baleares de Alfredo en la noche estrellada y cálida, era irresistible. No es sorprendente, entonces, que cuando Fung compartía la experiencia con tres de sus amigos DJ de Londres —Paul Oakenfold, Danny Rampling y Johhny Walker—, estos concentraran sus energías en intentar recrear este tipo de dinámica de club despreocupada allá en casa. Sus noches en el Amnesia proporcionarían al acid house con un mito fundacional. «Fuimos allí cada noche durante una semana —dice Walker sonriente—. No podíamos parar»."
+ },
  "«Había un anuncio en el Village Voice: “Hombre con caja de ritmos, veinte dólares por sesión”.": {
   "ch": 10,
   "page": 388,
   "sec": "Planet Rock",
   "para": "Fue probablemente la primera grabación de hip-hop en usar una caja de ritmos (una Roland TR808), hecho que marca un punto de partida para un género que deriva del hip-hop conocido como «electro», y fue una inspiración clara para los ejercicios de beatbox de Run DMC: un estilo que los consagró como los líderes indiscutibles de la segunda ola del hip-hop. Baker, que no tenía experiencia con una caja de ritmos, recuerda haber contratado a un programador mediante un anuncio en el periódico. «Había un anuncio en el Village Voice: “Hombre con caja de ritmos, veinte dólares por sesión”. Ni siquiera recuerdo el nombre del tipo. Así que lo conseguí por veinte dólares y le dije: “Programa esto”». Con su ritmo sólido, que facilitaba la mezcla, Planet Rock no podía fallar a la hora de apelar a los DJ."
+ },
+ "«Ibiza cambió el concepto popular de cómo es la experiencia de los clubs.": {
+  "ch": 14,
+  "page": 565,
+  "sec": "Ibiza al descubierto",
+  "para": "«Viajaba hasta allí, en primer lugar, porque pensaba que la escena en Gran Bretaña era demasiado cargada: los clubs, la gente, la música», confiesa Trevor Fung, quien, más que nadie, invocó las ideas de Alfredo en el Reino Unido. «Ibiza cambió el concepto popular de cómo es la experiencia de los clubs. Cambió la forma en que uno sale y en que uno se divierte»."
  },
  "«Jack Cooper fue el pionero, pero Al Benson fue el padrino», dijo Stamz": {
   "ch": 2,
@@ -2993,6 +3263,12 @@ window.ANOCHE_REFS = {
   "page": 513,
   "sec": "Las fiestas de la escuela secundaria",
   "para": "«La escena de escuela secundaria era asombrosa —dice Derrick—. Eran pretenciosos: adolescentes afrodescendientes con dinero. Tenías chicos vistiendo Polo y Versace, todas esas marcas ridículas, en la escuela secundaria. Era una locura lo mucho que generaban estas fiestas. La gente cobraba veinticinco dólares la entrada». Los promotores, también estudiantes de escuela secundaria, alardeaban de su sofisticación al identificarse con la alta moda italiana y el movimiento New Romantic británico, y adoptaban nombres que reflejaban estas aspiraciones enrarecidas: Plush, Funtime Society, Universal, GQ Productions y, luego, Ciabattino, Courtier, Cacharel, Schiaparelli, Gables. Administraban las fiestas como si fueran un club privado, concentrados en escuelas en particular, y la vestimenta era tan importante como la música: botas de cuero de cierre lateral Sidewinder, camisas cruzadas, accesorios tecnicolor Fiorucci. Uno de los equipos de producción más exitosos era Charivari: un nombre apropiado de una cadena de tiendas de ropa de Nueva York. En 1981, este sería el título de otra de las primeras incursiones de Detroit en la música electrónica, el tema de estilo italodisco Sharevari de A Number Of Names (la ortografía del título se alteró para evitar problemas)."
+ },
+ "«La gente conducía hasta Amberes desde toda Bélgica, aparcaban el coche donde fuera, grababan el programa de radio en un radiocasete portátil y conducían de regreso a casa»": {
+  "ch": 14,
+  "page": 573,
+  "sec": "El new beat",
+  "para": "«Liaisons Dangereuses» alcanzó una popularidad enorme. Sus emisiones fuera de la ciudad eran escudriñadas; todo lo que tocaban era objetivo de búsqueda. «La gente conducía hasta Amberes desde toda Bélgica, aparcaban el coche donde fuera, grababan el programa de radio en un radiocasete portátil y conducían de regreso a casa», cuenta Ward entre carcajadas. Para despistar a los rivales, solían inventar títulos falsos con frecuencia. Una canción podía convertirse en Eat Shit & Die, y el nombre del artista podría ser el genérico «Tatouage». USA Import solía anunciar las canciones del programa como «Les Disques Decadantes», y se vendían como rosquillas."
  },
  "«La gente lo odiaba. Hasta nuestros propios empleados detestaban el house», recuerda.": {
   "ch": 13,
@@ -3060,6 +3336,12 @@ window.ANOCHE_REFS = {
   "sec": "Turntablism: crear con los platos",
   "para": "«Manipular el sonido usando solo las manos es como un milagro —insiste DJ Q-Bert, del grupo Invisibl Skratch Piklz, de San Francisco, uno de los DJ de scratching más famosos hoy—. El origen del scratching es que el plato giratorio es un instrumento musical: uno descifra todos estos compases y ritmos y patrones y notas»."
  },
+ "«Manumission tiene que ver con la libertad. ¿Hay algo más liberador que tener sexo en un club?», declaró el promotor": {
+  "ch": 14,
+  "page": 563,
+  "sec": "Ibiza al descubierto",
+  "para": "Cada verano, la prensa del mundo del baile especulaba sobre qué complejo turístico —el Rimini, el Riccione o el Ayia Napia— sustituiría las preferencias de los aficionados a los clubs de la Isla Blanca, pero la popularidad de Ibiza creció incólume. Para mediados de los noventa, los superclubs dominaban la escena: Ministry of Sound, Cream y el Renaissance: quienes tenían noches en los espacios famosos de la isla. Pero en 1994 su predominio se vio desafiado por un advenedizo pícaro de Manchester, Manumission; este club demostraría que todo distaba bastante del acid-house. En cambio, ellos se concentraban en pseudopresentaciones de arte —como un hombre en un retrete en mitad de la pista de baile— y espectáculos de sexo más bien ordinarios. Cada noche, miles de pastilleros monstruosos y quemados dejaban de bailar para quedar boquiabiertos al ver al promotor calvo Mike McKay tener sexo con su novia en la tarima. «Manumission tiene que ver con la libertad. ¿Hay algo más liberador que tener sexo en un club?», declaró el promotor, mientras todos se preguntaban cuánto lo habían acosado de niño."
+ },
  "«Mató a nuestros clientes, mató a nuestros artistas, mató a nuestros fundadores —recuerda John Hedges—.": {
   "ch": 8,
   "page": 327,
@@ -3077,6 +3359,12 @@ window.ANOCHE_REFS = {
   "page": 507,
   "sec": "Cybotron",
   "para": "Con la casa insonorizada por todos lados, punteando el bajo que llevaba puesto como una camiseta, escribiendo música que sería conocida en todo el planeta, garabateando nombres de ciencia ficción para canciones futuras: cada día Juan Atkins se acercaba más a su destino. Supo desde el principio que sería un músico famoso. Juan se crio en una parte dura de Detroit, hijo de un promotor de conciertos exitoso que se había mudado a los suburbios después de romper con su esposa. Juan había creado música durante toda su infancia, tocando el bajo y la batería en bandas funk en los garajes de sus casas. Sus gustos eran amplios, pero después de escuchar Flashlight, quedó fascinado por el sonido del teclado con sintetizador para bajo que introdujo Bernie Worrell en Parliament-Funkadelic. Cuando una noche se embriagó con la estética al límite de Kraftwerk en el programa de Mojo, se quedó perplejo. «Me quedé paralizado —dice—. Todo era tan limpio y tan preciso, tan robótico»."
+ },
+ "«Me volví loco con ese disco —recuerda con entusiasmo—. ¡Era música fantástica!».": {
+  "ch": 14,
+  "page": 560,
+  "sec": "Alfredo en el Amnesia",
+  "para": "En 1985, mientras estaba en Madrid, un distribuidor estadounidense le vendió su primer disco de house: Donnie de It, para DJ International. «Me volví loco con ese disco —recuerda con entusiasmo—. ¡Era música fantástica!». Mientras más de estas naves espaciales de vinilo aterrizaban en España, comenzó a añadirlas a su lista de reproducción, así como canciones poco convencionales, como la versión en directo de Why Why Why de los Woodentops (que encontró en Italia) y Jesus On The Payroll (comprada en una tienda de Valencia), ambos futuros clásicos baleares."
  },
  "«Mucha de mi música tiene que ver con el bajo», dice.": {
   "ch": 9,
@@ -3137,6 +3425,12 @@ window.ANOCHE_REFS = {
   "page": 438,
   "sec": "El Paradise Garage",
   "para": "La vida de Levan giraba en torno al Paradise Garage. Cuando abrió hasta vivía allí, algo que molestaba mucho a Michael Brody. Durante el día, el círculo de amigos de Levan se reunía en King Street a pasar el rato, consumir drogas, jugar con ese prístino sistema de sonido y patinar en la pista de baile. Johnny Dynell recuerda recibir lecciones de disyoquear durante aquellas tardes lánguidas; Levan, consciente del linaje del que había emanado, estaba muy dispuesto a impartir las tradiciones del disco. «No tienes idea de cuánto poder tienes allá arriba», le decía a Dynell, señalando a la cabina del DJ."
+ },
+ "«Nunca fue mi intención convertirme en el padre de un estilo musical": {
+  "ch": 14,
+  "page": 571,
+  "sec": "El new beat",
+  "para": "«Nunca fue mi intención convertirme en el padre de un estilo musical —dijo Fat Ronny a la revista In & Out de Amberes cuando le preguntaron sobre el new beat—. Yo toco música, no creo música. Selecciono la música e intento crear un ambiente». El estado de ánimo que invocaba distaba mucho de lo convencional. Confesó cómo le gustaba colar un tema ocasional tan extraño que era imposible bailarlo, solo para que la pista se vaciara y comenzara otra vez desde cero. «Siempre había raritos que seguían bailando ese tema imposible de bailar que yo pinchaba. Me encantaba el ambiente de esos días; era sucio, decadente, extraño e incómodo»."
  },
  "«Nunca había existido un club como el Saint», dice Ian Levine": {
   "ch": 8,
@@ -3210,6 +3504,12 @@ window.ANOCHE_REFS = {
   "sec": "La segunda ola de Detroit",
   "para": "«Si el tecno belga nos da ostinatos; el tecno alemán, ruido; el tecno británico, los breakbeats; entonces Detroit suplía la profundidad cerebral pura —escribió Matthew Collin en 1991—. Europa podrá tener la escena y la energía, pero es Estados Unidos el que aporta la dirección ideológica». Y, en consecuencia, Detroit se reagrupaba para un segundo ataque: más duro, más rápido, sin prisioneros. Mientras que Juan y Derrick habían sido inspirados por Kraftwerk, muchos en la segunda ola encontraron su motivación en bandas industriales más intensas: Skinny Puppy, Cabaret Voltaire, Front 242. Y mientras que los tres de Belleville se habían esforzado por construir algo dentro de su propia ciudad, los chicos más jóvenes apuntaban fuera de la ciudad desde el inicio."
  },
+ "«Si había un disco, ya fuera de jazz, rock o pop, le enviaba una copia».": {
+  "ch": 14,
+  "page": 582,
+  "sec": "Afrocósmicos italianos",
+  "para": "Baldelli era un científico. Sus sets se basaban más en la observación obsesiva. Se encerraba en su casa, donde seguramente probaba cientos de grabaciones distintas para ver cuál mezclaba mejor con su nuevo tema. Gianni Zufo, dueño de la tienda de discos Disco Più, en Rimini, en realidad sí le envió una copia de todo. «Si había un disco, ya fuera de jazz, rock o pop, le enviaba una copia». Zufo pronto aprendió que lo que Baldelli quería sobre todas las cosas era lo caprichoso y lo no querido. Mozart era igual de obsesivo, pero mucho más impulsivo. Zufo lo recuerda (bajo los efectos del ácido) tocando canciones tan pronto se las daban."
+ },
  "«Si pudieras ver mi colección, verías que me gusta todo tipo de música, pensarías que pertenece a cuatro DJ distintos —explica": {
   "ch": 11,
   "page": 445,
@@ -3227,6 +3527,12 @@ window.ANOCHE_REFS = {
   "page": 83,
   "sec": "La liberación",
   "para": "Anticipando el glamur de Studio 54 tres años antes, y superándolo sin duda en términos de esnobismo en la puerta, en 1975 Régine se llevó sus 800 pares de zapatos a Nueva York y abrió un club en el primer piso del hotel Delmonico. Era tan exclusivo que la Autoridad Estatal del Licor consideró demandarla por discriminación social. Cuando las tuberías del lugar se averiaron durante la primera semana, ella simplemente cargó toda la cristalería sucia en limusinas y se las envió al restaurante Le Cirque para que la lavaran. En el apogeo de su imperio había diecinueve clubs Régine por todo el mundo. «Soy la persona que diseñó la forma moderna de pasar la noche —declaró—. Soy la primera y única Reina de la Noche»."
+ },
+ "«Su mera existencia promueve las drogas entre la gente joven».": {
+  "ch": 14,
+  "page": 582,
+  "sec": "Afrocósmicos italianos",
+  "para": "¿Qué más sabemos? La policía cerró el Baia a finales de la temporada de 1978, decían: «Su mera existencia promueve las drogas entre la gente joven». Sabemos que reabrió para un verano final en 1979 solo con Mozart a los platos, y que cerró para siempre ese mismo año cuando alguien murió allí, se presume que por sobredosis. Mozart comenzó a tocar en clubs vecinos; Baldelli consiguió una residencia en un club llamado Cosmic cerca del lago Garda. Sabemos que la heroína era un gran problema por toda Italia en ese momento, y que el coche más codiciado de la escena era el Citroën DS."
  },
  "«Tee Scott era sin duda distinto de los otros DJ —dice Tenaglia—.": {
   "ch": 6,
@@ -3300,6 +3606,12 @@ window.ANOCHE_REFS = {
   "sec": "Reino Unido",
   "para": "Una segunda fase igualmente fructífera ganó impulso a principios de los noventa. Sobre todo como reacción a las espirales veloces de la escena hardcore, se le definió como una exploración del ambiente; «ambiente» era un término acuñado en 1978 por el productor pionero Brian Eno para describir una música «tanto descartable como interesante». «Pienso, luego ambiento», pronunció el DJ Mixmaster Morris (Morris Gould) en su traje gris, con lo que implicaba la superioridad intelectual de la música introspectiva y en gran medida no orientada al baile que evolucionaba en espacios chill-out en clubs y raves. En caso de tener alguna duda, nos lo deletreó: «el tecno inteligente» era lo opuesto al «hardcore estúpido». Warp envió un mensaje similar con una compilación llamada «Artificial Intelligence» en la que artistas como Black Dog y Auterche declararon su fidelidad al tecno más cerebral de los predecesores de Detroit. En apoyo a esta moción, los DJ Dave Clark, Colin Cale, Dave Angel y Carl Cox se distanciaron de la escena hardcore."
  },
+ "«es música pop que suena bien cuando uno consume pastillas».": {
+  "ch": 14,
+  "page": 553,
+  "sec": "BRYLLYANT",
+  "para": "El balear es Flesh, de A Split Second, tocada a una velocidad equivocada para convertirla de un industrial gótico a un proto-house profundo; es la fusión indie de la guitarra de The Woodentops insuflando energía a las glamurosas drag queens al aire libre en Amnesia; o grabaciones alucinantes de Klaus Schulze rociadas sobre chicos hasta arriba de heroína en la ribera de un hermoso lago italiano. El balear invoca la vulnerabilidad de las vacaciones que uno recibe de la arena caliente entre los dedos de los pies y el horizonte de olas cristalinas. Es importante destacar que el balear es más una actitud para con la música que un estilo o ubicación específica. O como dijo Frank Tope, reseñador de la música bailable, «es música pop que suena bien cuando uno consume pastillas»."
+ },
  "«todo el público se fue con él.": {
   "ch": 6,
   "page": 245,
@@ -3317,6 +3629,12 @@ window.ANOCHE_REFS = {
   "page": 294,
   "sec": "El disco se estrella",
   "para": "El disco no tenía banda de músicos. Ni giras. Ni camisetas ni souvenirs. Sus abanderados no eran otra cosa que un atajo de disc jockeys irresponsables. La crítica no le prestó mucha atención y el disco tuvo poca cobertura mediática, excepción hecha de Vince Aletti y Tom Moulton en Billboard, y casi toda era negativa. En el Reino Unido, los independientes del rock, en su gran mayoría blancos de clase trabajadora, eran particularmente incapaces de aguantar una música diseñada para el cuerpo y no para la mente. Como Danny Baker —uno de los pocos periodistas del rock que entendió lo que era el disco— escribió en NME por aquel entonces: «¿Cómo se puede criticar esta música estando sentado?»."
+ },
+ "«Él es la persona que cambió el pitch de A Split Second a 33».": {
+  "ch": 14,
+  "page": 574,
+  "sec": "El new beat",
+  "para": "La autoría de este inspirado arreglo suele atribuirse a Marc Grouls, un DJ residente de un club relativamente comercial, el Prestige, en Amberes, que era quien estaba disponible cuando los periodistas lo contactaron. Se dice que él cambió el tempo del tema de A Split Second mientras escuchaba lanzamientos nuevos en USA Import, sorprendiendo a un grupo de colegas DJ con el resultado. Pero Eric Beysens insiste en que el hombre detrás de este hallazgo del new beat fue, en efecto, Jean-Claude Maury, el abuelo de la escena: «Él es la persona que cambió el pitch de A Split Second a 33». No sorprende observar cómo el francés Maury ha sido el gran olvidado de esta historia tan belga, en particular cuando vivía en Bruselas, en vez de Amberes, donde la escena creció con inusitada fuerza, o en Gante, donde explotó."
  },
  "«Éramos jóvenes y estos tipos controlaban las chequeras», cuenta Chip E suspirando.": {
   "ch": 12,
