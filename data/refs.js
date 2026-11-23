@@ -180,6 +180,12 @@ window.ANOCHE_REFS = {
   "sec": "Las fiestas de la escuela secundaria",
   "para": "Sin embargo, quedaron eclipsados por los talentos para mezclar de otro joven DJ de radio, un torbellino sin voz de los vinilos conocido como el Wizard [mago], que luego se convertiría en el productor de la segunda generación del tecno, Jeff Mills. En su espacio en WDRQ desde 1984 conformó un arreglo sobrecogedor de grabaciones, tejidas con una destreza superrápida, un estilo que luego exhibió en sus candentes actuaciones como DJ de clubs. Mills pronto se convirtió en el rey de Detroit con una ráfaga de hip-hop y otros sonidos frescos, presentados con el estilo de sus héroes, D. ST, Jazzy Jeff y Cash Money. «Me pasaba todo el día en la estación —dice Mills—, y entonces el director de programación decidió que sería interesante hacer algo relacionado con las mezclas y me llamaron al estudio». Después de estas incursiones breves, en las que cortaba, digamos, dos copias de Chaka Khan, se le dio un presupuesto de grabación jugoso para un programa nocturno de tres horas para un público amplio que dio a conocer a muchos artistas de Detroit. «Creé un programa con un tema que giraba en torno a los efectos de sonido —dice—. Solía ir a la audioteca, agarraba todo lo que podía usar. Así es como me adentré en la música conceptual». Y cuando la competencia por los índices de audiencia se caldeaba, Wizard reeditaba temas; hasta creaba su propia música nueva para el programa."
  },
+ "Así es como nos llegó el disco, el hip-hop, el house, el drum and bass, el dubstep…": {
+  "ch": 20,
+  "page": 836,
+  "sec": "El alboroto continúa",
+  "para": "A medida que la música bailable homogeneizada en el tamaño de un estadio continúa arrasando el mundo, a su sombra ya emergen células de resistencia. Se trata de clubs extraños que abren hasta altas horas repletos de humo y luces estroboscópicas, en naves industriales de las partes olvidadas de la ciudad, donde los DJ tocan buena música que nunca hemos escuchado. Podemos apostar a que, tarde o temprano, de esas escenas sinuosas y pequeñas saldrá algo interesante e, inevitablemente, algo memorable. Así es como nos llegó el disco, el hip-hop, el house, el drum and bass, el dubstep…"
+ },
  "Así fue como el DJ hizo gala por primera vez de su inestimable talento para crear géneros musicales nuevos.": {
   "ch": 2,
   "page": 48,
@@ -558,6 +564,12 @@ window.ANOCHE_REFS = {
   "sec": "Nace una estrella",
   "para": "Mientras nos despedíamos del siglo pasado, las celebraciones por el nuevo milenio mostraron el grado de pérdida de control de la industria: los DJ de mayor rango exigían tarifas de cientos de miles, incluso millones por una sola presentación. No tenía nada que ver con los pioneros del arte, que tocaban las siete noches de la semana por menos de lo que se les pagaba a los bármanes. Cuando a Francis Grasso le dijeron que un DJ por encima del promedio cobraba en torno a mil, dijo, confuso: «¿Qué?… Mensualmente, ¿no?»."
  },
+ "Cuando el mainstream se apodera de algo, lo quema, y luego certifica su defunción.": {
+  "ch": 20,
+  "page": 835,
+  "sec": "El alboroto continúa",
+  "para": "Cualquiera que sea el rumbo que, a partir de ahora, siga el oficio, la historia del DJ nos enseña cuán importante es estar pendientes de cuanto se cuece en el mundo underground, y la música bailable siempre ha estado en ese ámbito. Ahí ha alcanzado sus más altas cotas de creatividad, justo antes de que las cosas dieran un giro horriblemente comercial. Cuando el mainstream se apodera de algo, lo quema, y luego certifica su defunción. Pero, mientras tanto, los pioneros han pasado página y ahora tienen la libertad de llevar las cosas más allá, de recuperar el impulso y lograr cosas nuevas. Así que no importa lo horrísona y estridente que se vuelva la cultura de los clubs en tu parte del mundo, puedes estar tranquilo porque luego vendrá algo emocionante."
+ },
  "Cuando las grabaciones propicias alcanzaban los altavoces, se oía el grito: «Jungle! Jungle! Jungle!».": {
   "ch": 16,
   "page": 691,
@@ -575,6 +587,12 @@ window.ANOCHE_REFS = {
   "page": 165,
   "sec": "WRECK UP A VERSION (SÁCATE UNA VERSIÓN DE LA NADA)",
   "para": "Antes de ser diezmada por Europa, los arahuacos llamaban a esta fértil isla Xaymaca, que significa «Tierra de Manantiales». Cuando era la capital pirata de los siete mares, su ciudad principal, Port Royal, era el lugar más malvado del planeta. Cuando era una plantación azucarera colonial sustentada por los músculos africanos cautivos, los dueños de esclavos podían recibir una multa si un ser humano de su propiedad era sorprendido tocando un tambor. Cuando renació independiente del dominio británico, en Jamaica el DJ era el rey."
+ },
+ "Cuando uno es DJ y excele en ello, uno no toca grabaciones, sino que toca la sala entera.": {
+  "ch": 20,
+  "page": 839,
+  "sec": "El alboroto continúa",
+  "para": "Cuando uno es DJ y excele en ello, uno no toca grabaciones, sino que toca la sala entera. Uno no solo combina canciones, mezcla energía con emociones, emergiendo de la sorpresa para poner rumbo a la esperanza y a la alegría, de la liberación al éxtasis y al amor. Cuando lo hace bien, está dentro de los cuerpos de todos los allí presentes en la pista, uno sabe lo que sienten y adónde van, y los está conduciendo hacia allí. Los está levantando de este plano terrenal y los transporta a un lugar más elevado. Está moviendo sus cuerpos y sus almas con la música que fluye de los propios dedos."
  },
  "Cuando uno las toca más lento, el bajo se fortalece».": {
   "ch": 14,
@@ -791,6 +809,12 @@ window.ANOCHE_REFS = {
   "page": 360,
   "sec": "Afrika Bambaataa",
   "para": "El pop sintético europeo, por vía del rock ácido, hasta llegar a los temas de los dibujos animados: incluso desde sus inicios, el hip-hop era ambicioso y ecléctico. El DJ no se preocupaba por el género de las grabaciones que pinchaba, lo único que pensaba era en la efectividad de los componentes sonoros y su efecto en la pista de baile."
+ },
+ "El Fabric aguantó la recesión de los clubs casi intacto.": {
+  "ch": 20,
+  "page": 822,
+  "sec": "La caída británica",
+  "para": "A la pérdida de interés de los aficionados en bailar al son del marketing hubo que sumar el creciente desinterés de los propios empresarios en lo que les había hecho crecer. La mayoría eran los dueños de los locales y no sentían la presión por reinventarse. Seguían dependiendo de DJ de renombre y no escatimaban en acuerdos de derechos que tenían poco que ver con lo que sucedía en sus pistas de baile. Después de que Ministry lanzara su marca de ropa, tuvieron que admitir que era probable que no dejaran entrar a uno si se la ponía. Una excepción que confirma esta regla era el Fabric. A pesar del tamaño del superclub, mantuvo su credibilidad al presentar constantemente nuevos DJ del ámbito underground, y no habían explotado su marca más allá de una serie de CD. El Fabric aguantó la recesión de los clubs casi intacto."
  },
  "El Lyceum se convirtió en el primer lugar donde todos los elementos identificables de un club moderno (luces, discos de baile de última moda, un disc jockey y una pista de baile) se combinaron en un solo conjunto.": {
   "ch": 3,
@@ -1025,6 +1049,12 @@ window.ANOCHE_REFS = {
   "page": 611,
   "sec": "Froggy en el Royalty",
   "para": "El jazz-funk se convirtió en un fenómeno juvenil enorme, pero todavía preservaba aura de secta. A medida que el disco cobraba presencia en el Reino Unido, fueron los DJ del jazz-funk quienes lograron imponer sus estilos y tendencias en todos los nuevos clubs nocturnos con alfombra y brillo que emergieron en el momento (en particular Robbie Vincent, cuya fama en la radio llegó a su punto álgido en 1983, con un programa de radio donde activaba el «botón del ritmo» de toda la nación). La caída del disco, que se sintió duramente en Estados Unidos, tuvo un aterrizaje menos forzoso en el Reino Unido gracias a la escena del jazz-funk, que llegaba a su punto culminante justo cuando su colega estadounidense fenecía, y que, pese a ello, siguió regularmente alimentando las listas con grandes éxitos durante toda la década de los ochenta. El jazz-funk británico de los suburbios permitió que el disco nunca desapareciera, se le añadió únicamente un toque de fusión, un perfil rubio y siguió su camino."
+ },
+ "El juego del súper DJ y el superclub se ha acabado.": {
+  "ch": 20,
+  "page": 814,
+  "sec": "I HAVEN’T STOPPED DANCING YET (AÚN NO HE PARADO DE BAILAR)",
+  "para": "El juego del súper DJ y el superclub se ha acabado."
  },
  "El jungle se enorgullece de ser la primera forma musical genuinamente autóctona de música afrodescendiente británica": {
   "ch": 16,
@@ -1416,6 +1446,12 @@ window.ANOCHE_REFS = {
   "sec": "Sobrecarga en el vagón del disco",
   "para": "La saturación del disco comenzó cuando la radio se percató de su potencial. En julio de 1978, una estación de rock clásico que casi nadie escuchaba, WKTU, se «convirtió al disco». En dos semanas, Disco 91, como se conocía informalmente, había quintuplicado su audiencia. Para finales de noviembre, WKTU había derrocado al coloso de las ondas neoyorquino (y la case del formato Top 40 de Rick Sklar). WABC. Los índices de audiencia Arbitron de WKTU —índice de audiometría de Estados Unidos— aumentó de 0,9 a 7,8, mientras que la WABC cayó de 8,7 a 7,5. Las estaciones de radio de todo el país adoptarían el formato disco para emular este éxito."
  },
+ "En la era de Facebook, Twitter e Instagram, los DJ superestrella son magnates independientes con sus propios sellos y máquinas de marketing global personales.": {
+  "ch": 20,
+  "page": 825,
+  "sec": "La ultraburbuja estadounidense",
+  "para": "Hasta ahora, todo ha sido completamente distinto en Estados Unidos. Mientras el Reino Unido se daba un respiro dejando de idolatrar a los DJ en busca de opciones, en Estados Unidos, cuando la música bailable se infiltró en el mainstream, querían estrellas más grandes que nunca. La EDM, cómoda no en sótanos oscuros sino en estadios, casinos y fiestas playeras televisadas, ha elevado a los DJ superestrella a cotas de popularidad impensables. Aunque los superclubs originales del Reino Unido permanecen con nosotros como sellos discográficos poderosos y nombres de marca Ibiza de confianza, ahora se ven eclipsados por las nuevas estrellas, quienes son las propias marcas. En la era de Facebook, Twitter e Instagram, los DJ superestrella son magnates independientes con sus propios sellos y máquinas de marketing global personales."
+ },
  "En la estela de la payola, la idea de seleccionar las grabaciones científicamente y no según los caprichos de algún disc jockey corrupto resultó muy atractiva para los dueños de estaciones y sus patrocinadores.": {
   "ch": 2,
   "page": 62,
@@ -1470,6 +1506,12 @@ window.ANOCHE_REFS = {
   "sec": "Payola",
   "para": "Las investigaciones de la payola coincidieron con la preocupación de las autoridades por los efectos sociales del rock’n’roll. El director del FBI J. Edgar Hoover lo declaró «una influencia que corrompe a la juventud estadounidense», y las vistas en los plenos se desviaron con frecuencia al asunto de la estética, en vez de concentrarse en los aspectos legales. La transmisión de sonidos prohibidos de la raza negra a adolescentes blancos excitables se consideraba revolucionaria y sumamente peligrosa. En retrospectiva, la investigación fue menos un interrogatorio sobre fechorías financieras que una cruzada contra la influencia ilimitada del disc jockey, personificado en Freed."
  },
+ "En su lugar había llegado la cocaína como la droga preferida de los clubs.": {
+  "ch": 20,
+  "page": 822,
+  "sec": "La caída británica",
+  "para": "Los comentaristas declararon el fin de la generación del éxtasis y hablaban poéticamente de una «humillación». Todos habíamos festejado mucho más de los diez años que se le permite a un movimiento musical respetable, y ahora era el momento de quedarse en casa, hincharse a plátanos y desconectar el teléfono. La droga del amor que había ayudado a que el house arrasara en todo el mundo se había convertido en un degradante pasatiempo juvenil; era común y hortera. El hecho de que las pastillas costaran tan poco como dos libras en algunas partes del país era la confirmación de este sentimiento. En su lugar había llegado la cocaína como la droga preferida de los clubs. Más barata y más fácil de conseguir que nunca, la cocaína alimentaba la opulencia controlada por el champán de la escena del garage británico y las inclinaciones de los matones por las piedras preciosas y los porros en las escenas del drum and bass y el hip-hop británicos."
+ },
  "En su propia época, sin embargo, para su familia original, era sinónimo de salvación.": {
   "ch": 6,
   "page": 194,
@@ -1488,6 +1530,12 @@ window.ANOCHE_REFS = {
   "sec": "La ruta Jamaica–Reino Unido",
   "para": "Fue el dub, con sus mutaciones radicales, lo que tuvo una influencia más duradera en la música británica. En términos culturales, sin embargo, fue la variante del reggae llamada lover’s rock lo que aportó el toque británico más significativo. Completamente rechazado, sin embargo, en Jamaica hasta que estrellas como Gregory Isaacs y Dennis Brown se vincularon a él, este reggae británico comercial fue el sonido que finalmente rompió la tradición. El lover’s rock nació en el club Four Aces, en Dalston, cuando un joven emprendedor DJ, Lloyd Coxsone (Lloyd Blackwood), quien ponía unos pocos temas de soul en sus sets, vio que sería fácil convertir a las estudiantes de escuela entusiasmadas que cantaban dulcemente sobre las canciones del dub durante sus certámenes de talentos semanales en pequeñas estrellas de pop, y convenció al productor prominente Dennis Bovell para intentarlo. Fue un golpe maestro, pues las mujeres eran muchas más que los hombres a la hora de comprar sencillos de reggae, y ellas preferían naturalmente las baladas alegres sobre novios caprichosos a los lamentos justicieros repletos de profecías bíblicas y brutalidad policíaca. Caught You In A Lie de la quinceañera Louisa Mark para Safari fue la primera grabación —un éxito en 1975— seguida de decenas más. Aunque estas canciones eran tan dulces como las remezclas «con cuerdas» que había creado Trojan unos años antes, por fin miraban al futuro en vez de al pasado. El lover’s rock, con un pie en una pila de altavoces caribeños y el otro en una discoteca escolar de Streatham, le recordó a una generación de jóvenes…"
  },
+ "En un intercambio famoso, Deadmau5 defendió su uso de sets preprogramados al admitir: «Yo aprieto el botón de reproducir; todos lo hacemos».": {
+  "ch": 20,
+  "page": 827,
+  "sec": "La ultraburbuja estadounidense",
+  "para": "Otra posible analogía es el salto que el hip-hop se vio forzado a dar cuando fue extirpado del mundo de los clubs para convertirse en un género de conciertos a gran escala. A principios de los noventa, esto se observó con nitidez en el auge del DAT (la cinta de audio digital), a medida que los promotores, preocupados por los errores, forzaron a los DJ a recrearse en el mimo en lugar de manosear vinilos. La EDM, con sus enormes producciones y públicos con expectativas de más, está reduciendo al DJ a la función de un testaferro, con iluminaciones predecibles sobre mezclas pregrabadas. En un intercambio famoso, Deadmau5 defendió su uso de sets preprogramados al admitir: «Yo aprieto el botón de reproducir; todos lo hacemos». Luego pasó a argumentar que las destrezas del DJ hoy en día eran las de un producto: crear las canciones que está tocando. Mientras que esto puede ser cierto, hay una destreza real en el arte de ser DJ que va más allá de la producción, y es la siguiente: tocar los discos, cosa que está matando rápidamente el circuito de superestrellas Hasta will. i. am, familiarizado con la música manipuladora, y también DJ de Las Vegas, ha criticado a lo que esta ciudad ha reducido el arte del DJ. «Ni siquiera deberían llamarle música bailable —dice en The New Yorker—. Deberían llamarla música para contemplar al DJ y emborracharse». Dennis Romero llamó a la música bailable de hoy en L. A. Weekly: «Un desfile de millonarios que aprietan el botón de reproducción moviéndose por inercia»."
+ },
  "En un sentido estricto, estas cintas eran reediciones y no remezclas.": {
   "ch": 7,
   "page": 266,
@@ -1505,6 +1553,12 @@ window.ANOCHE_REFS = {
   "page": 497,
   "sec": "El acid house",
   "para": "Spanky, Herb y Pierre habían titulado la canción originalmente In Your Mind, pero los aficionados del Music Box, en un viaje con el ponche cargado del club, tenían otras ideas. Encajaba tan bien con su frenesí inducido por el LSD, que la llamaron Ron Hardy’s Acid Track [El tema de ácido de Ron Hardy]. Causó gran revuelo."
+ },
+ "Entonces llegó este software y sin duda me mostró la manera de seguir adelante y mantenerme interesado».": {
+  "ch": 20,
+  "page": 831,
+  "sec": "El futuro democrático del arte del DJ",
+  "para": "«Acababa de llegar de un año trabajando duro en giras y en realidad no lo estaba disfrutando, y pensaba: “¿Qué hostias voy a hacer ahora? ¿Adónde voy con todo esto?”. Entonces llegó este software y sin duda me mostró la manera de seguir adelante y mantenerme interesado»."
  },
  "Entrenaría a un DJ blanco para que sonara como un negro.": {
   "ch": 2,
@@ -1662,6 +1716,12 @@ window.ANOCHE_REFS = {
   "sec": "George Powers en el Crackers",
   "para": "Aún más importante, el club también presidía el amanecer de la comunidad británica afrodescendiente. En el mismo centro de la ciudad, con clientela multirracial y con una banda sonora candente, el Crackers ofrecía a la generación de los jóvenes afrodescendientes nacidos en Londres lo que les faltaba. Salir del vecindario y dirigirse «arriba y al oeste» y bailar allí suponía la transición de hijo de inmigrantes a londinense moderno. No importaba la isla de donde provenían tus padres, no importaba que la policía te detuviera y te registrara, no importaba el grafiti del National Front que te ordenaba que regresaras al lugar ese que nunca habías visto. Eras afrodescendiente, eras británico, eras el futuro, ibas al Crackers."
  },
+ "Es como proveer al DJ con 20 platos y 40 brazos para controlarlos.": {
+  "ch": 20,
+  "page": 832,
+  "sec": "El futuro democrático del arte del DJ",
+  "para": "El software lo mantiene todo sincronizado a tiempo, lo cual permite al DJ jugar con cuantos elementos su cerebro pueda manejar. Es como proveer al DJ con 20 platos y 40 brazos para controlarlos. Con miles de canciones guardadas en su ordenador portátil, programas como este han abierto un nuevo mundo de infinitas posibilidades. Mientras que las primeras horas de un set de Sasha estarán compuestas por una secuencia de canciones, la hora punta será un torbellino de creatividad extrema del DJ."
+ },
  "Es como si la Sugar Hill Gang pidiera a 50 Cent que solo rapeara canciones alegres.": {
   "ch": 16,
   "page": 707,
@@ -1691,6 +1751,12 @@ window.ANOCHE_REFS = {
   "page": 782,
   "sec": "GOD IS A DJ (DIOS ES UN DJ)",
   "para": "Evitando cualquier cosa demasiado progresiva, pues considera que su tempo es muy lento, Tiësto toca una mezcla dulzona de trance universalmente accesible. Cuando se presenta como DJ, las melodías orquestales arrasan la habitación como partituras épicas de película, breakdowns suspirantes introducen una pausa que permite poner la cafetera y la percusión golpea como un escuadrón de aviones que bombardea la pista de baile. Es música bailable a lo Disney: alentadora, gozosa, un reino mágico de euforia. En efecto, para lanzar su CD de 2005, tocó frente al castillo de La Bella Durmiente."
+ },
+ "Es posible que el DJ sea la expresión de una de las antiguas funciones del chamán": {
+  "ch": 20,
+  "page": 838,
+  "sec": "El alboroto continúa",
+  "para": "Después del verano del amor de 1988, los jóvenes de Gran Bretaña por fin disfrutaban de rituales trascendentes, en los que se había basado la evolución de la música bailable estadounidense. Ahora, tras haber conquistado Europa y parte del hemisferio sur, su revolución del baile se está propagando hacia Asia y finalmente ha regresado a casa a través del Atlántico. Habiendo forjado música más universal que cualquier otra que la precedió, se puede argumentar que los DJ son el conducto para la celebración y la comunión a nivel mundial. Es posible que el DJ sea la expresión de una de las antiguas funciones del chamán, que el DJ sea el médico brujo más grande que haya visto nuestra especie, sin rival a la hora de sacudirnos las presiones del día a día y conducirnos a la vida nocturna."
  },
  "Es una conspiración para “mestizar” a Estados Unidos": {
   "ch": 2,
@@ -1890,6 +1956,12 @@ window.ANOCHE_REFS = {
   "sec": "Greg James en el Embassy",
   "para": "Greg James enseñó a Gran Bretaña cómo mezclar."
  },
+ "Había otras fuerzas obrando aquí, sobre todo una campaña bien financiada por parte de los narcotraficantes apoyados por el Gobierno: la industria del alcohol.": {
+  "ch": 20,
+  "page": 823,
+  "sec": "La caída británica",
+  "para": "Todo esto era normal dentro de los cambios de la cultura pop. Pero la «muerte» de la cultura bailable en el Reino Unido no se debe en su totalidad a causas naturales. Había otras fuerzas obrando aquí, sobre todo una campaña bien financiada por parte de los narcotraficantes apoyados por el Gobierno: la industria del alcohol. Fue en la guerra territorial entre los bares y los clubs donde se libraron los disparos mortales. Aprovechando la oportunidad para finalmente acabar con la costumbre de bailar toda la noche, las cervecerías y las cadenas de pubs añadieron pistas de baile, obtuvieron permisos para abrir hasta tarde y transformaron sus espacios en clubs, salvo por el nombre. En vez de ser el lugar para tomar una copa antes de ir al club, el High Street ahora era anfitrión para toda la noche. Y en vez de una rutina de ejercicios de cuatro horas bebiendo sobre todo agua, las horas después de las once de la noche se dedicaban ahora a beber descontroladamente hasta encontrarse apretujados en la ambulancia o con la ropa interior de un desconocido por sombrero. Un Bacardi Breezer de piña más y puede que aquella rubia esté lo suficientemente borracha. Con los «alcorrefrescos», con permisos para abrir hasta tarde, con barras con DJ y con una presión implacable sobre el Gobierno, la industria del alcohol finalmente retomó el control de la economía del ocio monopolizando la explotación de lo que se hacía después del pub."
+ },
  "Había tanta emoción en el momento que uno simplemente lo sabía». Levan murió tres meses después, el 8 de noviembre de 1992.": {
   "ch": 11,
   "page": 450,
@@ -1907,6 +1979,12 @@ window.ANOCHE_REFS = {
   "page": 139,
   "sec": "El Torch",
   "para": "«¡Cantó con la peor banda que jamás haya escuchado! Era esta una banda británica que no tenía idea de lo que era el northern soul —recuerda Ian Levine—. Pero esa noche era la primera en que trabajé como DJ para ese lugar, y fue la noche más electrizante de toda mi carrera». Subiendo del tono de voz, añadió: «No cabía un alma más en ese club. Había gente colgando de las vigas. El calor debía de rondar los 48 grados. Hacía tanto calor y estaba tan abarrotado que el sudor de las personas subía en forma de condensación y caía de nuevo sobre ellas desde el techo»."
+ },
+ "Han cultivado una imagen un tanto más sexy, pero los DJ son, en esencia, bibliotecarios": {
+  "ch": 20,
+  "page": 833,
+  "sec": "El futuro democrático del arte del DJ",
+  "para": "La revolución digital afectará a los DJ en un sentido más amplio porque con tanta música inundándonos, necesitaremos a los DJ para mantenernos a flote. Han cultivado una imagen un tanto más sexy, pero los DJ son, en esencia, bibliotecarios, y mientras las transmisiones y la difusión selectiva den paso a un mundo más segmentado y más especialista, y la industria musical abandone todo menos lo más probado y lo más conocido, necesitaremos DJ para que encuentren las rarezas. De lo contrario, estamos condenados a nadar en el mainstream o pasar horas removiendo en el lodo por nuestra cuenta."
  },
  "Hardy quedó atrapado en el torbellino de la decadencia por el abuso de las drogas.": {
   "ch": 12,
@@ -1973,6 +2051,12 @@ window.ANOCHE_REFS = {
   "page": 356,
   "sec": "Afrika Bambaataa",
   "para": "Herc tenía la ventaja inicial y el volumen, Flash tenía sus técnicas, pero Afrika Bambaataa tenía los discos. Y sin espacio para otros criterios que no fueran «¿Esto añadiría potencia a mi fiesta?», era un fiero cazador de vinilos. Mientras otros en el Bronx eran fieles al funk, al disco y al soul, Bam estaba dispuesto a tocar cualquier cosa que pusiera a la gente a bailar, listo para comprar cualquier disco que tuviera apenas unos segundos de un ritmo vibrante: una introducción, un break y un toque de bajo."
+ },
+ "Hicieron falta grabadoras de CD y reproductores de CD asequibles con control de emulación de vinilo a prueba de idiotas para que disyoquear con CD se librara finalmente del estigma del «tocadiscos de bodas».": {
+  "ch": 20,
+  "page": 830,
+  "sec": "El futuro democrático del arte del DJ",
+  "para": "Hicieron falta grabadoras de CD y reproductores de CD asequibles con control de emulación de vinilo a prueba de idiotas para que disyoquear con CD se librara finalmente del estigma del «tocadiscos de bodas». Los CD significan que uno puede cargar mucha más música y tocar las propias producciones volcadas directamente del ordenador. Ahora los WAV, AIFF MP3 y otros formatos digitales ofrecen aún más posibilidades. Uno puede cargar ahora diez mil canciones en un ordenador portátil, lo cual añade años de vida a tu espina dorsal. O simplemente sacar un par de tarjetas de memoria y unos auriculares. Puedes organizar tu colección en cuantas listas de reproducción personalizadas quieras y agrupar canciones juntas para adaptarte a un ánimo particular o para ajustarte al ambiente de un club particular; o puedes organizar las canciones por tema, estilo, tempo, tonalidad, artista o época. Programas como Traktor o PCDJ permiten encontrar canciones, ponerlas en la lista y mezclarlas a gusto, todo en el ordenador. Y si a uno le da miedo que parezca que está leyendo sus correos electrónicos, puede probar una interfaz ingeniosa como Serato, que permite usar un par de platos giratorios digitales para controlar los archivos de sonido. Un par de grabaciones con marca de tiempo provee a tu ordenador de información sobre cada cambio en velocidad o dirección: así que, aunque las canciones son solo archivos informáticos, uno hasta puede hacer scratching con ellas."
  },
  "Hoy (sin ánimo de ofender a sacerdotes y ministros, que dan lo mejor de sí) es el disc jockey o DJ quien cumple esta función.": {
   "ch": 1,
@@ -2358,11 +2442,29 @@ window.ANOCHE_REFS = {
   "sec": "Nicky Siano en el Gallery",
   "para": "Larry Levan llamaba al Gallery «su misa de los sábados». Casey compartía este entusiasmo."
  },
+ "Las bandas han muerto, vivan los DJ.": {
+  "ch": 20,
+  "page": 836,
+  "sec": "El alboroto continúa",
+  "para": "¿Qué pasará? Nadie lo sabe. Lo único seguro es que algo en algún lugar está evolucionando a toda máquina, como siempre ha ocurrido. Las bandas han muerto, vivan los DJ. Hemos pasado los últimos cincuenta años grabando la música pop, ahora nos divertiremos de lo lindo reciclándola en la forma que queramos. Se acabó esperar al próximo grito de la moda, miremos al futuro para ver el siguiente sonido que nos revolverá las entrañas, el próximo choque increíble de sonido sampleado."
+ },
  "Las cajas de ritmos y las sampleadoras manejan la música como lo hace un DJ: tocan por encima de ella o la samplean y la repiten.": {
   "ch": 17,
   "page": 716,
   "sec": "DJ/productor/remezclador",
   "para": "El house y el hip-hop, ambos emergieron como la respuesta de los DJ a las exigencias de sus respectivas pistas de baile: se basaron en el conocimiento peculiar de un DJ en cuanto a la música. Y fueron revoluciones conceptuales. El hip-hop albergó la idea del sampleado, de robar en vez de emular, de crear música con parches de una multitud de fuentes. El house demostró que la música creada con cajas de ritmo y sintetizadores podía ser sexy, tener funk y ser estrictamente tan bailable como la creada con madera, metales y cuerdas. Lo que dio alas a todo esto fue el nuevo equipo electrónico que lo facilitaba todo. Por unos cientos de dólares, uno podía comprar un universo musical nuevo, empaquetado nítidamente en una caja plateada con Roland, Casio, Korg o Akai estampado al lado. Y estas máquinas revolucionarias eran pan comido para el DJ. Las cajas de ritmos y las sampleadoras manejan la música como lo hace un DJ: tocan por encima de ella o la samplean y la repiten."
+ },
+ "Las estrellas son los aficionados a los clubs, no el sujeto que trabaja con el reproductor de discos.": {
+  "ch": 20,
+  "page": 814,
+  "sec": "I HAVEN’T STOPPED DANCING YET (AÚN NO HE PARADO DE BAILAR)",
+  "para": "A estas alturas del juego, la pregunta es: ¿estás metido o eres tan solo un consumidor? La cultura de clubs se fundó sobre la base de la solidaridad, de la participación, de la igualdad, de la comunión. Las estrellas son los aficionados a los clubs, no el sujeto que trabaja con el reproductor de discos. Si estamos en una pista de baile, pero nos quedamos todos mirando al DJ, o en un estadio todos mirando al escenario, ya no llevamos a cabo lo esencial: somos un público más, ya no somos el evento."
+ },
+ "Las excepciones son el lugar donde yace la energía.": {
+  "ch": 20,
+  "page": 836,
+  "sec": "El alboroto continúa",
+  "para": "Siempre habrá una escena underground y siempre se llenará de gente que ama la música, no como un trabajo, sino como la pieza central de sus vidas, aun cuando el pop narcotizante y manipulador parezca dominar el día y los DJ más conspicuos hayan abandonado su vocación misionera para regresar al cómodo puesto de sommelier musical. Las excepciones son el lugar donde yace la energía."
  },
  "Las grabaciones de Shut Up And Dance cobraban fuerza por la posición poco habitual que disfrutaban: estaban en la escena rave, pero no provenían de allí.": {
   "ch": 16,
@@ -2465,6 +2567,12 @@ window.ANOCHE_REFS = {
   "page": 415,
   "sec": "«Buffalo Gals»",
   "para": "«La actuación del Supreme Team puede requerir alguna explicación, pero cabe señalar aquí que son DJ de la ciudad de Nueva York que han desarrollado una técnica usando el tocadiscos como instrumento, con lo cual han sustituido las cuerdas de la guitarra por la aguja del gramófono, al moverlo manualmente hacia delante y hacia atrás en la superficie del disco. Lo llamamos “scratching”»."
+ },
+ "Lo mejor de todo era que se trataba de lugares donde todos se conocían una vez más, clubs que podían llamarse fiestas de nuevo.": {
+  "ch": 20,
+  "page": 824,
+  "sec": "La caída británica",
+  "para": "La recesión de los clubs británicos trajo consigo un regreso a las raíces. Después de 2005, con menos dinero y muchos menos eventos nocturnos capaces de contratar a estrellas internacionales, era un buen momento para dar paso a talentos nuevos, y emergió una escena maravillosamente fragmentada para esos propósitos. Por todo el país prosperaron eventos nocturnos más pequeños, liderados por DJ sin nombre tan talentosos como las superestrellas, pero más enérgicos: DJ con un amor genuino por la música, en vez de un solo acceso precoz a las listas de éxitos. Sin la presión de tener que llenar granjas industriales, comenzaron a explorar diferentes géneros en vez de un solo estilo poderoso de música: una noche de drum and bass brasileño, una de disco de Nueva York, un centro comunitario repleto de dubstep, un hangar repleto de la gente del mundo de la moda posando al ritmo del electro house. Lo mejor de todo era que se trataba de lugares donde todos se conocían una vez más, clubs que podían llamarse fiestas de nuevo."
  },
  "Lo que el northern soul trajo al DJ fue la obsesión.": {
   "ch": 4,
@@ -2633,6 +2741,12 @@ window.ANOCHE_REFS = {
   "page": 385,
   "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
   "para": "Para quienes lo escucharon en aquella época fue un momento revolucionario en la historia de la música: una grabación compuesta de nada más que otras grabaciones, una grabación hecha por un DJ, un collage posmoderno de textos existentes, la prueba fehaciente llena de scratching de que los platos podían ser instrumentos reales. Los teóricos escucharon formarse la grieta en los conceptos como autoría, derechos de autor, originalidad, virtuosismo musical: Adventures Of Grandmaster Flash On The Wheels Of Steel fue la primera vez que el hip-hop era capturado en una grabación en lugar de traducido; las posibilidades para la creación musical se habían multipicado exponencialmente."
+ },
+ "Los ubica en el ahora.": {
+  "ch": 20,
+  "page": 839,
+  "sec": "El alboroto continúa",
+  "para": "Los ubica en el ahora."
  },
  "Luego todo el mundo tenía sexo con todo el mundo, si es que no lo habían hecho ya».": {
   "ch": 14,
@@ -2850,6 +2964,12 @@ window.ANOCHE_REFS = {
   "sec": "El trance",
   "para": "…de un ritmo, lo cual vuelve a la persecución excitante más estimulante cuando, después de escaparse a las tiendas, cambiar una bombilla y darle de comer al gato, por fin regresan. Mezclar dos canciones distintas haría crujir los dientes a cualquiera, pero cortar de un tema a otro en claves más altas provoca el sentimiento dramático de una energía nueva (la modulación, o cambiar de clave, es el equivalente de cambiar de marcha en un coche). Al mover las escalas con las grabaciones, un DJ de trance puede crear la impresión de que el nivel de energía de la música sube constantemente. Si uno le pidiera a un psicólogo que estudiara los efectos de la música en los humanos bajo los efectos del éxtasis y que luego diseñara un estilo de música que los estimulara al máximo, pues eso sería el trance. No en vano los chicos lo adoran"
  },
+ "No os dejéis engañar: el DJ superestrella no está disyoqueando de verdad.": {
+  "ch": 20,
+  "page": 828,
+  "sec": "La ultraburbuja estadounidense",
+  "para": "Cuando el DJ renuncia a su cometido primordial y privilegia la venta de bebidas sobre el baile, cuando su cuenta de Instagram es más importante que su conocimiento musical, cuando la emoción que crea proviene de su fama en vez de sus canciones, no importa lo cuantiosa que sea su paga, ha regresado a la esclavitud. Cuando su vocabulario es pura manipulación, con redobles y puntos culminantes cada cuarenta segundos, ha reducido una noche de música de un banquete lujoso a una dosis repetida de metanfetaminas. Así que, mientras Skrillex, Deadmau5 y los de ese tipo se contentan con apretar el botón de reproducir una mezcla frenética de orgasmos de Pavlov, que llena estadios y hace que los chicos ricos gasten de más en champán, lo que hacen está a un millón de kilómetros de lo que han hecho los DJ con talento durante casi cincuenta años. No lo llamemos disyoquear, tal vez acariciar las estrellas. La igualdad y la solidaridad de la pista de baile se ha perdido en favor de una idolatría consumista borreguil; desde la perspectiva de la industria del espectáculo, he aquí la brecha entre el talento y la celebridad; musicalmente, es la diferencia entre hacer el amor y tener sexo implacable al estilo porno. No os dejéis engañar: el DJ superestrella no está disyoqueando de verdad."
+ },
  "No se construyó el monumento. Hoy, el edificio es un banco.": {
   "ch": 8,
   "page": 329,
@@ -2880,6 +3000,12 @@ window.ANOCHE_REFS = {
   "sec": "El norte",
   "para": "«A ellos les gustaba más —dice Pete Tong—. El día en que llegó una grabación de house tiraron los discos viejos. Nos miraban como si dijeran: “¡Malditos cabrones sureños apegados al soul!”»."
  },
+ "Nos robaron nuestra preciada cultura underground delante de nuestras narices, pero apenas nos dimos cuenta.": {
+  "ch": 20,
+  "page": 815,
+  "sec": "I HAVEN’T STOPPED DANCING YET (AÚN NO HE PARADO DE BAILAR)",
+  "para": "Después de permitir que los DJ se convirtieran en superestrellas, dejamos de escuchar música y nos creímos la publicidad y todos nos volvimos locos con sus primeros discos de todos modos. En vez de fiestas memorables, había miles de noches en los clubs, todas buscando captar nuestra atención, todas buscando la energía y el dinero que habían desatado la explosión del acid house. Nos robaron nuestra preciada cultura underground delante de nuestras narices, pero apenas nos dimos cuenta. Con tal de que nos mantuvieran levantando los puños al aire con nuestras pupilas en danza en lo alto de nuestros púlpitos los sábados por la noche, no nos importaba una puta mierda. Ir a los clubs ya no era algo especial; se convirtió en algo parecido a mirar un vídeo. Una revolución del baile… ¿dónde?"
+ },
  "Nuestra empresa tenía por objeto escribir una biografía de la figura más importante de la música dance: el disc jockey": {
   "ch": 1,
   "page": 2,
@@ -2903,6 +3029,18 @@ window.ANOCHE_REFS = {
   "page": 468,
   "sec": "Ron Hardy en el Music Box",
   "para": "«Era como un ídolo. La primera vez que lo vi pinchar discos, era su cumpleaños, y solo ver a la gente literalmente llorando porque este hombre los tenía tan a tope, ver a gente desmayarse, me dije: “¡Oye, estas son las fiestas que me gustan!”. Nunca había ido a un lugar donde el DJ tenía tal control sobre las personas, al punto de que gritaban y bailaban, y hasta lloraban en ciertos momentos. Dependiendo de cuán colocados estuvieran, se desmayaban de puro entusiasmo. Allí lo que había era pura energía»."
+ },
+ "Nunca se me olvida: uno está ahí para entretener.": {
+  "ch": 20,
+  "page": 816,
+  "sec": "La burbuja de la música bailable británica",
+  "para": "«Uno de los problemas de ser Pete Tong o Judge Jules o lo que sea es que uno tiene esa enorme responsabilidad de llevar la noche a un punto máximo —dice—. Nunca se me olvida: uno está ahí para entretener. Cuando la gente espera haciendo cola y paga su dinero, solo quieren volverse locos con sus grabaciones favoritas»."
+ },
+ "O quizá los DJ acaben convirtiéndose en autómatas, o en meros algoritmos.": {
+  "ch": 20,
+  "page": 834,
+  "sec": "El futuro democrático del arte del DJ",
+  "para": "O quizá los DJ acaben convirtiéndose en autómatas, o en meros algoritmos. La idea de una colección musical está sentando las bases para la confección de una rocola digital que se expande cada vez más. Olvídate de poseer o coleccionar, todo se reducirá a compartir listas. Quizá la cabina del DJ pronto sea apenas una línea a un sistema de sonido y una línea de banda ancha que conecte con la nube. Un DJ simplemente conectará su ordenador portátil y comenzará a reproducir y transmitir música como guste. Nunca tendrá que comprar una sola pista, solo pagará un canon por el derecho de cada canción que pinche. Algunos DJ tocarán de una forma que reconocemos hoy, pero otros usarán el software musical para torcer y moldear temas existentes hasta que no se reconozcan al combinar elementos de diez pistas distintas añadiéndoles sus propios ritmos, melodías y líneas de bajo. Podrían improvisar con otros DJ u otros músicos, quizá hasta activarán luces y proyecciones a la par con la música, o quizá tendrán sensores de reacciones que les permitan saber para dónde quiere el público que vaya su música. Quizá los propios bailarines tendrán algún tipo de control directo sobre la música."
  },
  "Olvídate de intentar rapear con el acento equivocado, había un estilo realmente autóctono en el estilo del sistema de sonido, el bajo británico había cobrado fuerza.": {
   "ch": 16,
@@ -3042,6 +3180,12 @@ window.ANOCHE_REFS = {
   "sec": "Adventures Of Grandmaster Flash On The Wheels of Steel",
   "para": "Su canción más famosa sin duda es The Message de 1982, que llegó al número 4 en las listas de R&B (número 8 en el Reino Unido), como el primer rap con carga sociopolítica del hip-hop. Una grabación sumamente inspiradora, sus combativas letras eran una innovación de Sylvia Robinson que la banda, armada con una poderosa falta de compromiso social, rechazó con insistencia. Pero la agudeza comercial extraordinaria de Sylvia triunfó, y así nació la apuesta contestataria que perviviría en el rap. Al éxito de la canción seguiría toda una retahíla de «raps con mensaje»."
  },
+ "Pero la función de un DJ superestrella no es ser creativo o innovador, solo está allí para atraer a un público.": {
+  "ch": 20,
+  "page": 816,
+  "sec": "La burbuja de la música bailable británica",
+  "para": "Mientras muchos DJ se contentaron con volverse ricos como superestrellas, financiando nuevos hábitos con drogas innovadoras y comprando cera a granel para los helicópteros, esta situación acabó siendo perjudicial para el oficio. El trabajo de un DJ es explorar la música y estrenar temas que no se han escuchado antes, vivir el momento con una selección musical espontánea e improvisada para seducir una sala llena de personas y capturar su atención por unas horas. Pero la función de un DJ superestrella no es ser creativo o innovador, solo está allí para atraer a un público. Mientras la cultura de clubs británica perdió el control con la idolatría de las superestrellas en torno al año 2000, Pete Tong lamentó la presión de verse obligado a mantener las cosas en un clímax asistido artificialmente con canciones populares."
+ },
  "Pero las personas listas ya habían dado con algo mejor: el DJ de club.": {
   "ch": 2,
   "page": 64,
@@ -3125,6 +3269,12 @@ window.ANOCHE_REFS = {
   "page": 233,
   "sec": "Nicky Siano en el Gallery",
   "para": "Podría decirse que el primer club comercial que logró una combinación perfecta fue el Gallery. Nicky Siano, un alborotador enérgico y bisexual de Brooklyn, se había mudado a Manhattan a la tierna edad de dieciséis años con su novia Robin. Era 1971 y ya había estado explorando la noche neoyorquina post-Stonewall durante casi un año. Cuando cumplió los diecisiete, ya era dueño de su propio club."
+ },
+ "Por citar el eslogan del evento nocturno londinense It’s On: «Las mejores canciones, una mierda de mezcla» es la orden del día.": {
+  "ch": 20,
+  "page": 829,
+  "sec": "El futuro democrático del arte del DJ",
+  "para": "En Gran Bretaña, el auge de las superestrellas y su caída trajo consigo un cambio de paradigma en el arte del DJ. Después de veinte años siendo el centro de atención, disyoquear ya no es patrimonio exclusivo de una hermandad elitista; ahora todo el mundo mezcla música y muchas personas lo han hecho en público. Como resultado, como reacción directa a una década de exceso de comercialización de la vida nocturna, hay una nueva actitud punk. Toca solo tus temas favoritos, encuentra gente que comparta tu entusiasmo y comienza la fiesta. Por citar el eslogan del evento nocturno londinense It’s On: «Las mejores canciones, una mierda de mezcla» es la orden del día. Las nuevas tecnologías ayudan a democratizar el arte del DJ también. Los foros con solera y acreditada sabiduría como DJhistory.com nos enseñan nuestra historia, el servicio de reconocimiento de canciones Shazam puede identificarte las canciones, la gente de tu red social te suministra canciones nuevas y las compras en línea evitan que tengas que ir en busca de esos temas tan esquivos. Todo lo anterior te permite concentrarte en la verdadera destreza del DJ: tener un gran gusto musical y saber cómo compartirlo con la gente."
  },
  "Por fin tenemos una identidad. Nosotros somos eso».": {
   "ch": 16,
@@ -3276,6 +3426,12 @@ window.ANOCHE_REFS = {
   "sec": "Future y Spectrum",
   "para": "La vieja guardia, aún obsesionada con la moda, no lo entendió. Mark Moore llevó al promotor Phillip Sallon a Future y le dijo: «Este es el futuro, literalmente el futuro. Es lo próximo que va a ocurrir». Sallon lo reprendió: «No seas tonto; son solo chicos de los suburbios»."
  },
+ "Se calcula que XS produce un millón de dólares cada noche.": {
+  "ch": 20,
+  "page": 826,
+  "sec": "La ultraburbuja estadounidense",
+  "para": "La otra sorpresa que aportó la explosión de la EDM fue el aumento de las tarifas de los DJ de astronómicas a descabelladas. En el 2000, la tarifa máxima reportada de 80 000 dólares por un par de horas tocando discos era un escándalo, pero es una bobada comparada con el dinero que se suelta por ahí en estos días. En XS, una filial del imperio de casinos Wynn y el club nocturno que más dinero genera en Estados Unidos, Afrojack y su calaña se embolsan 150 000 dólares por bolo, pues los dueños del casino confían en que generarán mucho más en el coste de la entrada y el servicio de cóctel y botella. Se calcula que XS produce un millón de dólares cada noche. En su artículo para The New Yorker, Josh Eells reveló que los gerentes del club calculan sus ganancias (y el valor particular de un DJ para ellos) al contabilizar el número de seguidores de Instagram que tienen y someter a un severo escrutinio el pronóstico meteorológico de ese día."
+ },
  "Se convirtió en productor, y dado que había inventado nuevas formas de concebir y construir la música, los DJ pronto eclipsaron a los nostálgicos luditas de la competencia.": {
   "ch": 17,
   "page": 713,
@@ -3341,6 +3497,12 @@ window.ANOCHE_REFS = {
   "page": 707,
   "sec": "El grime",
   "para": "Se trataba de una brecha generacional, y se trataba del auge del MC. Por un lado estaban los DJ de treinta años o más, quienes se habían criado en los años de las raves o en las raíces del reggae; del otro estaban los adolescentes que tenían poca herencia musical más allá del reciente hiphop estadounidense, pero no ocultaban un abrumador deseo de ponerse al micrófono y expresarse. Sí, trajo violencia a los espacios, pues las letras sobre armas de fuego y pandillas atrajo el lado furioso y obsesionado con el culto a los bajos fondos a una cultura musical que antes era más alegre. Y sí, cambió la música completamente, en la medida en que un desfile de MC escupía rimas sobre ritmos mínimos y llevaron lo que había sido una escena basada en la pista de baile a centrar su atención en la tarima. Es como si la Sugar Hill Gang pidiera a 50 Cent que solo rapeara canciones alegres."
+ },
+ "Se tratará de la música en vez de la maquinaria.": {
+  "ch": 20,
+  "page": 834,
+  "sec": "El futuro democrático del arte del DJ",
+  "para": "Algunos DJ ampliarán contentos su currículo. Los nuevos programas les ayudarán a difuminar las líneas entre ser DJ y músico, y acercarán al DJ un poco más hacia el estatus de artista. Otros usarán las nuevas tecnologías, no para cambiar lo que hacen, sino para que les resulte más fácil tocar una noche de música hermosa, conmovedora y bien escogida. El futuro de los juguetes del DJ reducirá la cantidad de experiencia técnica requerida. Entonces, de la misma manera en que una cámara completamente automática suponía que un buen ojo puede ser mejor que años de pericia, dejarán mucho más claro de qué se trata eso de ser DJ. La valoración del DJ no dependerá de destrezas técnicas aborrecibles como mezclar los ritmos o controlar el volumen, sino de la emoción, la sensibilidad y la musicalidad. Reconducirán el arte del DJ a sus fundamentos de gusto y programación. Se tratará de la música en vez de la maquinaria."
  },
  "Seguid pegados a ellas.": {
   "ch": 18,
@@ -3869,6 +4031,12 @@ window.ANOCHE_REFS = {
   "page": 760,
   "sec": "Las raves en Estados Unidos",
   "para": "Agarra tus palillos brillantes, ponte tus piercings y anúdate las coletas de caballo. Vamos a practicar algo de PLUR (Peace Love Unity and Respect: paz, amor, unidad y respeto). Se trata del noble lema adoptado por el movimiento rave estadounidense a comienzos del nuevo siglo. Muchos recibieron con cinismo este idealismo ingenuo: sobre todo en una escena que, con verdadero estilo estadounidense, había crecido en una mercantilización extrema. Aquellos que se habían involucrado en los inicios de las raves en Estados Unidos eran los desdeñados candy ravers, muchos de ellos apenas adolescentes, quienes propugnaban el lema PLUR en sus páginas de internet brillantes, llenas de poesía y con colores pastel."
+ },
+ "Vosotros pensasteis que esto nos convertía en unos drogadictos existencialistas y homosexuales».": {
+  "ch": 20,
+  "page": 826,
+  "sec": "La ultraburbuja estadounidense",
+  "para": "Hay bastantes comentaristas que denuncian lo homogeneizante y uniformizador de la EDM. Naturalmente, los escritores británicos le cuentan con regocijo a Estados Unidos que se olvidan de lo esencial, como Clive Martin en Vice, que describe a Estados Unidos como al padre negligente de la música house arrullando al hijo criado en el extranjero a quien no reconoce para nada. «Durante los últimos veinticinco años, mientras vosotros comprabais aviones Learjet y escuchabais a Creed, Europa bailaba hasta la extenuación, buscaba láseres y preguntaba constantemente a los extraños si “os lo estais pasando bien esta noche”. Vosotros pensasteis que esto nos convertía en unos drogadictos existencialistas y homosexuales»."
  },
  "Walter Gibbons fue probablemente el primero en convertir esta técnica en una parte importante de su set.": {
   "ch": 17,
@@ -4542,11 +4710,23 @@ window.ANOCHE_REFS = {
   "sec": "Grand Wizard Theodore",
   "para": "«Era articulado sin tener que abrir la boca. Era físicamente articulado, con sus gestos, con su habilidad para ser tan preciso, para sincronizar. La manera en que se movía físicamente… era una expresión. Quizá pueda antojarse esotérico para muchos, pero yo entendía lo que estaba haciendo. Soy DJ y esa era una lengua que yo dominaba»."
  },
+ "«Era cantidad sobre calidad —plantea Sasha—.": {
+  "ch": 20,
+  "page": 821,
+  "sec": "La caída británica",
+  "para": "Simplemente, la escena había crecido demasiado en muy poco tiempo, y no podía sostenerse. «Era cantidad sobre calidad —plantea Sasha—. Había demasiados eventos nocturnos de alto perfil al mismo tiempo. Y no se respetaba a la gente que pagaba la entrada con el sudor de su frente para acceder a los clubs. Había demasiados eventos nocturnos mediocres, demasiada música mediocre. Todos se subieron a esta ola enorme para ganar dinero»."
+ },
  "«Era como estar en El corazón de las tinieblas —bromea Holman": {
   "ch": 10,
   "page": 396,
   "sec": "Los punks del Bronx",
   "para": "«Era como estar en El corazón de las tinieblas —bromea Holman—. Voy al hotel y estoy a punto de llevarlos hasta el Bronx una noche de verano —McLaren y Rory Johnston de la RCA—, y ellos están vestidos como putos piratas con todo ese atuendo Vivienne Westwood. Pensé que nos iban a atracar o a pegar un tiro en cualquier momento. Al final llegamos y vamos de un lugar que está completamente desierto a masas y masas de chicos, solo adolescentes que corren de una esquina para otra, mirábamos las peleas que se desencadenaban en la multitud. Era una locura. Las botellas volaban por todas partes. Malcolm vestía como un pirata y nadie le hacía caso. Y ahora comienza a ver los efectos especiales de los DJ y a los b-boy, y comienza a ver todo el conjunto. Y entonces dice: “Vámonos de aquí. Pero tengo una idea”»."
+ },
+ "«Era como los ochenta antes del Lunes Negro», recuerda Dom Phillips.": {
+  "ch": 20,
+  "page": 817,
+  "sec": "La burbuja de la música bailable británica",
+  "para": "Las cosas pintaban mal. Las tarifas de los DJ sobrepasaban con mucho la cifra de 1000 libras; Jeremy Healy pedía 15 000 libras por tocar en Noche Vieja. Sasha, encerrado en un estudio intentando acabar un álbum, rechazó una oferta de 50 000 libras por dos horas. Los superclubs reforzaban sus monopolios con la idea sinuosa de las giras de clubs: en las que un club pequeño pagaba dinero por el privilegio de ser la sede de una «visita» de un club mucho más grande y sus DJ de mucho más renombre. Entonces, en un movimiento que resumía cuán loca se había puesto la cosa, las revistas habían publicado que un club de Japón había ofrecido 150 000 dólares a Junior Vasquez por tocar. Las páginas de Mixmag se llenaban de informes sobre los sueldos de los DJ, reflexiones sobre si los aficionados recibían el valor de su dinero, sobre el mercadeo rampante de la música bailable. Entre ellos, los editores bromeaban con lanzar una edición «autodestructiva» en la que imprimirían las sumas astronómicas reales de lo que ganaba gente como Pete Tong. Los clubs sin DJ de renombre comenzaron a sufrir, la música bailable estaba en todos los anuncios televisivos y las grabaciones de los clubs solían alcanzar las listas del pop. Se oteaba el colapso a no mucho tardar. «Era como los ochenta antes del Lunes Negro», recuerda Dom Phillips."
  },
  "«Era como un cavernícola con una nave espacial.": {
   "ch": 15,
@@ -4571,6 +4751,12 @@ window.ANOCHE_REFS = {
   "page": 469,
   "sec": "Ron Hardy en el Music Box",
   "para": "«Frankie era quien llevaba los pantalones —recuerda Marshall—. Ahora la llamaban música house, y eso se debía a Frankie. Y que Ron Hardy llegara y le birlara el fuego a Frankie, eso sí que fue un acontecimiento». El Power Plant renunció a los sábados y solo abría los viernes, y a la larga la semana se dividió entre los dos clubs: los miércoles y los viernes eran noches del Power Plant y los jueves, viernes y sábados pertenecían al Music Box. «Eran competitivos. —Marshall ríe—. Como dos pistoleros»."
+ },
+ "«Es difícil creer que uno forma parte de un evento contracultural cuando lo patrocina Paco Rabanne y lo transmite la BBC».": {
+  "ch": 20,
+  "page": 821,
+  "sec": "La caída británica",
+  "para": "Sobresaturada, la escena también incurrió en un exceso de comercialización. «La gente estaba bastante harta de nombres de marca grande que les decían lo que tenían que hacer», declaró Paul French en Mixmag, culpando a los ejecutivos que se aprovechaban de la bonanza. «La mejor manera de disfrutar los clubs es creando ese sentimiento de que la vida es un secreto, que sientan que descubren la vida», explica el copropietario de Cream, Darren Hughes, a la revista Night con ironía palpable. «La gente se da cuenta de cuándo quieren venderle algo, y la reacción negativa llegó para cortar cabezas». En el Guardian, Alexis Petridis señaló: «Es difícil creer que uno forma parte de un evento contracultural cuando lo patrocina Paco Rabanne y lo transmite la BBC»."
  },
  "«Es la persona que más influyó en mí —dice Nicky Siano—.": {
   "ch": 6,
@@ -4625,6 +4811,12 @@ window.ANOCHE_REFS = {
   "page": 483,
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "Cuando no podía tocarla más (en función de la versión que des por buena, o se la robaron de su caja de discos o pertenecía a Wayne Williams, quien le prohibió tocarla), Saunders juró recrearla. Como le dijo a Jonathan Fleming: «Estaba tan encabronado porque ya no tenía mi canción temática y no podía lograr que el público enloqueciera como solía hacer cuando la ponía. Así que me dije: “Voy a hacer una para mí”»."
+ },
+ "«Estamos construyendo una compañía de entretenimiento global»": {
+  "ch": 20,
+  "page": 818,
+  "sec": "La burbuja de la música bailable británica",
+  "para": "Los superclubs hicieron caso omiso a las señales de alerta. Se habían emborrachado con la noción de que eran dueños de sus propias marcas de estilos de vida: etiquetas que se podían pegar a todo. El Ministry of Sound basó su futuro en el modelo empresarial de Richard Branson para Virgin, y lanzaron un sello, una estación de radio, una revista nacional, agua embotellada, ropa, una editorial musical y una división de administración de giras. «Estamos construyendo una compañía de entretenimiento global», declaraba el cartel que colgaba sobre la cabeza de los empleados. Entonces, para preparar su presentación en el mercado de valores a bombo y platillo, ofrecieron audazmente treinta millones de libras por el Britannia, el yate de la reina, y seis millones de libras más por la sección Spirit Zone del estadio Millennium Dome. Hasta pagaron por un anuncio en el cine para exhortar a los jóvenes a votar, así de confiados estaban de su lugar en el corazón de la cultura juvenil. El Ministry of Sound ahora existía como un club tan prominente que los jóvenes del mundo podrían ver en la marca Ministry un indicador fiable de lo que es ser cool y estar a la última. Los acaudalados exestudiantes de Eton a cargo del lugar generaban más dinero con su logotipo en una maquinilla de afeitar que con una pista de baile genial."
  },
  "«Estoy seguro de que me concibieron en una fiesta de blue —farfulla Smiley—. Es la vida misma, esto del sonido. Uno lo tiene que vivir».": {
   "ch": 16,
@@ -4997,6 +5189,12 @@ window.ANOCHE_REFS = {
   "page": 776,
   "sec": "Las radios piratas",
   "para": "Sin embargo, la más famosa de todas fue Radio Caroline, una estación que emitía en un barco y que fue lanzada en 1964 por el extravagante irlandés Ronan O’Rahilly, quien antes había administrado el Scene Club en Soho. La demanda no atendida de una estación de radio era tal que Caroline recibió 20 000 cartas de fanáticos al cabo de diez días de su primera emisión, y a las tres semanas contaba con siete millones de radioyentes. Un espectro de estaciones imitadoras apareció después, entre ellas Sutch, 390, England, Britain, 270, Scotland y la principal competidora de Caroline, Radio London. «Nadie quiere a las estaciones de pop piratas, salvo los radioyentes», escribió el Daily Sketch en 1965."
+ },
+ "«Ni siquiera deberían llamarle música bailable —dice en The New Yorker—. Deberían llamarla música para contemplar al DJ y emborracharse».": {
+  "ch": 20,
+  "page": 827,
+  "sec": "La ultraburbuja estadounidense",
+  "para": "Otra posible analogía es el salto que el hip-hop se vio forzado a dar cuando fue extirpado del mundo de los clubs para convertirse en un género de conciertos a gran escala. A principios de los noventa, esto se observó con nitidez en el auge del DAT (la cinta de audio digital), a medida que los promotores, preocupados por los errores, forzaron a los DJ a recrearse en el mimo en lugar de manosear vinilos. La EDM, con sus enormes producciones y públicos con expectativas de más, está reduciendo al DJ a la función de un testaferro, con iluminaciones predecibles sobre mezclas pregrabadas. En un intercambio famoso, Deadmau5 defendió su uso de sets preprogramados al admitir: «Yo aprieto el botón de reproducir; todos lo hacemos». Luego pasó a argumentar que las destrezas del DJ hoy en día eran las de un producto: crear las canciones que está tocando. Mientras que esto puede ser cierto, hay una destreza real en el arte de ser DJ que va más allá de la producción, y es la siguiente: tocar los discos, cosa que está matando rápidamente el circuito de superestrellas Hasta will. i. am, familiarizado con la música manipuladora, y también DJ de Las Vegas, ha criticado a lo que esta ciudad ha reducido el arte del DJ. «Ni siquiera deberían llamarle música bailable —dice en The New Yorker—. Deberían llamarla música para contemplar al DJ y emborracharse». Dennis Romero llamó a la música bailable de hoy en L. A. Weekly: «Un desfile de millonarios que aprietan el botón de reproducción moviéndose por inercia»."
  },
  "«Ni siquiera sabíamos que lo estábamos pinchando —admite Moore": {
   "ch": 15,
@@ -5430,6 +5628,12 @@ window.ANOCHE_REFS = {
   "sec": "Jamie Principle, Jesse Saunders y las primeras pistas de house",
   "para": "En 1983, con su caja 808, un teclado Korg Poly 61 que le compró su madre, un sintetizador para bajo TB 303 y una grabadora de cuatro canales, comenzó a crear pistas. «Solo usé lo que conocía de muchas canciones y discos que pinchaba que eran grandes éxitos, a fin de fundirlos y juntarlos en una sola cosa». A la primera la llamó Fantasy y a otra le puso el nombre On And On como homenaje a su canción temática robada. Jesse negoció la tarea de lanzar discos con la ayuda de su amigo Vince Lawrence. Según este, la alianza se forjó con un objetivo en mente. «Yo solo quería acostarme con chicas —declara—. Tú sabes, ¡tratar de llevármelas a la cama!». Como uno de los mejores DJ de la ciudad, Jesse contaba con una red instantánea de promoción. En cuanto a Vince, este sabía cómo producir un disco porque su padre Mitch era dueño de Mitchbal, un sello de blues diminuto, y un año antes, más o menos, con al nombre de Z Factor, él y algunos amigos de la escuela habían grabado un sencillo electrónico de rock pop, (I Like To Do It In). Fast Cars. Aunque se escuchó por un tiempo en las radios de Chicago, Fast Car —una aproximación distante al lujurioso estilo del ídolo de Vince, Trevor Horn— tenía poco que ver con lo que ocurría en los clubs. Sin embargo, algunos, en particular Vince, dicen que es la primera grabación de house."
  },
+ "«el fenómeno único de la cultura del baile es la manera en que coexisten los clubs comerciales y los underground».": {
+  "ch": 20,
+  "page": 820,
+  "sec": "La burbuja de la música bailable británica",
+  "para": "Tanto en sus excesos convencionales como en sus esquinas más aventureras, la cultura de clubs fundada por el acid house parecía sorprendentemente una fuerza de la naturaleza indestructible. Explicando que la caída esperada se había pospuesto de forma indefinida, Judge Jules, DJ del Gatecrasher y el ejemplo encarnado del sistema de las superestrellas, señaló con perspicacia que «el fenómeno único de la cultura del baile es la manera en que coexisten los clubs comerciales y los underground»."
+ },
  "«el tecno inteligente» era lo opuesto al «hardcore estúpido».": {
   "ch": 13,
   "page": 538,
@@ -5537,6 +5741,12 @@ window.ANOCHE_REFS = {
   "page": 551,
   "sec": "El festival Love Parade",
   "para": "En una era en la que domina el mercado, se ha sugerido que lo que necesita Detroit, ahora que las fábricas están cerradas, no es inversión, ni empleos ni un centro urbano que funcione. No, solo necesita reposicionar la marca. En busca de un nombre que sustituya el de la «Ciudad del Motor», y sumamente conscientes de la revolución musical que comenzó allí, algunos burgueses de la ciudad han dado con algo. ¿Por qué no, sugieren, llamarla la «Ciudad del Tecno»?"
+ },
+ "¿Por qué nos hincamos de rodillas ante un lanzador de discos? Porque ocasionalmente es capaz de alcanzar lo divino.": {
+  "ch": 20,
+  "page": 838,
+  "sec": "El alboroto continúa",
+  "para": "¿Por qué nos hincamos de rodillas ante un lanzador de discos? Porque ocasionalmente es capaz de alcanzar lo divino. Porque todo conecta dentro de un club; no hay otro lugar donde uno pueda divertirse más."
  },
  "¿Representa eso al artista? No representa al artista, te representa a ti».": {
   "ch": 17,
