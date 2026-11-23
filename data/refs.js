@@ -84,6 +84,12 @@ window.ANOCHE_REFS = {
   "sec": "Larry Levan y el Paradise Garage",
   "para": "Un club, a mucha distancia de los demás, fue el que marcó el camino para que muchos de los hijos del disco dieran sus primeros pasos: el Paradise Garage, de Nueva York. Abierto desde 1977 hasta 1987, el Garage fue el vínculo crucial entre el disco y las otras formas musicales que evolucionaron de esta música."
  },
+ "Abrazar a alguien que acabas de conocer es un acto de desafío contra una sociedad cruel, impulsada por el dinero.": {
+  "ch": 18,
+  "page": 760,
+  "sec": "Las raves en Estados Unidos",
+  "para": "Pero en el libro The Book Of E, el escritor Push argumenta convincentemente que los candy ravers sí encarnaron una auténtica rebelión. En un Estados Unidos superconsumista e hipermediático, es más probable que el contacto humano provenga de una pantalla, y lo más seguro es que sea para venderte algo. Creer en la amistad, la bondad y la solidaridad era una rebelión adolescente pura. Abrazar a alguien que acabas de conocer es un acto de desafío contra una sociedad cruel, impulsada por el dinero. Para los jóvenes estadounidenses ansiosos y enajenados, la rave era una oportunidad para actuar conforme a las necesidades de su edad y reivindicar la inocencia y la pureza de la infancia."
+ },
  "Ahora la gente esperaba escuchar algo completamente distinto cuando compraban una remezcla».": {
   "ch": 17,
   "page": 721,
@@ -95,6 +101,12 @@ window.ANOCHE_REFS = {
   "page": 118,
   "sec": "El fin del principio",
   "para": "Una vez el DJ sale de la radio y entra en la pista de baile, la profesión cambia radicalmente. Dejó de ser un simple seleccionador de discos y un creador de tendencias; ahora disfrutaba de la reacción del público en su haber. Ahora que la relación entre la música y el público era interactiva, el público pasó a ser parte del evento; en cierto sentido, el público era el evento, y el DJ, el responsable de controlar su placer."
+ },
+ "Ahora son un ritmo mundialmente conocido y tenemos la suerte de llamarlos solo breaks.": {
+  "ch": 18,
+  "page": 766,
+  "sec": "Las raves en Estados Unidos",
+  "para": "Florida también desarrolló su propia escena particular. En Orlando, una ciudad algo sosa propiedad efectiva de Disney, los DJ Kimball Collins y Dave Canalte y la promotora, diosa y paciente mental Stace Bass crearon su propio club Oz, que creció de forma prácticamente paralela al británico, muy influenciado por John Digweed y los viajes frecuentes de Sasha a este estado soleado. Orlando también fue donde el movimiento próspero de los breaks emergió en torno al híbrido del bajo de hip-hop de Miami y el house de breakbeats, creado por DJ Icey. Al principio lo llamaron funky breaks, pero cuando los chicos de la Costa Oeste, dirigidos por los Hardkiss Brothers, crearon un sonido similar, los llamaron coastal breaks. Ahora son un ritmo mundialmente conocido y tenemos la suerte de llamarlos solo breaks."
  },
  "Al escuchar Planet Rock, Kraftwerk interpuso una demanda por reclamación de regalías que se mantuvo sin resolver durante muchos años.": {
   "ch": 10,
@@ -234,6 +246,12 @@ window.ANOCHE_REFS = {
   "sec": "Coldcut y M/A/R/R/S",
   "para": "Bang The Party ganó respecto a Estados Unidos con Release Your Body y Bang You’re Mine; Baby Ford creó la primera grabación de acid house británico, Oochy Koochy, y D Mob dio al país un sorbo de la escena ácida de Londres con la infumable We Call It Acieed, que llegó a la tercera posición en el Reino Unido y provocó que la BBC prohibiera todas las canciones que contuvieran la palabra inglesa acid."
  },
+ "Bailar es un acto político, estúpido.": {
+  "ch": 18,
+  "page": 742,
+  "sec": "RENEGADE SNARES (CAJAS RENEGADAS)",
+  "para": "Bailar es un acto político, estúpido. Piensas que te estás divirtiendo, pero cuando estás en la pista de baile, estás disfrutando de una rebelión temporal, rechazas las reglas y las responsabilidades de tu vida cotidiana, cuestionas los valores que te obligan a esperar el autobús y sonreír al jefe cada mañana. Un buen DJ puede usar el poder de la música para suspender la realidad, con lo cual logra que olvides los problemas de tu carrera profesional, las facturas sin pagar a favor de algunas prioridades básicas más humanas, incluso animales."
+ },
  "Bajo el sello de Lenny, Street Beat Records, se lanzó la serie de discos «Ultimate Breaks And Beats» que con el tiempo llegó a alcanzar los veinte volúmenes.": {
   "ch": 9,
   "page": 359,
@@ -354,6 +372,12 @@ window.ANOCHE_REFS = {
   "sec": "Soul II Soul",
   "para": "Beresford Romeo nació en la industria, pues cinco de sus hermanos mayores eran todos carne de un sistema sonido, comenzando por el mayor, Johnson, quien tocaba ska y rocksteady para un sonido del norte de Londres titulado Count Barry’s en los sesenta. Como Jazzie B, Beresford y su sistema de sonido Soul II Soul personificarían la creciente confianza de la música británica de origen afrodescendiente."
  },
+ "Como denota este libro, el DJ es un varón, y la elección del género no es aquí cuestión de simplicidad gramatical.": {
+  "ch": 18,
+  "page": 771,
+  "sec": "Mujeres DJ",
+  "para": "Como denota este libro, el DJ es un varón, y la elección del género no es aquí cuestión de simplicidad gramatical. En el primer siglo de historia del oficio, a las mujeres casi se las sacó del panorama, salvo honrosas excepciones. Hasta fechas muy recientes, el mundo de la música siempre ha sido un club de varones, que reservaba a las mujeres el dudoso honor de grabar algunas voces para los chicos. Así como en el arte musical, el arte de DJ casi siempre ha pasado de un maestro a un aprendiz —varones— de una manera casi masónica, convirtiéndose en una costumbre de muy rancio arraigo y difícilmente soslayable; una situación, ciertamente, muy difícil para la mujer. También es muy importante que mucha de la primera cultura bailable formaba parte de un entorno gay, así que en la mayoría de los clubs importantes de Nueva York y de Chicago había poco interés en fomentar que ellas se lanzaran a pinchar algunas canciones. En todo caso, la cultura de clubs nunca se ha significado por ser una punta de lanza para la igualdad de oportunidades para los dos sexos. Con tan solo echar un vistazo a algunos folletos de promoción, basta para determinar cuáles eran las destrezas que se esperaban de las aficionadas a los clubs. La noción de las chicas manipulando algo que no fuera una máquina de escribir, una estufa o una caja registradora, por desgracia, es relativamente nueva."
+ },
  "Como dijo Albert Goldman: «Sanctuary fue la primera discoteca gay sin inhibiciones de todo Estados Unidos».": {
   "ch": 6,
   "page": 205,
@@ -389,6 +413,12 @@ window.ANOCHE_REFS = {
   "page": 311,
   "sec": "Ian Levine en el Heaven",
   "para": "En su historia del disco titulada Turn The Beat Around, Peter Shapiro vincula el sonido del hi-NRG con cambios más abarcadores. Ahora liberada de las tinieblas, la cultura gay, en particular los círculos sociales ferozmente competitivos de Manhattan, imponía unos estándares de belleza inflexibles, que forzaba a los hombres a pasar horas en el gimnasio por miedo a eso de «si no hay pectorales, no hay sexo». Y si los hombres en la pista de baile eran sumamente esculturales y tonificados, la música que bailaban también lo era. Shapiro plantea que el hi-NRG «blanqueó al disco, no porque blanqueara sus raíces afrodescendientes, sino por esmerarse por la perfección sobrehumana, al llevar la estética del clon a extremos desconocidos». Como los hombres de fantasía en las ilustraciones eróticas de Tom of Finland, el hi-NRG era brillante, perfecto y fortachón: sin polvo ni manchas."
+ },
+ "Como niños escolares que gritan en el patio de recreo, salimos de la ciudad y nos volvimos locos en el campo.": {
+  "ch": 18,
+  "page": 746,
+  "sec": "Las raves",
+  "para": "La música house introdujo un ritmo sin fin que despertó una demanda de maratones de baile durante noches enteras. El éxtasis nos inspiró a esta práctica en masa. Los clubs legales simplemente no daban abasto. Las fiestas ilegales sin permisos eran la única manera en que el acid house podía acomodar su expansión inevitable. De todos modos era una cultura inspirada por los clubs al aire libre de Ibiza. Como niños escolares que gritan en el patio de recreo, salimos de la ciudad y nos volvimos locos en el campo."
  },
  "Como pasa con la gastronomía, la discoteca, como sugiere el nombre, es una creación francesa": {
   "ch": 3,
@@ -516,6 +546,12 @@ window.ANOCHE_REFS = {
   "sec": "El new beat",
   "para": "Sin importar quién lo hizo primero, este paso encendió el new beat. Tocar discos a 33 en vez de 45 logró que una pléyade entera de temas nuevos encajara en el nuevo estado de ánimo que todos perseguían. «Se tocaban las grabaciones más por el sentimiento que por el ritmo: por el efecto —explica Beysens—. Cuando uno las toca más lento, el bajo se fortalece». Los DJ saquearon sus colecciones con el dedo puesto en el botón de la velocidad y encontraron todo tipo de sorpresas. Los industrialistas de Essex, Nitzer, Ebb les dieron Join In The Chant y Let Your Body Learn, estaba Bryllyant de Boytronic, Dead Eye Opened de Several Heads y The Great Divide de Portion Control. Liaisons Dangereuses también ralentizó canciones pioneras del house de Chicago, entre ellas Dub Love de Master C&J y Risque Madness de Risque 3. Hasta Soft Cell sucumbió ante el new beat, con la ralentización de Tainted Love a un deslizamiento magnífico."
  },
+ "Cuantas menos personas me pregunten al respecto, mejor».": {
+  "ch": 18,
+  "page": 772,
+  "sec": "Mujeres DJ",
+  "para": "Sin embargo, se puede argumentar que fue la llegada del acid house al Reino Unido, con su espíritu igualitario, lo que más ayudó a exhortar a las mujeres a que abordaran el arte del DJ en términos serios. Lisa Loud y Nancy Noise, Smokin’ Jo, Sister Bliss y Rachel Auburn fueron la punta de lanza. La revolución del acid house dejó a los géneros que siguieron con menos prejuicios arraigados y menos barreras sexuales. «El tecno y el drum and bass están más dispuestos a tener mujeres DJ —plantea DJ Cosmo, de Nueva York—. Estas chicas crecieron con ordenadores y efectos electrónicos, así que no había mucho problema para ellas». En consecuencia, el drum and bass nos dio a Kemistry & Storm y a DJ Rap, quien renunció a su trabajo cotidiano como modelo topless y se convirtió en la primera productora de drum and bass contratada por un sello principal. De manera admirable (además de una foto de carátula de disco despampanante), pasó de cualquier intento por usar su pasada carrera como artimaña de promoción. En Estados Unidos, el tecno engendró sus propias estrellas, con DJ Moneypenny como elemento fijo en el Nueva York de finales de los ochenta, y el dúo feroz de Teri Bristol y Psychobitch en Chicago. Más recientemente, la escena del garage británico produjo su tajada de talento femenino, con Donna Dee y DJ Touch, y el hard house crio estrellas como Lisa Lashes, Lisa Pin-Up y Anne Savage. «Las cosas están cambiando —afirma Cosmo—. No es problema ser una mujer DJ y me parece que eso es genial. Cuantas menos personas me pregunten al respecto, mejor»."
+ },
  "Cuanto más se pareciera al sonido de una banda real o a algo del pasado, entonces más me inclinaba hacia esa dirección».": {
   "ch": 11,
   "page": 457,
@@ -551,6 +587,12 @@ window.ANOCHE_REFS = {
   "page": 371,
   "sec": "PLANET ROCK (EL PLANETA ROCK)",
   "para": "De forma quizá más lamentable, el hip-hop ha olvidado que originalmente se trataba de divertirse. Después de años con la temática de la «realidad del gueto», en la que los raperos no paran de hablar del crimen y la política, la cultura ha perdido el norte de su propósito original: su carácter de celebración. A uno le podría parecer extraño que un gánster gruñón, pistola en mano, le pida al público de un concierto que levante las manos («y las mueva como si no les importara» [como dice el estribillo en inglés]), pero lo único que hace es presentar una forma antigua de los días cuando el hip-hop desplegaba una sonrisa."
+ },
+ "De pronto, los letreros de «PROHIBIDO BAILAR» eran la norma en los bares, y no era broma.": {
+  "ch": 18,
+  "page": 767,
+  "sec": "La legislación estadounidense en contra de las raves",
+  "para": "Y de repente aplastaron toda esta energía emocionante. Los primeros pasos en contra de la cultura de los DJ llegaron a mediados de los noventa a Nueva York. Justo cuando los gustos de la ciudad se diversificaban, y florecían eventos nocturnos más pequeños con estilos más intrigantes, entonces llegó el alcalde Rudolph Giuliani. De pronto, los letreros de «PROHIBIDO BAILAR» eran la norma en los bares, y no era broma. En su cruzada, cual monje ultraortodoxo, para convertir la ciudad en un suburbio de Connecticut, Giuliani desempolvó las leyes promulgadas para regular la concesión de los permisos a los cabarés, ignoradas desde hacía mucho. Sin un permiso de ese tipo, si más de dos o tres clientes de un bar aparentaban estar moviéndose de forma rítmica, la policía tenía derecho a intervenir el lugar, multándolo o incluso cerrándolo. Y lo hicieron."
  },
  "De regreso a Londres, el Trip era donde la explosiva experiencia del acid house comenzó a emerger de su hábitat underground.": {
   "ch": 15,
@@ -611,6 +653,12 @@ window.ANOCHE_REFS = {
   "page": 518,
   "sec": "Las fiestas de la escuela secundaria",
   "para": "Con una radio que se volvía creativa, y con hordas de estudiantes de escuela retándose hasta alcanzar nuevas fronteras, Detroit se convirtió en un lugar esperanzador para aspirantes a músicos electrónicos. A pesar de la falta de una escena de clubs potente, había mucho movimiento. «La escena de Detroit no estaba para nada tan desarrollada como la de Chicago —afirma Dan Sicko—. Pero era mucho más idiosincrásica. Detroit se componía de camarillas pequeñas muy estrafalarias, y por eso acabó sonando de forma tan distinta»."
+ },
+ "Dijeron: “Vamos a sacarlos de los campos y llevárnoslos de vuelta a nuestros pubs, ¿cómo lo logramos?”».": {
+  "ch": 18,
+  "page": 758,
+  "sec": "El interés del alcohol",
+  "para": "Además de este golpe maestro del mercadeo, los barones del alcohol lucharon sin duda contra la amenaza del éxtasis de formas menos visibles, quizá mediante el fomento del interés parlamentario en la legislación contra las raves. «Sin duda se tomó una decisión en la sala de juntas —cree Terry Farley, repitiendo una actitud común entre la industria del baile—. Dijeron: “Vamos a sacarlos de los campos y llevárnoslos de vuelta a nuestros pubs, ¿cómo lo logramos?”». La Ley del Entretenimiento de 1990 fue presentada por Graham Bright, parlamentario por Luton, sede de la gigante cervecera Whitbread."
  },
  "Duke Vin, quien construyó el primer sonido de Londres poco después de trasladarse allí en 1954, había sido aprendiz de Tom.": {
   "ch": 5,
@@ -876,6 +924,12 @@ window.ANOCHE_REFS = {
   "sec": "El disco más raro del mundo",
   "para": "El indiscutible campeón de campeones de la Primera División de discos raros del northern soul era Do I Love You? de Frank Wilson. Durante mucho tiempo se sabía de la existencia de una sola copia en todo el planeta. Wilson trabajaba para la Motown y ya había alcanzado la fama como productor de «Double Cookin’» de los Checkerboard Squares, que había sido un gran éxito en la escena del northern soul."
  },
+ "El instrumento tenía como objetivo no a los traficantes de droga sino a los promotores y dueños de locales; no a los criminales, sino a la cultura musical en la que operan.": {
+  "ch": 18,
+  "page": 768,
+  "sec": "La legislación estadounidense en contra de las raves",
+  "para": "En vez de cuestionar lo absurdo de estos casos, o la propia ética de una ley que criminaliza a las personas por las acciones de sus clientes, el Congreso siguió presionando, y el resultado fue la propuesta Ley RAVE (Reducir la Vulnerabilidad de los Estadounidenses al Éxtasis, por sus siglas en inglés). El instrumento tenía como objetivo no a los traficantes de droga sino a los promotores y dueños de locales; no a los criminales, sino a la cultura musical en la que operan. La tramitación de la Ley RAVE fracasó durante el debate en el pleno de 2002. Incólumes, sus auspiciadores la incluyeron de forma subrepticia en un proyecto de ley sobre el secuestro de menores, y así se convirtió en ley, sin mucho debate, en 2003."
+ },
  "El jazz, que ya era la música de una juventud rebelde, se convirtió en nada menos que la banda sonora de la resistencia.": {
   "ch": 3,
   "page": 76,
@@ -1074,6 +1128,12 @@ window.ANOCHE_REFS = {
   "sec": "El éxtasis",
   "para": "E, X, MDMA, metilen-dioxi-metanfetamina. El éxtasis, el compuesto químico que lo cambió todo. Es duro imaginar una droga que condujera más a la experiencia de clubs. Da energía, intensifica la luz y el sonido y puede lograr que las personas que abarrotan una sala bajen sus defensas, olviden sus inseguridades y experimenten una sensación intensa de solidaridad. Por algo se clasifica como un empatógeno, como en «empatía», indicativo del aprecio por los demás."
  },
+ "El éxtasis, una droga ilegal, mata alrededor de quince.": {
+  "ch": 18,
+  "page": 760,
+  "sec": "El interés del alcohol",
+  "para": "Solo para que conste en acta, las estadísticas del Departamento de Salud del Reino Unido demuestran que el alcohol, como droga legal, mata a unas siete mil personas al año. El éxtasis, una droga ilegal, mata alrededor de quince."
+ },
  "Ella miró el cartel y le dijo: «Se refiere a música como la que pinchas en el Warehouse».": {
   "ch": 12,
   "page": 462,
@@ -1139,6 +1199,12 @@ window.ANOCHE_REFS = {
   "page": 536,
   "sec": "Bélgica",
   "para": "Christian Bolland, de Amberes, dice que lo expulsaron de la escuela por haber introducido una máquina Roland 303 en clase y por programarla con unos auriculares bajo su escritorio. Después de transmitir varios temas en una estación pirata, consiguió un contrato de grabación con el sello de Gante R&S, y prácticamente vivía en la casa de los dueños del estudio, el matrimonio Renaat Vanderpapeliere y Sabine Maes. En 1987, a los diecisiete años, al crear un tema de una dureza inexpugnable, CJ Bolland encendió la llama del hardcore tecno."
+ },
+ "En 1988, el DJ y su música emprendieron un proyecto de cambio social sin precedentes.": {
+  "ch": 18,
+  "page": 744,
+  "sec": "Las raves",
+  "para": "En 1988, el DJ y su música emprendieron un proyecto de cambio social sin precedentes. Un nuevo tipo de música se topó con un nuevo tipo de drogas, y miles, a la larga millones, de jóvenes descubrieron una nueva manera de divertirse. La música house, tras haber mejorado las formas en que se puede crear música, abordó la transformación de la forma en que se consume. Y el acid house, la cultura psicodélica comunal que creció en torno a ella, demostró ser una fuerza poderosa increíble."
  },
  "En 2005, Skream aportó el primer éxito del dubstep: Midnight Request Line.": {
   "ch": 16,
@@ -1271,6 +1337,12 @@ window.ANOCHE_REFS = {
   "page": 278,
   "sec": "Los bancos de discos",
   "para": "«Las discográficas y los disc jockeys se reunieron por primera vez. Fue un fracaso monumental», recuerda David Mancuso. Steve D’Acquisto también estaba en la reunión. «La cosa terminó en una gran pelea a gritos. En medio de todo eso, David se giró y dijo: “¿Por qué no fundamos un banco de discos?”. Conversamos entre nosotros y yo me levanté e invité a todos los DJ al Loft. Les dije que no tenía sentido discutir nada allí. Teníamos que conformar un frente común. De repente estábamos defendiendo nuestros derechos. Así que celebramos nuestra reunión entre los DJ y redactamos una declaración de intenciones»."
+ },
+ "En otoño de 1990, Kiss consiguió una licencia gubernamental y se legalizó, la primera estación de Londres dedicada a la música bailable.": {
+  "ch": 18,
+  "page": 778,
+  "sec": "Las radios piratas",
+  "para": "«Tenía esta vida magnífica de todo Londres. Y cuando el house estaba despegando, toda la energía y sentimiento y el estar a 23 pisos de altura contemplando toda la ciudad: eso fue muy emocionante para mí. Y las personas estaban pegadas a Kiss en ese momento. Era muy popular. Había hecho la transición de tocar soul independiente a tocar esta nueva forma de música maravillosa. Estrenar esta nueva música en Kiss fue asombroso». En otoño de 1990, Kiss consiguió una licencia gubernamental y se legalizó, la primera estación de Londres dedicada a la música bailable."
  },
  "En realidad fue por ignorancia. Nadie sabía cómo usar la maldita 303».": {
   "ch": 12,
@@ -1409,6 +1481,12 @@ window.ANOCHE_REFS = {
   "page": 677,
   "sec": "El Africa Center",
   "para": "Nellee Hooper acabó produciendo a sus excolegas de Wild Bunch ahora transmutados en Massive Attack, y se aseguró prestigio mundial al trabajar con Björk y Madonna. Soul II Soul vendió más de diez millones de discos en todo el planeta y ganó dos premios Grammy. Jazzie dice que el momento de mayor orgullo fue cuando llevó su sistema de sonido a tocar en Jamaica. En retrospectiva, sin embargo, la mayor contribución del grupo fue dar forma y espíritu a la línea de bajo británica, lo cual otorgó a la música británica afrodescendiente la valentía para defenderse por sí misma. También demostraron a los británicos afrodescendientes que era posible integrarse en el corazón mismo de la nación sin abandonar su herencia cultural. Como afirma Jazzie en las notas de la carátula escritas por Lloyd Bradley en el elepé «Soul II Soul At The Africa Centre»: «En un sistema de sonido de reggae, operábamos de cara a la pared dando la espalda al público (así es como se hacía en ese mundo). Ahora mirábamos a la gente y la gente nos podía ver. Podíamos vernos las caras. Era la diferencia entre mirar hacia dentro y mirar hacia fuera. Ser exclusivo o ser inclusivo»."
+ },
+ "Era la primera generación de estadounidenses que se criaba con el house y el tecno en vez del rock y el rap.": {
+  "ch": 18,
+  "page": 763,
+  "sec": "Las raves en Estados Unidos",
+  "para": "Nueva York comenzó a emular el acid house en 1989, cuando el DJ DB, recién llegado de Londres, lanzó el evento nocturno precursor de las raves llamado Deep, y luego un tributo a la movida de Manchester con el nombre de Orange, para los británicos con nostalgia patria. En julio de 1992, con la estrella de la iluminación Scotto y los colegas DJ Soulslinger y Jason Jinx, DB comenzó el concepto de «rave-en-un-club», con el nombre de NASA. Como tuvo lugar en el Shelter, en Manhattan, un club inspirado en las memorias del Paradise Garage, el evento era poco menos que un ataque directo a la comunidad del house original. Con una duración de un año y un público que cada vez era más joven, NASA fue un punto focal del movimiento rave estadounidense. Fue el escenario de la película Kid y el lugar donde nació el estilo candy raver: pantalones del tamaño de una tienda, chupetes y mochilas peludas (otras atrocidades incluían orejas de Mickey Mouse y hasta guantes de horno). La música era dura, rápida e inclemente, con breaks a 150 golpes por minuto como convención. DB recuerda el efecto divisorio de esta nueva música. «El grupo inglés que frecuentaba el lugar me abandonó completamente. No podían lidiar con el hecho de que la música fuera absolutamente rave en ese punto, con breakbeats explosivos. Así que me quedé con esta nueva generación de niños que estaban dispuestos a todo». Era la primera generación de estadounidenses que se criaba con el house y el tecno en vez del rock y el rap."
  },
  "Era la primera vez que los belgas veían su propia música en las listas nacionales.": {
   "ch": 14,
@@ -1571,6 +1649,12 @@ window.ANOCHE_REFS = {
   "page": 159,
   "sec": "Despistar a la competencia tapando las galletas",
   "para": "Inevitablemente, la competencia entre los DJ aumentó, y para proteger sus descubrimientos, cubrían el sello y les ponían nombres falsos. Esta suerte de ocultación vendría a ser el precursor de las exclusivas de sello blanco de los DJ modernos, e incluso del hábito de los DJ de hip-hop de mojar y despegar los sellos de sus discos más codiciados. La práctica, en realidad, comenzó en los sesenta. Mick Eve, un músico activo de la escena de esas fiestas nocturnas, recuerda que Count Suckle cubría discos como «My Baby Cares For Me» de Nina Simone, una práctica que este DJ importó desde Jamaica. Sin embargo, fueron los DJ de soul quienes generalizaron su práctica, tanto para proteger sus discos exclusivos como para borrarles la pista a los contrabandistas."
+ },
+ "Estas acciones unieron a los delincuentes más que nunca.": {
+  "ch": 18,
+  "page": 755,
+  "sec": "Los delincuentes del baile",
+  "para": "Estas acciones unieron a los delincuentes más que nunca. Los viajeros, piquetes y manifestantes de todo tipo se convirtieron en el objetivo de una sola pieza de legislación. Aunque el Advance Party, una coalición de sistemas de sonido y grupos a favor de los derechos civiles, hicieron todo lo posible para frenar el proyecto, la ley se aprobó en 1994. La CJA era única porque era la primera vez en Gran Bretaña que se restringía la música pop de una cultura juvenil. El hecho de que la ley se viera obligada a definir el house y el tecno, con una tipificación memorable, tal que así: «sonidos que total o parcialmente se caracterizan por la sucesión de ritmos repetitivos», demuestra el grado de seriedad con que el Gobierno consideraba la cultura del baile, con su combinación de música, droga y manadas de gente lujuriosa. He aquí un movimiento masivo sobre el que no tenían control."
  },
  "Este artículo, publicado en Rolling Stone el 13 de septiembre de 1973, fue la primera historia de lo que más adelante se conoció como el disco.": {
   "ch": 6,
@@ -1746,6 +1830,12 @@ window.ANOCHE_REFS = {
   "sec": "Excavadores de discos",
   "para": "Aun sin estas motivaciones, hay algo intensamente adictivo en la búsqueda de vinilos raros. «Uno busca constantemente la mejor grabación de la historia, la mejor que uno haya escuchado jamás —dice el coleccionista de northern soul Guy Hennigan—. Pero no quieres encontrarlo, porque una vez la tengas, ya no es la mejor grabación del mundo. —Ríe—. Hay un tema de acompañamiento que llevo buscando que es mi objetivo principal, de mi vida, y espero no encontrarlo nunca. Pero espero que nadie tampoco lo haga. Si alguien lo consigue, me pondré rabioso»."
  },
+ "He aquí un movimiento masivo sobre el que no tenían control.": {
+  "ch": 18,
+  "page": 755,
+  "sec": "Los delincuentes del baile",
+  "para": "Estas acciones unieron a los delincuentes más que nunca. Los viajeros, piquetes y manifestantes de todo tipo se convirtieron en el objetivo de una sola pieza de legislación. Aunque el Advance Party, una coalición de sistemas de sonido y grupos a favor de los derechos civiles, hicieron todo lo posible para frenar el proyecto, la ley se aprobó en 1994. La CJA era única porque era la primera vez en Gran Bretaña que se restringía la música pop de una cultura juvenil. El hecho de que la ley se viera obligada a definir el house y el tecno, con una tipificación memorable, tal que así: «sonidos que total o parcialmente se caracterizan por la sucesión de ritmos repetitivos», demuestra el grado de seriedad con que el Gobierno consideraba la cultura del baile, con su combinación de música, droga y manadas de gente lujuriosa. He aquí un movimiento masivo sobre el que no tenían control."
+ },
  "He trabajado en la promoción de eventos parecidos con los años, pero este es ¡EL MEJOR!».": {
   "ch": 15,
   "page": 653,
@@ -1865,6 +1955,12 @@ window.ANOCHE_REFS = {
   "page": 102,
   "sec": "El Londres gay",
   "para": "La escena gay también salía del armario poco a poco. «How bona to vada your dolly old eek. Troll in and put your lallies up ducky!». Para 1965, la lengua secreta gay llamada «polari» [de raíz italiana, parlare: hablar], una mezcla maravillosa del romaní, latín, cockney y jerga negra, que alguna vez fue un subterfugio necesario, ahora era escuchada semanalmente por ocho millones de personas en la medida en que las estrellas de radio Kenneth Williams y Hugh Paddick se comunicaban en jerga camp en su programa «Round The Horne»."
+ },
+ "La escena pirata fue una sala de experimentación rápida para la nueva música": {
+  "ch": 18,
+  "page": 775,
+  "sec": "Las radios piratas",
+  "para": "La escena pirata fue una sala de experimentación rápida para la nueva música, vinculada inextricablemente a lo que más impulso atraía en las escenas de baile actuales. Allí se encontraban grabaciones que pertenecían a géneros que aún no se habían nombrado, transmitidos por DJ que arriesgaban mucho para emitirlas a los fanáticos. Si la estación era intervenida por las autoridades, los DJ podían enfrentarse a penas de hasta seis meses de cárcel. O peor aún, estas podían confiscarles los discos."
  },
  "La esposa de Doc Herrold, Sybil (conocida luego como Sybil True), la primera mujer en ser DJ, se estrenó en las ondas en 1913": {
   "ch": 2,
@@ -1998,6 +2094,12 @@ window.ANOCHE_REFS = {
   "sec": "La remezcla y la remodelación",
   "para": "El auge del DJ como artista quedó ratificado en 1993, cuando se lanzó el elepé de remezclas de un DJ con toda la fanfarria de un artista principal, y con la intención, después de la transformación del mundo del baile británico, de capturar el mercado del pop. Sasha (Alexander Coe), el DJ que ha llegado a la fama como residente del Shelleys, en Stoke-on-Tent, lanzó un álbum compuesto únicamente de remezclas («Sasha: The Remixes»). No había canciones compuestas para la sesión en el estudio. No fue presentado como un productor que, incidentalmente, también era DJ. Eran canciones escritas y grabadas originalmente por otros artistas, muchos de ellos artistas muy reconocidos, con mucho éxito. Lo único que había hecho Sasha fue remezclar los temas. A pesar de esto, estas reconstrucciones estaban en su disco, con su nombre en el título, y se consideraban piezas de su música. Pero, más importante aún, a diferencia de dos o tres elepés de remezclas que lo antecedieron, «Sasha: The Remixes» no fue una producción pequeña apta solo para el consumo de los expertos y otros DJ. Fue un lanzamiento a lo grande. «Sasha es la viva evidencia de una realidad indiscutible: los DJ, motores principales de la música bailable, están en la posición ideal para elevar la música a otros niveles como productores —declaró Nick Gordon Brown en las notas de la carátula—. La línea entre los DJ y los artistas, remezcladores y productores se vuelve cada vez más borrosa»."
  },
+ "La mayor parte de esta segunda generación desconoce que el house tiene un origen afrodescendiente y gay.": {
+  "ch": 18,
+  "page": 766,
+  "sec": "Las raves en Estados Unidos",
+  "para": "El nacimiento de la rave estadounidense fue un año cero efectivo para la música bailable de ese país. Se crearon muchos vínculos con las escenas house originales, sobre todo en Chicago y en Detroit, pero ganó fuerza ampliamente al romper los lazos con los viejos centros urbanos, llevando al estrellato a puntos suburbanos como Milwaukee, San Diego, Baltimore, Portland y Orlando. La mayor parte de esta segunda generación desconoce que el house tiene un origen afrodescendiente y gay. ¿Estás seguro de que esto viene de Londres? ¿De Ibiza? Visitas de estrella como Carl Cox, Sasha y Oakenfold solo reforzaron esta impresión. Pero en el año 2000 había una generación de DJ criados en casa cuyas destrezas y música habían madurado en el circuito de fiestas de Estados Unidos: DJ como Tery Mullan, DJ Dan, Josh Wink, Derrick Carter, Taylor, Micro, Onionz, Keoki. Y después de que el trance comenzara a dominar, la lista de estrellas autóctonas crecía semanalmente. El calendario de fiestas se llenó de eventos gigantes, que se difundían por internet, que estaba lleno de páginas rave que ofrecían foros, salas de chat, fotos y mezclas de DJ descargables."
+ },
  "La música de Jamaica se configuró por entero a partir de las necesidades del DJ y creó una cultura musical sin igual.": {
   "ch": 5,
   "page": 167,
@@ -2081,6 +2183,12 @@ window.ANOCHE_REFS = {
   "page": 600,
   "sec": "George Powers en el Crackers",
   "para": "Por otro lado, si uno era blanco, había encontrado el lugar con música afroamericana y personas afrodescendientes que no te hacía sentir como si estuvieras invadiendo el espacio. Para muchos fue el precursor de una sociedad daltónica. «Lo que era tan grande era ir a un lugar que era pura mezcla —opina en jefe del drum and bass, Fabio—. En las fiestas de reggae no te encontrabas con personas blancas. Pero este lugar era cincuenta-cincuenta. Fue la primera vez que veía algo así. La primera vez que vi que el color en realidad no importaba»."
+ },
+ "La rave era la versión idealizada de la experiencia del club.": {
+  "ch": 18,
+  "page": 748,
+  "sec": "Las raves",
+  "para": "La rave era la versión idealizada de la experiencia del club. No se trataba de visitar un espacio construido con un propósito, sino de crear un espacio nuevo, de construir una ciudad por una noche. Un club tenía un lugar y un espacio y un tiempo, pero una rave abría un sinfín de posibilidades. Una rave se queda en las mentes de las personas que bailaron juntas. Sin ellos no era nada, solo un descampado cerca de una salida de la autopista. Mientras Margaret Thatcher negaba la realidad de la sociedad, miles de personas construían su propia realidad delante de sus narices. Algunos comentaristas lo atribuyen todo al sida; el miedo al sexo indiscriminado había llevado a una generación a buscar el calor humano en compañía de miles. Otros quisieron ver en ello el anhelo por la recuperación de una inocencia perdida: ¿de dónde más provenían estas modas pueriles? Alguien hasta señaló que esta fue la primera generación del Walkman: y ahora la gente está desesperada por la música que se comparte. No importa cuáles sean las fuerzas subyacentes, las raves enfatizaban el ideal extático del house: la gente importaba más que cualquier otra cosa."
  },
  "La remezcla eclipsó completamente a la original y alcanzó el octavo puesto (Reino Unido).": {
   "ch": 17,
@@ -2364,6 +2472,12 @@ window.ANOCHE_REFS = {
   "sec": "Afrocósmicos italianos",
   "para": "Pero dejaron en su lugar a dos DJ incluso más asombrosos, dos aprendices a quienes los estadounidenses habían enseñado sus secretos. Estos dos jóvenes italianos eran tan talentosos, estaban tan completamente inmersos en la música, que no importaba que los estadounidenses se hubieran ido. Juntos trajeron una música a Baia que era más espectacular que la anterior. El club ahora es una leyenda. La gente llegó a saber de Baia aunque no tuvieran el dinero para entrar. Los jóvenes se apostaban en las laderas de la colina, escuchando la música mientras fluía por el aire nocturno. Se juntaban en coches, fumaban marihuana y se inyectaban heroína, pasaban la noche al ritmo de esta música que no existía en ninguna otra parte."
  },
+ "Los mejores DJ son delincuentes culturales en todo caso": {
+  "ch": 18,
+  "page": 743,
+  "sec": "RENEGADE SNARES (CAJAS RENEGADAS)",
+  "para": "Los mejores DJ son delincuentes culturales en todo caso, pues no se contentan con lo conocido ni tampoco con lo aceptable, sino que siempre están buscando música nueva para derrocar a la establecida. Cuando esta música es particularmente inflamable, el DJ hará todo lo posible para que se escuche. Añade drogas a este asunto y en tus manos tendrás un arma muy poderosa."
+ },
  "Los músicos se referían a la transmisión de música grabada como «el pecado mortal de DeForest».": {
   "ch": 2,
   "page": 36,
@@ -2490,6 +2604,12 @@ window.ANOCHE_REFS = {
   "sec": "LOVE IS THE MESSAGE (EL AMOR ES EL MENSAJE)",
   "para": "Mientras Christopher Street bulle con la lucha por la emancipación de la comunidad gay, el DJ está ocupado reescribiendo la manera en que escuchamos las grabaciones en los clubs nocturnos."
  },
+ "Mientras Margaret Thatcher negaba la realidad de la sociedad, miles de personas construían su propia realidad delante de sus narices.": {
+  "ch": 18,
+  "page": 748,
+  "sec": "Las raves",
+  "para": "La rave era la versión idealizada de la experiencia del club. No se trataba de visitar un espacio construido con un propósito, sino de crear un espacio nuevo, de construir una ciudad por una noche. Un club tenía un lugar y un espacio y un tiempo, pero una rave abría un sinfín de posibilidades. Una rave se queda en las mentes de las personas que bailaron juntas. Sin ellos no era nada, solo un descampado cerca de una salida de la autopista. Mientras Margaret Thatcher negaba la realidad de la sociedad, miles de personas construían su propia realidad delante de sus narices. Algunos comentaristas lo atribuyen todo al sida; el miedo al sexo indiscriminado había llevado a una generación a buscar el calor humano en compañía de miles. Otros quisieron ver en ello el anhelo por la recuperación de una inocencia perdida: ¿de dónde más provenían estas modas pueriles? Alguien hasta señaló que esta fue la primera generación del Walkman: y ahora la gente está desesperada por la música que se comparte. No importa cuáles sean las fuerzas subyacentes, las raves enfatizaban el ideal extático del house: la gente importaba más que cualquier otra cosa."
+ },
  "Mientras que Tom Moulton fue el pionero de la remezcla, Gibbons, un DJ, fue quien realmente demostró su potencial máximo.": {
   "ch": 7,
   "page": 272,
@@ -2543,6 +2663,12 @@ window.ANOCHE_REFS = {
   "page": 303,
   "sec": "Bobby DJ en el Ice Palace",
   "para": "Muchos de estos clubs habían encontrado en el concepto la inspiración del Loft, en particular su política de aceptar solo a miembros (pero no su onda igualitaria de inspiración hippie). El primero en abrir fue el Tenth Floor, en diciembre de 1972, en el local de una antigua fábrica de máquinas de coser en el número 151 de la Veinticinco Oeste. Sus dueños originales eran un trío de diseñadores famosos por sus fiestas opulentas en sus casas de Fire Island, y su decoración monocromática permitía que los clientes y los arreglos florales aportaran el esplendor visual. El DJ Ray Yeates, una cara negra muy rara en el lugar, tocaba para un público gay de alta alcurnia."
+ },
+ "Muchos señalan este momento con la instancia en que el acid house se volvió imparable.": {
+  "ch": 18,
+  "page": 777,
+  "sec": "Las radios piratas",
+  "para": "Los años del acid house fueron una época de pleno auge para las radios piratas, que se vincularon íntimamente al movimiento rave. LWR y Kiss FM, una estación emprendedora transmitiendo desde el sureste de Londres, donde las voces del mundo de los clubs londinenses durante los ochenta, y aunque se identificaban más con el rare groove, gracias a Colin Faver y Jazzy M, también fueron las primeras estaciones de Londres en pinchar house. Las cosas cambiaron drásticamente a principios de 1989 cuando Kiss y LWR dejaron de transmitir en sendos intentos por conseguir licencias legales. Inmediatamente, una nueva camada de piratas del acid house tomó el control, comenzando en mayo de 1989 con Centerforce, con transmisiones de música nueva las veinticuatro horas desde Stratford. Muchos señalan este momento con la instancia en que el acid house se volvió imparable. Fantasy, Sunrise, Obsession y Dance FM pronto se unieron a la pelea, así como estaciones piratas en Manchester y Birmingham; todas promocionaban las raves del fin de semana y anunciaban las salidas de la autopista durante la noche del evento. Emitían el tipo de programa de mezclas de DJ a los que ahora estamos habituados, pero que entonces eran completamente nuevas para la radio británica."
  },
  "Musicalmente, el disco era verdaderamente revolucionario.": {
   "ch": 6,
@@ -2604,6 +2730,12 @@ window.ANOCHE_REFS = {
   "sec": "Tragedia",
   "para": "No se construyó el monumento. Hoy, el edificio es un banco."
  },
+ "No sé por qué esta ciudad necesita que los británicos la eduquen sobre algo que nació aquí».": {
+  "ch": 18,
+  "page": 766,
+  "sec": "Las raves en Estados Unidos",
+  "para": "Es comprensible que hubiera repercusiones en contra del imperialismo británico. En la revista rave XLR8R, Sunshine Jones, del grupo de house Dubtribe, escribió: «La música house es un tesoro nacional, un tesoro nacional espiritual. No sé por qué esta ciudad necesita que los británicos la eduquen sobre algo que nació aquí». Los británicos pagaron los platos rotos por todo lo que no funcionaba en la escena, y de repente San Francisco produjo una escena rave otra vez, una segunda ola dirigida por el trío de DJ bocazas y ambiciosos los Hardkiss Brothers (Scott Friedel, Robbie Cameron y Gavin Bieber)."
+ },
  "No teníamos figuras paternas, no teníamos una tradición continua de entretenimiento.": {
   "ch": 13,
   "page": 505,
@@ -2627,6 +2759,12 @@ window.ANOCHE_REFS = {
   "page": 2,
   "sec": "PREFACIO A LA PRIMERA EDICIÓN",
   "para": "Nuestra empresa tenía por objeto escribir una biografía de la figura más importante de la música dance: el disc jockey [DJ, pronunciado «diyéi»]. Caracterización que, a modo de semblanza, hurga en la evolución de la figura del DJ hasta su consagración como motor de la música popular. Al relatarla, nos hemos centrado en los años de mayor locura, cuando todo valía y hervía, en perjuicio de su comportamiento reciente, ahora que ha sentado la cabeza y se ha convertido en una figura respetable."
+ },
+ "Nuestra área se convirtió en una rave gigante. Punks, rastas, hippies, viajeros, todos se volvían locos con esta nueva música rara».": {
+  "ch": 18,
+  "page": 753,
+  "sec": "Las raves",
+  "para": "«Para el viernes, habían subido el volumen del sistema de sonido tanto que eclipsábamos el sonido del escenario principal. Durante las pausas entre las actuaciones, lo único que se podía escuchar por todo el recinto era nuestra música». Para el viernes, el público se había inflado a unas quinientas personas; al día siguiente, había aún más. «Nuestra área se convirtió en una rave gigante. Punks, rastas, hippies, viajeros, todos se volvían locos con esta nueva música rara»."
  },
  "Nunca conocí a alguien que tocara tan duro en Detroit, sobre todo dos afrodescendientes».": {
   "ch": 13,
@@ -3054,6 +3192,12 @@ window.ANOCHE_REFS = {
   "sec": "El grime",
   "para": "Se trataba de una brecha generacional, y se trataba del auge del MC. Por un lado estaban los DJ de treinta años o más, quienes se habían criado en los años de las raves o en las raíces del reggae; del otro estaban los adolescentes que tenían poca herencia musical más allá del reciente hiphop estadounidense, pero no ocultaban un abrumador deseo de ponerse al micrófono y expresarse. Sí, trajo violencia a los espacios, pues las letras sobre armas de fuego y pandillas atrajo el lado furioso y obsesionado con el culto a los bajos fondos a una cultura musical que antes era más alegre. Y sí, cambió la música completamente, en la medida en que un desfile de MC escupía rimas sobre ritmos mínimos y llevaron lo que había sido una escena basada en la pista de baile a centrar su atención en la tarima. Es como si la Sugar Hill Gang pidiera a 50 Cent que solo rapeara canciones alegres."
  },
+ "Seguid pegados a ellas.": {
+  "ch": 18,
+  "page": 779,
+  "sec": "Las radios piratas",
+  "para": "Seguid pegados a ellas."
+ },
  "Sheffield, la cuna del acero inoxidable, un pueblo industrial que vivía al son de los latidos de la forja de estampación, producía música vanguardista desde hacía mucho tiempo.": {
   "ch": 16,
   "page": 682,
@@ -3089,6 +3233,12 @@ window.ANOCHE_REFS = {
   "page": 646,
   "sec": "Clink Street",
   "para": "La atmósfera de Hedonism encontró un hogar más permanente en algunas catacumbas húmedas dignas de Dickens, que ahora son el museo de las cárceles de Londres. Las fiestas semanales RIP, o Clink Street, como se conocieron universalmente, encarnaron una versión más mucho más dura y más multirracial de la epifanía del acid house del Shoom, a la vuelta de la esquina. En vez de un poder florido y un humo fresa, tenía luces estroboscópicas austeras y redes de camuflaje, y un público cuyo corazón radicaba en la robusta clase trabajadora del East End. Hedonism le debe su inspiración a Ibiza, y más a la red de sistemas de sonido underground. Si Shoom era un club jazz-funk que se había ido de viaje, Clink Street era el heredero acid house de la tradición de las «fiestas del blues» de los speakeasies ilegales del reggae."
+ },
+ "Si bailar en una rave es quebrantar la ley, entonces el DJ del lugar está incitando a la rebelión de las masas.": {
+  "ch": 18,
+  "page": 742,
+  "sec": "RENEGADE SNARES (CAJAS RENEGADAS)",
+  "para": "Mientras te unes a la pista de baile, buscas alguna conexión, si bien breve, con cientos, quizá miles de personas. Bailar es un acto colectivo, lo que implica que tú eres un participante activo. Has celebrado un contrato implícito para hacer algo colectivamente, igual que protestar o votar. Incluso en el club más comercial, no solo consumes el evento, te unes a otros para crearlo. Esta situación ubica al DJ en una posición de poder. Los políticos siempre han sido cautelosos con grupos de personas reunidas en masa, así que puedes apostar a que sospechan de una figura que controla esas dinámicas. Si bailar en una rave es quebrantar la ley, entonces el DJ del lugar está incitando a la rebelión de las masas."
  },
  "Si bien el grime disfrutó de un éxito limitado al llevar al hip-hop con acento británico al escenario mundial, fue el dubstep el que convirtió el bajo británico en una potencia mundial.": {
   "ch": 16,
@@ -3156,6 +3306,12 @@ window.ANOCHE_REFS = {
   "sec": "Francis Grasso: el primer DJ moderno",
   "para": "Si para preparar el tejido social de Nueva York para la llegada del disco necesitó de muchos factores, para preparar la pista de baile bastó con un disc jockey. Es el ancestro de todos los DJ modernos, el patriarca de estas artes, el primer DJ al que le reconocemos haber hecho lo mismo que hacen los DJ de hoy. La misma noche en que la rebelión de Stonewall comenzó, la revolución social que nutriría el disco estaba a un tiro de piedra, tocando en Haven, conspirando para urdir la revolución musical que le daría alas. Se llamaba Francis Grasso."
  },
+ "Si te sienta bien, no lo hagas. Ese era el mensaje del Gobierno.": {
+  "ch": 18,
+  "page": 754,
+  "sec": "Los delincuentes del baile",
+  "para": "Si te sienta bien, no lo hagas. Ese era el mensaje del Gobierno. Impelidos por la cobertura de los tabloides, los tories aprobaron la Ley del Entretenimiento (que aumentaba las sanciones penales) del parlamentario Graham Bright en 1990, que aumentó drásticamente la pena por organizar una fiesta sin permisos a 20 000 libras y seis meses de cárcel. Después de una serie de redadas y arrestos masivos, esta ley logró truncar en gran medida el fenómeno rave, aunque su efecto a largo plazo, en la medida en que forzaba a una escena en crecimiento a espacios con permisos, fue exhortar a los ayuntamientos a que otorgaran permisos a los clubs para cerrar más tarde e incorporar el éxtasis a la sociedad de consumo."
+ },
  "Si tocaban una grabación tuya en el Paradise Garage un viernes o un sábado por la noche, había una muy buena oportunidad de que saliera en antena en la WBLS».": {
   "ch": 11,
   "page": 441,
@@ -3221,6 +3377,12 @@ window.ANOCHE_REFS = {
   "page": 726,
   "sec": "La revolución será sintetizada",
   "para": "Desde los sesenta, Gran Bretaña cuenta con la escena musical más extrañamente conocedora, nutrida por coleccionistas fanáticos, una industria pop boyante, las listas más dinámicas y diversas y decenas de revistas musicales, muchas de ellas semanales. Pero, pese a todo ello, en materia de música bailable, el Reino Unido pasó un cuarto de siglo a merced de Estados Unidos. Solo la llegada del acid house permitió que el conocimiento enciclopédico de la música bailable por fin se transformara en creatividad."
+ },
+ "Solo que no te pongas un top de bikini mientras estás manejando discos.": {
+  "ch": 18,
+  "page": 773,
+  "sec": "Mujeres DJ",
+  "para": "…breaks DJ Baby Anne y Heidi. Pero a pesar de todas estas mujeres exitosas, la encuesta anual de los mejores 100 de la revista Djmag todavía es territorio masculino, cuyas únicas representantes son las gemelas Nervo, el grupo de baile Krewella y Tenashar, de Singapur, cuyo atractivo vídeo para cazar votos fue una filmación de porno suave que giraba en torno a los talentos de sus enormes senos. Tristemente, a medida en que se convierten en estrellas del pop, las mujeres DJ son juzgadas una vez más por su atractivo físico: la obsesión de la cultura de los clubs con el sexo y la belleza parece que eclipsará más logros musicales. «No importa hacer lo que te dé la gana, siempre y cuando puedas dar la talla en los platos —recomienda DJ Dazy, quien administra un foro por email sobre las mujeres DJ—. Solo que no te pongas un top de bikini mientras estás manejando discos. Si no tienes las destrezas, no avergüences al resto de las mujeres DJ que han trabajado muy duro para llegar adonde hemos"
  },
  "Solíamos vender unas sesenta copias del disco entre las diez y las once de la mañana. ¡Sesenta copias!": {
   "ch": 11,
@@ -3420,6 +3582,12 @@ window.ANOCHE_REFS = {
   "sec": "Los primeros sonidos",
   "para": "Tom The Great Sebastian reinó hasta la llegada en los cincuenta de los llamados «Tres Grandes»: el Downbeat de Sir Coxcone Dodd, el Trojan de Duke Reid y el Giant de King Edward. A medida que los sistemas de sonido inyectaban las canciones estadounidenses más recientes en la sangre de la isla, el R&B jamaicano nació en respuesta y, a continuación, el ska, el rocksteady y el reggae."
  },
+ "Tomamos la carita feliz del acid house y le añadimos pitos y luces estroboscópicas, cosa que jamás hubiéramos podido hacer en Inglaterra en ese momento».": {
+  "ch": 18,
+  "page": 765,
+  "sec": "Las raves en Estados Unidos",
+  "para": "El grupo de Wicked había sido parte de Tonka, un sistema de sonido idealista de Cambridge que había engendrado DJ como Harvey y Choci. Después de que la escena rave británica perdiera su encanto, los miembros de Tonka Jenö, Garth, Markie Mark y el promotor de Londres Alan McQueen se asentaron en California, donde los trataron como gurús culturales. «Nos admiraban porque éramos ingleses —le dijo Jenö a Mireille Silcott en su libro Rave America—. Este interés en nosotros nos permitió cincelar a nuestro antojo el modelo de lo que dio lugar a la escena rave de San Francisco. Tomamos la carita feliz del acid house y le añadimos pitos y luces estroboscópicas, cosa que jamás hubiéramos podido hacer en Inglaterra en ese momento». Su evento nocturno llamado Full Moon se celebró desde 1991 hasta 1994, y atrajo tanto como tres mil ravers, todos vencidos por el deleite en una playa remota mientras salía el sol."
+ },
  "Tras la vieja escuela, los DJ que lograron labrarse una reputación alcanzaron la fama como productores y no como pinchadiscos": {
   "ch": 10,
   "page": 407,
@@ -3449,6 +3617,12 @@ window.ANOCHE_REFS = {
   "page": 390,
   "sec": "Planet Rock",
   "para": "En cuanto a la canción en sí, Bambaataa recuerda la increíble reacción que generó: «Era más rápida que cualquier grabación de rap, pero el público bailaba como loco y no paraba de disfrutarla, sobre todo cuando pasaba a la cara B con la parte instrumental: era una cosa completamente distinta para el público. Habían escuchado grabaciones de tecno-pop, pero esta era la primera con fondo, ritmo, el bajo muy duro, todo eso». La pinchó por primera vez en el Boy’s Club de Soundview Section en el Bronx, «una fiesta para iniciados. Tuvimos que pincharla cuatro o cinco veces porque el público se volvía loco»."
+ },
+ "Un efecto secundario cultural del acid house fue la libertad que les dio a las mujeres para que se convirtieran en DJ.": {
+  "ch": 18,
+  "page": 770,
+  "sec": "Mujeres DJ",
+  "para": "Un efecto secundario cultural del acid house fue la libertad que les dio a las mujeres para que se convirtieran en DJ. En los acelerados años finales de los ochenta, todo parecía posible, incluso la idea de que una mujer podía entrar en esta profesión tan masculina y que no se burlaran de ellas desde el otro lado de los platos. La exclusividad masculina de los DJ es una cuestión mayormente histórica, y en años recientes las mujeres han progresado hasta convertirse, si no en un número considerable, por lo menos en un número que merece consideración. Y aunque muchas se contentan con explotar el sexismo esencialmente cultural para salir adelante, afortunadamente hay otras a las que se las juzga por su música y no por el escote."
  },
  "Un juez federal, con el mandamiento «No robarás», sentó el precedente con un fallo contra Biz": {
   "ch": 10,
@@ -3521,6 +3695,12 @@ window.ANOCHE_REFS = {
   "page": 376,
   "sec": "Duelos",
   "para": "»No podíamos ni escuchar nuestra propia mierda. ¡Uf! Comenzamos a buscar botones, a subirlo todo, los altavoces empezaron a fallar. Y entonces él pone The Mexican. ¿Alguna vez has escuchado The Mexican de Babe Ruth? Comienza a volumen bien bajo: bam-pum-pum. Unos dieciséis compases después, simplemente nos rendimos y apagamos los putos amplificadores. Apagamos todo. Y todavía no había comenzado la percusión. Cuando entró la batería, todas las paredes… como un ¡BRUUUUUM! Se acabó»."
+ },
+ "Vamos a practicar algo de PLUR (Peace Love Unity and Respect: paz, amor, unidad y respeto).": {
+  "ch": 18,
+  "page": 760,
+  "sec": "Las raves en Estados Unidos",
+  "para": "Agarra tus palillos brillantes, ponte tus piercings y anúdate las coletas de caballo. Vamos a practicar algo de PLUR (Peace Love Unity and Respect: paz, amor, unidad y respeto). Se trata del noble lema adoptado por el movimiento rave estadounidense a comienzos del nuevo siglo. Muchos recibieron con cinismo este idealismo ingenuo: sobre todo en una escena que, con verdadero estilo estadounidense, había crecido en una mercantilización extrema. Aquellos que se habían involucrado en los inicios de las raves en Estados Unidos eran los desdeñados candy ravers, muchos de ellos apenas adolescentes, quienes propugnaban el lema PLUR en sus páginas de internet brillantes, llenas de poesía y con colores pastel."
  },
  "Walter Gibbons fue probablemente el primero en convertir esta técnica en una parte importante de su set.": {
   "ch": 17,
@@ -3762,6 +3942,12 @@ window.ANOCHE_REFS = {
   "sec": "El éxtasis",
   "para": "Como droga psicoactiva que trataba rupturas matrimoniales y el síndrome postraumático de los soldados, era una opción poco habitual como estupefaciente de las pistas de baile. Pero el efecto que tenía en grupos y no solo en individuos la convirtió en algo sin precedentes. No importa cómo la llamaran —cápsulas, cálices rosados, hamburguesas blancas, ruibarbos o natillas—, si era MDMA de verdad, te hacía sentir profundamente cómodo contigo mismo, seguido de un deseo de compañía. En un salón repleto de consumidores, las sonrisas se volvían contagiosas, y uno confiaba en que todos compartieran el mismo ánimo. El éxtasis parecía concebido para la fiesta. En el texto de Push y Mireille Silcott, The Book Of E, el distribuidor de discos Nick Spiers relata el momento en que todo cobró sentido para él: «Con el éxtasis, uno sentía que se convertía en un engranaje en esta gran rueda del salón entero en donde uno estaba, era cuestión de energía agitada, uno se convertía en parte de un todo, se dejaba llevar por la experiencia. De eso se trataba el acid house»."
  },
+ "y así nació el cliché rave de las casas de saltos».": {
+  "ch": 18,
+  "page": 749,
+  "sec": "Las raves",
+  "para": "«El dueño del lugar manifestó que esa fue la mejor noche de su vida —recuerda el fundador del Boy Own, Terry Farley—. Estaba sentado allí a eso de las seis de la mañana, tocando la guitarra mientras Boy George cantaba Karma Chameleon. Dispuesto a usar el enorme jardín, uno de los de Boy Own, Cymon Eckel, había sugerido un hinchable de feria: y así nació el cliché rave de las casas de saltos»."
+ },
  "y que el house aceptaba, que no rechazaba, el aspecto gay del disco y sus compases de «cuatro explosiones en el bombo».": {
   "ch": 12,
   "page": 490,
@@ -3779,6 +3965,12 @@ window.ANOCHE_REFS = {
   "page": 658,
   "sec": "Acid Jazz",
   "para": "«Debo admitirlo —confiesa Gilles—. Sí era requisito tomarse un éxtasis para ver de qué se trataba todo aquello. ¡El jazz no ha vuelto a sonar igual desde entonces!»."
+ },
+ "¡Las raves eran una estafa! ¡Administrados por gánsteres! ¡Están repletas de tontos!».": {
+  "ch": 18,
+  "page": 755,
+  "sec": "Los delincuentes del baile",
+  "para": "Mientras tanto, las cosas no tardaron mucho en dar un giro amargo. Algunos de los aficionados a los clubs baleares habían visto raves como una forma burda de enriquecerse desde que comenzaron. «Odié toda esa mierda de las raves extramuros de la M25 —tronó Nick Spiers, del círculo del Shoom—. Era demasiado grande, demasiado impersonal. ¡Las raves eran una estafa! ¡Administrados por gánsteres! ¡Están repletas de tontos!»."
  },
  "¡Recuerdo haber tenido sexo allí un par de veces!».": {
   "ch": 11,
@@ -3809,6 +4001,12 @@ window.ANOCHE_REFS = {
   "page": 667,
   "sec": "La ruta Jamaica–Reino Unido",
   "para": "«Abandonamos la escena radical cuando se convirtió en lover’s rock, cuando los británicos comenzaron a crear su propia música —dice Jazzie B de Soul II Soul—. Había chicas en esas fiestas, cuando nunca había chicas en estas cosas». Las únicas mujeres de la escena reggae tradicional eran duras como piedras. «Te topabas con ellas y no era inusual que te apuñalaran a la mínima. Y te cortaban ellas, no sus novios». Pero el lover’s rock, repleto de voces de niñas, lo cambió todo drásticamente. «Aportaba esa calma y afabilidad a la música de nuevo. Además, era un estilo de música inglés, y los chicos fieles al reggae tradicional no podían soportarlo, porque no era jamaicano»."
+ },
+ "«Abrir las puertas para todo el mundo se convirtió en mi misión de vida": {
+  "ch": 18,
+  "page": 750,
+  "sec": "Las raves",
+  "para": "Pronto se celebraron eventos más grandes gracias al maravilloso capitalista Tony Colston-Hayter. «Abrir las puertas para todo el mundo se convirtió en mi misión de vida —declaró para el libro Adventures In Wonderland, de Sheryl Garratt—. Boys Own y Shoom querían guardarse el secreto para ellos mismos, pero nosotros queríamos ofrecerlo a todo el mundo». Después de acumular un pastizal con una compañía de videojuegos, y tras un breve paréntesis como crupier, en 1988 comenzó a organizar fiestas en naves industriales, incluida una en la tierra baldía de Greenwich (donde se grabaron las escenas de guerra de La chaqueta metálica; ahora sede del Millenial Dome), y varias en Wembley Studios, a las que él llamó Apocalypse Now. Pero después de las primeras coberturas negativas por parte de la prensa —un periódico del grupo Sun publicó un artículo sobre los distribuidores de «ácido» de Spectrum y el informativo ITN emitió un reportaje del «infierno de las drogas»—, que resultaron en una redada policial durante su fiesta en Greenwich, Colston-Hayter decidió trasladarse al campo."
  },
  "«Agarraban el dinero y huían con él —insiste Farley": {
   "ch": 12,
@@ -4044,6 +4242,18 @@ window.ANOCHE_REFS = {
   "sec": "Todos están invitados",
   "para": "«El house fue la primera vez que estas barreras se derribaron —dice Terry Farley—. De repente, uno hablaba con personas de otras clases sociales y no importaba si eran del norte o la ropa que llevaban puesta». La juventud británica arrastraba una tradición antigua de construir su identidad por medio de la confrontación: eras roquero o mod, del Liverpool o el Everton, blanco o negro, gay o hétero, punk o cabeza rapada, pero el acid house era distinto. No tenía un movimiento juvenil que se le opusiera. Dejaba que las personas se definieran a sí mismas por sus similitudes en vez de por sus diferencias."
  },
+ "«El house ha muerto; el tecno vive», decían sus camisetas en lengua inglesa.": {
+  "ch": 18,
+  "page": 760,
+  "sec": "Las raves en Estados Unidos",
+  "para": "Irónicamente, los pioneros del house y el tecno tuvieron poco que ver con el movimiento rave estadounidense. La propagación del house en los suburbios de Estados Unidos estuvo a cargo inicialmente de DJ estadounidenses anglófilos y británicos expatriados que, tras haber experimentado el acid house en el Reino Unido, lo llevaron al otro lado del charco. En la Costa Oeste, Los Ángeles y San Francisco contaban con un incipiente calendario de fiestas. El clima y la geografía propiciaron eventos al aire libre y había tradiciones psicodélicas itinerantes a las que agarrarse. En el este, las raves comenzaron en los suburbios de Nueva York a medida que los chicos blancos y heteros de los distritos cruzaban el puente y el túnel para volverse locos con el tecno cargado de testosterona. He aquí una música bailable a la que le habían extirpado cualquier resquicio de vínculos gais; Mikey y Vinnie podían bailar slamdancing sin parecer dos maricones. «El house ha muerto; el tecno vive», decían sus camisetas en lengua inglesa."
+ },
+ "«El house trajo cambios. Todos lo hemos visto. Cambia a las personas.": {
+  "ch": 18,
+  "page": 779,
+  "sec": "¿Fuera de la ley?",
+  "para": "…un mensaje con su música, y aunque hoy las ideas que propagaron —de amor, tolerancia e igualdad— podrían sonar banales después de tanta repetición, muchos las recuerdan como una fuerza potente y tangible cuando el racismo y la homofobia las hicieron urgentemente necesarias. El hip-hop, la voz desafiante de los Estados Unidos afrodescendientes, consumido con tanto entusiasmo por la juventud blanca, ha tenido una intención sociopolítica evidente desde que el DJ le dijo a su MC que rapeara de algo que no fuera solo fiesta. Y cuando sacaron partido del poder de la acción colectiva para crear ciudades enteras de caritas felices, los DJ del acid house estaban cambiando la perspectiva de la gente para siempre. Leslie Lawrence considera que el acid house tiene el poder indudable de cambiar vidas: «El house trajo cambios. Todos lo hemos visto. Cambia a las personas. ¿Por qué alguien en el poder apoyaría algo que cambia a la gente? Sobre todo, la"
+ },
  "«El new beat es una reacción al disco. Carece completamente de soul: es una música estéril creada para bailar y nada más»": {
   "ch": 14,
   "page": 569,
@@ -4055,6 +4265,12 @@ window.ANOCHE_REFS = {
   "page": 508,
   "sec": "Cybotron",
   "para": "Juan dejó a un lado el bajo a medida que lo atrajo el sintetizador. Sus sonidos inquietantes dialogaban con su enajenación adolescente, y aportaron a sus melodías una seriedad llamativa. Él mismo admite que la tecnología era una prioridad absoluta. «El sintetizador era el catalizador principal. Uno toca con un sintetizador, hay ciertas cosas que uno escucha en la máquina: te incitará a llevar a cabo ciertas cosas. Especialmente si uno crea todos los compases y ritmos con esa misma máquina»."
+ },
+ "«El tecno y el drum and bass están más dispuestos a tener mujeres DJ —plantea DJ Cosmo, de Nueva York—.": {
+  "ch": 18,
+  "page": 772,
+  "sec": "Mujeres DJ",
+  "para": "Sin embargo, se puede argumentar que fue la llegada del acid house al Reino Unido, con su espíritu igualitario, lo que más ayudó a exhortar a las mujeres a que abordaran el arte del DJ en términos serios. Lisa Loud y Nancy Noise, Smokin’ Jo, Sister Bliss y Rachel Auburn fueron la punta de lanza. La revolución del acid house dejó a los géneros que siguieron con menos prejuicios arraigados y menos barreras sexuales. «El tecno y el drum and bass están más dispuestos a tener mujeres DJ —plantea DJ Cosmo, de Nueva York—. Estas chicas crecieron con ordenadores y efectos electrónicos, así que no había mucho problema para ellas». En consecuencia, el drum and bass nos dio a Kemistry & Storm y a DJ Rap, quien renunció a su trabajo cotidiano como modelo topless y se convirtió en la primera productora de drum and bass contratada por un sello principal. De manera admirable (además de una foto de carátula de disco despampanante), pasó de cualquier intento por usar su pasada carrera como artimaña de promoción. En Estados Unidos, el tecno engendró sus propias estrellas, con DJ Moneypenny como elemento fijo en el Nueva York de finales de los ochenta, y el dúo feroz de Teri Bristol y Psychobitch en Chicago. Más recientemente, la escena del garage británico produjo su tajada de talento femenino, con Donna Dee y DJ Touch, y el hard house crio estrellas como Lisa Lashes, Lisa Pin-Up y Anne Savage. «Las cosas están cambiando —afirma Cosmo—. No es problema ser una mujer DJ y me parece que eso es genial. Cuantas menos personas me pregunten al respecto, mejor»."
  },
  "«El tema I Love Music de los O’Jays realmente abrió las puertas a nuevos sencillos», dice Kev Roberts.": {
   "ch": 4,
@@ -4103,6 +4319,12 @@ window.ANOCHE_REFS = {
   "page": 18,
   "sec": "El arte de ser DJ",
   "para": "David Mancuso, padre putativo del disco, siempre ha sostenido, a capa y espada, que ningún DJ es mejor que su público. Su idea del DJ es que este es intérprete y oyente a un tiempo. En su visión, el DJ debe ser «una persona modesta, que desconecta el ego y respeta la música, y está ahí para que siga su curso: para participar». En las mejores noches, dice, el DJ se siente como un conducto de las emociones que lo rodean: completa el ciclo entre los bailarines y la música. «Es una situación única en la que la gente forma parte de la escenografía de la música que suene en ese momento». En esta relación, el DJ es tan parte del público como los bailarines. «En esencia, uno tiene un pie en la pista de baile y otro en la cabina»."
+ },
+ "«En las primerísimas fiestas se consumía ácido; eso es lo que la gente tomaba —recuerda Cook—.": {
+  "ch": 18,
+  "page": 762,
+  "sec": "Las raves en Estados Unidos",
+  "para": "El evento Sextasy dio paso a fiestas mucho más grandes en lofts y almacenes abandonados en la parte sureste del centro de Los Ángeles, un vecindario conocido por su falta de policías. Los promotores organizaban «puntos de mapas», donde los asistentes podían comprar las direcciones para llegar al lugar, el coste de la entrada al evento, efectivamente. Otras noches de mucho consumo de drogas se organizaron en las casas lujosas de los acantilados de Malibú, alquiladas irregularmente por agentes inmobiliarios sumamente listos. La cosa creció aún más cuando el 16 de junio de 1989, Enis y Cook celebraron la primera de seis fiestas pioneras que ellos llamaron Alice’s House. Unas mil personas se reunieron en una sala gigante de un centro comunitario llamado La Casa. «Era sumamente diversa. Al principio, en Los Ángeles, la mitad era gay y la otra era hetero. Un público verdaderamente artistoide y muchos jóvenes latinos». El éxtasis aún no estaba disponible y muchos aficionados a los clubs se tomaron eso del «ácido» en el nombre acid house muy a pecho. «En las primerísimas fiestas se consumía ácido; eso es lo que la gente tomaba —recuerda Cook—. Habían oído hablar del acid house y pensaron que se suponía que debían tomar ácido». También había una «habitación de pinturas» con luces ultravioleta y pintura fluorescente. «A las cuatro de la madrugada, todos en la fiesta, lo quisieran o no, tenían la cara y la ropa manchadas de pintura»."
  },
  "«En realidad sí eran lecciones —dice Black": {
   "ch": 17,
@@ -4206,6 +4428,12 @@ window.ANOCHE_REFS = {
   "sec": "El sonido Shut Up And Dance",
   "para": "En 1982, PJ (Philip Johnson), Smiley (Carl Hymans) y DJ Hype (Kevin Ford) juntaron el equipo suficiente para celebrar su primera fiesta en la nave de una iglesia cerca de la rotonda de Lea Bridge, en Stoke Newington. «Uno debía tener un sistema de sonido. En aquel entonces, con una grabadora no era suficiente. Uno tenía que estar equipado si la gente te iba a escuchar, tomarte en serio». Pinchando reggae, dub y un poco de soul con un solo plato, siguieron de cerca las tradiciones de las fiestas de blue con las que habían crecido: «Estoy seguro de que me concibieron en una fiesta de blue —farfulla Smiley—. Es la vida misma, esto del sonido. Uno lo tiene que vivir»."
  },
+ "«Estábamos subidos a un andamio de seis metros que se tambaleaba, tocando Strings Of Life, en medio de la noche, y todos se volvían locos.": {
+  "ch": 18,
+  "page": 752,
+  "sec": "Las raves",
+  "para": "«Estábamos subidos a un andamio de seis metros que se tambaleaba, tocando Strings Of Life, en medio de la noche, y todos se volvían locos. Luego paré y la puse de nuevo desde el inicio. Las luces láser disparaban en todas direcciones, y todos tenían las manos arriba. Había probablemente cinco mil personas allí. Fue maravilloso»."
+ },
  "«Farmer Carl era el DJ al que todos consideraban un dios», declara Levine.": {
   "ch": 4,
   "page": 135,
@@ -4241,6 +4469,12 @@ window.ANOCHE_REFS = {
   "page": 561,
   "sec": "Alfredo en el Amnesia",
   "para": "Para cuando llegó la temporada de 1987, el éxtasis cobraba presencia en las pistas de baile ibicencas. Junto con los ritmos baleares de Alfredo en la noche estrellada y cálida, era irresistible. No es sorprendente, entonces, que cuando Fung compartía la experiencia con tres de sus amigos DJ de Londres —Paul Oakenfold, Danny Rampling y Johhny Walker—, estos concentraran sus energías en intentar recrear este tipo de dinámica de club despreocupada allá en casa. Sus noches en el Amnesia proporcionarían al acid house con un mito fundacional. «Fuimos allí cada noche durante una semana —dice Walker sonriente—. No podíamos parar»."
+ },
+ "«Ha tenido un efecto escalofriante —dice Bill Piper": {
+  "ch": 18,
+  "page": 769,
+  "sec": "La legislación estadounidense en contra de las raves",
+  "para": "El efecto fue la paralización del movimiento del baile. «Ha tenido un efecto escalofriante —dice Bill Piper, de la Alianza por una Política de Drogas, un grupo de presión que aboga por un enfoque más racional para la legislación antidrogas—. Muchos promotores han dicho: “No vamos a celebrar más eventos con música electrónica; produciremos otros tipos de eventos”. La gente iba a los clubs de baile para encontrarse con que se habían prohibido los palitos fluorescentes. No se podía bailar con ellos porque los dueños del espacio temían que ese acto constituyera una rave y pudiera provocar su arresto»."
  },
  "«Había literalmente cuatro negros en el lugar y ese era el cupo».": {
   "ch": 15,
@@ -4356,6 +4590,12 @@ window.ANOCHE_REFS = {
   "sec": "El garage británico",
   "para": "Si la separación original con el hardcore tenía que ver con que la música se inclinaba en una dirección demasiado estadounidense, el siguiente paso era regresar al bajo británico. Algunos DJ comenzaron a favorecer grabaciones con agudos más nítidos, una percusión más intrincada y líneas de bajo más fuertes: la misma dinámica con la que se impulsaba el drum and bass. También hubo, como Timmi lo explica, una aceleración del tempo. «La mayoría de los DJ estadounidenses tocaban la mezcla de la voz, pero nosotros girábamos el disco y tocábamos la mezcla de la pista y acelerábamos un poco el tono». Al poner la pista sin voz, se evitaba el efecto de voz de ardilla que resulta de acelerar la voz, además de que daba espacio para que un MC se cascara sus rimas."
  },
+ "«La mayoría de los DJ no tienen ni un pelo de subversivos; son extremadamente convencionales —afirma Jonathan More de Coldcut—": {
+  "ch": 18,
+  "page": 781,
+  "sec": "¿Fuera de la ley?",
+  "para": "«La mayoría de los DJ no tienen ni un pelo de subversivos; son extremadamente convencionales —afirma Jonathan More de Coldcut—, porque el sistema ha incorporado el ser DJ como una herramienta, así como a todo lo demás». Por lo tanto, mientras que al arte de ser DJ tiene una rica historia de subversión, hay fuerzas que llevan al DJ en otra dirección. Algunos de los revolucionarios musicales más emocionantes acabaron siendo unos viejetes aburridos. Una vez prueban el éxito, se contentan con que el mainstream los agarre y los utilice para convertir a las masas."
+ },
  "«La música del Garage era una forma de saltarse las reglas —dice DJ Danny Krivit": {
   "ch": 11,
   "page": 443,
@@ -4446,6 +4686,12 @@ window.ANOCHE_REFS = {
   "sec": "Greg James en el Embassy",
   "para": "«Los malos hábitos estadounidenses no pegarán aquí —decía indignado Robbie Vincent, uno de los mejores DJ del país, mejor conocido por su música jazz-funk—. La gente en el Reino Unido no quiere escuchar tres horas sólidas de música idéntica»."
  },
+ "«Luego uno se da cuenta de que está tocando ante unas veinte mil personas y que te están pagando cien libras».": {
+  "ch": 18,
+  "page": 757,
+  "sec": "Los delincuentes del baile",
+  "para": "Para muchos hubo una señal de alerta. DJ Steve Bicknell, quien pinchó en el Energy, estaba tan embebido en el idealismo que emanaba de la escena que no pensaba mucho en el dinero. «Luego uno se da cuenta de que está tocando ante unas veinte mil personas y que te están pagando cien libras». Para algunos, la dura realidad comercial se manifestó mucho antes. En una fiesta de Energy en la M25 en 1989, Bicknell recuerda ver a Paul Oakenfold. «Miraba su reloj, era hora de que terminara y al otro DJ no se le veía por ningún lado. Yo me hubiera quedado allí y hubiera seguido tocando, pero él agarró el teléfono, renegoció su contrato y continuó»."
+ },
  "«Manipular el sonido usando solo las manos es como un milagro —insiste DJ Q-Bert": {
   "ch": 10,
   "page": 409,
@@ -4505,6 +4751,12 @@ window.ANOCHE_REFS = {
   "page": 209,
   "sec": "Técnicas revolucionarias",
   "para": "«Nadie mezclaba como yo —alardea—. Nadie estaba dispuesto a quedarse por mucho tiempo. Porque si uno quería quedarse por mucho tiempo, las probabilidades de cometer errores son mucho mayores. Pero, para mí, era absolutamente natural. Era como pasear al perro»."
+ },
+ "«Nadie quiere a las estaciones de pop piratas, salvo los radioyentes», escribió el Daily Sketch en 1965.": {
+  "ch": 18,
+  "page": 776,
+  "sec": "Las radios piratas",
+  "para": "Sin embargo, la más famosa de todas fue Radio Caroline, una estación que emitía en un barco y que fue lanzada en 1964 por el extravagante irlandés Ronan O’Rahilly, quien antes había administrado el Scene Club en Soho. La demanda no atendida de una estación de radio era tal que Caroline recibió 20 000 cartas de fanáticos al cabo de diez días de su primera emisión, y a las tres semanas contaba con siete millones de radioyentes. Un espectro de estaciones imitadoras apareció después, entre ellas Sutch, 390, England, Britain, 270, Scotland y la principal competidora de Caroline, Radio London. «Nadie quiere a las estaciones de pop piratas, salvo los radioyentes», escribió el Daily Sketch en 1965."
  },
  "«Ni siquiera sabíamos que lo estábamos pinchando —admite Moore": {
   "ch": 15,
@@ -4698,6 +4950,12 @@ window.ANOCHE_REFS = {
   "sec": "El Londres gay",
   "para": "Moore —quien como S-Express (con la vocalista Sonique) luego produciría una de las primeras grabaciones de house del Reino Unido— se esforzaba mucho por conseguir más grabaciones de Chicago y se dedicó a dar a conocer el house. «Tenía una misión porque la mayoría de las personas odiaban la música house y todo era rare groove y hip-hop. Y mis amigos me decían: “¿Por qué sigues tocando la música house esa?”. Solía tocar Strings Of Life en el Mud Club y la pista se vaciaba. Tres semanas después, uno podía ver mogollón de personas en la pista, bailando y volviéndose locos, y eso que no habían consumido éxtasis. Resulta que eran personas como DJ Harvey, personas así». Moore usaba Al-Naafiysh de Hashim, una grabación electro de tempo rápido, como una forma de engañar a los chicos a que bailaran el house. Disfrutaba de estos triunfos menores, pero durante mucho tiempo pinchar house no fue muy reconfortante. «Recuerdo pensar muchas veces: “Esto requiere mucho esfuerzo; ¡espero que nadie me dispare!”»."
  },
+ "«Rompimos muchas barreras al principio de la música house —dice Danny Rampling—. Acabó con todo. Derribó las murallas».": {
+  "ch": 18,
+  "page": 745,
+  "sec": "Las raves",
+  "para": "«Rompimos muchas barreras al principio de la música house —dice Danny Rampling—. Acabó con todo. Derribó las murallas». Disyoqueando en su club de acid house Shoom, Rampling tenía la impresión de que él y sus amigos habían creado una comunidad alternativa, independiente del mundo externo."
+ },
  "«Sabía que iba a ser un éxito porque era tan amanerada": {
   "ch": 8,
   "page": 314,
@@ -4746,6 +5004,12 @@ window.ANOCHE_REFS = {
   "sec": "Disco friki",
   "para": "«Si pudieras ver mi colección, verías que me gusta todo tipo de música, pensarías que pertenece a cuatro DJ distintos —explica—. Y por esta razón, me vi tomando cosas de aquí, de allá (reggae, pop, disco, jazz, blues) y usando muchas cosas como base»."
  },
+ "«Si te ofrecen un pastel, pues no lo aceptes», recomendó una vez en el programa televisivo de sátira periodística «Brass Eye»": {
+  "ch": 18,
+  "page": 759,
+  "sec": "El interés del alcohol",
+  "para": "Los grupos de presión británicos financiados por la industria de las bebidas alcohólicas sin duda son lo suficientemente fuertes como para lograr lo que se proponen. En algún momento, el Club Cervecero Parlamentario ostentaba una membresía de 330 en Westminster, todos interesados en proteger los intereses de las cerveceras y destiladoras de la nación. Fueron quienes más se beneficiarían cuando el Departamento de Salud incrementó la cantidad recomendada de alcohol semanal por un tercio, como lo hizo en 1995, a pesar de las protestas de los médicos profesionales. Pero quizá se tratara de la obsesión de Bright por denunciar las drogas ilegales. «Si te ofrecen un pastel, pues no lo aceptes», recomendó una vez en el programa televisivo de sátira periodística «Brass Eye», luego de que le dijeran que una droga nueva (y ficticia) estaba arrasando la nación."
+ },
  "«Si uno no traía lo nuevo, pinchaba la misma mierda y se convertiría en una estampa para el recuerdo —argumenta": {
   "ch": 10,
   "page": 421,
@@ -4769,6 +5033,12 @@ window.ANOCHE_REFS = {
   "page": 710,
   "sec": "El dubstep",
   "para": "Otro componente clave en el desarrollo del dubstep fue Rinse FM, una estación pirata del sur de Londres en la que Hatcha tenía un programa. Siguiendo el ejemplo exitoso de una pionera emisora pirata, Kiss FM, en el camino a la respetabilidad legal, Rinse comenzó a emitir tan temprano como en 1994, pero cuando Sarah Soulja Lockhart se unió a ellos la década siguiente, fueron la visión y el empuje de ella y de su compañero Geeneus lo que los catapultó hacia la legalidad con una licencia comunitaria de FM desde 2010. Este dúo también estaba detrás del evento nocturno FWD>>, el crisol del dubstep, convirtiéndolos en una fuerza vital para el auge del género. Como explica Artwork en una entrevista para RBMA: «Sin ese club ni esa estación de radio todavía estaríamos en una tiendecita de discos con algunos amigos pasando el rato»."
+ },
+ "«Sin las estaciones piratas no creo que hubiera habido nada. Todo el mundo detestaba el hardcore.": {
+  "ch": 18,
+  "page": 778,
+  "sec": "Las radios piratas",
+  "para": "En años recientes, las estaciones piratas han sido claves para la música underground. El jungle y el garage británico evolucionaron tanto en las ondas como en los clubs. Dave Stone, del sello de jungle SOUR, así lo ve también: «Sin las estaciones piratas no creo que hubiera habido nada. Todo el mundo detestaba el hardcore. Las estaciones piratas se formaron para satisfacer la necesidad natural de las personas para escuchar esta música». Y a pesar de que las sanciones aumentaban, las estaciones piratas seguían siendo una fuerza considerable. Este medio fuera de la ley ha definido la manera en que la música directamente urbana se propagó por el mundo entero. Cuando la BBC lanzó 1Xtra, una estación para cubrir el garage, el grime y el hip-hop británico, tomó su imagen y estilo de transmitir tal cual, sin mencionar a todos los DJ de las estaciones piratas, igual que Radio One en 1967."
  },
  "«Soy la persona que diseñó la forma moderna de pasar la noche —declaró—. Soy la primera y única Reina de la Noche».": {
   "ch": 3,
@@ -4872,6 +5142,12 @@ window.ANOCHE_REFS = {
   "sec": "La remezcla comercial",
   "para": "Al final de la explosión del acid house, hubo una gran demanda para contratar los servicios de remezcladores británicos como Darren Emerson, Justin Robertson, Terry Farley y Andy Weatherall, debido a su habilidad para empujar las guitarras en la dirección del DJ. El remezclador era una parte intrínseca de la explosión «Madchester» del rock bailable, con Paul Oakenfold y otros que convirtieron combinaciones de ritmos desastrosos en un tesoro de la pista de baile. En i-D, Weatherall resume la función del remezclador como «un miembro externo de la banda». Explicó cómo lo valioso del remezclador es su conocimiento musical: «Uno no sabe tocar un instrumento, uno tiene una gran colección de discos, y eso es lo que uno aporta»."
  },
+ "«Uno puede unirse al club o puede quedarse fuera y mandarlos a la mierda —añade More—. Todo depende de qué tipo de DJ quieres ser».": {
+  "ch": 18,
+  "page": 781,
+  "sec": "¿Fuera de la ley?",
+  "para": "«Uno puede unirse al club o puede quedarse fuera y mandarlos a la mierda —añade More—. Todo depende de qué tipo de DJ quieres ser»."
+ },
  "«Y qué chicas eran.": {
   "ch": 16,
   "page": 703,
@@ -4914,6 +5190,12 @@ window.ANOCHE_REFS = {
   "sec": "BRYLLYANT",
   "para": "El balear es Flesh, de A Split Second, tocada a una velocidad equivocada para convertirla de un industrial gótico a un proto-house profundo; es la fusión indie de la guitarra de The Woodentops insuflando energía a las glamurosas drag queens al aire libre en Amnesia; o grabaciones alucinantes de Klaus Schulze rociadas sobre chicos hasta arriba de heroína en la ribera de un hermoso lago italiano. El balear invoca la vulnerabilidad de las vacaciones que uno recibe de la arena caliente entre los dedos de los pies y el horizonte de olas cristalinas. Es importante destacar que el balear es más una actitud para con la música que un estilo o ubicación específica. O como dijo Frank Tope, reseñador de la música bailable, «es música pop que suena bien cuando uno consume pastillas»."
  },
+ "«sonidos que total o parcialmente se caracterizan por la sucesión de ritmos repetitivos»": {
+  "ch": 18,
+  "page": 755,
+  "sec": "Los delincuentes del baile",
+  "para": "Estas acciones unieron a los delincuentes más que nunca. Los viajeros, piquetes y manifestantes de todo tipo se convirtieron en el objetivo de una sola pieza de legislación. Aunque el Advance Party, una coalición de sistemas de sonido y grupos a favor de los derechos civiles, hicieron todo lo posible para frenar el proyecto, la ley se aprobó en 1994. La CJA era única porque era la primera vez en Gran Bretaña que se restringía la música pop de una cultura juvenil. El hecho de que la ley se viera obligada a definir el house y el tecno, con una tipificación memorable, tal que así: «sonidos que total o parcialmente se caracterizan por la sucesión de ritmos repetitivos», demuestra el grado de seriedad con que el Gobierno consideraba la cultura del baile, con su combinación de música, droga y manadas de gente lujuriosa. He aquí un movimiento masivo sobre el que no tenían control."
+ },
  "«todo el público se fue con él.": {
   "ch": 6,
   "page": 245,
@@ -4925,6 +5207,12 @@ window.ANOCHE_REFS = {
   "page": 183,
   "sec": "Versión",
   "para": "Todas las formas del reggae se basan en la idea de reciclar o citar los ritmos favoritos, que ellos llaman riddims [una variante regional de la palabra inglesa para ritmo: rhythm], como se conoce a estos patrones familiares de bajo y percusión en estas pistas recicladas. Estos patrones se pueden copiar (o convertirse en versiones) en cientos de discos diferentes. Muchos son tan conocidos que tienen nombres propios (que suelen responder a su onomatopeya en inglés): «Death In The Arena», «Waterpumping» y «Shank-I-Sheck» son tres de los más conocidos. Muchos ritmos tienen sus orígenes, como cabía esperar, en Estados Unidos. Un ejemplo asombroso, «Death In The Arena», puede oírse literalmente en cientos de grabaciones (entre ellas, por ejemplo, The Champion Version de King Tubby) y se remontan a la línea de bajo que usó el baterista Bernard Purdey en su tema de 1968 Funky Donkey. Cuando aparece un nuevo ritmo adaptado, las salas de baile lo ponen durante un mes o dos, hasta que aparece la siguiente línea de bajo seductora. Su existencia multiplicadora y próspera es la prueba, como señala el productor jamaicano Dermott Hussey, de que «uno puede tener los derechos de autor de una canción, pero no puedes tener los derechos de un ritmo adaptado». (Sea como fuere, en Jamaica no se prestaba excesiva atención al respeto escrupuloso por los derechos de autor)."
+ },
+ "«¡PERDIDOS EN EL ESPACIO! ONCE MIL JÓVENES SE VUELVEN LOCOS CON LAS DROGAS EN LA FIESTA DE ACID HOUSE MÁS GRANDE DE GRAN BRETAÑA. »": {
+  "ch": 18,
+  "page": 751,
+  "sec": "Las raves",
+  "para": "«¡PERDIDOS EN EL ESPACIO! ONCE MIL JÓVENES SE VUELVEN LOCOS CON LAS DROGAS EN LA FIESTA DE ACID HOUSE MÁS GRANDE DE GRAN BRETAÑA. »"
  },
  "«¿Cómo se puede criticar esta música estando sentado?».": {
   "ch": 7,
@@ -4962,6 +5250,12 @@ window.ANOCHE_REFS = {
   "sec": "Habilidad para pagar las facturas",
   "para": "¿Así que tu madre inventó el scratching?"
  },
+ "¿Cuál fue el arresto más masivo de la historia británica?": {
+  "ch": 18,
+  "page": 743,
+  "sec": "RENEGADE SNARES (CAJAS RENEGADAS)",
+  "para": "¿Cuál fue el arresto más masivo de la historia británica? No fueron mineros en huelga, ni protestantes contra el impuesto al sufragio, sino un montón de ravers atónitos, víctimas de la Ley Bright, la primera ley aprobada contra la cultura del dance. En 1990, la policía acorraló violentamente a unos 836 aficionados a los clubs en una nave de Leeds y los sacó de allí en una flota de autobuses contratados para ese propósito. Hubo muchos heridos, pero se formularon acusaciones a solo diecisiete de ellos. El DJ, Rob Tissera, por haber alentado a los bailarines a atrancar las puertas y seguir bailando, fue encarcelado tres meses."
+ },
  "¿Cuánto tienes que cambiar antes de que el resultado sea trabajo tuyo y ya no sea una creación de otro?": {
   "ch": 17,
   "page": 723,
@@ -4973,6 +5267,12 @@ window.ANOCHE_REFS = {
   "page": 664,
   "sec": "KEEP ON MOVING (SIGUE MOVIÉNDOTE)",
   "para": "¿De dónde proviene este gen malvado que distingue la música británica?"
+ },
+ "¿Libertad? ¿Libertad de expresión? ¿Dónde quedó todo eso?": {
+  "ch": 18,
+  "page": 770,
+  "sec": "La legislación estadounidense en contra de las raves",
+  "para": "¿Libertad? ¿Libertad de expresión? ¿Dónde quedó todo eso?"
  },
  "¿Por qué no, sugieren, llamarla la «Ciudad del Tecno»?": {
   "ch": 13,
@@ -4997,5 +5297,11 @@ window.ANOCHE_REFS = {
   "page": 730,
   "sec": "Double Dee & Steinski",
   "para": "«Seis semanas después —recuerda Stein—, después de una reunión en la agencia, mi secretaria dice: “Eh, Tommy Boy acaba de llamar, Tommy Boy en persona”. Y le digo: “Sí, ¿para qué?”. “Ganasteis el concurso”. “¿Ganamos?”»."
+ },
+ "“No practicamos eso de trabajar de nueve a cinco. Somos criminales”».": {
+  "ch": 18,
+  "page": 745,
+  "sec": "Las raves",
+  "para": "«Uno se sentía como un rebelde de regreso a casa, con tu camiseta teñida, empapado en sudor, entrando en una gasolinera con los pies descalzos. Uno realmente se sentía como un forastero». Para el DJ y pionero del drum and bass Fabio, la música house proveyó una alternativa firme a las realidades sombrías de la nación. «Nos sentíamos contentos de no formar parte de la Gran Bretaña de Thatcher. Decíamos: “¡A la mierda la Thatcher! ¡A la mierda los Tories! No tenemos nada que ver con vosotros”. Andábamos por ahí con las bandanas en nuestras cabezas, bailando en la calle. “No practicamos eso de trabajar de nueve a cinco. Somos criminales”»."
  }
 };
